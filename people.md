@@ -32,6 +32,9 @@ group: navigation
 * [Ken Friis Larsen](http://www.diku.dk/~kflarsen), Associate
   Professor, Department of Computer Science, University of Copenhagen.
 
+* [Marcos Vaz Salles](http://www.diku.dk/~vmarcos), Assistant
+  Professor, Department of Computer Science, University of Copenhagen.
+
 * [Martin Dybdal](http://www.linkedin.com/in/martindybdal), PhD
   Student, Department of Computer Science, University of Copenhagen.
 
