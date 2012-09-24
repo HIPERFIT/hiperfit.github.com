@@ -32,8 +32,8 @@ group: navigation
 * [Ken Friis Larsen](http://www.diku.dk/~kflarsen), Associate
   Professor, Department of Computer Science, University of Copenhagen.
 
-* Martin Dybdahl, PhD Student, Department of Computer Science,
-  University of Copenhagen.
+* [Martin Dybdal](http://www.linkedin.com/in/martindybdal), PhD
+  Student, Department of Computer Science, University of Copenhagen.
 
 ### Functional Parallel Programming
 
@@ -50,6 +50,10 @@ group: navigation
 
 * [Cosmin Oancea](http://www.diku.dk/~zgh600), Postdoc, Department of
   Computer Science, University of Copenhagen.
+
+* [Frederik Meisner Madsen](http://www.linkedin.com/in/frederikmm),
+  PhD Student. Department of Computer Science, University of
+  Copenhagen.
 
 ### High-Performance Systems
 
