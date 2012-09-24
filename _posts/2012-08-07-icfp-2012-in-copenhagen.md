@@ -81,7 +81,7 @@ For more information on ICFP, see
 [http://icfpconference.org](http://icfpconference.org); for more on
 ICFP 2012, see
 [http://icfpconference.org/icfp2012](http://icfpconference.org/icfp2012),
-for more on CUFP, see [cufp.org](cufp.org), for more on ACM, see
+for more on CUFP, see [cufp.org](http://www.cufp.org), for more on ACM, see
 [http://acm.org](http://acm.org), for more on University of
 Copenhagen, see [http://diku.dk](http://diku.dk) (Department of
 Computer Science), and [http://ku.dk](http://ku.dk).
