@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Center for HIgh PERformance computing in Finance IT
+title: Research Center for HIgh PERformance computing in Financial IT
 ---
 {% include JB/setup %}
 
