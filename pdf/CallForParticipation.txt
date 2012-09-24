@@ -1,0 +1,120 @@
+______________________________________________________________________
+
+                        2nd Hiperfit Workshop 2011
+       Mathematical Finance meets Programming Languages and Systems
+
+                         Call for Participation
+
+                          December 1-2, 2011
+                         Copenhagen, Denmark
+
+Information online: http://hiperfit.dk/workshop-12-2011.html
+_______________________________________________________________________
+
+Hiperfit 
+--------
+
+Today, the financial sector faces daunting computational challenges, 
+involving both an increasing demand for performance and higher 
+transparency requirements. In addition, time-to-market is more and 
+more important for financial applications, both by commercial software
+developers and in-house.
+The Hiperfit[1] research center at the University of Copenhagen aims 
+to solve these simultaneous challenges of high transparency, high 
+computational performance and high productivity in an integrated 
+approach of declarative, domain specific and high-level functional
+programming languages.  Hiperfit fosters cooperation between 
+researchers from three different university departments (Computer 
+Science, Mathematics, and Physics), and major industrial partners. 
+Researchers and practicioners contribute cutting edge knowledge from
+their respective fields to bear on computational and algorithmic 
+problems that transcend their own field of expertise.
+
+2nd Hiperfit workshop, December 1st and 2nd , 2011
+--------------------------------------------------
+In view of our interdisciplinary spirit, Hiperfit organises biannual
+workshops to encourage experts' exchange and discussions. Our 2nd 
+workshop, which will take place in Copenhagen on December 1-2, features
+10 invited presentations by our academic partners and invited guests, 
+combined with two special talks (DIKU talk and COPLAS talk series).
+Our eleven speakers are international researchers from the different 
+Hiperfit areas, ranging from modern mathematical finance, via 
+programming language technology and modern approaches to parallel 
+programming, to high-performance systems. Interested researchers and 
+practicioners of all related fields are invited to participate in this
+exciting event in Copenhagen, to meet and discuss with our 
+international speakers and guests.
+
+Organisation and Venue
+----------------------
+The Hiperfit 2011 workshop will be held at the University of Copenhagen,
+North Campus, in the HCO building - next to the Department of Com-
+puter Science (DIKU). A map and travel information can be found on the
+department web pages:
+   http://www.diku.dk/english/contact/findvej_kopi_kopi/
+
+There will be no published proceedings, the meeting is intended to be
+an interdisciplinary forum for discussion and networking. For more in-
+formation, including presentation abstracts and the most recent schedule
+information, please visit the workshop web pages:
+  http://hiperfit.dk/workshop-12-2011.html
+
+Participation is free, but for organisational purposes, a workshop 
+registration is required. To register, please fill out the web form 
+accessible from the workshop pages.
+
+Looking forward to seeing you in Copenhagen!
+Jost Berthold and Fritz Henglein - Hiperfit Research Center
+
+Workshop Programme
+------------------
+Thursday 1st December:
+* Claudio Albanese, Imperial College/Global Valuation Ltd
+  High Throughput Portfolio Processing on Heterogeneous Boards
+
+* Enrico Biffis, Imperial College
+Collateral Flows, Funding Costs, and Counterparty-Risk-
+Neutral Swap Rates
+
+* Don Syme, Microsoft Research Redmond
+Strongly-Typed Programming in the Information Rich World
+
+* Niels Nygaard, University of Chicago
+Optimal Discretization of Random Variables and Option Pricing Using F#
+
+* Satnam Singh, University of Birmingham
+  Data-parallel GPU/FPGA Programming with Accelerator
+
+* Manuel Chakravarty, University of New South Wales
+  Shared Data Structures in Nested Data Parallelism
+
+* Mary Sheeran, Chalmers University of Technology
+  (DIKU talk) Domain-Specific Languages: Past, Present and Future
+
+  Friday 2nd Dec.:
+* Robert Harper, Carnegie-Mellon University
+  On Teaching Parallelism in Introductory CS Courses at CMU
+
+* John Reppy, University of Chicago
+  Portable Parallelism in Diderot
+
+* Clemens Grelck, University of Amsterdam
+  Declarative Array Programming with Single Assignment C
+  - Language Design and Compiler Technology -
+
+* Thomas Neumann, Technical University Munich
+  HyPer-sonic Combined Transaction AND Query Processing
+
+* Robert Harper, Carnegie-Mellon University
+  (COPLAS talk) Canonicity for Two-Dimensional Type Theory
+
+[1]
+Hiperfit is the research center for Functional High-Performance 
+Financial Information Technology at the University of Copenhagen, 
+funded by the Danish Council for strategic research. In cooperation
+with CFIR (Copenhagen Finance IT Region), the center joins researchers
+in mathematical finance, programming languages, and systems, and four
+major Danish banks (Danske Bank, Nordea, Jyske Bank, Nykredit) and 
+two companies in Financial Software (SimCorp, Lexifi). 
+For more information see http://hiperfit.dk.
+

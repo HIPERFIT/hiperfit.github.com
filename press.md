@@ -35,6 +35,6 @@ Articles and Media Online:
   finansforbundet.dk](http://www.finansforbundet.dk/?mId=1008&amp;ArtId=179698).
 
 * [HIPERFIT Information at
-  CFIR](http://www.cfir.dk/Forside/Projekter/HIPERFIT.aspx).
+  CFIR](http://www.cfir.dk/Projekter/HIPERFIT/Pages/HIPERFIT.aspx).
 
 Please also contact the press liaison at [partners](partners.html).
