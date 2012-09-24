@@ -1,7 +1,6 @@
 ---
 title: About
 layout: page
-group: navigation
 ---
 {% include JB/setup %}
 
