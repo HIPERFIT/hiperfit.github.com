@@ -8,7 +8,7 @@ tags: [funding, Bangert research, FinE]
 
 Please find here a quick update and invitation to our HIPERFIT seminar in March, next Tuesday.
 
-The seminar will be held on Tuesday, March 6, 3pm in Mødelokale A/B at DIKU.
+The seminar will be held on Tuesday, March 6, 3pm in MÃ¸delokale A/B at DIKU.
 
 This month, the seminar is dedicated to our additional [SME
 funding](index.php?option=com_content&amp;view=article&amp;id=34).
