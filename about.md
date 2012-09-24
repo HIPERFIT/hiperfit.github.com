@@ -1,7 +1,9 @@
 ---
 title: About
+layout: page
 group: navigation
 ---
+{% include JB/setup %}
 
 Today, the financial sector faces daunting computational challenges,
 involving both an increased demand for performance and increased

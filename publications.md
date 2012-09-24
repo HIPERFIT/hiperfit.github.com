@@ -1,10 +1,10 @@
 ---
 title: Publications
+layout: page
 tags: publications
 group: navigation
 ---
-
-## Research Publications
+{% include JB/setup %}
 
 * Cosmin E. Oancea, Christian Andreetta, Jost Berthold, Alain Frisch,
   and Fritz Henglein. Financial software on GPUs: between
