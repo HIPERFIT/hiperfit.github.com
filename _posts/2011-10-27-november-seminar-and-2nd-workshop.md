@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "November Seminar and 2st workshop"
+title: "November Seminar and 2nd workshop"
 category: news
 tags: [workshops, Kevin Hammond, Parallel Haskell, Paraforming, Mogens Høgh Jensen]
 ---
