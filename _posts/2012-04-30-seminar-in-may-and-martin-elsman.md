@@ -36,10 +36,10 @@ seminar:
 "Does your organization support evaluation and decision-making?"
 
 We might summarise it as "Idiots vs. Game Theorists", but rather use
-Michal's own words: The talk is based on a study [1] of the
+Michal's own words: The talk is based on a study \[1\] of the
 organization and procedures surrounding the evaluation of credit
 applications (in the order of 100 million dollars per year) in a
-Danish bank. The analysis relies on a screening formalism [2], which
+Danish bank. The analysis relies on a screening formalism \[2\], which
 at the heart assumes individuals to be fallible, to examine the impact
 of organizational structure on organizational performance. Recent
 dynamic models explain the remarkable adaptability observed in the
@@ -75,11 +75,11 @@ We are looking forward to seeing you at our May seminar.
 
 Best regards from HIPERFIT
 
-[1] Michael Christensen and Thorbjørn Knudsen. The
+\[1\] Michael Christensen and Thorbjørn Knudsen. The
 Architecture of Knowledge Organization. In _Knowledge
 Governance: Processes and Perspectives (red. Nicolai J. Foss, Snejina
 Michailova; Oxford University Press):47-80_, 2009.
 
-[2] Michael Christensen and Thorbjørn Knudsen. Design of
+\[2\] Michael Christensen and Thorbjørn Knudsen. Design of
 decision-making organizations. In _Management Science, 56(1):71-89_,
 January 2010.
