@@ -10,7 +10,7 @@ partners:
 
 <center>
 
-<table border="0" cellspacing="10">
+<table border="0" cellspacing="10" cellpadding="10">
 <tbody>
 <tr>
 <td style="text-align: justify;"><a href="http://di.ku.dk"><img alt="diku" src="images/partnerlogos/diku.png" height="44" width="214" /></a><br /></td>
