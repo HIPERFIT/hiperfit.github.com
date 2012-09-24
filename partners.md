@@ -10,12 +10,12 @@ partners:
 
 <center>
 
-<table border="0" cellspacing="10" cellpadding="10">
+<table border="0" cellspacing="10" cellpadding="20">
 <tbody>
 <tr>
-<td style="text-align: justify;"><a href="http://di.ku.dk"><img alt="diku" src="images/partnerlogos/diku.png" height="44" width="214" /></a><br /></td>
-<td style="text-align: justify;"><a href="http://math.ku.dk"><img alt="imf" src="images/partnerlogos/imf.png" height="40" width="169" /></a><br /></td>
-<td style="text-align: justify;"><a href="http://www.nbi.ku.dk/"><img alt="nbi" src="images/partnerlogos/nbi.png" height="40" width="169" /></a></td>
+<td><a href="http://di.ku.dk"><img alt="diku" src="images/partnerlogos/diku.png" height="44" width="214" /></a></td>
+<td><a href="http://math.ku.dk"><img alt="imf" src="images/partnerlogos/imf.png" height="40" width="169" /></a></td>
+<td><a href="http://www.nbi.ku.dk/"><img alt="nbi" src="images/partnerlogos/nbi.png" height="40" width="169" /></a></td>
 </tr>
 <tr>
 <td><a href="http://danskebank.dk"><img alt="danskebank" src="images/partnerlogos/danskebank.png" height="40" width="265" /></a></td>
@@ -32,13 +32,15 @@ partners:
 
 </center> 
 
+<a href="http://www.cfir.dk">
 <img style="margin: 10px; float: right;" alt="CFIR"
-src="http://www.cfir.dk/Renderers/ShowMedia.ashx?i=MediaArchive%3a%2fCFIR_logo%2fCFIR%2bEU%2bVF-2.jpg"
-width="150" />
+src="images/partnerlogos/cfir.gif"
+width="150" /></a>
 
 The establishment of HIPERFIT has been encouraged, facilitated and
-supported by the Copenhagen Finance IT Region (CFIR), which will serve
-as the center's liaison with the Danish Bankers Association.
+supported by the [Copenhagen Finance IT Region](http://www.cfir.dk)
+(CFIR), which will serve as the center's liaison with the Danish
+Bankers Association.
 
 The research center welcomes additional partners. Please contact the
 center for enquiries.
