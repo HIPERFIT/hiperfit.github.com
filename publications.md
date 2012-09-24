@@ -41,5 +41,5 @@ group: navigation
   Investment and Consumption Problems. [Online manuscript at
   SSRN](http://ssrn.com/abstract=1794174). March 2011.
 
-* Hiperfit Management. Functional High-Performance Computing for
+* HIPERFIT Management. Functional High-Performance Computing for
   Financial Information Technology. Project Application, 2010.
