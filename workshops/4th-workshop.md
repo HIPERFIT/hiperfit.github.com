@@ -1,5 +1,5 @@
 ---
-title: 4th HIPERFIT Workshop: FHPC'2012
+title: 4th HIPERFIT Workshop (FHPC 2012)
 layout: page
 ---
 {% include JB/setup %}
