@@ -9,8 +9,8 @@ The HIPERFIT Research Center holds biannual workshops to foster
 interdisciplinary cooperation and attract researchers and
 practicioners for future cooperation.
 
-* Sep 2012: Workshop on Functional High-Performance Computing
-  (FHPC'2012). Co-located with
+* Sep 2012: [Workshop on Functional High-Performance Computing
+  (FHPC'2012)](workshops/4th-workshop.html). Co-located with
   [ICFP'2012](http://www.icfpconference.org/icfp2012/) in
   Copenhagen. Organized in part by HIPERFIT.
 

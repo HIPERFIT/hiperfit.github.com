@@ -8,7 +8,7 @@ The fourth HIPERFIT workshop is affiliated with
 [ICFP'2012](http://www.icfpconference.org/icfp2012).
 
 As our fourth workshop, HIPERFIT co-organises the [workshop on
-Functional High-Performance Computing (FHPC 2012)](fhpc12.html). This
+Functional High-Performance Computing (FHPC 2012)](../fhpc12.html). This
 new workshop aims at bringing together researchers exploring
 declarative programming technology for large-scale and high
 performance computations, on parallel systems such as multi-core
