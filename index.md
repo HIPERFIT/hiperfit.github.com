@@ -4,8 +4,8 @@ title: Research Center for HIgh PERformance computing in Financial IT
 ---
 {% include JB/setup %}
 
+<div class="well">
 ## News
-
 <ul class="posts">
   {% for post in site.posts %}
     {% if post.category == "news" %}
@@ -13,6 +13,7 @@ title: Research Center for HIgh PERformance computing in Financial IT
     {% endif %}
   {% endfor %}
 </ul>
+</div>
 
 ## Background
 
