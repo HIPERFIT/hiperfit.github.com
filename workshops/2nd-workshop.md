@@ -48,7 +48,7 @@ Links to all slides from the workshop can now be found on the
 <table style="width: 720px;">
 <tbody>
 <tr>
-<td>8:30</td><td colspan="2">Arrival and Registration 
+<td valign="top">8:30</td><td colspan="2">Arrival and Registration 
 <hr />
 </td>
 </tr>
@@ -134,11 +134,8 @@ valign="top"></td>
 <td
 valign="top">15:00</td>
 <td valign="top">
-<p style="text-align:
-center;"><strong>DIKU Talk, DIKU, Lille UP1<br
-/></strong></p>
-<p>Domain-specific
-languages: Past, present, and future</p>
+Domain-specific
+languages: Past, present, and future. <strong>DIKU Talk, DIKU, Lille UP1</strong>
 </td>
 <td
 valign="top">Mary Sheeran<br />Chalmers University of
@@ -217,10 +214,8 @@ Lunch and Farewell<br />
 <td valign="top">13:15</td>
 <td
 valign="top">
-<p style="text-align: center;"><strong>COPLAS Talk,
-DIKU, Lille UP1</strong></p>
-<p>Canonicity
-for Two-Dimensional Type Theory</p>
+Canonicity for Two-Dimensional Type Theory. <strong>COPLAS Talk,
+DIKU, Lille UP1</strong>.
 </td>
 <td
 valign="top">Robert Harper<br />Carnegie Mellon
