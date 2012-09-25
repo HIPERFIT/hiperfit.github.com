@@ -14,11 +14,9 @@ Funded by the Danish Council for Strategic Research, the research
 center HIPERFIT was founded in 2010 to address these issues. The name
 HIPERFIT stands for Functional high-performance computing for
 financial information technology. The center started as a joint effort
-of researchers and selected founding partners from the financial
-industry. It is open for new collaborators from industry and
-commerce.
-
-[List of current industry partners](partners.html)
+of [researchers](people.html) and selected [founding partners from the financial
+industry](partners.html). It is open for new collaborators from
+industry and commerce.
 
 Research in HIPERFIT attempts to solve the simultaneous challenges of
 high transparency, high computational performance and high
@@ -37,11 +35,7 @@ correctness, transparency or portability.
 
 [Research themes in HIPERFIT](researchthemes.html)
 
-[Researchers in HIPERFIT](people.html)
-
 The research center is hosted by the Department of Computer Science,
-University of Copenhagen.
+University of Copenhagen. 
 
 [Contact](contact.html)
-
-[Getting here and getting away](gettinghere.html)
