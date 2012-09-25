@@ -135,7 +135,7 @@ valign="top"></td>
 valign="top">15:00</td>
 <td valign="top">
 Domain-specific
-languages: Past, present, and future. <strong>DIKU Talk, DIKU, Lille UP1</strong>
+languages: Past, present, and future.<br /><strong>DIKU Talk, DIKU, Lille UP1</strong>
 </td>
 <td
 valign="top">Mary Sheeran<br />Chalmers University of
@@ -214,7 +214,7 @@ Lunch and Farewell<br />
 <td valign="top">13:15</td>
 <td
 valign="top">
-Canonicity for Two-Dimensional Type Theory. <strong>COPLAS Talk,
+Canonicity for Two-Dimensional Type Theory.<br /><strong>COPLAS Talk,
 DIKU, Lille UP1</strong>.
 </td>
 <td
