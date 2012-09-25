@@ -36,9 +36,9 @@
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
             <li class="divider-vertical"></li>
-            <li><a href="{{ BASE_PATH }}/tags.html">Tags</a></li>
-            <li><a href="{{ BASE_PATH }}/pages.html">Pages</a></li>
-            <li><a href="{{ BASE_PATH }}/archive.html">Archive</a></li>
+            {% assign pages_list = site.pages %}
+            {% assign group = 'navigation2' %}
+            {% include JB/pages_list %}
           </ul>
         </div>
       </div>
