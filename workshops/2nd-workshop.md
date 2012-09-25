@@ -42,184 +42,81 @@ online is closed now**.
 
 ### Thursday, December 1st: HCØ, Auditorium 3
 
-<table>
-<tbody>
-<tr>
-<td valign="top">8:30</td><td colspan="2">Arrival and Registration 
-<hr />
-</td>
-</tr>
-<tr>
-<td valign="top">8:50</td> <td valign="top">Welcome address from HIPERFIT, Introduction</td>
-<td valign="top">Fritz Henglein<br />DIKU, HIPERFIT Center Director</td>
-</tr>
-<tr>
-<td valign="top">9:00</td>
-<td valign="top">[High Throughput Portfolio Processing on Heterogeneous Boards](../pdf/HIPERFIT-2-albanese.pdf)</td>
-<td valign="top">Claudio Albanese<br />King's College/Global Valuation Ltd</td>
-</tr>
-<tr>
-<td valign="top"></td></tr><tr>
-<td valign="top">9:45</td><td valign="top">Collateral
-flows, funding costs, and counterparty-risk-neutral swap
-rates</td>
-<td valign="top">Enrico Biffis<br />Imperial
-College</td>
-</tr>
+* 08:30: Arrival and Registration 
+- - -
 
-<tr>
-<td>10:30</td>
-<td colspan="2" valign="top">
-<hr
-/>
-Coffee break 
-<hr />
-</td>
-</tr>
-<tr>
-<td valign="top">11:00</td>
-<td valign="top">Strongly-Typed
-Programming in the Information Rich World</td>
-<td valign="top">Don Syme<br />Microsoft Research</td>
-</tr>
-<tr>
-<td valign="top">11:45</td>
-<td
-valign="top">Optimal
-Discretization of Random Variables and Option Pricing using
-F#</td>
-<td valign="top">Niels Nygaard<br />University of
-Chicago</td>
-</tr>
-<tr>
-<td>12:30</td>
-<td colspan="2" valign="top">
-<hr />
-Lunch break<br /> 
-<hr
-/>
-</td>
-</tr>
-<tr>
-<td valign="top">13:15</td>
-<td
-valign="top">Data-parallel GPU/FPGA Programming with Accelerator</td>
-<td
-valign="top">Satnam Singh<br />.</td>
-</tr>
-<tr>
-<td
-valign="top">14:00</td>
-<td valign="top">Shared
-data structures in nested data parallelism</td>
-<td
-valign="top">Manuel Chakravarty<br />University of New South
-Wales</td>
-</tr>
-<tr>
-<td>14:45</td>
-<td colspan="2"
-valign="top">
-<hr />
-Break 
-<hr />
-</td>
-<td
-valign="top"></td>
-</tr>
-<tr>
-<td
-valign="top">15:00</td>
-<td valign="top">
-Domain-specific
-languages: Past, present, and future.<br /><strong>DIKU Talk, DIKU, Lille UP1</strong>
-</td>
-<td
-valign="top">Mary Sheeran<br />Chalmers University of
-Technology</td>
-</tr>
-<tr>
-<td valign="top">16:30</td>
-<td
-valign="top">Reception, concluding the DIKU talk</td>
-<td
-valign="top"></td>
-</tr>
-</tbody>
-</table>
+* 08:50: Welcome address from HIPERFIT, Introduction. _Fritz Henglein,
+  DIKU, HIPERFIT Center Director_.
+
+* 09:00: [High Throughput Portfolio Processing on Heterogeneous
+  Boards](../pdf/HIPERFIT-2-albanese.pdf). _Claudio Albanese, King's
+  College/Global Valuation Ltd_.
+
+* 09:45: [Collateral flows, funding costs, and
+  counterparty-risk-neutral swap
+  rates](../pdf/HIPERFIT-2-biffis.pdf). _Enrico Biffis, Imperial
+  College_.
+
+- - -
+* 10:30: Coffee break 
+- - -
+
+* 11:00: [Strongly-Typed Programming in the Information Rich
+  World](../pdf/HIPERFIT-2-syme.pdf). _Don Syme, Microsoft Research_.
+
+* 11:45: [Optimal Discretization of Random Variables and Option
+  Pricing using F#](../pdf/HIPERFIT-2-nygaard.pdf). _Niels Nygaard,
+  University of Chicago_.
+
+- - -
+* 12:30: Lunch break
+- - -
+
+* 13:15: [Data-parallel GPU/FPGA Programming with
+  Accelerator](../pdf/HIPERFIT-2-singh.pdf). _Satnam Singh_.
+
+* 14:00: [Shared data structures in nested data
+  parallelism](../pdf/HIPERFIT-2-chakravarty.pdf). _Manuel
+  Chakravarty, University of New South Wales_.
+
+- - -
+* 14:45: Break 
+- - -
+
+* 15:00: [Domain-specific languages: Past, present, and
+  future](../pdf/HIPERFIT-2-sheeran.pdf). _Mary Sheeran, Chalmers
+  University of Technology_. **DIKU Talk, DIKU, Lille UP1**.
+
+* 16:30: Reception, concluding the DIKU talk
 
 ### Friday, December 2nd: HCØ, Auditorium 2
 
-<table style="width:720px;">
-<tbody>
-<tr>
-<td valign="top">9:00</td>
-<td
-valign="top">On
-Teaching Parallelism in Introductory CS Courses at CMU</td>
-<td
-valign="top">Robert Harper<br />Carnegie Mellon
-University</td>
-</tr>
-<tr>
-<td valign="top">9:45</td>
-<td
-valign="top">Portable
-Parallelism in Diderot</td>
-<td valign="top">John Reppy<br
-/>University of Chicago</td>
-</tr>
-<tr>
-<td>10:30</td>
-<td
-colspan="2" valign="top">
-<hr />
-Coffee break 
-<hr
-/>
-</td>
-</tr>
-<tr>
-<td valign="top">11:00</td>
-<td
-valign="top">Declarative
-Array Processing in Single-Assignment C</td>
-<td
-valign="top">Clemens Grelck<br />University of
-Amsterdam</td>
-</tr>
-<tr>
-<td valign="top">11:45</td>
-<td
-valign="top">HyPer-sonic
-Combined Transaction AND Query Processing</td>
-<td
-valign="top">Thomas Neumann<br />Technical University of
-Munich</td>
-</tr>
-<tr>
-<td>12:30</td>
-<td colspan="2"
-valign="top">
-<hr />
-Lunch and Farewell<br /> 
-<hr
-/>
-</td>
-</tr>
-<tr>
-<td valign="top">13:15</td>
-<td
-valign="top">
-Canonicity for Two-Dimensional Type Theory.<br /><strong>COPLAS Talk,
-DIKU, Lille UP1</strong>.
-</td>
-<td
-valign="top">Robert Harper<br />Carnegie Mellon
-University</td>
-</tr>
-</tbody>
-</table>
+* 09:00: [On Teaching Parallelism in Introductory CS Courses at
+  CMU](../pdf/HIPERFIT-2-harper.pdf). _Robert Harper, Carnegie Mellon
+  University_.
+
+* 09:45: [Portable Parallelism in
+  Diderot](../pdf/HIPERFIT-2-reppy.pdf). _John Reppy, University of
+  Chicago_.
+
+- - -
+* 10:30: Coffee break 
+- - -
+
+* 11:00: [Declarative Array Processing in Single-Assignment
+  C](../pdf/HIPERFIT-2-grelck.pdf). _Clemens Grelck, University of
+  Amsterdam_.
+
+* 11:45: [HyPer-sonic Combined Transaction AND Query
+  Processing](../pdf/HIPERFIT-2-neumann.pdf). _Thomas Neumann,
+  Technical University of Munich_.
+
+- - -
+* 12:30: Lunch and Farewell
+- - -
+
+* 13:15: Canonicity for Two-Dimensional Type Theory. _Robert Harper,
+  Carnegie Mellon University_. **COPLAS Talk, DIKU, Lille UP1**.
 
 The [collection of abstracts can be downloaded as a PDF
 file](../pdf/HIPERFIT-2ndWorkshop-Abstracts.pdf).
