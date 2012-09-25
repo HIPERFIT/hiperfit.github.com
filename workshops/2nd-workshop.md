@@ -29,8 +29,8 @@ The workshop is open to public, interested researchers and
 practicioners of all related fields are invited to participate in this
 exciting event in Copenhagen, to meet and discuss with our
 international speakers and guests. Download the [call for
-participation as pdf](pdf/CallForParticipation12-2011.pdf) / [as
-text](pdf/CallForParticipation12-2011.txt).
+participation as pdf](../pdf/CallForParticipation12-2011.pdf) / [as
+text](../pdf/CallForParticipation12-2011.txt).
 
 There will be no published proceedings, the meeting is intended to be
 an interdisciplinary forum for discussion and
@@ -225,11 +225,11 @@ University</td>
 </table>
 
 The [collection of abstracts can be downloaded as a PDF
-file](pdf/HIPERFIT-2ndWorkshop-Abstracts.pdf).
+file](../pdf/HIPERFIT-2ndWorkshop-Abstracts.pdf).
 
 <a href="http://www.cfir.dk">
 <img style="margin: 10px; float: right;" alt="CFIR"
-src="images/partnerlogos/cfir.gif"
+src="../images/partnerlogos/cfir.gif"
 width="150" /></a>
 
 <img style="float: right; margin: 7px; margin-left:
