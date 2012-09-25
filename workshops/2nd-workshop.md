@@ -4,9 +4,9 @@ layout: page
 ---
 {% include JB/setup %}
 
-## Mathematical Finance meets Programming Languages and Systems
+_Mathematical Finance meets Programming Languages and Systems_
 
-### 2nd HIPERFIT Workshop: December 1st and 2nd
+## 2nd HIPERFIT Workshop: December 1st and 2nd
 
 Hiperfit joins researchers from the departments of Computer Science,
 Mathematics, and Physics, and major industrial partners. Researchers
@@ -38,13 +38,9 @@ networking. Participation is free of charge, but for organisational
 purposes, a workshop registration is required. **Workshop registration
 online is closed now**.
 
-## Workshop programme
+## Thursday, December 1st: HCØ, Auditorium 3
 
-### Thursday, December 1st: HCØ, Auditorium 3
-
-* 08:30: Arrival and Registration 
-
----
+* 08:30: **Arrival and Registration**
 
 * 08:50: Welcome address from HIPERFIT, Introduction. _Fritz Henglein,
   DIKU, HIPERFIT Center Director_.
@@ -58,11 +54,7 @@ online is closed now**.
   rates](../pdf/HIPERFIT-2-biffis.pdf). _Enrico Biffis, Imperial
   College_.
 
----
-
-* 10:30: Coffee break 
-
----
+* 10:30: **Coffee break**
 
 * 11:00: [Strongly-Typed Programming in the Information Rich
   World](../pdf/HIPERFIT-2-syme.pdf). _Don Syme, Microsoft Research_.
@@ -71,11 +63,7 @@ online is closed now**.
   Pricing using F#](../pdf/HIPERFIT-2-nygaard.pdf). _Niels Nygaard,
   University of Chicago_.
 
----
-
-* 12:30: Lunch break
-
----
+* 12:30: **Lunch break**
 
 * 13:15: [Data-parallel GPU/FPGA Programming with
   Accelerator](../pdf/HIPERFIT-2-singh.pdf). _Satnam Singh_.
@@ -84,11 +72,7 @@ online is closed now**.
   parallelism](../pdf/HIPERFIT-2-chakravarty.pdf). _Manuel
   Chakravarty, University of New South Wales_.
 
----
-
-* 14:45: Break 
-
----
+* 14:45: **Coffee Break**
 
 * 15:00: [Domain-specific languages: Past, present, and
   future](../pdf/HIPERFIT-2-sheeran.pdf). _Mary Sheeran, Chalmers
@@ -96,7 +80,7 @@ online is closed now**.
 
 * 16:30: Reception, concluding the DIKU talk
 
-### Friday, December 2nd: HCØ, Auditorium 2
+## Friday, December 2nd: HCØ, Auditorium 2
 
 * 09:00: [On Teaching Parallelism in Introductory CS Courses at
   CMU](../pdf/HIPERFIT-2-harper.pdf). _Robert Harper, Carnegie Mellon
@@ -106,11 +90,7 @@ online is closed now**.
   Diderot](../pdf/HIPERFIT-2-reppy.pdf). _John Reppy, University of
   Chicago_.
 
----
-
-* 10:30: Coffee break 
-
---- 
+* 10:30: **Coffee break**
 
 * 11:00: [Declarative Array Processing in Single-Assignment
   C](../pdf/HIPERFIT-2-grelck.pdf). _Clemens Grelck, University of
@@ -120,11 +100,7 @@ online is closed now**.
   Processing](../pdf/HIPERFIT-2-neumann.pdf). _Thomas Neumann,
   Technical University of Munich_.
 
----
-
-* 12:30: Lunch and Farewell
-
----
+* 12:30: **Lunch and Farewell**
 
 * 13:15: Canonicity for Two-Dimensional Type Theory. _Robert Harper,
   Carnegie Mellon University_. **COPLAS Talk, DIKU, Lille UP1**.
