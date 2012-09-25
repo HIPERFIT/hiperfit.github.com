@@ -14,10 +14,10 @@ practicioners for future cooperation.
   [ICFP'2012](http://www.icfpconference.org/icfp2012/) in
   Copenhagen. Organized in part by HIPERFIT.
 
-* Apr 2012: Third HIPERFIT Workshop. In cooperation with the
-  [Stevanovich Center at the University of
-  Chicago](http://stevanovichcenter.uchicago.edu/). A joint
-  workshop about functional languages for applications in Finance.
+* Apr 2012: [Third HIPERFIT Workshop](workshops/3rd-workshop.html). In
+  cooperation with the [Stevanovich Center at the University of
+  Chicago](http://stevanovichcenter.uchicago.edu/). A joint workshop
+  about functional languages for applications in Finance.
 
 * Dec 2011: [Second HIPERFIT
   Workshop](workshops/2nd-workshop.html). Features invited talks by
