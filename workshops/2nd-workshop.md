@@ -43,7 +43,8 @@ online is closed now**.
 ### Thursday, December 1st: HCØ, Auditorium 3
 
 * 08:30: Arrival and Registration 
-- - -
+
+---
 
 * 08:50: Welcome address from HIPERFIT, Introduction. _Fritz Henglein,
   DIKU, HIPERFIT Center Director_.
@@ -57,9 +58,11 @@ online is closed now**.
   rates](../pdf/HIPERFIT-2-biffis.pdf). _Enrico Biffis, Imperial
   College_.
 
-- - -
+---
+
 * 10:30: Coffee break 
-- - -
+
+---
 
 * 11:00: [Strongly-Typed Programming in the Information Rich
   World](../pdf/HIPERFIT-2-syme.pdf). _Don Syme, Microsoft Research_.
@@ -68,9 +71,11 @@ online is closed now**.
   Pricing using F#](../pdf/HIPERFIT-2-nygaard.pdf). _Niels Nygaard,
   University of Chicago_.
 
-- - -
+---
+
 * 12:30: Lunch break
-- - -
+
+---
 
 * 13:15: [Data-parallel GPU/FPGA Programming with
   Accelerator](../pdf/HIPERFIT-2-singh.pdf). _Satnam Singh_.
@@ -79,9 +84,11 @@ online is closed now**.
   parallelism](../pdf/HIPERFIT-2-chakravarty.pdf). _Manuel
   Chakravarty, University of New South Wales_.
 
-- - -
+---
+
 * 14:45: Break 
-- - -
+
+---
 
 * 15:00: [Domain-specific languages: Past, present, and
   future](../pdf/HIPERFIT-2-sheeran.pdf). _Mary Sheeran, Chalmers
@@ -99,9 +106,11 @@ online is closed now**.
   Diderot](../pdf/HIPERFIT-2-reppy.pdf). _John Reppy, University of
   Chicago_.
 
-- - -
+---
+
 * 10:30: Coffee break 
-- - -
+
+--- 
 
 * 11:00: [Declarative Array Processing in Single-Assignment
   C](../pdf/HIPERFIT-2-grelck.pdf). _Clemens Grelck, University of
@@ -111,9 +120,11 @@ online is closed now**.
   Processing](../pdf/HIPERFIT-2-neumann.pdf). _Thomas Neumann,
   Technical University of Munich_.
 
-- - -
+---
+
 * 12:30: Lunch and Farewell
-- - -
+
+---
 
 * 13:15: Canonicity for Two-Dimensional Type Theory. _Robert Harper,
   Carnegie Mellon University_. **COPLAS Talk, DIKU, Lille UP1**.
