@@ -38,14 +38,11 @@ networking. Participation is free of charge, but for organisational
 purposes, a workshop registration is required. **Workshop registration
 online is closed now**.
 
-Links to all slides from the workshop can now be found on the
-[abstracts page](abstracts.html).
-
 ## Workshop programme
 
 ### Thursday, December 1st: HCØ, Auditorium 3
 
-<table style="width: 720px;">
+<table>
 <tbody>
 <tr>
 <td valign="top">8:30</td><td colspan="2">Arrival and Registration 
@@ -58,7 +55,7 @@ Links to all slides from the workshop can now be found on the
 </tr>
 <tr>
 <td valign="top">9:00</td>
-<td valign="top">High Throughput Portfolio Processing on Heterogeneous Boards</td>
+<td valign="top">[High Throughput Portfolio Processing on Heterogeneous Boards](../pdf/HIPERFIT-2-albanese.pdf)</td>
 <td valign="top">Claudio Albanese<br />King's College/Global Valuation Ltd</td>
 </tr>
 <tr>
