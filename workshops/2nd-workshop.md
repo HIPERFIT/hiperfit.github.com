@@ -232,10 +232,6 @@ file](../pdf/HIPERFIT-2ndWorkshop-Abstracts.pdf).
 src="../images/partnerlogos/cfir.gif"
 width="150" /></a>
 
-<img style="float: right; margin: 7px; margin-left:
-50px;" alt="DIKU" src="http://www.science.ku.dk/topgrafik/segl/"
-height="100" />
-
 The 2nd Hiperfit 2011 workshop will be held at the University of
 Copenhagen, North Campus, in the HCØ building - next to the Department
 of Computer Science (DIKU). Please follow the signs saying "2nd
