@@ -1,19 +1,8 @@
 ---
-layout: page
+layout: front
 title: Research Center for HIgh PERformance computing in Financial IT
 ---
 {% include JB/setup %}
-
-<div class="well">
-## News
-<ul class="posts">
-  {% for post in site.posts %}
-    {% if post.category == "news" %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
-</div>
 
 ## Background
 

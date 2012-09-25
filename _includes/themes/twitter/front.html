@@ -1,0 +1,23 @@
+<div class="page-header">
+  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+</div>
+
+<div class="row">
+  <div class="span7">
+    {{ content }}
+  </div>
+
+  <div class="span5">
+    <div class="well">
+      <h2>Posts</h2>
+      <ul class="posts">
+        {% for post in site.posts %}
+          {% if post.category == "news" %}
+            <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+ 
+</div>
