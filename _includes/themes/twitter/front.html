@@ -9,15 +9,17 @@
 
   <div class="span5">
     <div class="well">
-      <h2>Posts</h2>      
+      <h3>Ten Most Recent Posts</h3>
         {% for post in site.posts limit: 10 %}
             <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><br />
         {% endfor %}
       <br />
-      <ul class="posts">
-        <li><a href="archive.html">Archive</a></li>
+      The <a href="archive.html">Archive</a> contains all posts.
       </ul>
     </div>
+
+    <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=250&amp;wkst=2&amp;hl=en_GB&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FCopenhagen" style=" border-width:0 " width="380" height="250" frameborder="0" scrolling="no"></iframe>
+
   </div>
  
 </div>
