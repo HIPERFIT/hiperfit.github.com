@@ -10,23 +10,29 @@ transparency requirements. In addition, time-to-market is increasingly
 important for financial applications, both by commercial software
 developers and in-house.
 
-Funded by the Danish Council for Strategic Research, the research
-center HIPERFIT was founded in 2010 to address these issues. The name
-HIPERFIT stands for Functional high-performance computing for
-financial information technology. The center started as a joint effort
-of [researchers](people.html) and selected [founding partners from the financial
-industry](partners.html). It is open for new collaborators from
-industry and commerce.
+The joint research center HIPERFIT attempts to solve the simultaneous
+challenges of high transparency, high computational performance and
+high productivity in an integrated approach of declarative domain
+specific and high-level functional programming languages.  The center
+gathers research in different communities: mathematical finance,
+programming languages and high-performance systems and application
+experts from the financial sector contribute cutting edge knowledge
+from their respective fields to bear on problems transcending their
+own field of expertise.
+
+Funded by the [Danish Council for Strategic Research
+(DSF)](http://en.fi.dk/councils-commissions/the-danish-council-for-strategic-research),
+under grant no. 10-092299, the research center HIPERFIT was founded in
+2010. The name HIPERFIT stands for Functional high-performance
+computing for financial information technology. The center started as
+a joint effort of [researchers](people.html) and selected [founding
+partners from the financial industry](partners.html). It is open for
+new collaborators from industry and commerce.
 
 Research in HIPERFIT attempts to solve the simultaneous challenges of
 high transparency, high computational performance and high
 productivity in an integrated approach of declarative domain specific
-and high-level functional programming languages. The center gathers
-research in different communities: mathematical finance, programming
-languages and high-performance systems, and application experts from
-the financial sector contribute cutting edge knowledge from their
-respective fields, to bear on problems transcending their own field of
-expertise.
+and high-level functional programming languages. 
 
 HIPERFIT stands for research in tailor-made expressive programming
 languages, frameworks, tools and technologies for financial modeling,
@@ -35,7 +41,5 @@ correctness, transparency or portability.
 
 [Research themes in HIPERFIT](researchthemes.html)
 
-The research center is hosted by the Department of Computer Science,
-University of Copenhagen. 
-
 [Contact](contact.html)
+

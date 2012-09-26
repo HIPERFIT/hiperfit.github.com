@@ -1,23 +1,17 @@
-<div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
-</div>
-
-<div class="row">
+<div class="row-fluid">
   <div class="span7">
     {{ content }}
   </div>
-
   <div class="span5">
-    <div class="well">
-      <h3>Ten Most Recent Posts</h3>
+    <div class="well sidebar-nav">
+      <ul class="nav nav-list">
+        <li class="nav-header">Ten Most Recent Posts</li>
         {% for post in site.posts limit: 10 %}
-            <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><br />
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
-      <br />
-      The <a href="archive.html">Archive</a> contains all posts.
+        <li class="nav-header">...</li>
+        <li>Check the <a href="archive.html">Archive</a> for more posts.</li>
       </ul>
     </div>
-
   </div>
- 
 </div>
