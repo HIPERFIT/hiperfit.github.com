@@ -90,7 +90,7 @@ programming language F#. It uses Z3 to check type checking obligations
 arising from refinement types. I demonstrate F* on a set of functional
 program examples.
 
-Nikolaj Bjørner is a Senior Researcher and head of the Foundations of
+  Nikolaj Bjørner is a Senior Researcher and head of the Foundations of
 Software Engineering group at Microsoft Research Redmond.
 
 * **Jost Berthold (DIKU): The HIPERFIT Research
@@ -103,13 +103,12 @@ in the center, and outline its research areas and themes. One
 particular focus of this talk is to position HIPERFIT in the landscape
 of parallel functional languages.
 
-  Jost Berthold is assistant
-professor at DIKU and researcher in HIPERFIT FP. He received his
-doctorate degree from the Philipps University of Marburg, Germany, in
-2008. His research interests are parallel programming concepts,
-parallel functional programming. In particular, he has worked
-intensively on the implementation of parallel Haskell
-extensions.
+  Jost Berthold is assistant professor at DIKU and researcher in
+HIPERFIT FP. He received his doctorate degree from the Philipps
+University of Marburg, Germany, in 2008. His research interests are
+parallel programming concepts, parallel functional programming. In
+particular, he has worked intensively on the implementation of
+parallel Haskell extensions.
 
 * **Niels Hallenberg (SimCorp): Application of Functional Programming at
 SimCorp.**
@@ -215,7 +214,7 @@ calculation of VaR and CVA and tactical risk management based on such
 quantities. We discuss different strategies for such parallelisation
 in the context of the Danske Markets' Jive scripting language.
 
-Jesper Andreasen heads the Quantitative Research Department at Danske
+  Jesper Andreasen heads the Quantitative Research Department at Danske
 Bank in Copenhagen. Prior to this, Jesper has held positions in the
 quantitative research departments of Bank of America, Nordea, and
 General Re Financial Products. Jesper's research interest include:
@@ -223,10 +222,10 @@ term structure modeling, volatility smiles, and numerical methods. In
 2001 Jesper received Risk Magazine's Quant of the Year award. Jesper
 holds a PhD in Mathematical Finance from Aarhus University, Denmark.
 
-* Troels Blum (eScience Center, KU): Generalizing Execution of
-Vectorizable Computations by Generating Vector Oriented Byte Code.
+* **Troels Blum (eScience Center, KU): Generalizing Execution of
+Vectorizable Computations by Generating Vector Oriented Byte Code.**
 
-In my work I have used a new approach to the problem of closing the
+  In my work I have used a new approach to the problem of closing the
 gap between productivity tools, and highly parallel systems, which
 allows a high degree of modularity and there by reuse. My approach
 involves creating a model, cphVB, in which the computing devices
