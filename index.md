@@ -18,7 +18,7 @@ title: Research Center for High Performance Computing in Financial IT
 
 <div class="row-fluid">
   <div class="span4">
-    <h2>The Research Setup</h2>
+    <h4>The Research Setup</h4>
     <p>HIPERFIT stands for High Performance Computing in Financial IT.
     The center gathers research in different communities: mathematical finance,
 programming languages, high-performance systems, and application
@@ -27,7 +27,7 @@ experts from the financial sector.
     <p><a class="btn" href="research.html">Research &raquo;</a></p>
   </div><!--/span-->
   <div class="span4">
-    <h2>Hosted by DIKU</h2>
+    <h4>Hosted by DIKU</h4>
     <p>The HIPERFIT research center is hosted by the Department of Computer Science,
     University of Copenhagen and includes a number of <a href="partners.html">funding partners</a>
     from the Danish financial industry. The center is open for new
@@ -35,7 +35,7 @@ experts from the financial sector.
     <p><a class="btn" href="about.html">Read more &raquo;</a></p>
   </div><!--/span-->
   <div class="span4">
-    <h2>Worshops</h2>
+    <h4>Workshops</h4>
     <p>The HIPERFIT Research Center holds biannual workshops to foster
 interdisciplinary cooperation and attract researchers and
 practicioners for future cooperation. </p>
