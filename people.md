@@ -11,7 +11,7 @@ group: navigation
   Poulsen](http://www.math.ku.dk/~rolf), Professor, Department of
   Mathematical Sciences, University of Copenhagen.
 
-* ![Mogens Steffensen](99_steffensen_math.jpg) [Mogens Steffensen](http://www.math.ku.dk/~mogens), Professor,
+* ![Mogens Steffensen](images/99_steffensen_math.jpg) [Mogens Steffensen](http://www.math.ku.dk/~mogens), Professor,
   Department of Mathematical Sciences, University of Copenhagen.
 
 * [Jesper Lund Pedersen](http://www.math.ku.dk/~jesper), Associate
@@ -30,8 +30,9 @@ group: navigation
 * [Fritz Henglein](http://www.diku.dk/~henglein), Professor,
   Department of Computer Science, University of Copenhagen.
 
-* [Ken Friis Larsen](http://www.diku.dk/~kflarsen), Associate
-  Professor, Department of Computer Science, University of Copenhagen.
+* ![Ken Friis Larsen](images/102_friislarsen_cms.jpg) [Ken Friis
+  Larsen](http://www.diku.dk/~kflarsen), Associate Professor,
+  Department of Computer Science, University of Copenhagen.
 
 * [Marcos Vaz Salles](http://www.diku.dk/~vmarcos), Assistant
   Professor, Department of Computer Science, University of Copenhagen.
@@ -41,15 +42,15 @@ group: navigation
 
 ### Functional Parallel Programming
 
-* [Jost
+* ![Jost Berthold](images/101_jostberthold20091220_square_2.jpg) [Jost
   Berthold](http://www.escience.ku.dk/staff/employee/?id=367090),
   Assistant Professor, Department of Computer Science, University of
   Copenhagen.
 
-* [Martin Elsman](http://www.elsman.com), Associate Professor,
+* ![Martin Elsman](images/96_elsman_web.jpg) [Martin Elsman](http://www.elsman.com), Associate Professor,
   Department of Computer Science, University of Copenhagen.
 
-* [Andrzej Filinski](http://www.diku.dk/~andrzej), Associate
+* ![Andrzej Filinski](images/100_filinski_cms.jpg) [Andrzej Filinski](http://www.diku.dk/~andrzej), Associate
   Professor, Department of Computer Science, University of Copenhagen.
 
 * [Cosmin Oancea](http://www.diku.dk/~zgh600), Postdoc, Department of
@@ -61,8 +62,9 @@ group: navigation
 
 ### High-Performance Systems
 
-* [Brian Vinter](http://forskning.ku.dk/search/profil/?id=228317),
-  Professor, Niels Bohr Institute, University of Copenhagen.
+* ![Brian Vinter](images/98_vinter_cms.jpg) [Brian
+  Vinter](http://forskning.ku.dk/search/profil/?id=228317), Professor,
+  Niels Bohr Institute, University of Copenhagen.
 
 * [Troels Blum](http://forskning.ku.dk/search/profil/?id=139293), PhD
   Student, Niels Bohr Institute, University of Copenhagen.
@@ -72,4 +74,4 @@ group: navigation
 
 ### Center Management
 
-See [Contact](contact.html)
+See [Contact](contact.html).
