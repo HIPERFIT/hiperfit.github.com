@@ -24,7 +24,7 @@ title: Research Center for High Performance Computing in Financial IT
 programming languages, high-performance systems, and application
 experts from the financial sector.
     </p>
-    <p><a class="btn" href="research.html">Research &raquo;</a></p>
+    <p><a class="btn btn-primary" href="research.html">Research &raquo;</a></p>
   </div><!--/span-->
   <div class="span4">
     <h4>Hosted by DIKU</h4>
@@ -32,13 +32,13 @@ experts from the financial sector.
     University of Copenhagen and includes a number of <a href="partners.html">funding partners</a>
     from the Danish financial industry. The center is open for new
     collaborators from industry and commerce.</p>
-    <p><a class="btn" href="about.html">Read more &raquo;</a></p>
+    <p><a class="btn btn-primary" href="about.html">Read more &raquo;</a></p>
   </div><!--/span-->
   <div class="span4">
     <h4>Workshops</h4>
     <p>The HIPERFIT Research Center holds biannual workshops to foster
 interdisciplinary cooperation and attract researchers and
 practicioners for future cooperation. </p>
-    <p><a class="btn" href="workshops.html">View details &raquo;</a></p>
+    <p><a class="btn btn-primary" href="workshops.html">View details &raquo;</a></p>
   </div><!--/span-->
 </div><!--/row-->
