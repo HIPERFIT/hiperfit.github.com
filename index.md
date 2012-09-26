@@ -19,7 +19,7 @@ title: Research Center for High Performance Computing in Financial IT
 <div class="row-fluid">
   <div class="span4">
     <h4>The Research Setup</h4>
-    <p>HIPERFIT stands for High Performance Computing in Financial IT.
+    <p>HIPERFIT is an acronym for High Performance Computing in Financial IT.
     The center gathers research in different communities: mathematical finance,
 programming languages, high-performance systems, and application
 experts from the financial sector.
@@ -40,5 +40,14 @@ experts from the financial sector.
 interdisciplinary cooperation and attract researchers and
 practicioners for future cooperation. </p>
     <p><a class="btn btn-primary" href="workshops.html">View details &raquo;</a></p>
+  </div><!--/span-->
+</div><!--/row-->
+
+<div class="row-fluid">
+  <div class="span4">
+    <h4>Student Projects</h4>
+    <p>We are continuously looking for students interested in contributing to our research through study projects, working on particular aspects of ongoing research. If you are interested in a study project, please talk to project members for more information.
+    </p>
+    <p><a class="btn btn-primary" href="researchthemes.html">Themes &raquo;</a></p>
   </div><!--/span-->
 </div><!--/row-->
