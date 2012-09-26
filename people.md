@@ -7,10 +7,11 @@ group: navigation
 
 ### Mathematical Finance
 
-* [Rolf Poulsen](http://www.math.ku.dk/~rolf), Professor, Department
-  of Mathematical Sciences, University of Copenhagen.
+* ![Rolf Poulsen](images/103_poulsen_cms.jpg) [Rolf
+  Poulsen](http://www.math.ku.dk/~rolf), Professor, Department of
+  Mathematical Sciences, University of Copenhagen.
 
-* [Mogens Steffensen](http://www.math.ku.dk/~mogens), Professor,
+* ![Mogens Steffensen](99_steffensen_math.jpg) [Mogens Steffensen](http://www.math.ku.dk/~mogens), Professor,
   Department of Mathematical Sciences, University of Copenhagen.
 
 * [Jesper Lund Pedersen](http://www.math.ku.dk/~jesper), Associate
