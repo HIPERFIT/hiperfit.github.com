@@ -23,7 +23,7 @@ practicioners for future cooperation.
   Workshop](workshops/2nd-workshop.html). Features invited talks by
   our advisory board (and guests) in December 2011.
 
-* May 2011: Internal Workshop. Marks the opening of the HIPERFIT
+* May 2011: [Internal Workshop](workshops/1st-workshop.html). Marks the opening of the HIPERFIT
   Research Center and mainly addresses partner employees as well as
   researchers and students at the University of Copenhagen.
 
