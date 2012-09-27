@@ -7,50 +7,25 @@ group: navigation
 
 The research center has the following academic and private-sector
 partners:
-
-
+  
 <div class="row-fluid">
-  <div class="span4"><a href="http://di.ku.dk"><img alt="diku" src="images/partnerlogos/diku.png"/></a></div>
-  <div class="span4"><a href="http://math.ku.dk"><img alt="imf" src="images/partnerlogos/imf.png"/></a></div>
-  <div class="span4"><a href="http://www.nbi.ku.dk/"><img alt="nbi" src="images/partnerlogos/nbi.png"/></a></div>
+  <div class="span4" align="center"><a href="http://di.ku.dk"><img alt="diku" src="images/partnerlogos/diku.png"/></a></div>
+  <div class="span4" align="center"><a href="http://math.ku.dk"><img alt="imf" src="images/partnerlogos/imf.png"/></a></div>
+  <div class="span4" align="center"><a href="http://www.nbi.ku.dk/"><img alt="nbi" src="images/partnerlogos/nbi.png"/></a></div>
 </div>
-
+  
 <div class="row-fluid">
-  <div class="span4"><a href="http://danskebank.dk"><img alt="danskebank" src="images/partnerlogos/danskebank.png"/></a></div>
-  <div class="span4"><a href="http://jyskebank.dk"><img alt="jyskebank" src="images/partnerlogos/jyskebank.png"/></a></div>
-  <div class="span4"><a href="http://lexifi.com"><img alt="lexifi" src="images/partnerlogos/lexifi.png"/></a></div>
+  <div class="span4" align="center"><a href="http://danskebank.dk"><img alt="danskebank" src="images/partnerlogos/danskebank.png"/></a></div>
+  <div class="span4" align="center"><a href="http://jyskebank.dk"><img alt="jyskebank" src="images/partnerlogos/jyskebank.png"/></a></div>
+  <div class="span4" align="center"><a href="http://lexifi.com"><img alt="lexifi" src="images/partnerlogos/lexifi.png"/></a></div>
 </div>
-
+  
 <div class="row-fluid">
   <div class="span4" align="center"><a href="http://nordea.dk"><img alt="nordea" src="images/partnerlogos/nordea.png"/></a></div>
   <div class="span4" align="center"><a href="http://nykredit.dk"><img alt="nykredit" src="images/partnerlogos/nykredit.png"/></a></div>
   <div class="span4" align="center"><a href="http://simcorp.com"><img alt="simcorp" src="images/partnerlogos/simcorp.png"/></a></div>
 </div>
-
-<center>
-
-<table border="0" cellspacing="10" cellpadding="20">
-<tbody>
-<tr>
-<td><a href="http://di.ku.dk"><img alt="diku" src="images/partnerlogos/diku.png"/></a></td>
-<td><a href="http://math.ku.dk"><img alt="imf" src="images/partnerlogos/imf.png" height="40" width="169" /></a></td>
-<td><a href="http://www.nbi.ku.dk/"><img alt="nbi" src="images/partnerlogos/nbi.png" height="40" width="169" /></a></td>
-</tr>
-<tr>
-<td><a href="http://danskebank.dk"><img alt="danskebank" src="images/partnerlogos/danskebank.png" height="40" width="265" /></a></td>
-<td><a href="http://jyskebank.dk"><img alt="jyskebank" src="images/partnerlogos/jyskebank.png" height="40" width="204" /></a></td>
-<td><a href="http://lexifi.com"><img alt="lexifi" src="images/partnerlogos/lexifi.png" height="40" width="65" /></a></td>
-</tr>
-<tr>
-<td><a href="http://nordea.dk"><img alt="nordea" src="images/partnerlogos/nordea.png" height="40" width="136" /></a></td>
-<td><a href="http://nykredit.dk"><img alt="nykredit" src="images/partnerlogos/nykredit.png" height="40" width="140" /></a></td>
-<td><a href="http://simcorp.com"><img alt="simcorp" src="images/partnerlogos/simcorp.png" height="40" width="104" /></a></td>
-</tr>
-</tbody>
-</table>
-
-</center> 
-
+  
 <a href="http://www.cfir.dk">
 <img style="margin: 10px; float: right;" alt="CFIR"
 src="images/partnerlogos/cfir.gif"
