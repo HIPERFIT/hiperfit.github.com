@@ -22,9 +22,9 @@ partners:
 </div>
 
 <div class="row-fluid">
-  <div class="span4"><a href="http://nordea.dk"><img alt="nordea" src="images/partnerlogos/nordea.png"/></a></div>
-  <div class="span4"><a href="http://nykredit.dk"><img alt="nykredit" src="images/partnerlogos/nykredit.png"/></a></div>
-  <div class="span4"><a href="http://simcorp.com"><img alt="simcorp" src="images/partnerlogos/simcorp.png"/></a></div>
+  <div class="span4" align="center"><a href="http://nordea.dk"><img alt="nordea" src="images/partnerlogos/nordea.png"/></a></div>
+  <div class="span4" align="center"><a href="http://nykredit.dk"><img alt="nykredit" src="images/partnerlogos/nykredit.png"/></a></div>
+  <div class="span4" align="center"><a href="http://simcorp.com"><img alt="simcorp" src="images/partnerlogos/simcorp.png"/></a></div>
 </div>
 
 <center>
