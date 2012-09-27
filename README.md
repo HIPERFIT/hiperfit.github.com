@@ -32,7 +32,7 @@ are stored into the `pdf/` folder.
 Posts are stored in the `_posts` folder. For creating a new post you
 can either run the command
 
-   rake post title="My Title" date="YYYY-MM-DD"
+    rake post title="My Title" date="YYYY-MM-DD"
 
 which will create an empty post file, or you can copy one of the
 existing post files - be sure to format the post file name correctly.
@@ -42,7 +42,7 @@ existing post files - be sure to format the post file name correctly.
 Pages can be stored in any folder (without a prefix underscore). For
 creating a new page you can either run the command
 
-   rake page title="My Title"
+    rake page title="My Title"
 
 which will create an empty page file, or you can copy one of the
 existing pages. For inspiration on the markdown syntax, look at one of
