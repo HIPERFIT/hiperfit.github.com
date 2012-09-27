@@ -5,11 +5,10 @@ group: navigation
 ---
 {% include JB/setup %}
 
-{
 <div class="row-fluid">
   <div class="span6">
     <div class="well">
-}
+{{
 ### Mathematical Finance
 
 ![Rolf Poulsen](images/103_poulsen_cms.jpg) [Rolf
@@ -29,12 +28,10 @@ Postdoc, Department of Computer Science, University of Copenhagen.
 
 [Lykke Rasmussen](http://quantess.net), PhD Student, Department of
 Mathematical Sciences, University of Copenhagen.
-
-{
+}}
 </div>
 </div>
 </div>
-}
 
 ### Domain-Specific Languages
 
