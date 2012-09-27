@@ -1,20 +1,11 @@
-<!doctype HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Workshop on Functional High-Performance Computing (FHPC'12)</title>
- <meta
-   name="keywords"
-   content="high-performance computing, functional programming">
-  <link rel="stylesheet" type="text/css" href="fhpc12.css">
-</head>
-
-<body>   
+---
+title: Workshop on Functional High-Performance Computing (FHPC'12)
+layout: page
+---
 
 <h2 class="c">ACM SIGPLAN Workshop on<br/>
 <i>Functional High-Performance Computing</i>, FHPC'12
 </h2>
-
 
 <h3 class="c">Copenhagen, Denmark <br/>
 15 September 2012<br/><br/>
@@ -134,6 +125,3 @@ Access-Execute Descriptors to Expand the Parallel Code Synthesis Design Space</a
 
 
 </dl>
-
-</body>
-</html>
