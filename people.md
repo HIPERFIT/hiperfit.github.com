@@ -8,7 +8,7 @@ group: navigation
 {
 <div class="row-fluid">
   <div class="span6">
-    <div class="well>
+    <div class="well">
 }
 ### Mathematical Finance
 
