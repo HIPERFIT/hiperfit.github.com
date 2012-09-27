@@ -68,7 +68,7 @@ ACM Digital Library.</p>
 <h5>Organizers</h5>
 <ul>
 <li>Andrzej Filinski, Dept. of Computer Science (DIKU), University of Copenhagen, Denmark; andrzej (at) diku.dk</li>
-<li>Clemens Grelck, Informatics Instititute, University of Amsterdam, Netherlands; c.grelck (at) uva.nl
+<li>Clemens Grelck, Informatics Instititute, University of Amsterdam, Netherlands; c.grelck (at) uva.nl</li>
 </ul>
 
 <h5>Programme committee</h5>
