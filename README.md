@@ -1,42 +1,51 @@
-# Jekyll-Bootstrap
+# Guide to Modifying the HIPERFIT Web Site
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+## Introduction
 
-## Usage
+The HIPERFIT web site is based on
+[Jekyll-Bootstrap](http://jekyllbootstrap.com), which again is based
+on [Twitter Bootstrap](http://twitter.github.com/bootstrap/), Jekyll,
+and Liquid. Bootstrap gives a standard set of CSS/Javascript tools and
+Jekyll gives us markdown support and a (very limiting) template system
+based on Liquid.
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+The site is hosted at github as <http://hiperfit.github.com>. We use
+the <http://hiperfit.dk> domain for the site, which has been enabled
+by directing the domain to the github IP and by placing a file CNAME
+(containing hiperfit.dk) in the root.
 
-## Version
+## Modifying Web Site Content
 
-0.2.13 - stable and versioned using [semantic versioning](http://semver.org/).
+To modify the Web Site content, one needs a github account name and
+authorization to push changes to the hiperfit.github.com repository.
 
-## Contributing 
+Github has Jekyll and Liquid built-in, which means that once a changed
+is pushed to github, the site is rebuilt on github.
 
-This repository tracks 2 projects:
+## Structure
 
-- **Jekyll-Bootstrap Framework.**  
-  The framework for which users should clone and build their blog on top of is available in the master branch.
-  
-  To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-  This is very important as it allows me to accept your pull request without having to publish a public version release.
-  
-  Small, atomic Features, bugs, etc.   
-  Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.   
-  Please rebase as often as possible when working.   
-  Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
-  
-  For Big Features or major API extensions/edits:   
-  This is the one case where I'll accept pull-requests based off the master branch.
-  This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-  Translation : it might take a bit longer so please be patient! (but sincerely thank you).
- 
-- **Jekyll-Bootstrap Documentation Website.**    
-  The documentation website at <http://jekyllbootstrap.com> is maintained in the gh-pages branch.
-  Please fork and contribute documentation additions to this branch only.
+Images are stored into the `images/` folder and papers (pdfs, etc)
+are stored into the `pdf/` folder.
 
-The master and gh-pages branch do not share the same ancestry. Please treat them as completely separate git repositories!
+## Creating New Posts
+
+Posts are stored in the `_posts` folder. For creating a new post you
+can either run the command
+
+   rake post title="My Title" date="YYYY-MM-DD"
+
+which will create an empty post file, or you can copy one of the
+existing post files - be sure to format the post file name correctly.
+
+## Creating New Pages
+
+Pages can be stored in any folder (without a prefix underscore). For
+creating a new page you can either run the command
+
+   rake page title="My Title"
+
+which will create an empty page file, or you can copy one of the
+existing pages. For inspiration on the markdown syntax, look at one of
+the existing .md-files.
 
 
-## License
-
-[Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
