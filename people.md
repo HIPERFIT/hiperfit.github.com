@@ -5,25 +5,33 @@ group: navigation
 ---
 {% include JB/setup %}
 
+<div class="row-fluid">
+  <div class="span6">
+    <div class="well>
+{{
 ### Mathematical Finance
 
-* ![Rolf Poulsen](images/103_poulsen_cms.jpg) [Rolf
-  Poulsen](http://www.math.ku.dk/~rolf), Professor, Department of
-  Mathematical Sciences, University of Copenhagen.
+![Rolf Poulsen](images/103_poulsen_cms.jpg) [Rolf
+Poulsen](http://www.math.ku.dk/~rolf), Professor, Department of
+Mathematical Sciences, University of Copenhagen.
 
-* ![Mogens Steffensen](images/99_steffensen_math.jpg) [Mogens Steffensen](http://www.math.ku.dk/~mogens), Professor,
-  Department of Mathematical Sciences, University of Copenhagen.
+![Mogens Steffensen](images/99_steffensen_math.jpg) [Mogens Steffensen](http://www.math.ku.dk/~mogens), Professor,
+Department of Mathematical Sciences, University of Copenhagen.
 
-* [Jesper Lund Pedersen](http://www.math.ku.dk/~jesper), Associate
-  Professor, Department of Mathematical Sciences, University of
-  Copenhagen.
+[Jesper Lund Pedersen](http://www.math.ku.dk/~jesper), Associate
+Professor, Department of Mathematical Sciences, University of
+Copenhagen.
 
-* [Christian
-  Andreetta](http://www.diku.dk/Ansatte/?id=354703&vis=medarbejder),
-  Postdoc, Department of Computer Science, University of Copenhagen.
+[Christian
+Andreetta](http://www.diku.dk/Ansatte/?id=354703&vis=medarbejder),
+Postdoc, Department of Computer Science, University of Copenhagen.
 
-* [Lykke Rasmussen](http://quantess.net), PhD Student, Department of
-  Mathematical Sciences, University of Copenhagen.
+[Lykke Rasmussen](http://quantess.net), PhD Student, Department of
+Mathematical Sciences, University of Copenhagen.
+}}
+</div>
+</div>
+</div>
 
 ### Domain-Specific Languages
 
