@@ -28,7 +28,7 @@ experts from the financial sector.
   </div><!--/span-->
   <div class="span4">
     <h4>Hosted by KU</h4>
-    <p>The HIPERFIT research center is hosted by the <a href="http://www.ku.dk">University of Copenhagen</a> and includes a number of <a href="partners.html">funding partners</a>
+    <p>The HIPERFIT research center is hosted by the <a href="http://www.ku.dk/english">University of Copenhagen</a> and includes a number of <a href="partners.html">funding partners</a>
     from the Danish financial industry. The center is open for new
     collaborators from industry and commerce.</p>
     <p><a class="btn btn-primary" href="about.html">Read more &raquo;</a></p>
