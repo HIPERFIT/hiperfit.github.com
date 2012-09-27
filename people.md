@@ -27,8 +27,9 @@ group: navigation
 
 ### Domain-Specific Languages
 
-* [Fritz Henglein](http://www.diku.dk/~henglein), Professor,
-  Department of Computer Science, University of Copenhagen.
+* ![Fritz Henglein](images/95_henglein_cms.jpg) [Fritz
+  Henglein](http://www.diku.dk/~henglein), Professor, Department of
+  Computer Science, University of Copenhagen.
 
 * ![Ken Friis Larsen](images/102_friislarsen_cms.jpg) [Ken Friis
   Larsen](http://www.diku.dk/~kflarsen), Associate Professor,
