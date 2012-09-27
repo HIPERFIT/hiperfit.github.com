@@ -3,5 +3,9 @@ text-align: center;
 }
 
 .warn {
-color: red
+color: red;
+}
+
+dt {
+font-style: italic;
 }
