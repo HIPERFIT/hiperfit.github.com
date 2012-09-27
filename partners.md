@@ -26,10 +26,7 @@ partners:
   <div class="span4" align="center" style="padding:10px;"><a href="http://simcorp.com"><img alt="simcorp" src="images/partnerlogos/simcorp.png"/></a></div>
 </div>
   
-<a href="http://www.cfir.dk">
-<img style="margin: 10px; float: right;" alt="CFIR"
-src="images/partnerlogos/cfir.gif"
-width="150" /></a>
+<a href="http://www.cfir.dk"><img style="margin:10px; float: right;" alt="CFIR" src="images/partnerlogos/cfir.gif"/></a>
 
 The establishment of HIPERFIT has been encouraged, facilitated and
 supported by the [Copenhagen Finance IT Region](http://www.cfir.dk)
