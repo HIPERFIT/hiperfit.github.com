@@ -5,6 +5,7 @@ title: Research Center for High Performance Computing in Financial IT
 {% include JB/setup %}
 
 <div class="hero-unit">
+  <img src="images/logo114x114.png" align="right">
   <h1>Welcome to HIPERFIT!</h1>
 
     <p>HIPERFIT is a joint research center attempting to solve the
