@@ -38,9 +38,10 @@ English language skills and should be fluent, or within a half year
 become fluent, in Danish.
 
 The application must be submitted by e-mail to
-<science-position@science.ku.dk> (Subject: Your last name,
-**211-0324**) and be received no later than **September 6**, **2011 at
-12.00 noon local Danish time.** Please see the [full announcement at
+[science-position@science.ku.dk](mailto:science-position@science.ku.dk)
+(Subject: Your last name, **211-0324**) and be received no later than
+**September 6**, **2011 at 12.00 noon local Danish time.** Please see
+the [full announcement at
 www.offentlige-stillinger.dk](http://www.offentlige-stillinger.dk/web/cfml/framesetvisjob.cfm?englishJobs=NO&amp;nJobNo=198458&amp;nLangNo=1&amp;home=1&amp;nDataSet=1&amp;nRegionNo=3&amp;nBusArNo=-1&amp;nCateNo=-1&amp;nPubNo=-1&amp;sJobRef=&amp;sFreeTextSearch=&amp;advanced=NO)
 for the required application material and more details. In case of
 questions, please contact the center director, Professor Fritz
