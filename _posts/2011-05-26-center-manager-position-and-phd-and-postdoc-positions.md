@@ -73,9 +73,9 @@ Please find more details for these announcements on the department's
 web pages.
 
 The application must be submitted by e-mail to
-<science-position@science.ku.dk> (Subject: Your last name,
-**211-0324**) and be received no later than **July 4, 2011
-at 12.00 noon local Danish time.**
+[science-position@science.ku.dk](mailto:science-position@science.ku.dk)
+(Subject: Your last name, **211-0324**) and be received no later than
+**July 4, 2011 at 12.00 noon local Danish time.**
 
 In case of questions, please contact the center director, Professor
 Fritz Henglein, at <henglein@diku.dk>, or one of our research area
