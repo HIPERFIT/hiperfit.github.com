@@ -22,6 +22,12 @@ group: navigation
   Operations
   Research](http://www.springer.com/business+%26+management/operations+research/journal/10479)_. 2012. Forthcoming. [PDF](http://www.math.ku.dk/~rolf/FinalVersion_200812.pdf).
 
+* Cosmin E. Oancea and Lawrence Rauchwerger. Logical Inference
+  Techniques for Loop Parallelization.  In _Proceedings of
+  International Conference on Programming Language Design and
+  Implementation
+  (PLDI'12)_. 2012. China. [PDF](pdf/pldi102-oancea.pdf).
+
 * Jost Berthold, Andrzej Filinski, Fritz Henglein, Ken Friis Larsen,
   Mogens Steffensen and Brian Vinter. Functional High Performance
   Financial IT -- The HIPERFIT Research Center in Copenhagen. In
