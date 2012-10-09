@@ -10,6 +10,7 @@ group: navigation
   and Fritz Henglein. Financial software on GPUs: between
   Haskell and Fortran. In _Proceedings of the 1st ACM SIGPLAN workshop
   on Functional high-performance computing (FHPC '12)_. Copenhagen 2012.
+  [PDF](pdf/FHPC12HIPERFIT.pdf).
 
 * Michael Flænø Werk, Joakim Ahnfelt-Rønne, and Ken Friis Larsen. An
   embedded DSL for stochastic processes. In _Proceedings of the 1st
