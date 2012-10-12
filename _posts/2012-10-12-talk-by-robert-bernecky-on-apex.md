@@ -13,11 +13,10 @@ a [COPLAS](www.coplas.org)/HIPERFIT talk on compilation techniques in
 below.
 
 ---
-#### COPLAS --o-- HIPERFIT --o-- TALK --o-- COPLAS --o-- HIPERFIT --o-- TALK --o-- COPLAS
+#### COPLAS --o-- HIPERFIT --o-- TALK --o-- COPLAS --o-- HIPERFIT
 ---
 
-### The Three Beaars
-#### Basically, Every Array Allocation Reduces Speed
+### The Three Beaars -- Basically, Every Array Allocation Reduces Speed
 
 #### Robert Bernecky, Snake Island Research Inc
 
