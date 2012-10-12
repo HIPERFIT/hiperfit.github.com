@@ -56,5 +56,4 @@ performance, retargetable APL compiler for serial and parallel
 computers.
 
 Bernecky holds a BA in philosophy from SUNY at Buffalo, and an MSc in
-Computer Science from the University of Toronto.  He is a member of
-ACM and IEEE.
+Computer Science from the University of Toronto.
