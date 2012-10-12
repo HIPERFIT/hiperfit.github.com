@@ -55,7 +55,6 @@ Bernecky developed APEX -- the APL Parallel Executor -- a high-
 performance, retargetable APL compiler for serial and parallel
 computers.
 
-Bernecky holds a BA in philosophy from SUNY at Buffalo, an MSc in
-Computer Science from the University of Toronto, and is trying to
-finish his PhD before his PhD finishes him.  He is a member of ACM and
-IEEE.
+Bernecky holds a BA in philosophy from SUNY at Buffalo, and an MSc in
+Computer Science from the University of Toronto.  He is a member of
+ACM and IEEE.
