@@ -51,8 +51,8 @@ performance.
 Bernecky is the CEO of Snake Island Research Inc, a consulting and
 research firm headquartered in Toronto.
 
-Bernecky developed APEX -- the APL Parallel Executor -- a high-
-performance, retargetable APL compiler for serial and parallel
+Bernecky developed APEX -- the APL Parallel Executor -- a
+high-performance, retargetable APL compiler for serial and parallel
 computers.
 
 Bernecky holds a BA in philosophy from SUNY at Buffalo, and an MSc in
