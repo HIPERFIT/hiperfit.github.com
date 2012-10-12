@@ -7,7 +7,7 @@ tags: [Bernecky, APEX, SaC, APL]
 {% include JB/setup %}
 
 Robert Bernecky is visiting DIKU on October 22, 2012. Robert will give
-a [COPLAS](www.coplas.org)/HIPERFIT talk on compilation techniques in
+a [COPLAS](http://www.coplas.org)/HIPERFIT talk on compilation techniques in
 [APEX](http://www.snakeisland.com/apexup.htm), a compiler from APL to
 [SaC](http://www.sac-home.org/). An abstract for the talk is given
 below.
