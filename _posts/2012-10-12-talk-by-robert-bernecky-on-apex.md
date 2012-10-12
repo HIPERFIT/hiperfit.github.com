@@ -13,17 +13,17 @@ a [COPLAS](www.coplas.org)/HIPERFIT talk on compilation techniques in
 below.
 
 ---
+#### COPLAS --o-- HIPERFIT --o-- TALK --o-- COPLAS --o-- HIPERFIT --o-- TALK --o-- COPLAS
+---
 
-## Talk title: The Three Beaars
-### Basically, Every Array Allocation Reduces Speed
+### The Three Beaars
+#### Basically, Every Array Allocation Reduces Speed
 
-### Robert Bernecky
-### Snake Island Research Inc
+#### Robert Bernecky, Snake Island Research Inc
 
-### Monday October 22, 10:30am-11:30am
-### DIKU Meeting Room A/B
+#### Monday October 22, 10:30am-11:30am, DIKU Meeting Room A/B
 
-## Abstract
+### Abstract
 
 Functional array language compiler and interpreter designers try to
 reduce the number of arrays created during application execution,
