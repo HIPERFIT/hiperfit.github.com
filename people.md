@@ -18,7 +18,7 @@ group: navigation
   Professor, Department of Mathematical Sciences, University of
   Copenhagen.
 
-* [Christian
+* ![Christian Andreetta](images/andreetta.jpg) [Christian
   Andreetta](http://www.diku.dk/Ansatte/?id=354703&vis=medarbejder),
   Postdoc, Department of Computer Science, University of Copenhagen.
 
@@ -35,10 +35,10 @@ group: navigation
   Larsen](http://www.diku.dk/~kflarsen), Associate Professor,
   Department of Computer Science, University of Copenhagen.
 
-* [Marcos Vaz Salles](http://www.diku.dk/~vmarcos), Assistant
+* ![Marcos Vaz Salles](images/salles.jpg) [Marcos Vaz Salles](http://www.diku.dk/~vmarcos), Assistant
   Professor, Department of Computer Science, University of Copenhagen.
 
-* [Martin Dybdal](http://www.linkedin.com/in/martindybdal), PhD
+* ![Martin Dybdal](images/dybdal.jpg) [Martin Dybdal](http://www.linkedin.com/in/martindybdal), PhD
   Student, Department of Computer Science, University of Copenhagen.
 
 ### Functional Parallel Programming
@@ -54,10 +54,10 @@ group: navigation
 * ![Andrzej Filinski](images/100_filinski_cms.jpg) [Andrzej Filinski](http://www.diku.dk/~andrzej), Associate
   Professor, Department of Computer Science, University of Copenhagen.
 
-* [Cosmin Oancea](http://www.diku.dk/~zgh600), Postdoc, Department of
+* ![Cosmin Oancea](images/cosmin.jpg) [Cosmin Oancea](http://www.diku.dk/~zgh600), Postdoc, Department of
   Computer Science, University of Copenhagen.
 
-* [Frederik Meisner Madsen](http://www.linkedin.com/in/frederikmm),
+* ![Frederik Meisner Madsen](images/meisner.jpg) [Frederik Meisner Madsen](http://www.linkedin.com/in/frederikmm),
   PhD Student. Department of Computer Science, University of
   Copenhagen.
 
@@ -70,7 +70,7 @@ group: navigation
 * [Troels Blum](http://forskning.ku.dk/search/profil/?id=139293), PhD
   Student, Niels Bohr Institute, University of Copenhagen.
 
-* [Simon Lund](http://forskning.ku.dk/search/profil/?id=288223), PhD
+* ![Simon Lund](images/simonlund.gif) [Simon Lund](http://forskning.ku.dk/search/profil/?id=288223), PhD
   Student, Niels Bohr Institute, University of Copenhagen.
 
 ### Center Management
