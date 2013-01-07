@@ -12,10 +12,10 @@ group: navigation
   on Functional high-performance computing (FHPC '12)_. Copenhagen 2012.
   [PDF](pdf/FHPC12HIPERFIT.pdf).
 
-* Michael Flænø Werk, Joakim Ahnfelt-Rønne, and Ken Friis Larsen. An
+* Michael FlÃ¦nÃ¸ Werk, Joakim Ahnfelt-RÃ¸nne, and Ken Friis Larsen. An
   embedded DSL for stochastic processes. In _Proceedings of the 1st
   ACM SIGPLAN workshop on Functional high-performance computing (FHPC
-  '12)_. Copenhagen 2012.
+  '12)_. Copenhagen 2012. [PDF](pdf/p93-werk.pdf). [Video](http://www.youtube.com/watch?v=ZcCJ8Z11Lsk).
 
 * Anne Marie Boiden Pedersen, Alex Weissensteiner, and Rolf
   Poulsen. Financial planning for young households. In _[Annals of
@@ -35,7 +35,7 @@ group: navigation
   Papers. LNCS (to appear), Springer
   2011. [PDF](pdf/TFP2011HIPERFIT.pdf).
 
-* Michael Werk and Joakim Ahnfelt-Rønne. Pricing composable contracts
+* Michael Werk and Joakim Ahnfelt-RÃ¸nne. Pricing composable contracts
   on the GP-GPU. Master's thesis, Department of Computer Science,
   University of Copenhagen (DIKU). August
   2011. [PDF](pdf/WerkAhnfelt_2011-10ab.pdf).
@@ -50,3 +50,14 @@ group: navigation
 
 * HIPERFIT Management. Functional High-Performance Computing for
   Financial Information Technology. Project Application, 2010.
+
+### Student Project Reports
+
+* Esben Bistrup Halvorsen. Calculating Key Ratios for Financial
+  Products using Automatic Differentiation and Monte Carlo
+  Simulation. DIKU MSc Student Project. December 2012. [PDF](pdf/ad_esben.pdf).
+
+* Joakim Ahnfelt-RÃ¸nne and Michael FlÃ¦nÃ¸ Werk. _Pricing composable
+  contracts on the GP-GPU_. MSc thesis. Department of Computer Science,
+  University of Copenhagen. August
+  2011. [PDF](pdf/WerkAhnfelt_2011-10ab.pdf).

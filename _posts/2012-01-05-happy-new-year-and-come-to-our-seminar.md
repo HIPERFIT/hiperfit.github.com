@@ -11,7 +11,7 @@ First of all, we would like to wish you all a happy new year 2012!
 Besides, this is just a quick and gentle reminder for our seminar next week:
 
 On Tuesday, January 10, 3pm (moved by one week), the HIPERFIT seminar
-in Mødelokale A/B at DIKU will feature two talks by faculty members of
+in MÃ¸delokale A/B at DIKU will feature two talks by faculty members of
 HIPERFIT. Meanwhile, abstracts are available (also in the calendar),
 and here they come:
 

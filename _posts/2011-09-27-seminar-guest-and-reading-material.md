@@ -9,7 +9,7 @@ tags: [Brian Vinter, vectorisation, NumPy, Ken Friis Larsen, Drunken Sailor]
 It is time for another newsletter with forthcoming events.
 
 Our monthly seminar will be held on Tuesday October 4, 3pm (in
-Mødelokale A/B), featuring two talks by academic HIPERFIT
+MÃ¸delokale A/B), featuring two talks by academic HIPERFIT
 members.
 
 Professor Brian Vinter will introduce us to Vectorisation, with
@@ -36,7 +36,7 @@ UP1). Everybody is welcome, no registration is required.
 
 So, we hope to see you all at these talks, but we also have reading
 material for you: The master students Michael Werk and Joakim
-Ahnfelt-Rønne have finished and defended their thesis about "Pricing
+Ahnfelt-RÃ¸nne have finished and defended their thesis about "Pricing
 composable contracts on the GP-GPU" last week. They did a great job
 and obtained the highest grade.
 

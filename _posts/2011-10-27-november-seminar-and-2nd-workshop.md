@@ -2,7 +2,7 @@
 layout: post
 title: "November Seminar and 2nd workshop"
 category: news
-tags: [workshops, Kevin Hammond, Parallel Haskell, Paraforming, Mogens Høgh Jensen]
+tags: [workshops, Kevin Hammond, Parallel Haskell, Paraforming, Mogens HÃ¸gh Jensen]
 ---
 {% include JB/setup %}
 
@@ -14,7 +14,7 @@ events.
 After the internal talks in October, our November seminar features two
 external talks.
 
-First, Mogens Høgh Jensen from NBI (KU) will tell us about "Complex
+First, Mogens HÃ¸gh Jensen from NBI (KU) will tell us about "Complex
 Systems and Econophysics -- Asymmetries in the Stock
 Market". Econophysics is a relatively new area where complex systems
 modelling is applied to explain economic phenomena.
@@ -44,7 +44,7 @@ high-throughput portfolio processing, a hybrid high-performance
 database system architecture, and other talks.
 
 The workshop will be held on December 1st and 2nd in auditoriums of
-the HCØ institute (Universitetsparken 5). More details and the
+the HCÃ˜ institute (Universitetsparken 5). More details and the
 complete programme will follow.
 
 We hope to see you at both of these events!

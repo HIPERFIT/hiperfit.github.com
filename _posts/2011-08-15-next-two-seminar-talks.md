@@ -22,13 +22,13 @@ languages for financial contracts.
 
 The following seminar session has been moved away from August 29
 (previously announced), to September 6, so we can include a talk by
-our guest Jeroen Weijers from Tübingen, Germany. Jeroen (who is
+our guest Jeroen Weijers from TÃ¼bingen, Germany. Jeroen (who is
 actually from the Netherlands) works in the database group of Torsten
 Grust, his research includes applying functional programming
 techniques and code transformations to database queries. An abstract
 and more details can soon be found in the HIPERFIT calendar.
 
-As usual, time and location for seminars is 3:00pm in Mødelokale A+B,
+As usual, time and location for seminars is 3:00pm in MÃ¸delokale A+B,
 DIKU. We hope to see you for both seminar sessions!
 
 Best regards from HIPERFIT

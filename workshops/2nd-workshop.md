@@ -38,7 +38,7 @@ networking. Participation is free of charge, but for organisational
 purposes, a workshop registration is required. **Workshop registration
 online is closed now**.
 
-## Thursday, December 1st: HCØ, Auditorium 3
+## Thursday, December 1st: HCÃ˜, Auditorium 3
 
 * 08:30: **Arrival and Registration**
 
@@ -80,7 +80,7 @@ online is closed now**.
 
 * 16:30: Reception, concluding the DIKU talk
 
-## Friday, December 2nd: HCØ, Auditorium 2
+## Friday, December 2nd: HCÃ˜, Auditorium 2
 
 * 09:00: [On Teaching Parallelism in Introductory CS Courses at
   CMU](../pdf/HIPERFIT-2-harper.pdf). _Robert Harper, Carnegie Mellon
@@ -114,7 +114,7 @@ src="../images/partnerlogos/cfir.gif"
 width="150" /></a>
 
 The 2nd Hiperfit 2011 workshop will be held at the University of
-Copenhagen, North Campus, in the HCØ building - next to the Department
+Copenhagen, North Campus, in the HCÃ˜ building - next to the Department
 of Computer Science (DIKU). Please follow the signs saying "2nd
 HIPERFIT Workshop" when approaching the DIKU building.
 

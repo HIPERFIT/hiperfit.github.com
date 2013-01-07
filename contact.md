@@ -7,7 +7,7 @@ layout: page
 * HIPERFIT Research Center  
 c/o Department of Computer Science (DIKU)  
 Universitetsparken 1  
-DK-2100 Copenhagen Ø  
+DK-2100 Copenhagen Ã˜  
 Denmark  
 Email: info at hiperfit.dk
 
@@ -15,7 +15,7 @@ Email: info at hiperfit.dk
 Professor Fritz Henglein  
 Department of Computer Science (DIKU)  
 Universitetsparken 1  
-DK-2100 Copenhagen Ø  
+DK-2100 Copenhagen Ã˜  
 Denmark  
 Office: +45 3532 1463  
 Cell: +45 3058 9576  
@@ -25,7 +25,7 @@ Email: henglein at diku.dk
 Associate Professor Martin Elsman  
 Department of Computer Science (DIKU)  
 Universitetsparken 1  
-DK-2100 Copenhagen Ø  
+DK-2100 Copenhagen Ã˜  
 Denmark  
 Cell: +45 2612 2212  
 Email: mael at diku.dk

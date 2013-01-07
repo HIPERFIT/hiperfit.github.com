@@ -26,22 +26,22 @@ programming languages, high-performance systems, and application
 experts from the financial sector.
     </p>
     <p><a class="btn btn-primary" href="research.html">Research &raquo;</a></p>
-  </div><!--/span-->
+  </div>
   <div class="span4">
     <h4>Hosted by KU</h4>
     <p>The HIPERFIT research center is hosted by the <a href="http://www.ku.dk/english">University of Copenhagen</a> and includes a number of <a href="partners.html">funding partners</a>
     from the Danish financial industry. The center is open for new
     collaborators from industry and commerce.</p>
     <p><a class="btn btn-primary" href="about.html">Read more &raquo;</a></p>
-  </div><!--/span-->
+  </div>
   <div class="span4">
     <h4>Workshops</h4>
     <p>The HIPERFIT Research Center holds biannual workshops to foster
 interdisciplinary cooperation and attract researchers and
 practicioners for future cooperation. </p>
     <p><a class="btn btn-primary" href="workshops.html">View details &raquo;</a></p>
-  </div><!--/span-->
-</div><!--/row-->
+  </div>
+</div>
 
 <div class="row-fluid">
   <div class="span4">
@@ -49,5 +49,5 @@ practicioners for future cooperation. </p>
     <p>We are continuously looking for students interested in contributing to our research through study projects, working on particular aspects of ongoing research. If you are interested in a study project, please talk to project members for more information.
     </p>
     <p><a class="btn btn-primary" href="researchthemes.html">Themes &raquo;</a></p>
-  </div><!--/span-->
-</div><!--/row-->
+  </div>
+</div>

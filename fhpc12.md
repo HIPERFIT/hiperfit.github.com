@@ -77,14 +77,14 @@ ACM Digital Library.</p>
 <li>Manuel Chakravarty, University of New South Wales, Australia</li>
 <li>Andrzej Filinski, University of Copenhagen, Denmark</li>
 <li>Clemens Grelck, University of Amsterdam, Netherlands</li>
-<li>Gaétan Hains, University of Paris-Est, France</li>
+<li>GaÃ©tan Hains, University of Paris-Est, France</li>
 <li>Zhenjiang Hu, National Institute of Informatics, Japan</li>
 <li>Mike Giles, University of Oxford, UK</li>
 <li>Neal Glew, Intel, USA</li>
 <li>Ryan Newton, Indiana University, USA</li>
 <li>Satnam Singh, Google, USA</li>
 <li>Phil Trinder, Heriot-Watt University, UK</li>
-<li>Viktória Zsók, Eötvös Loránd University, Hungary</li>
+<li>ViktÃ³ria ZsÃ³k, EÃ¶tvÃ¶s LorÃ¡nd University, Hungary</li>
 </ul>
 
 <h4>Workshop programme</h4>
@@ -106,7 +106,7 @@ Access-Execute Descriptors to Expand the Parallel Code Synthesis Design Space</a
 <dd>Jocelyn Serot; Greg Michaelson</dd>
 
 <dt><a href="fhpc12-prog.html#fhpc04">Usage of Petri Nets for High Performance Computing</a></dt>
-<dd>Stanislav Böhm; Marek B&#283;hálek</dd><br>
+<dd>Stanislav BÃ¶hm; Marek B&#283;hÃ¡lek</dd><br>
 
 <dt><a href="fhpc12-prog.html#fhpc13">Haskell vs. F# vs. Scala: A High-level Language Features and Parallelism Support Comparison</a></dt>
 <dd>Prabhat Totoo; Pantazis Deligiannis; Hans-Wolfgang Loidl</dd>
@@ -121,7 +121,7 @@ Access-Execute Descriptors to Expand the Parallel Code Synthesis Design Space</a
 <dd>Luca Toscano; Gabriele D'Angelo; Moreno Marzolla</dd>
 
 <dt><a href="fhpc12-prog.html#fhpc11">An Embedded DSL for Stochastic Processes</a></dt>
-<dd>Michael Werk; Joakim Ahnfelt-Rønne; Ken Friis Larsen</dd>
+<dd>Michael Werk; Joakim Ahnfelt-RÃ¸nne; Ken Friis Larsen</dd>
 
 
 </dl>
