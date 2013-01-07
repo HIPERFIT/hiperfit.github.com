@@ -11,7 +11,7 @@ you still have more than one week, as we are again postponing the
 seminar by one week.
 
 The seminar will be held on **Tuesday, February 10, 3pm**
-(moved by one week) in Mødelokale A/B at DIKU. It features two talks
+(moved by one week) in MÃ¸delokale A/B at DIKU. It features two talks
 by faculty members:
 
 - Marcos Vaz Salles: _Making Time-stepped Applications Tick in the Cloud_

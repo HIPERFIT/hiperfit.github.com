@@ -35,7 +35,7 @@ required. Please fill out this [form to
 register](http://www.diku.dk/begivenheder/2011/2nd_hiperfit/registration).
 
 The 2nd HIPERFIT 2011 workshop will be held at the University of
-Copenhagen, North Campus, in the HCØ building next to the Department
+Copenhagen, North Campus, in the HCÃ˜ building next to the Department
 of Computer Science (DIKU) - a [map can be found at the department
 pages](http://www.diku.dk/english/contact/findvej_kopi_kopi). Please
 follow the signs saying "2nd HIPERFIT Workshop" when approaching the

@@ -14,7 +14,7 @@ seminar will not be on Tuesday, but on **Friday, June 8**, and it
 The seminar features two talks from 14:00 to 15:30. After the talks,
 refreshments will be served.
 
-The location is the usual one: Mødelokale A/B at DIKU,
+The location is the usual one: MÃ¸delokale A/B at DIKU,
 Universitetsparken 1.
 
 First, we are happy to have Kostas Tzoumas from the Technical

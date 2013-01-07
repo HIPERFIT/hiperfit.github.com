@@ -11,7 +11,7 @@ for a quick update on HIPERFIT and upcoming
 activities.
 
 Our next seminar will be held on Tuesday, April
-24, 3pm, in the usual room Mødelokale A/B at DIKU, Universitetsparken
+24, 3pm, in the usual room MÃ¸delokale A/B at DIKU, Universitetsparken
 1. We are looking forward to the following two talks:
 
 - Martin Rehr will give us an introduction to MiG, a Grid middleware

@@ -13,7 +13,7 @@ Due to the public holiday tomorrow, we are again moving our seminar by
 one week.
 
 The next seminar will be on Tuesday, May 8, 3pm, in
-Mødelokale A/B at DIKU, Universitetsparken 1.
+MÃ¸delokale A/B at DIKU, Universitetsparken 1.
 
 We could win two external speakers who will talk to us about exciting
 research topics related to HIPERFIT.
@@ -75,11 +75,11 @@ We are looking forward to seeing you at our May seminar.
 
 Best regards from HIPERFIT
 
-\[1\] Michael Christensen and Thorbjørn Knudsen. The
+\[1\] Michael Christensen and ThorbjÃ¸rn Knudsen. The
 Architecture of Knowledge Organization. In _Knowledge
 Governance: Processes and Perspectives (red. Nicolai J. Foss, Snejina
 Michailova; Oxford University Press):47-80_, 2009.
 
-\[2\] Michael Christensen and Thorbjørn Knudsen. Design of
+\[2\] Michael Christensen and ThorbjÃ¸rn Knudsen. Design of
 decision-making organizations. In _Management Science, 56(1):71-89_,
 January 2010.

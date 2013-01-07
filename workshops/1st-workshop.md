@@ -35,7 +35,7 @@ that.
 * 9:00: Welcome and introduction (Fritz Henglein, DIKU)
 
 * 9:10: Invited Talk: Logic-based modeling and analysis tools from Microsoft
-Research (Nikolaj Bjørner, MSR Redmond)
+Research (Nikolaj BjÃ¸rner, MSR Redmond)
 
 * 9:45: Break
 
@@ -51,7 +51,7 @@ computing help? (Kourosh Rasmussen, IMM/DTU)
 * 11:20: Data-Parallel Functional Programming (Andrzej Filinski, DIKU)
 
 * 11:45: Parallel Contract Valuation (Michael Werk &amp; Joakim
-Rønne, DIKU)
+RÃ¸nne, DIKU)
 
 * 12:10: GPU Parallelisation of Non-Linear Pricing Problems (Jesper Andreasen, Danske Bank)
 
@@ -63,7 +63,7 @@ Rønne, DIKU)
 
 ## Selected abstracts:
 
-* **Nikolaj Bjørner (MSR Redmond): Logic-based modeling and analysis tools
+* **Nikolaj BjÃ¸rner (MSR Redmond): Logic-based modeling and analysis tools
 from Microsoft Research.**
 
   This talk takes as starting point the symbolic
@@ -90,7 +90,7 @@ programming language F#. It uses Z3 to check type checking obligations
 arising from refinement types. I demonstrate F* on a set of functional
 program examples.
 
-  Nikolaj Bjørner is a Senior Researcher and head of the Foundations of
+  Nikolaj BjÃ¸rner is a Senior Researcher and head of the Foundations of
 Software Engineering group at Microsoft Research Redmond.
 
 * **Jost Berthold (DIKU): The HIPERFIT Research
@@ -180,7 +180,7 @@ associate professor at DIKU, heading the Functional Programming
 research area in HIPERFIT. He holds a PhD in computer science from
 Carnegie Mellon University.
 
-* **Michael Werk and Joakim Rønne (DIKU): Parallel Contract Valuation (work in
+* **Michael Werk and Joakim RÃ¸nne (DIKU): Parallel Contract Valuation (work in
 progress).**
 
   As previously shown by Peyton Jones and Eber
@@ -193,7 +193,7 @@ language for Haskell which is simultaneously expressive enough to
 implement observables, models and pricers and which supports
 Monte Carlo simulation on a GPGPU.
 
-  Michael Werk and Joakim Ahnfelt-Rønne are final-year master
+  Michael Werk and Joakim Ahnfelt-RÃ¸nne are final-year master
 students&nbsp;in computer science at DIKU, with particular interests
 in programming&nbsp;languages, functional programming, parallelism and
 concurrency.

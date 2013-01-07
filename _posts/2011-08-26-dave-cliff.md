@@ -31,7 +31,7 @@ Group. His research for HP included early work, in the mid-to-late
 Zero-Intelligence Plus (ZIP) adaptive automated trading strategy. In
 2001 a team of researchers at IBM showed that ZIP algorithmic traders
 consistently outperform human traders. In October 2005, Cliff was
-appointed Director of the £10m EPSRC-funded five-year UK national
+appointed Director of the Â£10m EPSRC-funded five-year UK national
 research and training initiative in the science and engineering of
 Large-Scale Complex IT Systems (the LSCITS Initiative). He is author
 or co-author on over 70 academic publications, and inventor or

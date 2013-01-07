@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta charset="utf-8" />
     <meta http-equiv="Cache-Control" content="no-cache" />
     <title>{{ page.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
@@ -51,13 +51,13 @@
           <a class="brand" href="{{ HOME_PATH }}"><img src="{{ BASE_PATH }}/images/logo20x20.png">&nbsp;{{ site.title }}</a>
           <div class="nav-collapse collapse">
 	    <ul class="nav">
-	      {% assign pages_list = site.pages | sort %}
+	      {% assign pages_list = site.pages %}
               {% assign group = 'navigation' %}
 	      {% include JB/pages_list %}
 	    </ul>
 	    <ul class="nav pull-right">
 	      <li class="divider-vertical"></li>
-	      {% assign pages_list = site.pages | sort %}
+	      {% assign pages_list = site.pages %}
 	      {% assign group = 'navigation2' %}
 	      {% include JB/pages_list %}
 	    </ul>

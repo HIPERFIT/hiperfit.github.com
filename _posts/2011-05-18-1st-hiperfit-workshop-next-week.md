@@ -2,7 +2,7 @@
 layout: post
 title: "1st HIPERFIT workshop next week"
 category: news
-tags: [workshops, Nikolaj Bjørner]
+tags: [workshops, Nikolaj BjÃ¸rner]
 ---
 {% include JB/setup %}
 
@@ -18,7 +18,7 @@ topics.
 
 - 08:30-09:00: Arrival and Registration
 - 09:00-09:10: Welcome and introduction
-- 09:10-09:45: Invited talk: Nikolaj Bjørner (MSR Redmond)
+- 09:10-09:45: Invited talk: Nikolaj BjÃ¸rner (MSR Redmond)
 - 09:45-10:00: Break
 - 10:00-11:05: Session 1: Overview, Modeling (3 contributed talks)
 - 11:05-11:20: Break

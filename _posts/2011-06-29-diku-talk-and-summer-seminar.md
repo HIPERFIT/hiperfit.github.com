@@ -47,7 +47,7 @@ and August.
   parallelism, by Fritz Henglein (about APL and SETL) and Andrzej
   Filinski (about NESL).
 
-Time and location for all seminars is 3:00pm in Mødelokale A+B,
+Time and location for all seminars is 3:00pm in MÃ¸delokale A+B,
 DIKU. As usual, you can find these events in the HIPERFIT calendar.
 
 And finally: The application deadline for some open positions within

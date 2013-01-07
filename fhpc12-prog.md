@@ -105,7 +105,7 @@ operate on fine-grained data.
 
 <h4><a name="fhpc09">Harnessing Parallelism in FPGAs Using the Hume Language</a></h4>
 
-_Jocelyn Sérot (Blaise Pascal University, France);
+_Jocelyn SÃ©rot (Blaise Pascal University, France);
 Greg Michaelson (Heriot-Watt University, UK)_
 
 We propose to use Hume, a general purpose, functionally inspired,
@@ -121,7 +121,7 @@ obtained with a very simple perceptron application.
 
 <h4><a name="fhpc04">Usage of Petri Nets for High Performance Computing</a></h4>
 
-_Stanislav Böhm, Marek B&#283;hálek (V&#352;B&ndash;Technical University of Ostrava, Czech Republic)_
+_Stanislav BÃ¶hm, Marek B&#283;hÃ¡lek (V&#352;B&ndash;Technical University of Ostrava, Czech Republic)_
 
 Petri nets are a well established graphical and mathematical modelling
 language for a description of concurrent systems. The main scope of
@@ -274,7 +274,7 @@ the well known PHOLD benchmark.</p>
 
 <h4><a name="fhpc11">An Embedded DSL for Stochastic Processes</a></h4>
 
-_Michael Flænø Werk, Joakim Ahnfelt-Rønne, Ken Friis Larsen (University of Copenhagen, Denmark)_
+_Michael FlÃ¦nÃ¸ Werk, Joakim Ahnfelt-RÃ¸nne, Ken Friis Larsen (University of Copenhagen, Denmark)_
 
 We present a domain specific language embedded in Haskell for
 specifying stochastic processes, called <i>SPL</i>. It is designed
