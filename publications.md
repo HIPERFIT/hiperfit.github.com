@@ -6,6 +6,14 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Kourosh M. Rasmussen, Claus A. Madsen, and Rolf Poulsen. Can
+  Households Benefit from Stochastic Programming Models? An Empirical
+  Study of Mortgage Refinancing in Denmark. To appear in
+  _Computational Management Science_. 2013.
+
+* Kourosh M. Rasmussen, Rolf Poulsen, and Søren Kyhl.  Risikospredning
+  med tolagsbelåning. In _Finans/Invest, Issue 312_. December 2012.
+
 * Cosmin E. Oancea, Christian Andreetta, Jost Berthold, Alain Frisch,
   and Fritz Henglein. Financial software on GPUs: between
   Haskell and Fortran. In _Proceedings of the 1st ACM SIGPLAN workshop
