@@ -57,6 +57,9 @@ group: navigation
   Products using Automatic Differentiation and Monte Carlo
   Simulation. DIKU MSc Student Project. December 2012. [PDF](pdf/ad_esben.pdf).
 
+* Frederik M. Madsen. Flattening Nested Data Parallelism. DIKU MSc
+  Student Project. February, 2012. [PDF](pdf/nested.pdf).
+
 * Joakim Ahnfelt-Rønne and Michael Flænø Werk. _Pricing composable
   contracts on the GP-GPU_. MSc thesis. Department of Computer Science,
   University of Copenhagen. August
