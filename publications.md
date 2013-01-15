@@ -14,6 +14,17 @@ group: navigation
 * Kourosh M. Rasmussen, Rolf Poulsen, and Søren Kyhl.  Risikospredning
   med tolagsbelåning. In _Finans/Invest, Issue 312_. December 2012.
 
+* Antonov, L., Andreetta, C., Hamelryck, T.  An efficient parallel GPU
+  evaluation of small angle X-ray scattering profiles. In _5th Int'l
+  Joint Conference on Biomedical Engineering Systems and Technologies
+  (BIOSTEC 2012)_.  Algarve, Portugal. 2012.
+
+* Antonov, LD., Andreetta, C., Hamelryck, T. Parallel GPGPU evaluation
+  of small angle X-ray scattering profiles in a Markov chain Monte
+  Carlo framework. To appear in _Lecture notes in computer science:
+  Communications in Computer and Information Science,
+  Springer-Verlag_. 2012.
+
 * Cosmin E. Oancea, Christian Andreetta, Jost Berthold, Alain Frisch,
   and Fritz Henglein. Financial software on GPUs: between
   Haskell and Fortran. In _Proceedings of the 1st ACM SIGPLAN workshop
