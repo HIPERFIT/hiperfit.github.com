@@ -11,7 +11,7 @@ Andreas Magnussen from [Velocytech](http://www.velocytech.com/) is
 giving a talk:
 
 - __15:00-16:00. FPGA technology for High performance computing with low
-  latency (Andreas Magnussen, Velocytech).__
+  latency (Andreas Magnussen, CTO, Velocytech).__
 
 - __16:00-16:30. A light refreshment, served by HIPERFIT.__
 
