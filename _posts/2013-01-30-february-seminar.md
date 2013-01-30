@@ -7,10 +7,10 @@ tags : [seminar, Velocytech, FPGA, Andreas Magnussen]
 
 The HIPERFIT February 2013 seminar is planned for Tuesday, February 5
 from 15:00 to 16:30 at the DIKU small auditorium (Lille Aud), where
-Velocytech is giving a talk:
+Andreas Magnussen from Velocytech is giving a talk:
 
 - 15:00-16:00. FPGA technology for High performance computing with low
-  latency (Andreas Magnussen(*), Velocytech).
+  latency (Andreas Magnussen, Velocytech).
 
 - 16:00-16:30. A light refreshment, served by HIPERFIT.
 
@@ -24,7 +24,9 @@ Martin Elsman
 
 HIPERFIT Center Manager
 
-==FPGA technology for High performance computing with low latency
+---
+
+__FPGA technology for High performance computing with low latency__
 
 Andreas Magnussen, Velocytech
 
@@ -45,7 +47,7 @@ design and test issues that relates to FPGA development.
 
 Scientific host: Brian Vinter, HIPERFIT
 
-(*) Andreas Magnussen has 30 years of professional international
+*Andreas Magnussen* has 30 years of professional international
 working experience in the electronic industry (data communication and
 telecommunication), where he has held senior positions within
 engineering (hardware, software, ASIC and systems), marketing and
