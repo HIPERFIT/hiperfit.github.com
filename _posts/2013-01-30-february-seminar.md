@@ -43,20 +43,22 @@ can be addressed in FPGA systems today and what network and system
 performance improvements that can be achieved. We will also discuss
 design and test issues that relates to FPGA development.
 
+Scientific host: Brian Vinter, HIPERFIT
+
 (*) Andreas Magnussen has 30 years of professional international
 working experience in the electronic industry (data communication and
 telecommunication), where he has held senior positions within
 engineering (hardware, software, ASIC and systems), marketing and
 management.
  
-===Education:
+Education:
 
 * E.E. (elektronik mekaniker) in 1984 from Brüel & Kjær A/S.
 * M.Sc. E.E. (civilingeniør) in 1991 from DTU, Technical University of Denmark.
 * Ph.D. in 1997 from DTU (ATM switching system).
 * Executive MBA (MMT) in 2005 from DTU&TEM.
 
-===Key experience and credentials: 
+Key experience and credentials: 
 
 Tele and data networks, software systems, communication protocols,
 communication components, system design, marketing and
