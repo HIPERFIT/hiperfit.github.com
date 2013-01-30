@@ -55,8 +55,8 @@ management.
  
 Education:
 
-* E.E. (elektronik mekaniker) in 1984 from Brüel & Kjær A/S.
-* M.Sc. E.E. (civilingeniør) in 1991 from DTU, Technical University of Denmark.
+* E.E. (elektronik mekaniker) in 1984 from BrÃ¼el & KjÃ¦r A/S.
+* M.Sc. E.E. (civilingeniÃ¸r) in 1991 from DTU, Technical University of Denmark.
 * Ph.D. in 1997 from DTU (ATM switching system).
 * Executive MBA (MMT) in 2005 from DTU&TEM.
 
@@ -71,7 +71,7 @@ tele and data communications. Re-defined ASIC strategy and ASIC team
 rebuilding at Intel (2001). CEO at IPBlaze (2001). CTO at Velocytech
 (2012).
 
-* Brüel & Kjær (1982-1991)
+* BrÃ¼el & KjÃ¦r (1982-1991)
 * DTU (1991-1992)
 * NKT Elektronik/DSC/Tellabs (1992-2000)
 * Intel (2000-2001)
