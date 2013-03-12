@@ -6,6 +6,12 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Mischa Dieterle, Thomas Horstmeyer, Jost Berthold, and Rita Loogen.
+  Iterating Skeletons - Structured Parallelism by Composition.
+  In _24th Symposium on the Implementation and Application of 
+  Functional Languages (IFL 2012). Selected for publication in LNCS 
+  revised papers, Springer Verlag. 2013.
+
 * Kourosh M. Rasmussen, Claus A. Madsen, and Rolf Poulsen. Can
   Households Benefit from Stochastic Programming Models? An Empirical
   Study of Mortgage Refinancing in Denmark. To appear in
@@ -83,3 +89,7 @@ group: navigation
   contracts on the GP-GPU_. MSc thesis. Department of Computer Science,
   University of Copenhagen. August
   2011. [PDF](pdf/WerkAhnfelt_2011-10ab.pdf).
+
+* Martin Dybdal. _An OpenCL back-end for Accelerate_. DIKU MSc Student
+  Project. May 2011. 
+  [PDF](pdf/acc-opencl2011.pdf). [POSTER](pdf/accelerate-poster.pdf).
