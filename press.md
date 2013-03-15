@@ -8,9 +8,9 @@ group: navigation
 Articles and Media Online:
 
 * 2013-03-05: HIPERFIT is mentioned in supplement [Fremtidens Bank og Forsikring](pdf/fremtidensbank.pdf)
-  of [Børsen](http://www.borsen.dk).
+  of [Børsen](http://www.borsen.dk). [Entire supplement](pdf/Fremtidens_Bank_DK_2013_20s.pdf).
 
-* 2011-03-01: HIPERFIT is mentioned in supplement [Fremtidens Bank og Forsikring](http://www.fremtidensbank.dk/Framtidens_Bank_2011_28s.pdf)
+* 2011-03-01: HIPERFIT is mentioned in supplement [Fremtidens Bank og Forsikring](http://www.fremtidensbank.dk/Fremtidens_Bank_2011_28s.pdf)
   of [Børsen](http://www.borsen.dk).
 
 * 2011-02-16: 7 minute interview about HIPERFIT. In 
