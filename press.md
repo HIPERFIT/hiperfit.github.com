@@ -7,8 +7,11 @@ group: navigation
 
 Articles and Media Online:
 
+* 2013-03-05: HIPERFIT is mentioned in supplement [Fremtidens Bank og Forsikring](pdf/fremtidensbank.pdf)
+  of [Børsen](http://www.borsen.dk).
+
 * 2011-03-01: HIPERFIT is mentioned in supplement [Fremtidens Bank og Forsikring](http://www.fremtidensbank.dk/Framtidens_Bank_2011_28s.pdf)
-  of [BÃ¸rsen](http://www.borsen.dk).
+  of [Børsen](http://www.borsen.dk).
 
 * 2011-02-16: 7 minute interview about HIPERFIT. In 
   [P1 "Orientering" in the Danish Radio](http://www.dr.dk/P1/orientering/indslag/2011/02/16/160537_1_1_1_1_1_1.htm).
@@ -23,7 +26,7 @@ Articles and Media Online:
 * 2010-12-03: HIPERFIT in an [article at finanswatch.dk](http://finanswatch.dk/Finansnyt/Pengeinstitutter/article2265917.ece),
   about the need for more computing power.
 
-* 2010-11-30: An article in [BÃ¸rsen](http://www.borsen.dk), "Ny dansk
+* 2010-11-30: An article in [Børsen](http://www.borsen.dk), "Ny dansk
   forskning skal reducere risici i banksektoren". Also see this
   [summary at finansforbundet.dk](http://www.finansforbundet.dk/?mId=1008&amp;ArtId=179698).
 
