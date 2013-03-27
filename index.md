@@ -46,7 +46,7 @@ practicioners for future cooperation. </p>
 <div class="row-fluid">
   <div class="span4">
     <h4>Student Projects</h4>
-    <p>We are continuously looking for students interested in contributing to our research through study projects, working on particular aspects of ongoing research. If you are interested in a study project, please talk to project members for more information.
+    <p>We are continuously looking for students interested in student projects within the research areas of HIPERFIT. If you are interested in a student project, please talk to project members for more information.
     </p>
     <p><a class="btn btn-primary" href="researchthemes.html">Themes &raquo;</a></p>
   </div>
