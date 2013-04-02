@@ -1,22 +1,21 @@
 ---
-title: Workshop on Functional High-Performance Computing (FHPC'13)
+title: 2nd Workshop on Functional High-Performance Computing (FHPC'13)
 layout: page
 ---
 
 <img src="http://www.icfpconference.org/icfp2013/img/boston.png"
-     style="float:right;width:50%" >
+     style="float:right;width:300px" >
 <h2 class="c">The 2nd ACM SIGPLAN Workshop on<br/>
 <i>Functional High-Performance Computing</i>, FHPC'13
 </h2>
 
 <h3 class="c">Boston, Massachusets, US <br/>
 23 September 2013<br/><br/>
-Co-located with the
-
-<br style="clear:both"/>
+Co-located with the<br/>
 <a href="http://icfpconference.org/icfp2013/"><i>
 18th ACM SIGPLAN International Conference on Functional Programming</i></a> (ICFP 2013)
 </h3>
+<br style="clear:both"/>
 
 <h4>Background</h4>
 <p>
@@ -102,12 +101,12 @@ on the PAC programme, see
 
 <h5>Programme committee</h5>
 <ul>
-<li>currently being established...
+<li style="font-weight:bold">currently being established...</li>
 </ul>
 
 <h5>Steering Group and Organisers</h5>
 <ul>
-<li>currently being extended...
+<li style="font-weight:bold">currently being extended...</li>
 <li>Fritz Henglein, Dept. of Computer Science (DIKU), University of Copenhagen, Denmark;
 henglein<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->\
 <!-- nomorespam --><!-- nospam -->.<!-- nomorespam -->dk</li>
@@ -118,7 +117,6 @@ c.grelck (at) uva.nl</li>
 <li>Jost Berthold, Dept. of Computer Science (DIKU), University of Copenhagen, Denmark;
 henglein<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->\
 <!-- nomorespam --><!-- nospam -->.<!-- nomorespam -->dk</li>
--->
 </ul>
 
 <h4>Workshop programme</h4>
