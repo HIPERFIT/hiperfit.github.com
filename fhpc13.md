@@ -3,8 +3,13 @@ title: 2nd Workshop on Functional High-Performance Computing (FHPC'13)
 layout: page
 ---
 
+<div style="float:right;width:300px;text-align:center;font-size:smaller">
 <img src="http://www.icfpconference.org/icfp2013/img/boston.png"
-     style="float:right;width:300px" >
+     style="width:300px"><br/>
+Boston, Massachusets, US<br/>
+Photo credit: <a href="http://www.flickr.com/people/werkunz/">Werner Kunz</a>
+</div>
+
 <h2 class="c">The 2nd ACM SIGPLAN Workshop on<br/>
 <i>Functional High-Performance Computing</i>, FHPC'13
 </h2>
@@ -16,6 +21,8 @@ Co-located with the<br/>
 18th ACM SIGPLAN International Conference on Functional Programming</i></a> (ICFP 2013)
 </h3>
 <br style="clear:both"/>
+<span style="font-weight:bold">
+Submission deadline: 14 June 2013 (anywhere on Earth)</span>
 
 <h4>Background</h4>
 <p>
@@ -38,10 +45,7 @@ computationally challenging problems can serve as highly transparent,
 maintainable, and portable code that approaches (or even exceeds) the 
 performance of machine-oriented imperative implementations.</p>
 
-<p>FHPC 2013 is the second workshop in the FHPC series. 
-<a href="http://hiperfit.dk/fhpc12.html">
-The first workshop was run in 2012</a>, affiliated with ICFP in Copenhagen.
-<br>
+<p>
 Each FHPC workshop proposes a particular theme for applications where 
 high-performance computing and/or functional programming technology
 can be applied. For FHPC 2013, the theme is "Large-Scale Simulation",
@@ -53,11 +57,17 @@ Declarative languages have potential to radically change development
 practice and workflow for simulation software in these areas.
 Hence, we particularly encourage submission of application-oriented
 contributions in the area of simulation. 
-<br>
+<br/>
 As a general rule, while proposing the theme, the workshop welcomes
 submissions from all relevant application domains as well as those
 describing general work on the theory and practice of declarative
 high-performance computing.</p>
+
+<p>
+FHPC 2013 is the second workshop in the FHPC series. 
+<a href="http://hiperfit.dk/fhpc12.html">
+The first workshop was run in 2012</a>, affiliated with ICFP in Copenhagen.
+</p>
 
 <h4>Submission and publication</h4>
 
