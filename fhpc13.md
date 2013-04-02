@@ -108,15 +108,11 @@ on the PAC programme, see
 <ul>
 <li style="font-weight:bold">currently being extended...</li>
 <li>Fritz Henglein, Dept. of Computer Science (DIKU), University of Copenhagen, Denmark;
-henglein<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->\
-<!-- nomorespam --><!-- nospam -->.<!-- nomorespam -->dk</li>
+henglein<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->.<!-- nomorespam -->dk</li>
 <li>Clemens Grelck, Informatics Instititute, University of Amsterdam, Netherlands; 
-c.grelck<!-- @@@ -->@<!-- @@@ -->uva<!-- nospam -->\
-<!-- nomorespam --><!-- nospam -->.<!-- nomorespam -->nl</li>
-c.grelck (at) uva.nl</li>
+c.grelck<!-- @@@ -->@<!-- @@@ -->uva<!-- nospam -->.<!-- nomorespam -->nl</li>
 <li>Jost Berthold, Dept. of Computer Science (DIKU), University of Copenhagen, Denmark;
-henglein<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->\
-<!-- nomorespam --><!-- nospam -->.<!-- nomorespam -->dk</li>
+henglein<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->.<!-- nomorespam -->dk</li>
 </ul>
 
 <h4>Workshop programme</h4>
