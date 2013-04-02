@@ -50,10 +50,13 @@ See the <a href="http://www.sigplan.org/authorInformation.htm">SIGPLAN Author In
 adhere to ACM SIGPLAN's <a href="http://www.sigplan.org/republicationpolicy.htm">republication policy</a>. Submission deadlines and 
 page limit are firm. </p>
 
-<p>Accepted papers will be published by the ACM and will appear in the 
-ACM Digital Library.</p>
+<p><a href="http://dl.acm.org/toc.cfm?id=2364474">
+Accepted papers have been published by the ACM in the 
+ACM Digital Library.</a></p>
 
+<!--
 <p>The <a href="https://www.easychair.org/conferences/?conf=fhpc2012">submission site</a> is now open!</p>
+-->
 
 <h4>Important dates</h4>
 <ul>
