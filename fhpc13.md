@@ -122,7 +122,7 @@ henglein<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->.<!-- nomorespam -->dk</li>
 <li>Clemens Grelck, Informatics Instititute, University of Amsterdam, Netherlands; 
 c.grelck<!-- @@@ -->@<!-- @@@ -->uva<!-- nospam -->.<!-- nomorespam -->nl</li>
 <li>Jost Berthold, Dept. of Computer Science (DIKU), University of Copenhagen, Denmark;
-henglein<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->.<!-- nomorespam -->dk</li>
+berthold<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->.<!-- nomorespam -->dk</li>
 </ul>
 
 <h4>Workshop programme</h4>
