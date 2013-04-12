@@ -105,24 +105,23 @@ for child-care expenses during the meeting or for travel costs for
 companions of SIGPLAN members with physical disabilities, as well as for
 travel from locations outside of North America and Europe. For details
 on the PAC programme, see 
-<a href="http://www.sigplan.org/PAC.htm">http://www.sigplan.org/PAC.htm"</a>.</p>
+<a href="http://www.sigplan.org/PAC.htm">http://www.sigplan.org/PAC.htm</a>.</p>
 
 <h4>Workshop organisation</h4>
 
 <h5>Programme committee</h5>
 <ul>
 <li style="font-weight:bold">currently being established...</li>
+<li>Umut Acar (co-chair), Carnegie Mellon University, US</li>
+<li>Jost Berthold (co-chair), University of Copenhagen, DK</li>
 </ul>
 
-<h5>Steering Group and Organisers</h5>
+<h5>General Chairs</h5>
 <ul>
-<li style="font-weight:bold">currently being extended...</li>
 <li>Fritz Henglein, Dept. of Computer Science (DIKU), University of Copenhagen, Denmark;
 henglein<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->.<!-- nomorespam -->dk</li>
 <li>Clemens Grelck, Informatics Instititute, University of Amsterdam, Netherlands; 
 c.grelck<!-- @@@ -->@<!-- @@@ -->uva<!-- nospam -->.<!-- nomorespam -->nl</li>
-<li>Jost Berthold, Dept. of Computer Science (DIKU), University of Copenhagen, Denmark;
-berthold<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->.<!-- nomorespam -->dk</li>
 </ul>
 
 <h4>Workshop programme</h4>
@@ -133,7 +132,7 @@ The <a href="fhpc13.html">detailed programme</a> will be available here after th
 <dt><strong>Keynote:</strong> <a href="fhpc13-prog.html#fhpcXX">TITLE</a></dt>
 <dd>SPEAKER</dd>
 
-<dt><a href="fhpc12-prog.html#fhpcXX">TITLE</a></dt>
+<dt><a href="fhpc13-prog.html#fhpcXX">TITLE</a></dt>
 <dd>AUTHORS</dd>
 
 </dl>
