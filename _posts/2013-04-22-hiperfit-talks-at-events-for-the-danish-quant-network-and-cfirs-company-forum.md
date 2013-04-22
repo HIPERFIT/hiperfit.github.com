@@ -7,7 +7,7 @@ tags: [CFIR,talk]
 {% include JB/setup %}
 
 [Martin Elsman](http://www.elsman.com) was giving a [presentation
-about HIPERFIT activities](pdf/elsman_cfa.pdf) on April 16 for the
+about HIPERFIT activities](../pdf/elsman_cfa.pdf) on April 16 for the
 Danish Quant Network (under [CFA
 Denmark](http://www.finansanalytiker.dk/)) and a shorter version of
 the same presentation on April 17 for the [CFIR Company
