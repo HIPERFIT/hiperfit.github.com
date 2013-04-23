@@ -111,10 +111,26 @@ on the PAC programme, see
 
 <h5>Programme committee</h5>
 <ul>
-<li style="font-weight:bold">currently being established...</li>
-<li>Umut Acar (co-chair), Carnegie Mellon University, US</li>
-<li>Jost Berthold (co-chair), University of Copenhagen, DK</li>
-</ul>
+<li>Umut Acar (co-chair), Carnegie Mellon University, PA, USA
+</li><li>Arvind, MIT, MA, USA
+</li><li>Jost Berthold (co-chair), U. of Copenhagen, Denmark
+</li><li>Guy Blelloch, Carnegie Mellon U., PA, USA
+</li><li>Hassan Chafi, Oracle Labs, CA, USA
+</li><li>Dan Spoonhower, Google, CA, USA
+</li><li>Sergei Gorlatch, U. Münster, Germany
+</li><li>Clemens Grelck, U. of Amsterdam, Netherlands
+</li><li>Vinod Grover, NVidia, USA
+</li><li>Torsten Grust, U.Tübingen, Germany
+</li><li>Zhenjiang Hu, National Inst. of Informatics, Tokyo, Japan
+</li><li>Gabriele Keller, U. New South Wales, Sydney, Australia
+</li><li>Jens Palsberg, U. of California, CA, USA
+</li><li>Leaf Peterson, Intel, USA
+</li><li>Mike Rainey, MPI-SWS,Kaiserslautern, Germany
+</li><li>Suresh Jaganathan, Purdue U., USA
+</li><li>Sven-Bodo Scholz, Heriot-Watt U., Edinburgh, UK
+</li><li>Guy Steele, Oracle Labs, Burlington, MA, USA
+</li><li>Yaron Minsky, Jane Street Capital, NY, USA
+</li></ul>
 
 <h5>General Chairs</h5>
 <ul>
