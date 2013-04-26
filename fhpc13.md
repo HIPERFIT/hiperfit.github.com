@@ -126,7 +126,7 @@ on the PAC programme, see
 </li><li>Jens Palsberg, U. of California, CA, USA
 </li><li>Leaf Peterson, Intel, USA
 </li><li>Mike Rainey, MPI-SWS,Kaiserslautern, Germany
-</li><li>Suresh Jaganathan, Purdue U., USA
+</li><li>Suresh Jagannathan, Purdue U., USA
 </li><li>Sven-Bodo Scholz, Heriot-Watt U., Edinburgh, UK
 </li><li>Guy Steele, Oracle Labs, Burlington, MA, USA
 </li><li>Yaron Minsky, Jane Street Capital, NY, USA
