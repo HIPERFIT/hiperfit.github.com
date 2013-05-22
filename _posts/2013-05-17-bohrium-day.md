@@ -9,37 +9,13 @@ tags: [Bohrium]
 On Friday May 24, 2013, Brian Vinter's group at the Niels Bohr Institute is
 arranging a Bohrium workshop called the "Bohrium Day". 
 
-**Place:** 
+**Place:** at NBI - see [Bohrium Day venue information](pdf/BohriumDay2013-venue.pdf).
 
 **Registration:** Please send an email to "vinter at nbi.dk".
 
 == Program ==
 
-**10:00** Arrival: coffee and cake
-
-**10:30** Welcome and introduction (Brian Vinter)
-
-**11:00** Cluster-VEM: Status and Results (Mads)
-
-**11:30** C++ Bridge: Status and Results (Simon)
-
-**12:00** Lunch: Pizza
-
-**13:00** GPU-VE: Status and Results (Troels)
-
-**13:30** Sparse Data Structures in Bohrium (Weifeng Liu) 
-
-**14:00** Bohrium Internal Representation (Kenneth)
-
-**14:30** Break: Coffee and Cake
-
-**15:00** The mini Matlab language (Gisli)
-
-**15:30**
-
-**16:00** End-of-day: Status from Brian
-
-**16:30** Beer Festival (Optional)
+See [the detailed program](pdf/BohriumDay2013-program.pdf).
 
 == Backgound ==
 
