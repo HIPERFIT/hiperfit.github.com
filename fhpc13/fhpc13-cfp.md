@@ -2,6 +2,7 @@
 title: Call for Papers: Functional High-Performance Computing (FHPC'13)
 layout: page
 ---
+{% include JB/setup %}
 
 <div class="item-text dynamic-text">
 	<div><p>The <a href="http://hiperfit.dk/fhpc13.html" target="_blank" rel="nofollow">FHPC workshop</a>
@@ -46,5 +47,5 @@ help cover travel expenses. PAC also offers other support, such as for
 child-care expenses during the meeting or for travel costs for 
 companions of SIGPLAN members with physical disabilities, as well as for
  travel from locations outside of North America and Europe. For details 
-on the PAC programme, see its web page (<a href="http://www.sigplan.org/PAC.htm" target="_blank" rel="nofollow">http://www.sigplan.org/PAC.htm</a>).</p><p><strong>Programme Committee:</strong><br>Umut Acar (co-chair), Carnegie Mellon U., PA, USA<br>Arvind, MIT, MA, USA<br>Jost Berthold (co-chair), U. of Copenhagen, Denmark<br>Guy Blelloch, Carnegie Mellon U., PA, USA<br>Hassan Chafi, Oracle Labs, CA, USA<br>Dan Spoonhower, Google, CA, USA<br>Sergei Gorlatch, U. Münster, Germany<br>Clemens Grelck, U. &nbsp;of Amsterdam, Netherlands<br>Vinod Grover, NVidia, USA<br>Torsten Grust, U.Tübingen, Germany<br>Zhenjiang Hu, National Inst. of Informatics, Tokyo, Japan<br>Gabriele Keller, U.New South Wales, Sydney, Australia<br>Jens Palsberg, U.California, CA, USA<br>Leaf Peterson, Intel, USA<br>Mike Rainey, MPI-SWS,Kaiserslautern, Germany<br>Suresh Jaganathan, Purdue U., USA<br>Sven-Bodo Scholz, Heriot-Watt U., Edinburgh, UK<br>Guy Steele, Oracle Labs, Burlington, MA, USA<br>Yaron Minsky, Jane Street Capital, NY, USA</p><p><strong>General Chairs:<br></strong>Clemens Grelck, University of Amsterdam, NL<br>Fritz Henglein, University of Copenhagen, DK</p></div>
+on the PAC programme, see its web page (<a href="http://www.sigplan.org/PAC.htm" target="_blank" rel="nofollow">http://www.sigplan.org/PAC.htm</a>).</p><p><strong>Programme Committee:</strong><br>Umut Acar (co-chair), Carnegie Mellon U., PA, USA<br>Arvind, MIT, MA, USA<br>Jost Berthold (co-chair), U. of Copenhagen, Denmark<br>Guy Blelloch, Carnegie Mellon U., PA, USA<br>Hassan Chafi, Oracle Labs, CA, USA<br>Dan Spoonhower, Google, CA, USA<br>Sergei Gorlatch, U. M&uuml;nster, Germany<br>Clemens Grelck, U. &nbsp;of Amsterdam, Netherlands<br>Vinod Grover, NVidia, USA<br>Torsten Grust, U.T&uuml;bingen, Germany<br>Zhenjiang Hu, National Inst. of Informatics, Tokyo, Japan<br>Gabriele Keller, U.New South Wales, Sydney, Australia<br>Jens Palsberg, U.California, CA, USA<br>Leaf Peterson, Intel, USA<br>Mike Rainey, MPI-SWS,Kaiserslautern, Germany<br>Suresh Jaganathan, Purdue U., USA<br>Sven-Bodo Scholz, Heriot-Watt U., Edinburgh, UK<br>Guy Steele, Oracle Labs, Burlington, MA, USA<br>Yaron Minsky, Jane Street Capital, NY, USA</p><p><strong>General Chairs:<br></strong>Clemens Grelck, University of Amsterdam, NL<br>Fritz Henglein, University of Copenhagen, DK</p></div>
 </div>
