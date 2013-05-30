@@ -22,7 +22,16 @@ Co-located with the<br/>
 </h3>
 <br style="clear:both"/>
 <span style="font-weight:bold">
-Submission deadline: 14 June 2013 (anywhere on Earth)</span>
+Submission deadline: 14 June 2013 (anywhere on Earth)
+<br/>
+Submission site: 
+<a href="https://www.easychair.org/conferences/?conf=fhpc2013">
+https://www.easychair.org/conferences/?conf=fhpc2013</a><br/>
+Call for papers:
+<a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.txt">CfPin txt format</a> and
+<a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.html">CfP in html format</a>.
+</span>
+
 
 <h4>Background</h4>
 <p>
