@@ -22,7 +22,16 @@ Co-located with the<br/>
 </h3>
 <br style="clear:both"/>
 <span style="font-weight:bold">
-Submission deadline: 14 June 2013 (anywhere on Earth)</span>
+Submission deadline: 14 June 2013 (anywhere on Earth)
+<br/>
+Submission site: 
+<a href="https://www.easychair.org/conferences/?conf=fhpc2013">
+https://www.easychair.org/conferences/?conf=fhpc2013</a><br/>
+Call for papers:
+<a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.txt">CfPin txt format</a> and
+<a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.html">CfP in html format</a>.
+</span>
+
 
 <h4>Background</h4>
 <p>
@@ -72,7 +81,9 @@ The first workshop was run in 2012</a>, affiliated with ICFP in Copenhagen.
 <h4>Submission and publication</h4>
 
 <p>
-Contributions should be submitted via Easychair.
+Contributions should be 
+<a href="https://www.easychair.org/conferences/?conf=fhpc2013">
+submitted via Easychair</a>.
 Submitted papers must be in portable document format (PDF), formatted
 according to the ACM SIGPLAN style guidelines (double column, 9pt format).
 See the <a href="http://www.sigplan.org/authorInformation.htm">SIGPLAN Author Information page</a> for more information and style files. The page limit is 12 pages. Any paper submitted must 
@@ -82,12 +93,10 @@ page limit are firm. </p>
 <p>Accepted papers will be published by the ACM and will appear in the 
 ACM Digital Library.</p>
 
-<!-- 
 <p>
 The 
 <a href="https://www.easychair.org/conferences/?conf=fhpc2013">FHPC'13 submission site</a>
 is now open!</p>
--->
 
 <h4>Important dates</h4>
 <ul>
