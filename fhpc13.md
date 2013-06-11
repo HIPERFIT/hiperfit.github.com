@@ -102,13 +102,13 @@ is now open!</p>
 <ul>
 <li> Submission deadline: <b>14 June 2013</b>, 
 <a href="http://www.timeanddate.com/worldclock/city.html?n=3400">
-anywhere on Earth</a>.
-/li>
+anywhere on Earth</a>:
+<iframe src="http://free.timeanddate.com/clock/i3o5ht08/n3400/fs12/fcf00/tc000/ftb/pa8/tt0/tw1/th1/ta1/tb1" frameborder="0" width="244" height="30"></iframe>
+</li>
 <li> Author notification: <b>11 July 2013</b> </li>
 <li> Final papers due: <b>25 July 2013</b></li>
 <li> Workshop: <b>23 September 2013</b></li>
 </ul>
-<iframe src="http://free.timeanddate.com/clock/i3o5ht08/n3400/fs12/fcf00/tc000/ftb/pa8/tt0/tw1/th1/ta1/tb1" frameborder="0" width="244" height="30"></iframe>
 
 <h4>Travel Support:</h4>
 
