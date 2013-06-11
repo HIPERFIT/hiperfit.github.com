@@ -108,7 +108,7 @@ anywhere on Earth</a>.
 <li> Final papers due: <b>25 July 2013</b></li>
 <li> Workshop: <b>23 September 2013</b></li>
 </ul>
-<iframe src="http://free.timeanddate.com/clock/i3o5ht08/n3400/fs12/fcf00/tc000/ftb/pa8/tt0/tw1/th1/ta1/tb1" frameborder="0" width="244" height="30"></iframe>
+<iframe src="http://free.timeanddate.com/clock/i3o5ht08/n3400/fs12/fcf00/tc000/ftb/pa8/tt0/tw1/th1/ta1/tb1" frameborder="0" width="244" height="30"/>
 
 <h4>Travel Support:</h4>
 
