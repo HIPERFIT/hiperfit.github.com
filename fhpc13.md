@@ -100,7 +100,9 @@ is now open!</p>
 
 <h4>Important dates</h4>
 <ul>
-<li> Submission deadline: <b>14 June 2013</b> (anywhere on Earth) </li>
+<li> Submission deadline: <b>14 June 2013</b>, anywhere on Earth:
+<iframe src="http://free.timeanddate.com/clock/i3o5ht08/n3400/fs12/fcf00/tc000/ftb/pa8/tt0/tw1/th1/ta1/tb1" frameborder="0" width="244" height="30"></iframe>
+/li>
 <li> Author notification: <b>11 July 2013</b> </li>
 <li> Final papers due: <b>25 July 2013</b></li>
 <li> Workshop: <b>23 September 2013</b></li>
