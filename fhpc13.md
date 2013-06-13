@@ -123,9 +123,9 @@ on the PAC programme, see
 
 <h5>Programme committee</h5>
 <ul>
-<li>Umut Acar (co-chair), Carnegie Mellon University, PA, USA (umut-at-<!--no.spam.please-->cs.cmu.edu)
+<li>Umut Acar (co-chair), Carnegie Mellon University, PA, USA (umut<!-- @@@ -->@<!-- @@@ -->cs<!-- @@@ -->.cmu<!-- nospam -->.<!-- nomorespam -->edu)
 </li><li>Arvind, MIT, MA, USA
-</li><li>Jost Berthold (co-chair), U. of Copenhagen, Denmark (berthold-at-<!--no.spam.please-->diku.dk)
+</li><li>Jost Berthold (co-chair), U. of Copenhagen, Denmark (berthold<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->.<!-- nomorespam -->dk)
 </li><li>Guy Blelloch, Carnegie Mellon U., PA, USA
 </li><li>Hassan Chafi, Oracle Labs, CA, USA
 </li><li>Dan Spoonhower, Google, CA, USA
