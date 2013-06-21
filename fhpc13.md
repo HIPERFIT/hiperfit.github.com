@@ -6,16 +6,18 @@ layout: page
 <div style="float:right;width:300px;text-align:center;font-size:smaller">
 <img src="http://www.icfpconference.org/icfp2013/img/boston.png"
      style="width:300px"><br/>
-Boston, Massachusets, US<br/>
+Boston, Massachusetts, US<br/>
 Photo credit: <a href="http://www.flickr.com/people/werkunz/">Werner Kunz</a>
 </div>
+<!--
 <span style="font-weight:bold;color:red">Deadline extended.</span> <b>New deadline: June 19, 2013 (anywhere on earth)</b>
+-->
 
 <h2 class="c">The 2nd ACM SIGPLAN Workshop on<br/>
 <i>Functional High-Performance Computing</i>, FHPC'13
 </h2>
 
-<h3 class="c">Boston, Massachusets, US <br/>
+<h3 class="c">Boston, Massachusetts, US <br/>
 23 September 2013<br/><br/>
 Co-located with the<br/>
 <a href="http://icfpconference.org/icfp2013/"><i>
@@ -23,7 +25,7 @@ Co-located with the<br/>
 </h3>
 <br style="clear:both"/>
 <span style="font-weight:bold">
-Submission deadline: <span style="color:red">19 June 2013 (anywhere on Earth)</span>
+Submission deadline: 19 June 2013 (anywhere on Earth)
 <br/>
 Submission site: 
 <a href="https://www.easychair.org/conferences/?conf=fhpc2013">
@@ -95,13 +97,13 @@ page limit are firm. </p>
 ACM Digital Library.</p>
 
 <p>
-The 
-<a href="https://www.easychair.org/conferences/?conf=fhpc2013">FHPC'13 submission site</a>
-is now open!</p>
+The deadline is passed, the
+(<a href="https://www.easychair.org/conferences/?conf=fhpc2013">FHPC'13 submission site</a>
+is closed.</p>
 
 <h4>Important dates</h4>
 <ul>
-<li> Submission deadline: <b><span style="color:red">19 June 2013 (anywhere on Earth)</span></b>, 
+<li> Submission deadline: <b>19 June 2013 (anywhere on Earth)</b>, 
 <a href="http://www.timeanddate.com/worldclock/city.html?n=3400">
 anywhere on Earth</a>.
 </li>
