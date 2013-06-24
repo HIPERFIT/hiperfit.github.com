@@ -6,7 +6,7 @@
                     The 2nd ACM SIGPLAN Workshop on
                  Functional High-Performance Computing
 
-                          Boston, Massachusets
+                          Boston, Massachusetts
                            September 23, 2013
 
                    http://www.hiperfit.dk/fhpc13.html
