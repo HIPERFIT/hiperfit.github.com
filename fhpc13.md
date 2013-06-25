@@ -6,15 +6,18 @@ layout: page
 <div style="float:right;width:300px;text-align:center;font-size:smaller">
 <img src="http://www.icfpconference.org/icfp2013/img/boston.png"
      style="width:300px"><br/>
-Boston, Massachusets, US<br/>
+Boston, Massachusetts, US<br/>
 Photo credit: <a href="http://www.flickr.com/people/werkunz/">Werner Kunz</a>
 </div>
+<!--
+<span style="font-weight:bold;color:red">Deadline extended.</span> <b>New deadline: June 19, 2013 (anywhere on earth)</b>
+-->
 
 <h2 class="c">The 2nd ACM SIGPLAN Workshop on<br/>
 <i>Functional High-Performance Computing</i>, FHPC'13
 </h2>
 
-<h3 class="c">Boston, Massachusets, US <br/>
+<h3 class="c">Boston, Massachusetts, US <br/>
 23 September 2013<br/><br/>
 Co-located with the<br/>
 <a href="http://icfpconference.org/icfp2013/"><i>
@@ -22,13 +25,13 @@ Co-located with the<br/>
 </h3>
 <br style="clear:both"/>
 <span style="font-weight:bold">
-Submission deadline: 14 June 2013 (anywhere on Earth)
+Submission deadline: 19 June 2013 (anywhere on Earth)
 <br/>
 Submission site: 
 <a href="https://www.easychair.org/conferences/?conf=fhpc2013">
 https://www.easychair.org/conferences/?conf=fhpc2013</a><br/>
 Call for papers:
-<a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.txt">CfPin txt format</a> and
+<a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.txt">CfP in txt format</a> and
 <a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.html">CfP in html format</a>.
 </span>
 
@@ -94,13 +97,16 @@ page limit are firm. </p>
 ACM Digital Library.</p>
 
 <p>
-The 
-<a href="https://www.easychair.org/conferences/?conf=fhpc2013">FHPC'13 submission site</a>
-is now open!</p>
+The deadline is passed, the
+(<a href="https://www.easychair.org/conferences/?conf=fhpc2013">FHPC'13 submission site</a>
+is closed.</p>
 
 <h4>Important dates</h4>
 <ul>
-<li> Submission deadline: <b>14 June 2013</b> (anywhere on Earth) </li>
+<li> Submission deadline: <b>19 June 2013 (anywhere on Earth)</b>, 
+<a href="http://www.timeanddate.com/worldclock/city.html?n=3400">
+anywhere on Earth</a>.
+</li>
 <li> Author notification: <b>11 July 2013</b> </li>
 <li> Final papers due: <b>25 July 2013</b></li>
 <li> Workshop: <b>23 September 2013</b></li>
@@ -120,9 +126,9 @@ on the PAC programme, see
 
 <h5>Programme committee</h5>
 <ul>
-<li>Umut Acar (co-chair), Carnegie Mellon University, PA, USA
+<li>Umut Acar (co-chair), Carnegie Mellon University, PA, USA (umut<!-- @@@ -->@<!-- @@@ -->cs<!-- @@@ -->.cmu<!-- nospam -->.<!-- nomorespam -->edu)
 </li><li>Arvind, MIT, MA, USA
-</li><li>Jost Berthold (co-chair), U. of Copenhagen, Denmark
+</li><li>Jost Berthold (co-chair), U. of Copenhagen, Denmark (berthold<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->.<!-- nomorespam -->dk)
 </li><li>Guy Blelloch, Carnegie Mellon U., PA, USA
 </li><li>Hassan Chafi, Oracle Labs, CA, USA
 </li><li>Dan Spoonhower, Google, CA, USA
