@@ -9,7 +9,7 @@ group: navigation
 * Mischa Dieterle, Thomas Horstmeyer, Jost Berthold, and Rita Loogen.
   Iterating Skeletons - Structured Parallelism by Composition.
   In _24th Symposium on the Implementation and Application of 
-  Functional Languages (IFL 2012). Selected for publication in LNCS 
+  Functional Languages (IFL 2012)_. Selected for publication in LNCS 
   revised papers, Springer Verlag. 2013.
 
 * Kourosh M. Rasmussen, Claus A. Madsen, and Rolf Poulsen. Can
