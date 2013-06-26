@@ -13,11 +13,11 @@ arranging a Bohrium workshop called the "Bohrium Day".
 
 **Registration:** Please send an email to "vinter at nbi.dk".
 
-== Program ==
+## Program
 
 See [the detailed program](pdf/BohriumDay2013-program.pdf).
 
-== Backgound ==
+## Backgound
 
 [Bohrium](http://bohrium.bitbucket.org/) is a "Plug-and-play"
 high-performance backend targeting CPU clusters and other parallel
