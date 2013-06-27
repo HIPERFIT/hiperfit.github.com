@@ -66,3 +66,14 @@ transformation relies.
  research center, and working on the implementation and design of the
  HIPERFIT parallel-functional programming language L.
 
+---
+
+__Title to be announced (probably something about Bohrium__
+
+Brian Vinter, HIPERFIT, NBI
+
+14:30-15:00 July 2, 2013
+
+The (DIKU) small auditorium at Universitetsparken 1 (UP1)
+
+*Brian Vinter* is professor at Niels Bohr Institute (NBI).
