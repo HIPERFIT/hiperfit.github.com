@@ -2,7 +2,7 @@
 layout: post
 title: "HIPERFIT Seminar on July 2, 2013"
 category: news
-tags: [fusion,seminar,Bohrium,Brian Vinter,Troels Henriksen]
+tags: [fusion, seminar, Bohrium, Brian Vinter, Troels Henriksen]
 ---
 {% include JB/setup %}
 
