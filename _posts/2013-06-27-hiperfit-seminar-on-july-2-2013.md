@@ -68,7 +68,7 @@ transformation relies.
 
 ---
 
-__Title to be announced (probably something about Bohrium__
+__Title to be announced (probably something about Bohrium)__
 
 Brian Vinter, HIPERFIT, NBI
 
