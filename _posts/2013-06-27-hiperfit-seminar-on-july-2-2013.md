@@ -8,7 +8,7 @@ tags: [fusion,seminar,Bohrium,Brian Vinter,Troels Henriksen]
 
 The HIPERFIT July 2013 seminar is planned for Tuesday, July 2 from
 14:00 to 15:30 at the DIKU small auditorium (Lille Aud), where we will
-have two presentations by [Troels Henriksen](/people.md) and [Brian Vinter](/people.md):
+have two presentations by [Troels Henriksen](/people.html) and [Brian Vinter](/people.html):
 
 - __14:00-14:30. A T2 Graph-Reduction Approach To Fusion. (Troels Henriksen, HIPERFIT, DIKU).__
 
