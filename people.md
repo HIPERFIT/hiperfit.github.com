@@ -25,7 +25,7 @@ group: navigation
 * [Lykke Rasmussen](http://quantess.net), PhD Student, Department of
   Mathematical Sciences, University of Copenhagen.
 
-* Simon Ellersgaard Nielsen, PhD Student, Department of Mathematical
+* [Simon Ellersgaard Nielsen](http://www.math.ku.dk/om/ansatte/?id=442839&vis=medarbejder), PhD Student, Department of Mathematical
   Sciences, University of Copenhagen.
 
 ### Domain-Specific Languages
