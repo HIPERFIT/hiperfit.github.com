@@ -36,22 +36,22 @@ Troels Henriksen, HIPERFIT, DIKU
 
 The (DIKU) small auditorium at Universitetsparken 1 (UP1)
 
-Fusion is one of the most important code transformations as it has the
-potential to substantially optimize both the memory hierarchy time
-overhead and (sometimes asymptotically) the space requirement. In
-imperative languages, the legality of loop-fusion is typically
-verified by dependency analysis on arrays applied at loop-nest
-level. Such analysis, however, has often been labeled as "heroic
-effort" and, if at all, is supported only in its simplest and most
-conservative form in industrial compilers.  In functional languages,
-fusion is naturally and more easily derived as a producer-consumer
-relation between program constructs that expose a richer, higher-order
-algebra of program invariants, such as the map-reduce list
-homomorphisms.  Related implementations in the functional context
-typically apply fusion only when the to-be-fused producer is used
-exactly once, i.e., in the consumer. This guarantees that the
-transformation is conservative: the resulting program does not
-duplicate computation.  We show that the above restriction is more
+*Abstract:* Fusion is one of the most important code transformations
+as it has the potential to substantially optimize both the memory
+hierarchy time overhead and (sometimes asymptotically) the space
+requirement. In imperative languages, the legality of loop-fusion is
+typically verified by dependency analysis on arrays applied at
+loop-nest level. Such analysis, however, has often been labeled as
+"heroic effort" and, if at all, is supported only in its simplest and
+most conservative form in industrial compilers.  In functional
+languages, fusion is naturally and more easily derived as a
+producer-consumer relation between program constructs that expose a
+richer, higher-order algebra of program invariants, such as the
+map-reduce list homomorphisms.  Related implementations in the
+functional context typically apply fusion only when the to-be-fused
+producer is used exactly once, i.e., in the consumer. This guarantees
+that the transformation is conservative: the resulting program does
+not duplicate computation.  We show that the above restriction is more
 conservative than needed, and present a structural-analysis algorithm,
 inspired from the T1 -T2 transformation for reducible data flow, that
 enables fusion even in some cases when the producer is used in
@@ -68,7 +68,7 @@ transformation relies.
 
 ---
 
-__Title to be announced (probably something about Bohrium)__
+__BPU Simulator__
 
 Brian Vinter, HIPERFIT, NBI
 
@@ -76,4 +76,23 @@ Brian Vinter, HIPERFIT, NBI
 
 The (DIKU) small auditorium at Universitetsparken 1 (UP1)
 
-*Brian Vinter* is professor at Niels Bohr Institute (NBI).
+*Abstract:* A number of scientific applications start their life as a
+Matlab prototype that is later re-implemented in a low level
+programming language, typically C++ or Fortran for the sake of
+performance. Bohrium is a project that seeks to eliminate both the
+cost and the potential errors introduced in that process. Our goal is
+to support all execution platforms, and in this work we introduce the
+Bohrium Processing Unit, BPU, which will be the FPGA backend for
+Bohrium. The BPU is modeled as a PyCSP application, and the clear
+advantages of using CSP for simulating a new CPU is described. The
+current PyCSP simulator is able to simulate 220 Monte Carlo
+simulations in less than 35 seconds in the smallest BPU simulation.
+*Joined work with Martin Rehr and Kenneth Skovhede, Niels Bohr
+Institute.*
+
+*Brian Vinter* is professor at Niels Bohr Institute (NBI) and has many
+years of research experience within the areas of grid computing,
+supercomputing, multicore architectures, and metods for transparent
+utilization of parallellism.
+
+
