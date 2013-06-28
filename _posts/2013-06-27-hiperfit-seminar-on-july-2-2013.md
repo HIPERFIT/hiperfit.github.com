@@ -12,7 +12,7 @@ have two presentations by [Troels Henriksen](/people.html) and [Brian Vinter](/p
 
 - __14:00-14:30. A T2 Graph-Reduction Approach To Fusion. (Troels Henriksen, HIPERFIT, DIKU).__
 
-- __14:30-15:00. Topic to be announced. (Brian Vinter, HIPERFIT, NBI).__
+- __14:30-15:00. BPU Simulator. (Brian Vinter, HIPERFIT, NBI).__
 
 - __15:00-15:30. A light refreshment, served by HIPERFIT.__
 
