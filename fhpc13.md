@@ -108,7 +108,7 @@ is closed.</p>
 anywhere on Earth</a>.
 </li>
 <li> Author notification: <b>11 July 2013</b> </li>
-<li> Final papers due: <b>25 July 2013</b></li>
+<li> Final papers due: <b>28 July 2013</b> (<a href="http://www.sheridanprinting.com/typedept/icfp13.htm">instructions for authors</a>)</li>
 <li> Workshop: <b>23 September 2013</b></li>
 </ul>
 
@@ -154,6 +154,40 @@ henglein<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->.<!-- nomorespam -->dk</li>
 <li>Clemens Grelck, Informatics Instititute, University of Amsterdam, Netherlands; 
 c.grelck<!-- @@@ -->@<!-- @@@ -->uva<!-- nospam -->.<!-- nomorespam -->nl</li>
 </ul>
+
+
+<h4>Accepted papers</h4>
+(in no particular order)
+<style>.title {clear:right;font-style:italic;font-weight:bold;padding:3pt}</style>
+<style>.authors {clear:right;padding:3pt}</style>
+<style>.abstract {border-left: solid black 1px;border-right: solid black 1px;border-top: solid black 1px;padding:3pt}</style>
+<style>.paper {width:800px;border-left:none;border-right:none;border-top: solid black 1px;padding:2pt}</style>
+<style>.abstract:last-child {border-bottom: solid black 1px;padding:3pt}</style>
+<style>.paper:last-child {border-bottom: solid black 1px;padding:2pt}</style>
+<div class="paper">
+  <span class="authors">Josef Svenningsson, Joel Svensson and Mary Sheeran</span><br/>
+  <span class="title">Counting and Occurrence sort for GPUs using an Embedded Language</span></div>
+<div class="paper">
+  <span class="authors">Lindsey Kuper and Ryan R. Newton</span><br/>
+  <span class="title">LVars: Lattice-based Data Structures for Deterministic Parallelism</span></div>
+<div class="paper">
+  <span class="authors">Mauro Blanco, Pablo Perdomo, Pablo Ezzatti, Alberto Pardo and Marcos Viera</span><br/>
+  <span class="title">Towards a functional run-time for dense NLA domain</span></div>
+<div class="paper">
+  <span class="authors">Troels Henriksen and Cosmin E. Oancea</span><br/>
+  <span class="title">A T2 Graph-Reduction Approach To Fusion</span></div>
+<div class="paper">
+  <span class="authors">Sylvain Henry</span><br/>
+  <span class="title">ViperVM: a Runtime System for Parallel Functional High-Performance Computing on Heterogeneous Architectures</span></div>
+<div class="paper">
+  <span class="authors">Frederik M. Madsen and Andrzej Filinski</span><br/>
+  <span class="title">Towards a Streaming Model for Nested Data Parallelism</span></div>
+<div class="paper">
+  <span class="authors">Qi Wang, Meixian Chen, Yu Liu and Zhenjiang Hu</span><br/>
+  <span class="title">Towards Systematic Parallel Programming of Graph Problems via Tree Decomposition and Tree Parallelism</span></div>
+<div class="paper">
+  <span class="authors">Artjoms Sinkarovs and Sven-Bodo Scholz</span><br/>
+  <span class="title">Sematics-Preserving Data Layout Transformations for Improved Vectorisation</span></div>
 
 <h4>Workshop programme</h4>
 The <a href="fhpc13.html">detailed programme</a> will be available here after the deadline for final papers.
