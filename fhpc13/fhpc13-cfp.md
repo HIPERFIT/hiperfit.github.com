@@ -1,5 +1,5 @@
 ---
-title: Call for Papers: Functional High-Performance Computing (FHPC'13)
+title: Call for Papers - Functional High-Performance Computing (FHPC'13)
 layout: page
 ---
 {% include JB/setup %}

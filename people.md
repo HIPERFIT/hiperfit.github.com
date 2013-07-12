@@ -25,7 +25,7 @@ group: navigation
 * [Lykke Rasmussen](http://quantess.net), PhD Student, Department of
   Mathematical Sciences, University of Copenhagen.
 
-* Simon Ellersgaard Nielsen, PhD Student, Department of Mathematical
+* [Simon Ellersgaard Nielsen](http://www.math.ku.dk/om/ansatte/?id=442839&vis=medarbejder), PhD Student, Department of Mathematical
   Sciences, University of Copenhagen.
 
 ### Domain-Specific Languages
@@ -59,6 +59,8 @@ group: navigation
 
 * ![Cosmin Oancea](images/cosmin.jpg) [Cosmin Oancea](http://www.diku.dk/~zgh600), Postdoc, Department of
   Computer Science, University of Copenhagen.
+
+* ![Troels Henriksen](images/thenriksen.jpg) [Troels Henriksen](http://sigkill.dk/), Student Programmer, MSc student, Department of Computer Science, University of Copenhagen.
 
 * ![Frederik Meisner Madsen](images/meisner.jpg) [Frederik Meisner Madsen](http://www.linkedin.com/in/frederikmm),
   PhD Student. Department of Computer Science, University of
