@@ -46,8 +46,14 @@ practicioners for future cooperation. </p>
 <div class="row-fluid">
   <div class="span4">
     <h4>Student Projects</h4>
-    <p>We are continuously looking for students interested in student projects within the research areas of HIPERFIT. If you are interested in a student project, please talk to project members for more information.
+    <p>We are continuously looking for students interested in student projects within the research areas of HIPERFIT. If you are interested in a student project, please look at suggested student projects and talk to project members for more information.
     </p>
-    <p><a class="btn btn-primary" href="researchthemes.html">Themes &raquo;</a></p>
+    <p><a class="btn btn-primary" href="studentprojects.html">Student Projects &raquo;</a></p>
   </div>
+  <div class="span4">
+    <h4>See the movie (in danish)</h4>
+    <p><iframe width="560" height="315" src="//www.youtube.com/embed/z3slW7RmQBg" frameborder="0" allowfullscreen></iframe></p>
+  </div>
+
+
 </div>
