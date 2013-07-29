@@ -51,8 +51,8 @@ practicioners for future cooperation. </p>
     <p><a class="btn btn-primary" href="studentprojects.html">Student Projects &raquo;</a></p>
   </div>
   <div class="span4">
-    <h4>See the movie (in danish)</h4>
-    <p><iframe width="560" height="315" src="//www.youtube.com/embed/z3slW7RmQBg" frameborder="0" allowfullscreen></iframe></p>
+    <h4>HIPERFIT The Movie (in danish)</h4>
+    <p><a href="//www.youtube.com/embed/z3slW7RmQBg"><img src="images/movie.jpg" /></a></p>
   </div>
 
 
