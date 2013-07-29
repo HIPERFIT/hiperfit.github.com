@@ -52,8 +52,7 @@ practicioners for future cooperation. </p>
   </div>
   <div class="span4">
     <h4>HIPERFIT The Movie (in danish)</h4>
-    <p><a href="//www.youtube.com/embed/z3slW7RmQBg"><img src="images/movie.jpg" /></a></p>
+    <p><a href="http://www.youtube.com/embed/z3slW7RmQBg"><img src="images/movie.jpg" /></a></p>
+    <p><a class="btn btn-primary" href="http://www.youtube.com/embed/z3slW7RmQBg">Watch it &raquo;</a></p>
   </div>
-
-
 </div>
