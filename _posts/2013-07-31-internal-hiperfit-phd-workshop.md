@@ -43,22 +43,23 @@ workshop is internal for IMF, DIKU, NBI employees.
 
 ### Participants (preliminary)
 
-Jost Berthold
-Troels Blum
-Simon Ellersgaard Nielsen
-Martin Elsman
-Andrzej Filinski
-Troels Henriksen
-Ken Friis Larsen
-Fritz Henglein
-Simon Lund
-Cosmin Oancea
-Rolf Poulsen
-Lykke Rasmussen (cannot participate)
-Marcos Vaz Salles
-Kenneth Skovhede
-Mogens Steffensen
+Jost Berthold,
+Troels Blum,
+Simon Ellersgaard Nielsen,
+Martin Elsman,
+Andrzej Filinski,
+Troels Henriksen,
+Ken Friis Larsen,
+Fritz Henglein,
+Simon Lund,
+Cosmin Oancea,
+Rolf Poulsen,
+Marcos Vaz Salles,
+Kenneth Skovhede,
+Mogens Steffensen,
 Brian Vinter
+
+Not participating: Lykke Rasmussen
 
 ### Instructions for Speakers
 
