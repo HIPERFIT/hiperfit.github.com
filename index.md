@@ -48,7 +48,7 @@ practicioners for future cooperation. </p>
     <h4>Student Projects</h4>
     <p>We are continuously looking for students interested in student projects within the research areas of HIPERFIT. If you are interested in a student project, please look at suggested student projects and talk to project members for more information.
     </p>
-    <p><a class="btn btn-primary" href="studentprojects.html">Student Projects &raquo;</a></p>
+    <p><a class="btn btn-primary" href="studentprojects.html">Student project suggestions &raquo;</a></p>
   </div>
   <div class="span4">
     <h4>HIPERFIT The Movie (in danish)</h4>
