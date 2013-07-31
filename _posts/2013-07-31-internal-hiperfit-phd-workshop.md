@@ -9,7 +9,7 @@ tags: []
 The 2013 HIPERFIT PhD Workshop is held on August 13, 2013. The
 workshop is internal for IMF, DIKU, NBI employees.
 
-== Program (preliminary)
+### Program (preliminary)
 
 * 09:55 Welcome by Martin Elsman (Coffee)
 
@@ -41,7 +41,7 @@ workshop is internal for IMF, DIKU, NBI employees.
 
 * 18:00 Dinner
 
-== Participants (preliminary): 
+### Participants (preliminary)
 
 Jost Berthold
 Troels Blum
@@ -60,7 +60,7 @@ Kenneth Skovhede
 Mogens Steffensen
 Brian Vinter
 
-== Instructions for Speakers
+### Instructions for Speakers
 
 Each speaker should prepare a 30 minute presentation, including (1) an
 outline of the PhD topic (with some technical detail) and (2) an
