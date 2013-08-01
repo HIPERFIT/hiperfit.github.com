@@ -28,6 +28,10 @@ group: navigation
 * [Simon Ellersgaard Nielsen](http://www.math.ku.dk/om/ansatte/?id=442839&vis=medarbejder), PhD Student, Department of Mathematical
   Sciences, University of Copenhagen.
 
+* ![Maj-Britt Nordfang](images/nordfang.jpg) Maj-Britt Nordfang, PhD
+   Student, Department of Mathematical Sciences, University of
+   Copenhagen.
+
 ### Domain-Specific Languages
 
 * ![Fritz Henglein](images/95_henglein_cms.jpg) [Fritz
