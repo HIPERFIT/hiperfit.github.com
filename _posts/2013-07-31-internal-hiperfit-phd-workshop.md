@@ -15,7 +15,7 @@ workshop is internal for IMF, DIKU, NBI employees.
 
 * 10:00 Frederik Meisner Madsen (first-year). Supervisor: Andrzej Filinski.
 
-* 10:45 Martin Dybdal (first-year). Supervisor: Martin Elsman.
+* 10:45 Martin Dybdal (first year). Supervisor: Martin Elsman.
 
 * 11:30 Break
 
@@ -23,21 +23,21 @@ workshop is internal for IMF, DIKU, NBI employees.
 
 * 12:30 Lunch Break
 
-* 13:00 Open Slot
+* 13:00 Simon Lund (third year). Supervisor: Brian Vinter.
 
-* 13:45 Vivek Shah. Supervisor: Marcos Vaz Salles.
+* 13:45 Troels Blum (second year). Supervisor: Brian Vinter.
 
 * 14:30 Break
 
-* 14:45 Simon Lund (third year). Supervisor: Brian Vinter.
+* 14:45 Maj-Britt Nordfang (first year). Supervisor: Mogens Steffensen.
 
-* 15:30 Troels Blum (second year). Supervisor: Brian Vinter.
+* 15:30 Vivek Shah . Supervisor: Marcos Vaz Salles.
 
 * 16:15 Break
 
 * 16:45 Cosmin Oancea (Postdoctoral researcher)
 
-* 17:30 A Drink at the bar
+* 17:30 A drink at the bar
 
 * 18:00 Dinner
 
