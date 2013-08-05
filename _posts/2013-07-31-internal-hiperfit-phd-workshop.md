@@ -74,6 +74,12 @@ followed by a 15 minutes discussion session where participants can ask
 questions to the speaker and the speaker can ask questions to the
 participants.
 
+PhD students should read Section 4.1 of the [Rules and Guidelines for
+the PhD
+Programme](http://www.science.ku.dk/english/research/phd/student/filer/Rules_and_guidelines_for_the_PhD_programme.pdf/)
+and discuss with their respective supervisors how the PhD Workshop may
+help the students fulfill the PhD requirements.
+
 Speakers are welcome to submit (to Martin Elsman) a small presentation
 abstract for inclusion on this page.
 
