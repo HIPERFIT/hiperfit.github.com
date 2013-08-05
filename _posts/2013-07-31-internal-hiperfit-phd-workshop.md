@@ -33,7 +33,7 @@ workshop is internal for IMF, DIKU, NBI employees.
 
 * 14:45 Maj-Britt Nordfang (first year). Supervisor: Mogens Steffensen.
 
-* 15:30 Vivek Shah . Supervisor: Marcos Vaz Salles.
+* 15:30 Vivek Shah. Supervisor: Marcos Vaz Salles.
 
 * 16:15 Break
 
