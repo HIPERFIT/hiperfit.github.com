@@ -11,7 +11,9 @@ workshop is internal for IMF, DIKU, NBI employees.
 
 ### Program (preliminary)
 
-* 09:55 Welcome by Martin Elsman (Coffee)
+* 09:30 Breakfast and coffee available
+
+* 09:55 Welcome by Martin Elsman
 
 * 10:00 Frederik Meisner Madsen (first-year). Supervisor: Andrzej Filinski.
 
@@ -23,7 +25,7 @@ workshop is internal for IMF, DIKU, NBI employees.
 
 * 12:30 Lunch Break
 
-* 13:00 Simon Lund (third year). Supervisor: Brian Vinter.
+* 13:00 Simon Lund (second year). Supervisor: Brian Vinter.
 
 * 13:45 Troels Blum (second year). Supervisor: Brian Vinter.
 
@@ -52,6 +54,7 @@ Troels Henriksen,
 Ken Friis Larsen,
 Fritz Henglein,
 Simon Lund,
+Maj-Britt Nordfang,
 Cosmin Oancea,
 Rolf Poulsen,
 Marcos Vaz Salles,
