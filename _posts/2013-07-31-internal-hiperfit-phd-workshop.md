@@ -6,8 +6,14 @@ tags: []
 ---
 {% include JB/setup %}
 
-The 2013 HIPERFIT PhD Workshop is held on August 13, 2013. The
-workshop is internal for IMF, DIKU, NBI employees.
+__See below for updated information for speakers.__
+
+The __2013 HIPERFIT PhD Workshop__ is held on __August 13, 2013__. The
+workshop is internal for IMF, DIKU, NBI employees. 
+
+__Location:__ The workshop is held at [DAC& Meeting
+center](http://www.dac.dk/da/dac-meeting/) at Strandgade 27B, DK 1401,
+Copenhagen K. Breakfast and coffee is served from 9:30.
 
 ### Program (preliminary)
 
@@ -25,21 +31,21 @@ workshop is internal for IMF, DIKU, NBI employees.
 
 * 12:30 Lunch Break
 
-* 13:00 Simon Lund (second year). Supervisor: Brian Vinter.
+* 13:15 Simon Lund (second year). Supervisor: Brian Vinter.
 
-* 13:45 Troels Blum (second year). Supervisor: Brian Vinter.
+* 14:00 Troels Blum (second year). Supervisor: Brian Vinter.
 
-* 14:30 Break
+* 14:45 Break
 
-* 14:45 Maj-Britt Nordfang (first year). Supervisor: Mogens Steffensen.
+* 15:00 Lykke Rasmussen (first year). Supervisor: Rolf Poulsen.
 
-* 15:30 Vivek Shah. Supervisor: Marcos Vaz Salles.
+* 15:45 Maj-Britt Nordfang (first year). Supervisor: Mogens Steffensen.
 
-* 16:15 Break
+* 16:30 Break
 
-* 16:45 Cosmin Oancea (Postdoctoral researcher)
+* 16:45 Vivek Shah (first year). Supervisor: Marcos Vaz Salles.
 
-* 17:30 A drink at the bar
+* 17:30 Cosmin Oancea (Postdoctoral researcher)
 
 * 18:00 Dinner
 
@@ -57,12 +63,11 @@ Simon Lund,
 Maj-Britt Nordfang,
 Cosmin Oancea,
 Rolf Poulsen,
+Lykke Rasmussen,
 Marcos Vaz Salles,
 Kenneth Skovhede,
 Mogens Steffensen,
 Brian Vinter
-
-Not participating: Lykke Rasmussen
 
 ### Instructions for Speakers
 
