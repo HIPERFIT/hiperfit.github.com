@@ -53,7 +53,6 @@ Copenhagen K. Breakfast and coffee is served from 9:30.
 
 Jost Berthold,
 Troels Blum,
-Simon Ellersgaard Nielsen,
 Martin Elsman,
 Andrzej Filinski,
 Troels Henriksen,
