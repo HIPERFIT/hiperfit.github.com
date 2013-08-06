@@ -27,25 +27,25 @@ Copenhagen K. Breakfast and coffee is served from 9:30.
 
 * 11:30 Break
 
-* 11:45 Simon Ellersgaard Nielsen. Supervisor: Rolf Poulsen.
+* 11:45 Lykke Rasmussen (first year). Supervisor: Rolf Poulsen.
 
 * 12:30 Lunch Break
 
-* 13:15 Simon Lund (second year). Supervisor: Brian Vinter.
+* 13:30 Simon Lund (second year). Supervisor: Brian Vinter.
 
-* 14:00 Troels Blum (second year). Supervisor: Brian Vinter.
+* 14:15 Troels Blum (second year). Supervisor: Brian Vinter.
 
-* 14:45 Break
+* 15:00 Break
 
-* 15:00 Lykke Rasmussen (first year). Supervisor: Rolf Poulsen.
+* 15:15 Vivek Shah (first year). Supervisor: Marcos Vaz Salles.
 
-* 15:45 Maj-Britt Nordfang (first year). Supervisor: Mogens Steffensen.
+* 16:00 Maj-Britt Nordfang (first year). Supervisor: Mogens Steffensen.
 
-* 16:30 Break
+* 16:45 Break
 
-* 16:45 Vivek Shah (first year). Supervisor: Marcos Vaz Salles.
+* 17:00 Cosmin Oancea (Postdoctoral researcher)
 
-* 17:30 Cosmin Oancea (Postdoctoral researcher)
+* 17:30 A drink in the bar
 
 * 18:00 Dinner
 
@@ -68,6 +68,8 @@ Marcos Vaz Salles,
 Kenneth Skovhede,
 Mogens Steffensen,
 Brian Vinter
+
+__Not participating:__ Simon Ellersgaard Nielsen. Supervisor: Rolf Poulsen.
 
 ### Instructions for Speakers
 
