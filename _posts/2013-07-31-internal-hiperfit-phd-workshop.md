@@ -51,14 +51,17 @@ Copenhagen K. Breakfast and coffee is served from 9:30.
 
 ### Participants (preliminary)
 
+James Avery,
 Jost Berthold,
 Troels Blum,
 Martin Elsman,
 Andrzej Filinski,
 Troels Henriksen,
+Mads Ruben Burgdorff Kristensen,
 Ken Friis Larsen,
 Fritz Henglein,
 Simon Lund,
+Frederik Meisner Madsen,
 Maj-Britt Nordfang,
 Cosmin Oancea,
 Rolf Poulsen,
