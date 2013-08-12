@@ -88,6 +88,3 @@ Programme](http://www.science.ku.dk/english/research/phd/student/filer/Rules_and
 and discuss with their respective supervisors how the PhD Workshop may
 help the students fulfill the PhD requirements.
 
-Speakers are welcome to submit (to Martin Elsman) a small presentation
-abstract for inclusion on this page.
-
