@@ -27,11 +27,11 @@ Copenhagen K. Breakfast and coffee is served from 9:30.
 
 * 11:30 Break
 
-* 11:45 Lykke Rasmussen (first year). Supervisor: Rolf Poulsen.
+* 11:45 Simon Lund (second year). Supervisor: Brian Vinter.
 
 * 12:30 Lunch Break
 
-* 13:30 Simon Lund (second year). Supervisor: Brian Vinter.
+* 13:30 Lykke Rasmussen (first year). Supervisor: Rolf Poulsen.
 
 * 14:15 Troels Blum (second year). Supervisor: Brian Vinter.
 
