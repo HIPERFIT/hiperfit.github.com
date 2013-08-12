@@ -23,7 +23,7 @@ Copenhagen K. Breakfast and coffee is served from 9:30.
 
 * 10:00 Frederik Meisner Madsen (first-year). Supervisor: Andrzej Filinski.
 
-* 10:45 Martin Dybdal (first year). Supervisor: Martin Elsman.
+* 10:45 Fritz Henglein. Towards a New Computational Model for Parallelism.
 
 * 11:30 Break
 
@@ -62,6 +62,7 @@ Ken Friis Larsen,
 Fritz Henglein,
 Simon Lund,
 Frederik Meisner Madsen,
+Simon Ellersgaard Nielsen,
 Maj-Britt Nordfang,
 Cosmin Oancea,
 Rolf Poulsen,
@@ -70,8 +71,6 @@ Marcos Vaz Salles,
 Kenneth Skovhede,
 Mogens Steffensen,
 Brian Vinter
-
-__Not participating:__ Simon Ellersgaard Nielsen. Supervisor: Rolf Poulsen.
 
 ### Instructions for Speakers
 
