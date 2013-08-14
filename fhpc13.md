@@ -24,19 +24,21 @@ Co-located with the<br/>
 18th ACM SIGPLAN International Conference on Functional Programming</i></a> (ICFP 2013)
 </h3>
 <br style="clear:both"/>
-<span style="font-weight:bold">
-Submission deadline: 19 June 2013 (anywhere on Earth)
-<br/>
-Submission site: 
-<a href="https://www.easychair.org/conferences/?conf=fhpc2013">
-https://www.easychair.org/conferences/?conf=fhpc2013</a><br/>
+
+<table style="border:none; font-size:x-small">
+<tr><th style="font-size:small">Jump to:
+<tr><td><a href="#Background">Background</a>
+<tr><td><a href="#Submission">Submission instructions</a>
+<tr><td><a href="#Support">Travel Support</a>
+<tr><td><a href="#Programme">Accepted Papers, Workshop Programme</a>
+<tr><td><a href="#Organisation">Workshop Organisation</a>
+<tr><td>
 Call for papers:
 <a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.txt">CfP in txt format</a> and
 <a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.html">CfP in html format</a>.
-</span>
+</table>
 
-
-<h4>Background</h4>
+<h4 id="Background">Background</h4>
 <p>
 The FHPC workshop aims at bringing together researchers exploring uses
 of functional (or more generally, declarative or high-level) programming
@@ -81,7 +83,7 @@ FHPC 2013 is the second workshop in the FHPC series.
 The first workshop was run in 2012</a>, affiliated with ICFP in Copenhagen.
 </p>
 
-<h4>Submission and publication</h4>
+<h4 id="Submission">Submission and publication</h4>
 
 <p>
 Contributions should be 
@@ -112,7 +114,7 @@ anywhere on Earth</a>.
 <li> Workshop: <b>23 September 2013</b></li>
 </ul>
 
-<h4>Travel Support:</h4>
+<h4 id="Support">Travel Support:</h4>
 
 <p>Student attendees with accepted papers can apply for a SIGPLAN PAC grant
 to help cover travel expenses. PAC also offers other support, such as
@@ -122,7 +124,62 @@ travel from locations outside of North America and Europe. For details
 on the PAC programme, see 
 <a href="http://www.sigplan.org/PAC.htm">http://www.sigplan.org/PAC.htm</a>.</p>
 
-<h4>Workshop organisation</h4>
+<h4 id="Programme">Workshop programme</h4>
+
+<style>.session {width:770px; border-top: solid black 3px;font-size:larger;clear:both;font-variant:small-caps;font-weight:bold;padding-left:20pt;padding-right:10pt;padding-top:10pt}</style>
+<style>.title {font-style:italic;font-weight:bold;padding:3pt}</style>
+<style>.authors {padding:3pt}</style>
+<style>.abstract {font-size:smaller;width:800px;border:solid black 1px;padding:3pt}</style>
+<style>.paper {width:800px;border-left:none;border-right:none;border-top: solid black 1px;padding:2pt}</style>
+<!-- <style>.abstract:last-child {border-bottom: solid black 1px;padding:3pt}</style> 
+<style>.paper:last-child {border-bottom: solid black 1px;padding:2pt}</style>-->
+
+<div class="session">9:00 - 10:30 &mdash; Runtime Techniques for Declarative Parallel Programming</div>
+
+<div class="paper"><span class="authors">Matthew Fluet.</span><br/>
+<span class="title">The Manticore Project</span>(invited talk)</div>
+
+<div class="paper"><span class="authors">Sylvain Henry. </span><br/>
+<span class="title">ViperVM: a Runtime System for Parallel Functional High-Performance Computing on Heterogeneous Architectures</span></div>
+
+<div class="session">11:00 - 12:30 &mdash; Parallel Programming Models and Application Classes</div>
+
+<div class="paper"><span class="authors">Frederik M. Madsen and Andrzej Filinski.</span><br/>
+<span class="title">Towards a Streaming Model for Nested Data Parallelism</span></div>
+
+<div class="paper"><span class="authors"><span>Qi Wang, Meixian Chen, Yu Liu and Zhenjiang Hu</span>. </span><br/>
+<span class="title">Towards Systematic Parallel Programming of Graph Problems via Tree Decomposition and Tree Parallelism</span></div>
+
+<div class="paper"><span class="authors"><span>Josef Svenningsson, Joel Svensson and Mary Sheeran</span>. </span><br/>
+<span class="title">Counting and Occurrence sort for GPUs using an Embedded Language</span></div>
+
+<div class="session">13:30 - 14:30 &mdash; Optimizing Compilation of Functional Programs</div>
+
+<div class="paper"><span class="authors"><span>Troels Henriksen and Cosmin E. Oancea</span>. </span><br/>
+<span class="title">A T2 Graph-Reduction Approach To Fusion</span></div>
+
+<div class="paper"><span class="authors"><span>Artjoms Sinkarovs and Sven-Bodo Scholz</span>. </span><br/>
+<span class="title">Sematics-Preserving Data Layout Transformations for Improved Vectorisation</span></div>
+
+<div class="session">14:30 - 15:30 &mdash; Libraries for Parallel Functional Programming</div>
+
+<div class="paper"><span class="authors"><span>Lindsey Kuper and Ryan R. Newton</span>. </span><br/>
+<span class="title">LVars: Lattice-based Data Structures for Deterministic Parallelism</span></div>
+
+<div class="paper"><span class="authors"><span>Mauro Blanco, Pablo Perdomo, Pablo Ezzatti, Alberto Pardo and Marcos Viera</span>. </span><br/>
+<span class="title">Towards a functional run-time for dense NLA domain</span></div>
+
+<div class="session">16:00 - 17:30 &mdash; Data Parallelism</div>
+
+<div class="paper"><span class="authors">Manuel Chakravarty.</span><br/>
+<span class="title">Data Parallelism in Haskell</span>(invited talk)</div>
+
+<div class="paper"><span class="authors">Panel: </span><br/>
+<span class="title">Data Parallelism and GPU Computing</span></div>
+
+A <a href="fhpc13/programme.html">detailed programme with abstracts</a> is available on a separate page.
+
+<h4 id="Organisation">Workshop organisation</h4>
 
 <h5>Programme committee</h5>
 <ul>
@@ -137,14 +194,14 @@ on the PAC programme, see
 </li><li>Vinod Grover, NVidia, USA
 </li><li>Torsten Grust, U.Tübingen, Germany
 </li><li>Zhenjiang Hu, National Inst. of Informatics, Tokyo, Japan
+</li><li>Suresh Jagannathan, Purdue U., USA
 </li><li>Gabriele Keller, U. New South Wales, Sydney, Australia
+</li><li>Yaron Minsky, Jane Street Capital, NY, USA
 </li><li>Jens Palsberg, U. of California, CA, USA
 </li><li>Leaf Peterson, Intel, USA
 </li><li>Mike Rainey, MPI-SWS,Kaiserslautern, Germany
-</li><li>Suresh Jagannathan, Purdue U., USA
 </li><li>Sven-Bodo Scholz, Heriot-Watt U., Edinburgh, UK
 </li><li>Guy Steele, Oracle Labs, Burlington, MA, USA
-</li><li>Yaron Minsky, Jane Street Capital, NY, USA
 </li></ul>
 
 <h5>General Chairs</h5>
@@ -154,51 +211,3 @@ henglein<!-- @@@ -->@<!-- @@@ -->diku<!-- nospam -->.<!-- nomorespam -->dk</li>
 <li>Clemens Grelck, Informatics Instititute, University of Amsterdam, Netherlands; 
 c.grelck<!-- @@@ -->@<!-- @@@ -->uva<!-- nospam -->.<!-- nomorespam -->nl</li>
 </ul>
-
-
-<h4>Accepted papers</h4>
-(in no particular order)
-<style>.title {clear:right;font-style:italic;font-weight:bold;padding:3pt}</style>
-<style>.authors {clear:right;padding:3pt}</style>
-<style>.abstract {border-left: solid black 1px;border-right: solid black 1px;border-top: solid black 1px;padding:3pt}</style>
-<style>.paper {width:800px;border-left:none;border-right:none;border-top: solid black 1px;padding:2pt}</style>
-<style>.abstract:last-child {border-bottom: solid black 1px;padding:3pt}</style>
-<style>.paper:last-child {border-bottom: solid black 1px;padding:2pt}</style>
-<div class="paper">
-  <span class="authors">Josef Svenningsson, Joel Svensson and Mary Sheeran</span><br/>
-  <span class="title">Counting and Occurrence sort for GPUs using an Embedded Language</span></div>
-<div class="paper">
-  <span class="authors">Lindsey Kuper and Ryan R. Newton</span><br/>
-  <span class="title">LVars: Lattice-based Data Structures for Deterministic Parallelism</span></div>
-<div class="paper">
-  <span class="authors">Mauro Blanco, Pablo Perdomo, Pablo Ezzatti, Alberto Pardo and Marcos Viera</span><br/>
-  <span class="title">Towards a functional run-time for dense NLA domain</span></div>
-<div class="paper">
-  <span class="authors">Troels Henriksen and Cosmin E. Oancea</span><br/>
-  <span class="title">A T2 Graph-Reduction Approach To Fusion</span></div>
-<div class="paper">
-  <span class="authors">Sylvain Henry</span><br/>
-  <span class="title">ViperVM: a Runtime System for Parallel Functional High-Performance Computing on Heterogeneous Architectures</span></div>
-<div class="paper">
-  <span class="authors">Frederik M. Madsen and Andrzej Filinski</span><br/>
-  <span class="title">Towards a Streaming Model for Nested Data Parallelism</span></div>
-<div class="paper">
-  <span class="authors">Qi Wang, Meixian Chen, Yu Liu and Zhenjiang Hu</span><br/>
-  <span class="title">Towards Systematic Parallel Programming of Graph Problems via Tree Decomposition and Tree Parallelism</span></div>
-<div class="paper">
-  <span class="authors">Artjoms Sinkarovs and Sven-Bodo Scholz</span><br/>
-  <span class="title">Sematics-Preserving Data Layout Transformations for Improved Vectorisation</span></div>
-
-<h4>Workshop programme</h4>
-The <a href="fhpc13.html">detailed programme</a> will be available here after the deadline for final papers.
-
-<!--
-<dl class="papers">
-<dt><strong>Keynote:</strong> <a href="fhpc13-prog.html#fhpcXX">TITLE</a></dt>
-<dd>SPEAKER</dd>
-
-<dt><a href="fhpc13-prog.html#fhpcXX">TITLE</a></dt>
-<dd>AUTHORS</dd>
-
-</dl>
--->
