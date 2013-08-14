@@ -25,6 +25,7 @@ Co-located with the<br/>
 </h3>
 <br style="clear:both"/>
 
+<!--
 <table style="border:none; font-size:x-small">
 <tr><th style="font-size:small">Jump to:
 <tr><td><a href="#Background">Background</a>
@@ -37,6 +38,7 @@ Call for papers:
 <a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.txt">CfP in txt format</a> and
 <a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.html">CfP in html format</a>.
 </table>
+-->
 
 <h4 id="Background">Background</h4>
 <p>
