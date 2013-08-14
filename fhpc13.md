@@ -25,20 +25,19 @@ Co-located with the<br/>
 </h3>
 <br style="clear:both"/>
 
-<!--
 <table style="border:none; font-size:x-small">
-<tr><th style="font-size:small">Jump to:
-<tr><td><a href="#Background">Background</a>
-<tr><td><a href="#Submission">Submission instructions</a>
-<tr><td><a href="#Support">Travel Support</a>
-<tr><td><a href="#Programme">Accepted Papers, Workshop Programme</a>
-<tr><td><a href="#Organisation">Workshop Organisation</a>
+<tr><th style="font-size:small">Jump to:</th></tr>
+<tr><td><a href="#Background">Background</a></td></tr>
+<tr><td><a href="#Submission">Submission instructions</a></td></tr>
+<tr><td><a href="#Support">Travel Support</a></td></tr>
+<tr><td><a href="#Programme">Accepted Papers, Workshop Programme</a></td></tr>
+<tr><td><a href="#Organisation">Workshop Organisation</a></td></tr>
 <tr><td>
 Call for papers:
 <a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.txt">CfP in txt format</a> and
 <a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.html">CfP in html format</a>.
+</td></tr>
 </table>
--->
 
 <h4 id="Background">Background</h4>
 <p>
@@ -116,7 +115,7 @@ anywhere on Earth</a>.
 <li> Workshop: <b>23 September 2013</b></li>
 </ul>
 
-<h4 id="Support">Travel Support:</h4>
+<h4 id="Support">Travel Support</h4>
 
 <p>Student attendees with accepted papers can apply for a SIGPLAN PAC grant
 to help cover travel expenses. PAC also offers other support, such as
