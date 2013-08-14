@@ -26,13 +26,13 @@ Co-located with the<br/>
 <br style="clear:both"/>
 
 <table style="border:none; font-size:x-small">
-<tr><th style="font-size:small">Jump to:</th></tr>
-<tr><td><a href="#Background">Background</a></td></tr>
-<tr><td><a href="#Submission">Submission instructions</a></td></tr>
-<tr><td><a href="#Support">Travel Support</a></td></tr>
-<tr><td><a href="#Programme">Accepted Papers, Workshop Programme</a></td></tr>
-<tr><td><a href="#Organisation">Workshop Organisation</a></td></tr>
-<tr><td>
+<tr><td style="font-size:small">Jump to:</td>
+<td>
+<a href="#Background">Background</a><br/>
+<a href="#Submission">Submission instructions</a><br/>
+<a href="#Support">Travel Support</a><br/>
+<a href="#Programme">Accepted Papers, Workshop Programme</a><br/>
+<a href="#Organisation">Workshop Organisation</a><br/>
 Call for papers:
 <a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.txt">CfP in txt format</a> and
 <a href="http://hiperfit.dk/fhpc13/fhpc13-cfp.html">CfP in html format</a>.
