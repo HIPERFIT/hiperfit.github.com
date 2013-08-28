@@ -1,13 +1,16 @@
 ---
-title: Workshop Progamme - Functional High-Performance Computing (FHPC'13)
+title: FHPC'13 - Workshop Programme and Abstracts
 layout: page
 ---
 {% include JB/setup %}
 
+<div style="font-size:xxsmall">Workshop main page:
+<a href="http://hiperfit.dk/fhpc13.html">Functional High-Performance Computing (FHPC'13)</a></div>
+
 <div class="item-text dynamic-text">
  <div>
 
-<h1>FHPC 2013 Workshop Schedule and Paper Abstracts</h1>
+<!-- <h1>FHPC 2013 Workshop Schedule and Paper Abstracts</h1> -->
 
 <style>.session {width:770px; border-top: solid black 3px;font-size:larger;clear:both;font-variant:small-caps;font-weight:bold;padding-left:20pt;padding-right:10pt;padding-top:10pt}</style>
 <style>.title {font-style:italic;font-weight:bold;padding:3pt}</style>
