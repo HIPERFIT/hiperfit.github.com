@@ -9,12 +9,12 @@ group: navigation
 * Troels Henriksen and Cosmin E. Oancea. A T2 Graph-Reduction Approach
   To Fusion. In _2nd ACM SIGPLAN Workshop on Functional
   High-Performance Computing_. Boston, Massachusetts. September
-  2013. (pdf/fhpc13_troels.pdf)[PDF].
+  2013. [PDF](pdf/fhpc13_troels.pdf).
 
 * Frederik M. Madsen and Andrzej Filinski. Towards a Streaming Model
   for Nested Data Parallelism. In _2nd ACM SIGPLAN Workshop on
   Functional High-Performance Computing_. Boston,
-  Massachusetts. September 2013. (pdf/fhpc13_madsen.pdf)[PDF].
+  Massachusetts. September 2013. [PDF](pdf/fhpc13_madsen.pdf).
 
 * Mischa Dieterle, Thomas Horstmeyer, Jost Berthold, and Rita Loogen.
   Iterating Skeletons - Structured Parallelism by Composition.
@@ -90,7 +90,7 @@ group: navigation
 
 * Frederik M. Madsen. _A Streaming Model for Nested Data
   Parallelism_. MSc thesis. Department of Computer Science, University
-  of Copenhagen. March 2013. (pdf/thesis-report_madsen2013.pdf)[PDF].
+  of Copenhagen. March 2013. [PDF](pdf/thesis-report_madsen2013.pdf).
 
 * Esben Bistrup Halvorsen. Calculating Key Ratios for Financial
   Products using Automatic Differentiation and Monte Carlo
