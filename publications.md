@@ -67,8 +67,8 @@ group: navigation
   Mogens Steffensen and Brian Vinter. Functional High Performance
   Financial IT -- The HIPERFIT Research Center in Copenhagen. In
   _Trends in Functional Programming (TFP'11)_. Revised Selected
-  Papers. LNCS (to appear), Springer
-  2011. [PDF](pdf/TFP2011HIPERFIT.pdf).
+  Papers. LNCS 7193, Springer
+  2012. [PDF](pdf/TFP2011HIPERFIT.pdf).
 
 * Michael Werk and Joakim Ahnfelt-Rønne. Pricing composable contracts
   on the GP-GPU. Master's thesis, Department of Computer Science,
