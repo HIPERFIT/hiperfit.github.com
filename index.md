@@ -8,11 +8,12 @@ title: Research Center for High Performance Computing in Financial IT
   <img src="images/logo114x114.png" align="right">
   <h1>Welcome to HIPERFIT!</h1>
 
-    <p>HIPERFIT is a joint research center attempting to solve the
+    <p>HIPERFIT is a joint research center addressing the
        simultaneous challenges of high transparency, high
-       computational performance and high productivity in an
-       integrated approach of declarative domain specific and
-       high-level functional programming languages.</p>
+       computational performance and high productivity in finance,
+       employing an integrated approach of financial mathematics,
+       domain specific languages and parallel functional programming
+       and high-performance systems.</p>
 
     <p><a href="about.html" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
 </div>
