@@ -7,7 +7,7 @@ group: navigation
 
 This page lists a series of suggested student projects within HIPERFIT. For more information about the possibilities, please talk to the appropriate contact persons.
 
-### Project: [Haskell Library for Finance](studentproject_haskell_library_finance.html).
+### Project: Haskell Library for Finance.
 
 This project is about constructing a modular library in Haskell for
 pricing financial contracts and portfolios – either solely based on
@@ -19,7 +19,7 @@ Contact person: [Jost Berthold](people.html) (joint supervision with Sinan Gabel
 
 [more >>](studentproject_haskell_library_finance.html).
 
-### Project: [Parallel Monte Carlo Simulations in Haskell](studentproject_haskell_montecarlo.html).
+### Project: Parallel Monte Carlo Simulations in Haskell.
 
 This project is about constructing a Monte Carlo simulation library in
 Haskell. The library should be structured to allow for different

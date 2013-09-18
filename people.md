@@ -51,7 +51,7 @@ group: navigation
 ### Functional Parallel Programming
 
 * ![Jost Berthold](images/101_jostberthold20091220_square_2.jpg) [Jost
-  Berthold](http://www.escience.ku.dk/staff/employee/?id=367090),
+  Berthold](http://www.diku.dk/~berthold/),
   Assistant Professor, Department of Computer Science, University of
   Copenhagen.
 
