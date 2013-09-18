@@ -12,13 +12,13 @@ developers and in-house.
 
 The joint research center HIPERFIT attempts to solve the simultaneous
 challenges of high transparency, high computational performance and
-high productivity in an integrated approach of declarative domain
-specific and high-level functional programming languages.  The center
-gathers research in different communities: mathematical finance,
-programming languages and high-performance systems and application
-experts from the financial sector contribute cutting edge knowledge
-from their respective fields to bear on problems transcending their
-own field of expertise.
+high productivity through an integrated approach of combining research
+in financial mathematics, declarative domain specific languages,
+high-level functional programming languages, and high-performance
+systems.  Besides the research component, application experts from the
+financial sector contribute cutting edge knowledge from their
+respective fields to bear on problems transcending their own field of
+expertise.
 
 Funded by the [Danish Council for Strategic Research
 (DSF)](http://en.fi.dk/councils-commissions/the-danish-council-for-strategic-research),
@@ -28,11 +28,6 @@ computing for financial information technology. The center started as
 a joint effort of [researchers](people.html) and selected [founding
 partners from the financial industry](partners.html). It is open for
 new collaborators from industry and commerce.
-
-Research in HIPERFIT attempts to solve the simultaneous challenges of
-high transparency, high computational performance and high
-productivity in an integrated approach of declarative domain specific
-and high-level functional programming languages. 
 
 HIPERFIT stands for research in tailor-made expressive programming
 languages, frameworks, tools and technologies for financial modeling,
