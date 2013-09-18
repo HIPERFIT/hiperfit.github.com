@@ -12,7 +12,7 @@ title: Research Center for High Performance Computing in Financial IT
        simultaneous challenges of high transparency, high
        computational performance and high productivity in finance,
        employing an integrated approach of financial mathematics,
-       domain specific languages and parallel functional programming
+       domain specific languages, parallel functional programming,
        and high-performance systems.</p>
 
     <p><a href="about.html" class="btn btn-primary btn-large">Learn more &raquo;</a></p>

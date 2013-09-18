@@ -12,11 +12,11 @@ developers and in-house.
 
 The joint research center HIPERFIT attempts to solve the simultaneous
 challenges of high transparency, high computational performance and
-high productivity through an integrated approach of combining research
-in financial mathematics, declarative domain specific languages,
-high-level functional programming languages, and high-performance
-systems.  Besides the research component, application experts from the
-financial sector contribute cutting edge knowledge from their
+high productivity through an integrated approach combining research in
+financial mathematics, declarative domain specific languages, parallel
+functional programming, and high-performance systems.  Besides the
+research component, application experts from the financial sector
+(HIPERFIT [partners](partners.html)) contribute cutting edge knowledge from their
 respective fields to bear on problems transcending their own field of
 expertise.
 
