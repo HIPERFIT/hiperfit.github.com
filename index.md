@@ -52,8 +52,8 @@ practicioners for future cooperation. </p>
     <p><a class="btn btn-primary" href="studentprojects.html">Student project suggestions &raquo;</a></p>
   </div>
   <div class="span4">
-    <h4>HIPERFIT - the Movie (in danish)</h4>
-    <p><a href="http://www.youtube.com/embed/z3slW7RmQBg"><img src="images/movie.jpg" /></a></p>
-    <p><a class="btn btn-primary" href="http://www.youtube.com/embed/z3slW7RmQBg">Watch it &raquo;</a></p>
+    <h4>HIPERFIT - the Movie</h4>
+    <p><a href="https://www.youtube.com/watch?feature=player_embedded&v=MlwfuZF6ko8"><img src="images/movie.jpg" /></a></p>
+    <p><a class="btn btn-primary" href="https://www.youtube.com/watch?feature=player_embedded&v=MlwfuZF6ko8">Watch it &raquo;</a></p>
   </div>
 </div>
