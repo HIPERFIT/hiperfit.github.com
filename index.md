@@ -53,7 +53,7 @@ practicioners for future cooperation. </p>
   </div>
   <div class="span4">
     <h4>HIPERFIT - the Movie</h4>
-    <p><a href="https://www.youtube.com/watch?feature=player_embedded&v=MlwfuZF6ko8"><img src="images/movie.jpg" /></a></p>
-    <p><a class="btn btn-primary" href="https://www.youtube.com/watch?feature=player_embedded&v=MlwfuZF6ko8">Watch it &raquo;</a></p>
+    <p><a href="https://www.youtube.com/embed/MlwfuZF6ko8"><img src="images/movie.jpg" /></a></p>
+    <p><a class="btn btn-primary" href="https://www.youtube.com/embed/MlwfuZF6ko8">Watch it &raquo;</a></p>
   </div>
 </div>
