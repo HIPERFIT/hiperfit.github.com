@@ -20,10 +20,62 @@ layout: page
 <!-- <style>.abstract:last-child {border-bottom: solid black 1px;padding:3pt}</style> 
 <style>.paper:last-child {border-bottom: solid black 1px;padding:2pt}</style>-->
 
+<input type="button" onclick="$('.abstract').toggle()" value="Show/Hide abstracts"/i>
+
 <div class="session">9:00 - 10:30 &mdash; Runtime Techniques for Declarative Parallel Programming</div>
 
 <div class="paper"><span class="authors">Matthew Fluet.</span><br/>
 <span class="title">The Manticore Project</span>(invited talk)</div>
+<div class="abstract"><b>Abstract: </b>
+
+The Manticore project is a research effort to design and implement a
+parallel functional programming language that targets commodity
+multicore and shared-memory multiprocessors. Our language is a dialect
+of Standard ML, called Parallel ML (PML), that starts with a strict,
+mutation-free functional core and extends with both
+implicitly-threaded constructs for fine-grain parallelism and
+CML-style explicit concurrency for coarse-grain parallelism.
+
+<!-- We have a prototype implementation that demonstrates both reasonable
+sequential performance and good scalability on both 32- core Intel
+machines and 48-core AMD machines. Our past research contributions
+include: a parallel implementation of CML; a novel infrastructure for
+nested schedulers; a collection of expressive implicitly-threaded
+parallel constructs with mostly se- quential semantics; a Lazy Tree
+Splitting (LTS) strategy for performance-robust work-stealing of
+parallel computations over irregular tree-like data structures.
+-->
+<br/>
+In this talk, I will motivate and describe the high-points in
+both the design of the Parallel ML language and the implementation 
+of the Manticore compiler and runtime system. After briefly
+discussing some notable results among our past research contributions, 
+I will highlight our most recent research efforts. In one
+line of work, we have demonstrated the importance of treating
+even commodity desktops and servers as non-uniform memory 
+access (NUMA) machines. This is particularly important for the
+scalability of parallel garbage collection, where unbalanced work
+with lower memory traffic is often better than balanced work with
+high memory traffic. In another line of work, we have explored
+data-only flattening, a compilation strategy for nested data
+parallelismthe eschews the traditional vectorization approachwhich
+transforms both control and data and was designed for wide-vector
+SIMD architectures. Instead, data-only flattening transforms nested
+data structures, but leaves control structures intact, a strategy that
+is better suited to multicore architectures. Finally, we are exploring 
+language features that provide controlled forms of (deterministic 
+and nondeterministic) mutable state within parallel computations. 
+We begin with the observation that there are parallel stateful 
+algorithms that exhibit significantly better performance than the
+corresponding parallel algorithm without mutable state. To support
+such algorithms, we extend Manticore two with memoziation
+of pure functions using a high-performance implementation of a
+dynamically sized, parallel hash table to provide scalable performance. 
+We are also exploring various execution models for general
+mutable state, with the crucial design criteria that all executions
+should preserve the ability to reason locally about the behavior of
+code.
+</div>
 
 <div class="paper"><span class="authors">Sylvain Henry. </span><br/><span class="title">ViperVM: a Runtime System for Parallel Functional High-Performance Computing on Heterogeneous Architectures</span></div>
 <div class="abstract"><b>Abstract: </b>The current trend in high-performance computing is to use heterogeneous architectures (i.e. multi-core with accelerators such as GPUs or Xeon Phi) because they offer very good performance over energy consumption ratios. Programming these architectures is notoriously hard, hence their use is still somewhat restricted to parallel programming experts. The situation is improving with frameworks using high-level programming models to generate efficient computation kernels for these new accelerator architectures. However, an orthogonal issue is to efficiently manage memory and kernel scheduling especially on architectures containing multiple accelerators. Task graph based runtime systems have been a first step towards efficiently automatizing these tasks. However they introduce new challenges of their own such as task granularity adaptation that cannot be easily automatized.<br/>
@@ -80,9 +132,57 @@ At the same time, the transformation also adjusts the code that operates on thes
 
 <div class="paper"><span class="authors">Manuel Chakravarty.</span><br/>
 <span class="title">Data Parallelism in Haskell</span>(invited talk)</div>
+<div class="abstract"><b>Abstract: </b>
+The implicit data parallelism in collective operations on aggregate 
+data structures constitutes an attractive parallel programming
+model for functional languages. Beginning with our work on integrating
+nested data parallelism into Haskell, we explored a variety
+of different approaches to array-centric data parallel programming
+in Haskell, experimented with a range of code generation and 
+optimisation strategies, and targeted both multicore CPUs and GPUs.
+In addition to practical tools for parallel programming, the 
+outcomes of this research programme include more widely applicable
+concepts, such as Haskell’s type families and stream fusion.
+In this talk, I will contrast the different approaches to data 
+parallel programming that we explored. I will discuss their strengths
+and weaknesses and review what we have learnt in the course of
+exploring the various options. This includes our experience of 
+implementing these approaches in the Glasgow Haskell Compiler as
+well the experimental results that we have gathered so far.
+Finally, I will outline the remaining open challenges and our
+plans for the future.
+<br/>This talk is based on joint work with Gabriele Keller, Sean Lee,
+Roman Leshchinskiy, Ben Lippmeier, Trevor L. McDonell, and
+Simon Peyton Jones.
+</div>
 
-<div class="paper"><span class="authors">Panel: </span><br/>
+<div class="paper"><span class="authors">Panel:
+(Clemens Grelck -UvA, Manuel Chakravarty -UNSW, Neal Glew -Intel,
+xR.S.Nikhil -Bluespec, Cosmin Oancea -DIKU).</span><br>
 <span class="title">Data Parallelism and GPU Computing</span></div>
-
+<!--
+<div class="abstract"><b>Abstract: </b>
+Highly parallel platforms like modern graphics processing units (GPUs)
+require new programming paradigms to go beyond small-scale parallelism.
+Functional languages are promising candidates for this new challenge, 
+and substantial work has been done  in the recent past towards executing
+functional code on GPUs.
+We will discuss the state of art and related questions with a panel 
+of invited experts.
+<ul>
+<li>What are the particular opportunities and obstacles when using
+functional languages to program modern massively parallel hardware
+(GPUs, FPGAs)?
+<li>What hardware features of modern GPUs are considered important
+when applying a functional paradigm? Are there any features that get in 
+the way?
+<li>How do differences between classical vector processors and modern 
+GPU architectures affect, or even drive, language abstractions and 
+compiler implementations?
+<li>How do you imagine GPUs and other accelerators being used by 
+“Joe programmer” in 10 to 15 years?
+</ul>
+</div>
+-->
  </div>
 </div>

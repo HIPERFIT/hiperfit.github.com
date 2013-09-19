@@ -100,8 +100,8 @@ page limit are firm. </p>
 ACM Digital Library.</p>
 
 <p>
-The deadline is passed, the
-(<a href="https://www.easychair.org/conferences/?conf=fhpc2013">FHPC'13 submission site</a>
+The deadline has passed, the
+<a href="https://www.easychair.org/conferences/?conf=fhpc2013">FHPC'13 submission site</a>
 is closed.</p>
 
 <h4>Important dates</h4>
