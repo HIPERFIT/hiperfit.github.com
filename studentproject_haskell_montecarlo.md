@@ -1,7 +1,7 @@
 ---
 title: Student Project - Parallel Monte Carlo Simulations in Haskell
 layout: page
-group: student projects
+group: studentprojects
 ---
 {% include JB/setup %}
 
@@ -17,7 +17,7 @@ generator simulates the same pseudo-random numbers.
 
 ### Contact person
 
-Jost Berthold (joint supervision with Sinan Gabel)
+[Jost Berthold](people.html) (joint supervision with Sinan Gabel)
 
 ### Notes
 
@@ -47,7 +47,7 @@ written in Mathematica “Derivatives Expert IV for Mathematica”
 (relevant part is module/package 18). The library has accommodating
 examples, documentation and test files. A .pdf version of the
 documentation can be found at
-[http://ifs.dk/DerivativesExpert/DerivativesExpertManual.pdf](http://ifs.dk/DerivativesExpert/DerivativesExpertManual.pdf),
+[http://ifs.dk/DerivativesExpert/DerivativesExpertManual.pdf](http://ifs.dk/DerivativesExpert/DerivativesExpertManual.pdf);
 see pages 309-326.
 
 Gentle, J. E. Random Number Generation and Monte Carlo Methods, 2nd ed.
