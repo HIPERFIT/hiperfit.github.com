@@ -16,9 +16,8 @@ high productivity through an integrated approach combining research in
 financial mathematics, declarative domain specific languages, parallel
 functional programming, and high-performance systems.  Besides the
 research component, application experts from the financial sector
-(HIPERFIT [partners](partners.html)) contribute cutting edge knowledge from their
-respective fields to bear on problems transcending their own field of
-expertise.
+contribute cutting edge knowledge from their respective fields to bear
+on problems transcending their own field of expertise.
 
 Funded by the [Danish Council for Strategic Research
 (DSF)](http://en.fi.dk/councils-commissions/the-danish-council-for-strategic-research),
