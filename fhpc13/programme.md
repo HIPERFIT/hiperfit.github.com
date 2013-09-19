@@ -20,7 +20,9 @@ layout: page
 <!-- <style>.abstract:last-child {border-bottom: solid black 1px;padding:3pt}</style> 
 <style>.paper:last-child {border-bottom: solid black 1px;padding:2pt}</style>-->
 
+<!--
 <input type="button" onclick="$('.abstract').toggle()" value="Show/Hide abstracts"/input>
+-->
 
 <div class="session">9:00 - 10:30 &mdash; Runtime Techniques for Declarative Parallel Programming</div>
 
