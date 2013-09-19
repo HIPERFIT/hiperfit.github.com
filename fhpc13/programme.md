@@ -20,9 +20,7 @@ layout: page
 <!-- <style>.abstract:last-child {border-bottom: solid black 1px;padding:3pt}</style> 
 <style>.paper:last-child {border-bottom: solid black 1px;padding:2pt}</style>-->
 
-<!--
-<input type="button" onclick="$('.abstract').toggle()" value="Show/Hide abstracts"/i>
--->
+<input type="button" onclick="$('.abstract').toggle()" value="Show/Hide abstracts"/input>
 
 <div class="session">9:00 - 10:30 &mdash; Runtime Techniques for Declarative Parallel Programming</div>
 
@@ -160,7 +158,7 @@ Simon Peyton Jones.
 
 <div class="paper"><span class="authors">Panel:
 (Clemens Grelck -UvA, Manuel Chakravarty -UNSW, Neal Glew -Intel,
-xR.S.Nikhil -Bluespec, Cosmin Oancea -DIKU).</span><br>
+R.S.Nikhil -Bluespec, Cosmin Oancea -DIKU).</span><br>
 <span class="title">Data Parallelism and GPU Computing</span></div>
 <!--
 <div class="abstract"><b>Abstract: </b>
