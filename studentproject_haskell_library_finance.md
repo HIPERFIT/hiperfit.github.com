@@ -1,7 +1,7 @@
 ---
 title: Student Project - Haskell Library for Finance
 layout: page
-group: student projects
+group: studentprojects
 ---
 {% include JB/setup %}
 
@@ -13,7 +13,7 @@ architecture to reach a proof-of-concept level.
 
 ### Contact person
 
-Jost Berthold (joint supervision with Sinan Gabel).
+[Jost Berthold](people.html) (joint supervision with Sinan Gabel).
 
 ### Notes
 
