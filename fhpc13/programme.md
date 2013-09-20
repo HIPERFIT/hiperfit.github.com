@@ -160,9 +160,8 @@ Simon Peyton Jones.
 
 <div class="paper"><span class="authors">Panel:
 (Clemens Grelck -UvA, Manuel Chakravarty -UNSW, Neal Glew -Intel,
-R.S.Nikhil -Bluespec, Cosmin Oancea -DIKU).</span><br>
+R.S.Nikhil -Bluespec, Cosmin Oancea -DIKU)</span><br>
 <span class="title">Data Parallelism and GPU Computing</span></div>
-<!--
 <div class="abstract"><b>Abstract: </b>
 Highly parallel platforms like modern graphics processing units (GPUs)
 require new programming paradigms to go beyond small-scale parallelism.
@@ -172,19 +171,16 @@ functional code on GPUs.
 We will discuss the state of art and related questions with a panel 
 of invited experts.
 <ul>
-<li>What are the particular opportunities and obstacles when using
-functional languages to program modern massively parallel hardware
-(GPUs, FPGAs)?
-<li>What hardware features of modern GPUs are considered important
-when applying a functional paradigm? Are there any features that get in 
-the way?
-<li>How do differences between classical vector processors and modern 
-GPU architectures affect, or even drive, language abstractions and 
-compiler implementations?
-<li>How do you imagine GPUs and other accelerators being used by 
-“Joe programmer” in 10 to 15 years?
+<li>What particular opportunities and obstacles do functional languages 
+   expose for modern day massively parallel hardware (GPUs, FPGAs)?
+<li>What are desirable hardware features to facilitate programming modern 
+  hardware in the functional paradigm and which features are rather in the way? 
+<li>How do differences between classical (vector) processors and modern 
+  accelerator architectures affect, or even drive, (functional) language design 
+  and implementation?
+<li>How do you envision "Joe programmer" to make use of presumably
+  highly parallel and heterogeneous hardware in 10 to 15 years' time? 
 </ul>
 </div>
--->
  </div>
 </div>
