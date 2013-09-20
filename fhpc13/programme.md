@@ -167,7 +167,8 @@ Highly parallel platforms like modern graphics processing units (GPUs)
 require new programming paradigms to go beyond small-scale parallelism.
 Functional languages are promising candidates for this new challenge, 
 and substantial work has been done  in the recent past towards executing
-functional code on GPUs.
+functional code on GPUs, but accelerator programming is not all sunshine
+and roses.
 We will discuss the state of art and related questions with a panel 
 of invited experts.
 <ul>
