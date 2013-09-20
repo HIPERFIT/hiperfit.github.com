@@ -173,13 +173,17 @@ of invited experts.
 <ul>
 <li>What particular opportunities and obstacles do functional languages 
    expose for modern day massively parallel hardware (GPUs, FPGAs)?
+</li>
 <li>What are desirable hardware features to facilitate programming modern 
   hardware in the functional paradigm and which features are rather in the way? 
+</li>
 <li>How do differences between classical (vector) processors and modern 
   accelerator architectures affect, or even drive, (functional) language design 
   and implementation?
+</li>
 <li>How do you envision "Joe programmer" to make use of presumably
   highly parallel and heterogeneous hardware in 10 to 15 years' time? 
+</li>
 </ul>
 </div>
  </div>
