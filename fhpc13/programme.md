@@ -159,7 +159,7 @@ Simon Peyton Jones.
 </div>
 
 <div class="paper"><span class="authors">Panel:
-(Clemens Grelck -UvA, Manuel Chakravarty -UNSW, Neal Glew -Intel,
+(Clemens Grelck -UvA, Manuel Chakravarty -UNSW, <del>Neal Glew</del><ins>R.Newton - Ind.U</ins>,
 R.S.Nikhil -Bluespec, Cosmin Oancea -DIKU)</span><br>
 <span class="title">Data Parallelism and GPU Computing</span></div>
 <div class="abstract"><b>Abstract: </b>
