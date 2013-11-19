@@ -7,7 +7,7 @@ tags: []
 {% include JB/setup %}
 
 A series of activities are happening in the HIPERFIT research center
-in the fall. Since the PhD Workshop in August, HIPERFIT researchers
+in the fall. Since the [PhD Workshop](/news/2013/07/31/internal-hiperfit-phd-workshop) in August, HIPERFIT researchers
 have worked together with the involved partners on topics such as
 contract modeling, household finance, GPGPU execution of model
 calibration code, and scalable portfolio analysis. 
@@ -17,9 +17,9 @@ on the 2nd ACM SIGPLAN Workshop on Functional High-Performance
 Computing, held in Boston, USA. The first paper, authored by Troels
 Henriksen and Cosmin E. Oancea, introduced [a fusion technique for
 avoiding unnecessary storage of intermediate results in array
-languages](pdf/fhpc13_troels.pdf). The second paper, authored by
+languages](/pdf/fhpc13_troels.pdf). The second paper, authored by
 Frederik M. Madsen and Andrzej Filinski, introduced [a streaming model
-for nested parallelism](pdf/fhpc13_madsen.pdf), which allows for
+for nested parallelism](/pdf/fhpc13_madsen.pdf), which allows for
 splitting up the processing of streams of data in a way that allows
 for high utilization of parallelism. Another paper, authored by Martin
 Elsman and Anders Schack-Nielsen (SimCorp), has been accepted for
@@ -27,8 +27,8 @@ publication, in January 2014, at the International Symposium on
 Practical Aspects of Declarative Languages (PADL’14). This papers
 introduces the concept of [Typelets - A Rule-Based Evaluation Model
 for Dynamic, Statically Typed User
-Interfaces](pdf/typelets_final.pdf). The papers are available from the
-[HIPERFIT Publication page](publications.html).
+Interfaces](/pdf/typelets_final.pdf). The papers are available from the
+[HIPERFIT Publication page](/publications.html).
 
 In December, HIPERFIT researchers and student will be going on a
 retreat where they will work together on a series of topics, including
