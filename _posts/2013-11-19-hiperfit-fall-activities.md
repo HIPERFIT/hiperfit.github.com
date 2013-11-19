@@ -30,7 +30,7 @@ for Dynamic, Statically Typed User
 Interfaces](/pdf/typelets_final.pdf). The papers are available from the
 [HIPERFIT Publication page](/publications.html).
 
-In December, HIPERFIT researchers and student will be going on a
+In December, HIPERFIT researchers and students will be going on a
 retreat where they will work together on a series of topics, including
 credit value adjustments, household finance, fusion for streaming, and
 a backend for the HIPERFIT L language.
