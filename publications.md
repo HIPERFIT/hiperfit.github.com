@@ -6,6 +6,12 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Martin Elsman and Anders Schack-Nielsen. Typelets - A Rule-Based
+  Evaluation Model for Dynamic, Statically Typed User Interfaces. In
+  _International Symposium on Practical Aspects of Declarative
+  Languages (PADL'14)_. San Diego, USA. January,
+  2014. [PDF](pdf/typelets_final.pdf).
+
 * Troels Henriksen and Cosmin E. Oancea. A T2 Graph-Reduction Approach
   To Fusion. In _2nd ACM SIGPLAN Workshop on Functional
   High-Performance Computing_. Boston, Massachusetts. September
