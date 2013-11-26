@@ -6,6 +6,16 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Mads R. B. Kristensen, Simon A. F. Lund, Troels Blum, Kenneth
+  Skovhede, and Brian Vinter. Bohrium: Unmodified NumPy Code on CPU,
+  GPU, and Cluster. In Workshop on Python for High Performance and Scientific
+  Computing (PyHPC'2013). 2013. [PDF](pdf/Bohrium.pdf).
+
+* Simon A. F. Lund, Kenneth Skovhede, Mads R. B. Kristensen, and Brian
+  Vinter. Doubling the Performance of Python/NumPy with less than 100
+  SLOC. In Workshop on Python for High Performance and Scientific
+  Computing (PyHPC'2013). 2013. [PDF](pdf/Doubling.pdf).
+
 * Martin Elsman and Anders Schack-Nielsen. Typelets - A Rule-Based
   Evaluation Model for Dynamic, Statically Typed User Interfaces. In
   _International Symposium on Practical Aspects of Declarative
