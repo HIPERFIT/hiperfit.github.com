@@ -39,8 +39,7 @@ revised papers, Springer Verlag. 2013.
 * Kourosh M. Rasmussen, Claus A. Madsen, and Rolf Poulsen. Can
 Households Benefit from Stochastic Programming Models? An Empirical
 Study of Mortgage Refinancing in Denmark. In _Computational Management
-Science_. Volume 11, Issue 1-2, pp 5-23. January,
-2014. [PDF](http://www.math.ku.dk/~rolf/MortgageRefinancing_01032013.pdf).
+Science_. Volume 11, Issue 1-2, pp 5-23. January 2014. [PDF](http://www.math.ku.dk/~rolf/MortgageRefinancing_01032013.pdf).
 
 * Kourosh M. Rasmussen, Rolf Poulsen, and Søren Kyhl.  Risikospredning
 med tolagsbelåning. In _Finans/Invest, Issue 312_. December 2012.
