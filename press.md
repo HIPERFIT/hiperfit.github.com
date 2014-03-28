@@ -7,6 +7,8 @@ group: navigation
 
 Articles and Media Online:
 
+* 2014-03-13: Article about [HIPERFIT in videnskab.dk](http://videnskab.dk/kultur-samfund/danske-forskere-vil-forhindre-bankkriser) (in danish). [PDF](pdf/videnskabdk-2014-03-13.pdf)
+
 * 2013-03-05: HIPERFIT is mentioned in supplement [Fremtidens Bank og Forsikring](pdf/fremtidensbank.pdf)
   of [Børsen](http://www.borsen.dk). [Entire supplement](pdf/Fremtidens_Bank_DK_2013_20s.pdf).
 
