@@ -13,7 +13,7 @@ the appropriate contact persons.
 
 Esben Halvorsen describes in his MSc project [Calculating Key Ratios
 for Financial Products using Automatic Differentiation and Monte Carlo
-Simulation](pdf/ad_esben.pdf), how to construct a
+Simulation](/pdf/ad_esben.pdf), how to construct a
 Haskell framework for Automatic Differention (AD), which turns out to
 be useful for calculating "the greeks" (key ratios) for financial
 products. The framework has been implemented in Haskell and the
@@ -31,7 +31,7 @@ have interesting language constructs for programming with arrays for
 parallel hardware. Although APL is nowadays not widely adopted as the
 programming language of choice for large corporations, APL is still
 used in industry, for instance, in the danish company (and HIPERFIT
-partner) [SimCorp](www.simcorp.com), which has large parts of their
+partner) [SimCorp](http://www.simcorp.com), which has large parts of their
 code base written in APL. This project is about designing and
 constructing an APL-parser in Haskell. For inspiration, a parser for
 APL, written in Standard ML, is [available at
