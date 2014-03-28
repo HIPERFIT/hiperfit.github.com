@@ -21,6 +21,7 @@ Below follows some more detailed information about the scholarships.
 
 #### PhD scholarship(s) in High-Performance Functional Programming
 
+<img width="200" alt="HIPERFIT dinner" align="right" src="/images/hiperfit2.jpg">
 The PhD student will be working in the Research Center for Functional
 High-Performance Computing for Financial Information Technology
 ([www.hiperfit.dk](http://www.hiperfit.dk)). The PhD scholarship is funded by
@@ -35,6 +36,7 @@ functional specifications of both numeric and symbolic computations on
 modern, highly parallel computational platforms such as multi- and
 many-core CPUs, GPGPUs and FPGAs.
 
+<img width="200" alt="HIPERFIT workshop" align="right" src="/images/hiperfit3.jpg">
 The candidate must - in addition to the qualifications listed above -
 have a solid academic background in the relevant areas of computer
 science, as demonstrated by academic courses and project/thesis work
