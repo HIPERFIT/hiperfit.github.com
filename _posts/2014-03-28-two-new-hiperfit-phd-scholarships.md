@@ -6,11 +6,10 @@ tags: [phd position]
 ---
 {% include JB/setup %}
 
+<img width="200" alt="HIPERFIT logo" align="right" src="/images/hiperfit.jpg">
 The HIPERFIT research center now seeks two new excellent PhD students
 for working within the area of High-Performance Functional
 Programming.
-
-![HIPERFIT logo](/images/hiperfit.jpg)
 
 For information about the application procedure, and the scholarships
 in general, please consult the [general
@@ -20,7 +19,7 @@ UTC+14).
 
 Below follows some more detailed information about the scholarships.
 
-### PhD scholarship(s) in High-Performance Functional Programming
+#### PhD scholarship(s) in High-Performance Functional Programming
 
 The PhD student will be working in the Research Center for Functional
 High-Performance Computing for Financial Information Technology
