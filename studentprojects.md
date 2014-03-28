@@ -9,6 +9,36 @@ This page lists a series of suggested student projects within
 HIPERFIT. For more information about the possibilities, please talk to
 the appropriate contact persons.
 
+### Optimization of a Haskell Automatic Differentiation Library
+
+Esben Halvorsen describes in his MSc project [Calculating Key Ratios
+for Financial Products using Automatic Differentiation and Monte Carlo
+Simulation](http://hiperfit.dk/pdf/ad_esben.pdf), how to construct a
+Haskell framework for Automatic Differention (AD), which turns out to
+be useful for calculating "the greeks" (key ratios) for financial
+products. The framework has been implemented in Haskell and the
+project report outlines a series of possibilities for optimizations,
+including an improved representation of arrays. This project is about
+investigating the possibilities for optimization of the AD framework,
+possibly for pricing and calculating greeks on parallel hardware.
+
+Supervisor: [Martin Elsman](http://www.elsman.com)
+
+### APL parsing in Haskell
+
+APL is an array programming language from the 60's, which turns out to
+have interesting language constructs for programming with arrays for
+parallel hardware. Although APL is nowadays not widely adopted as the
+programming language of choice for large corporations, APL is still
+used in industry, for instance, in the danish company (and HIPERFIT
+partner) [SimCorp](www.simcorp.com), which has large parts of their
+code base written in APL. This project is about designing and
+constructing an APL-parser in Haskell. For inspiration, a parser for
+APL, written in Standard ML, is [available at
+github](https://github.com/melsman/aplparse).
+
+Supervisor: [Martin Elsman](http://www.elsman.com)
+
 ### Project: Bohrium Backend for L0
 
 As part of its research into parallel functional programming, HIPERFIT
