@@ -10,7 +10,7 @@ The HIPERFIT research center now seeks two new excellent PhD students
 for working within the area of High-Performance Functional
 Programming.
 
-![HIPERFIT logo](images/hiperfit.jpg)
+![HIPERFIT logo](/images/hiperfit.jpg)
 
 For information about the application procedure, and the scholarships
 in general, please consult the [general
@@ -24,7 +24,7 @@ Below follows some more detailed information about the scholarships.
 
 The PhD student will be working in the Research Center for Functional
 High-Performance Computing for Financial Information Technology
-([www.hiperfit.dk](www.hiperfit.dk)). The PhD scholarship is funded by
+([www.hiperfit.dk](http://www.hiperfit.dk)). The PhD scholarship is funded by
 the Danish Council for Strategic Research and will be carried out at
 DIKU in formal collaboration with the Department of Mathematical
 Sciences and the Niels Bohr Institute, University of Copenhagen and
