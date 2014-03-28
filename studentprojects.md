@@ -9,11 +9,11 @@ This page lists a series of suggested student projects within
 HIPERFIT. For more information about the possibilities, please talk to
 the appropriate contact persons.
 
-### Optimization of a Haskell Automatic Differentiation Library
+### Project: Optimization of a Haskell Automatic Differentiation Library
 
 Esben Halvorsen describes in his MSc project [Calculating Key Ratios
 for Financial Products using Automatic Differentiation and Monte Carlo
-Simulation](http://hiperfit.dk/pdf/ad_esben.pdf), how to construct a
+Simulation](pdf/ad_esben.pdf), how to construct a
 Haskell framework for Automatic Differention (AD), which turns out to
 be useful for calculating "the greeks" (key ratios) for financial
 products. The framework has been implemented in Haskell and the
@@ -24,7 +24,7 @@ possibly for pricing and calculating greeks on parallel hardware.
 
 Supervisor: [Martin Elsman](http://www.elsman.com)
 
-### APL parsing in Haskell
+### Project: APL parsing in Haskell
 
 APL is an array programming language from the 60's, which turns out to
 have interesting language constructs for programming with arrays for
