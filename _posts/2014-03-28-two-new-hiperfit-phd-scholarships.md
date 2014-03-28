@@ -10,6 +10,8 @@ The HIPERFIT research center now seeks two new excellent PhD students
 for working within the area of High-Performance Functional
 Programming.
 
+![HIPERFIT logo](images/hiperfit.jpg)
+
 For information about the application procedure, and the scholarships
 in general, please consult the [general
 announcement](http://www.diku.dk/english/about/vacancies/phd_scholar_cs_call_spring_2014/). The
