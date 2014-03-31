@@ -11,6 +11,26 @@ requests/changes/questions/updates, please contact [Martin
 Elsman](http://www.elsman.com) (mobile: 26122212; email:
 [mael@di.ku.dk](mailto:mael@di.ku.dk)).
 
+#### Rules
+
+Core HIPERFIT faculty is expected to come regularly. HIPERFIT partners
+and collaborators are *welcome*. For partners: please send information
+to [Martin](mailto:mael@di.ku.dk) if you plan to attend a meeting.
+
+Each research area manager (for MF, HPS, DSL, and FP) is responsible
+for making sure the other HIPERFIT research areas are kept up-to-date;
+in particular, they convey by others or invite others to specific
+meetings. PhD students are optional.
+
+#### Standard agenda:
+
+0. Arrival, lunch, and chit-chat (12:00-12:15)
+1. Status and review of action items (starting 12:15)
+2. Discussion of old and new action items
+3. Decisions
+4. 15-minutes talk (starting 12:30)
+5. Miscellaneous
+
 #### Schedule for talks (reverse chronological order):
 
 - __2014-05-27:__ MF
