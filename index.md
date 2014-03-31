@@ -53,7 +53,12 @@ practicioners for future cooperation. </p>
   </div>
   <div class="span4">
     <h4>HIPERFIT - the Movie</h4>
-    <p><a href="https://www.youtube.com/embed/MlwfuZF6ko8"><img src="images/movie.jpg" /></a></p>
+    <p><a href="https://www.youtube.com/embed/MlwfuZF6ko8"><img width="150px" src="images/movie.jpg" /></a></p>
     <p><a class="btn btn-primary" href="https://www.youtube.com/embed/MlwfuZF6ko8">Watch it &raquo;</a></p>
+  </div>
+  <div class="span4">
+    <h4>Tuesday Lunch Meetings</h4>
+    <p>Almost every Tuesday, HIPERFIT researchers and associates meet to discuss the current status of projects, topics for collaboration, and ideas for new projects and investigations.</p>
+    <p><a class="btn btn-primary" href="lunches.html">Go look at the activities &raquo;</a></p>
   </div>
 </div>
