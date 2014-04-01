@@ -34,32 +34,31 @@ meetings. PhD students are optional.
 
 #### Schedule for talks (reverse chronological order):
 
-- __2014-05-27:__ MF
+- __2014-05-27:__ HPS
 
-- __2014-05-20:__ HPS
+- __2014-05-20:__ MF (Maj-Britt)
 
-- __2014-05-13:__ DSL
+- __2014-05-13:__ DSL (Ken)
 
 - __2014-05-06:__ Paper collaboration projects
 
-- __2014-04-29:__ FP
+- __2014-04-29:__ FP (Andrzej)
 
-- __2014-04-22:__ MF
+- __2014-04-22:__ MF (Simon E.N.)
 
-- __2014-04-15:__ HPS
+- __2014-04-15:__ Easter (cancel)
 
-- __2014-04-08:__ DSL
+- __2014-04-08:__ Prototype (Jost & Martin)
 
-- __2014-04-01:__ Paper collaboration projects (Jost and Martin
-  presents ideas about a HIPERFIT prototype)
+- __2014-04-01:__ Paper collaboration projects
 
-- __2014-03-25:__ FP
+- __2014-03-25:__ Lunch only
 
-- __2014-03-18:__ MF
+- __2014-03-18:__ DSL - (Fritz Henglein on LA and queries, part 2)
 
-- __2014-03-11:__ HPS
+- __2014-03-11:__ DSL - (Fritz Henglein on LA and queries, part 1)
 
-- __2014-03-04:__ DSL
+- __2014-03-04:__ HPS - (Simon Lund)
 
 - __2014-02-25:__ Discussion about targeting conferences; paper collaboration projects
 
