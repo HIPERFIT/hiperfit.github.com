@@ -99,6 +99,10 @@ Financial Information Technology. Project Application, 2010.
 
 ### Student Project Reports
 
+* Marco Eilers. Multireduce and Multiscan on Modern GPUs. MSc
+thesis. Department of Computer Science, University of
+Copenhagen. March 2014. [PDF](pdf/marco-eilers-thesis.pdf).
+
 * Frederik M. Madsen. _A Streaming Model for Nested Data
 Parallelism_. MSc thesis. Department of Computer Science, University
 of Copenhagen. March 2013. [PDF](pdf/thesis-report_madsen2013.pdf).
