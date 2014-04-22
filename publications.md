@@ -99,7 +99,7 @@ Financial Information Technology. Project Application, 2010.
 
 ### Student Project Reports
 
-* Marco Eilers. Multireduce and Multiscan on Modern GPUs. MSc
+* Marco Eilers. _Multireduce and Multiscan on Modern GPUs_. MSc
 thesis. Department of Computer Science, University of
 Copenhagen. March 2014. [PDF](pdf/marco-eilers-thesis.pdf).
 
