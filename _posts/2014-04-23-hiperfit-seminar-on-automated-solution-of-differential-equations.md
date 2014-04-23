@@ -13,18 +13,17 @@ __HIPERFIT Seminar talk: Automated Solution of Differential Equations__
 __Speaker: Anders Logg, Professor of Computational Mathematics at Chalmers
 University of Technology, Gothenburg.__
 
-__Date and time: May 6, 2014, 15:00-16:00__
+__Time: Tuesday, May 6, 2014, 15:00-16:00__
 
-__Location: Auditorium 5, Bygning C, HCØ, Universitetsparken 5, 2100 Copenhagen Ø.__
+__Place: Auditorium 5, Building C, HCØ, Universitetsparken 5, 2100 Copenhagen Ø.__
 
-__Note:__ _Drinks and snacks will be served after the talk._
+__Note:__ Drinks and snacks will be served after the talk.
 
-
-== Automated Solution of Differential Equations
+#### Automated Solution of Differential Equations
 
 __Anders Logg__
 
-=== Abstract
+#### Abstract
 
 For more than two centuries, partial differential equations have been
 an indispensable tool for scientists and engineers for modeling and
@@ -47,7 +46,7 @@ of differential equations by finite element methods, based on domain
 specific languages, code generation, and high-performance parallel
 computing.
 
-=== Bio
+#### Bio
 
 Anders Logg is a professor of Computational Mathematics at Chalmers
 University of Technology in Gothenburg. His main research interest is
