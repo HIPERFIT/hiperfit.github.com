@@ -18,9 +18,11 @@ group: navigation
   Professor, Department of Mathematical Sciences, University of
   Copenhagen.
 
+<!--
 * ![Christian Andreetta](images/andreetta.jpg) [Christian
   Andreetta](http://www.diku.dk/Ansatte/?id=354703&vis=medarbejder),
   Postdoc, Department of Computer Science, University of Copenhagen.
+-->
 
 * [Lykke Rasmussen](http://quantess.net), PhD Student, Department of
   Mathematical Sciences, University of Copenhagen.
@@ -60,10 +62,12 @@ group: navigation
 * ![Andrzej Filinski](images/100_filinski_cms.jpg) [Andrzej Filinski](http://www.diku.dk/~andrzej), Associate
   Professor, Department of Computer Science, University of Copenhagen.
 
-* ![Cosmin Oancea](images/cosmin.jpg) [Cosmin Oancea](http://www.diku.dk/~zgh600), Postdoc, Department of
-  Computer Science, University of Copenhagen.
+* ![Cosmin Oancea](images/cosmin.jpg) [Cosmin
+  Oancea](http://www.diku.dk/~zgh600), Assistant Professor, Department
+  of Computer Science, University of Copenhagen.
 
-* ![Troels Henriksen](images/thenriksen.jpg) [Troels Henriksen](http://sigkill.dk/), Student Programmer, MSc student, Department of Computer Science, University of Copenhagen.
+* ![Troels Henriksen](images/thenriksen.jpg) [Troels Henriksen](http://sigkill.dk/), PhD
+  Student, Department of Computer Science, University of Copenhagen.
 
 * ![Frederik Meisner Madsen](images/meisner.jpg) [Frederik Meisner Madsen](http://www.linkedin.com/in/frederikmm),
   PhD Student. Department of Computer Science, University of
