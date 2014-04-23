@@ -8,7 +8,7 @@ tags: [Anders Logg]
 
 <img width="200" alt="Anders Logg" align="right" src="/images/anderslogg.png">
 
-__Speaker:__ Anders Logg, Professor of Computational Mathematics at Chalmers
+__Speaker:__ [Anders Logg](http://www.math.chalmers.se/~logg/), Professor of Computational Mathematics at Chalmers
 University of Technology, Gothenburg.
 
 __Time: Tuesday, May 6, 2014, 15:00-16:00__
@@ -17,7 +17,7 @@ __Place:__ Auditorium 5, Building C, HCØ, Universitetsparken 5, 2100 Copenhagen
 
 __Note:__ Drinks and snacks will be served after the talk.
 
-#### Talk Abstract
+### Talk Abstract
 
 For more than two centuries, partial differential equations have been
 an indispensable tool for scientists and engineers for modeling and
@@ -40,9 +40,9 @@ of differential equations by finite element methods, based on domain
 specific languages, code generation, and high-performance parallel
 computing.
 
-#### Bio
+### Bio
 
-Anders Logg is a professor of Computational Mathematics at Chalmers
+[Anders Logg](http://www.math.chalmers.se/~logg/) is a professor of Computational Mathematics at Chalmers
 University of Technology in Gothenburg. His main research interest is
 in the numerical solution of partial differential equations, in
 particular adaptive finite element methods and the development of
