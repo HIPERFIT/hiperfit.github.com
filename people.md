@@ -56,7 +56,7 @@ group: navigation
   Assistant Professor, Department of Computer Science, University of
   Copenhagen.
 
-* ![Martin Elsman](images/96_elsman_web.jpg) [Martin Elsman](http://www.elsman.com), Associate Professor,
+* <img src="http://www.gravatar.com/avatar/17359cd186d6685c041b48fac5844489"> [Martin Elsman](http://www.elsman.com), Associate Professor,
   Department of Computer Science, University of Copenhagen.
 
 * ![Andrzej Filinski](images/100_filinski_cms.jpg) [Andrzej Filinski](http://www.diku.dk/~andrzej), Associate
