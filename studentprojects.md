@@ -52,20 +52,6 @@ github](https://github.com/melsman/aplparse).
 
 Supervisor: [Martin Elsman](http://www.elsman.com)
 
-### Project: Bohrium Backend for L0
-
-As part of its research into parallel functional programming, HIPERFIT
-has developed L0, a simple purely functional data-parallel language
-intended as an intermediate representation.  At the same time, the
-high-performance computing group has developed Bohrium, a vectorised
-bytecode system enabling parallel execution on GPUs, clusters and
-other parallel platforms.  This project is about constructing a
-Bohrium backend for the L0 compiler, bridging the two projects.
-
-Contact person: [Cosmin Oancea](people.html) (or [Troels Henriksen](people.html)).
-
-[more >>](studentproject_l0_bohrium_backend.html).
-
 ### Project: Haskell Library for Finance
 
 This project is about constructing a modular library in Haskell for
