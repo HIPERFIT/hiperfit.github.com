@@ -6,6 +6,15 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Troels Henriksen and Cosmin E. Oancea. __Bounds Checking: An Instance of Hybrid Analysis__. In _ACM SIGPLAN International Workshop
+on Libraries, Languages and Compilers for Array Programming
+(ARRAY'14)_. Edinburgh, UK. June, 2014.
+
+* Martin Elsman and Martin Dybdal. __Compiling a Subset of APL Into a
+Typed Intermediate Language__. In _ACM SIGPLAN International Workshop
+on Libraries, Languages and Compilers for Array Programming
+(ARRAY'14)_. Edinburgh, UK. June, 2014. [pdf](/pdf/array14_final.pdf), [bibtex](/pdf/array14_final.bibtex.txt).
+
 * Mads R. B. Kristensen, Simon A. F. Lund, Troels Blum, Kenneth
 Skovhede, and Brian Vinter. Bohrium: Unmodified NumPy Code on CPU,
 GPU, and Cluster. In Workshop on Python for High Performance and Scientific
