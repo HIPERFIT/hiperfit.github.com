@@ -34,6 +34,16 @@ meetings. PhD students are optional.
 
 #### Schedule for talks (reverse chronological order):
 
+- __2014-07-08:__ Paper collaboration projects
+
+- __2014-07-01:__ MF
+
+- __2014-06-24:__ DSL
+
+- __2014-06-17:__ FP
+
+- __2014-06-10:__ Meeting cancelled
+
 - __2014-06-03:__ HPS (Troels Blum)
 
 - __2014-05-27:__ [Kristoffer Rose](http://krisrose.net/) gives a talk titled "HACS - A Formalism for Compiler Development"
