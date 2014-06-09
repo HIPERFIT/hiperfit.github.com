@@ -34,6 +34,12 @@ meetings. PhD students are optional.
 
 #### Schedule for talks (reverse chronological order):
 
+- __2014-07-29:__ Vacation - no meeting
+
+- __2014-07-22:__ Vacation - no meeting
+
+- __2014-07-15:__ Vacation - no meeting
+
 - __2014-07-08:__ Paper collaboration projects
 
 - __2014-07-01:__ MF
