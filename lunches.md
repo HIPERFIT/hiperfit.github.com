@@ -40,11 +40,11 @@ meetings. PhD students are optional.
 
 - __2014-07-15:__ Vacation - no meeting
 
-- __2014-07-08:__ Paper collaboration projects
+- __2014-07-08:__ MF
 
-- __2014-07-01:__ MF
+- __2014-07-01:__ DSL
 
-- __2014-06-24:__ DSL
+- __2014-06-24:__ meeting cancelled - room taken
 
 - __2014-06-17:__ FP (Cosmin Oancea: "Bounds Checking: An Instance of Hybrid Analysis")
 
