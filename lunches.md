@@ -46,7 +46,7 @@ meetings. PhD students are optional.
 
 - __2014-06-24:__ DSL
 
-- __2014-06-17:__ FP
+- __2014-06-17:__ FP (Cosmin Oancea: "Bounds Checking: An Instance of Hybrid Analysis")
 
 - __2014-06-10:__ Meeting cancelled
 

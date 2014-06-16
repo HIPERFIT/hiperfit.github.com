@@ -6,6 +6,15 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Weifeng Liu and Brian Vinter. __An Efficient GPU General Sparse
+Matrix-Matrix Multiplication for Irregular Data__. In _2014 IEEE 28th International Symposium on Parallel Distributed Processing
+(IPDPS'14)_. May, 2014. [pdf](/pdf/SpGEMM_Liu_ipdps14.pdf). [slides](/pdf/SpGEMM_Liu_ipdps14_slides.pptx).
+
+* Weifeng Liu and Brian Vinter. __Ad-heap: An Efficient Heap Data
+Structure for Asymmetric Multicore Processors__. In _Proceedings of
+Workshop on General Purpose Processing Using GPUs
+(GPGPU-7)_. March, 2014. Salt Lake City, UT, USA. [pdf](/pdf/ad-heap_Liu_gpgpu-7.pdf). [slides](/pdf/ad-heap_Liu_gpgpu-7_slides.pdf).
+
 * Troels Henriksen and Cosmin E. Oancea. __Bounds Checking: An Instance of Hybrid Analysis__. In _ACM SIGPLAN International Workshop
 on Libraries, Languages and Compilers for Array Programming
 (ARRAY'14)_. Edinburgh, UK. June, 2014.
