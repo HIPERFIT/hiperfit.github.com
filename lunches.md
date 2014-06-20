@@ -44,7 +44,7 @@ meetings. PhD students are optional.
 
 - __2014-07-01:__ DSL
 
-- __2014-06-24:__ FP (Cosmin again! :-)
+- __2014-06-24:__ FP (Cosmin again! :-) __NOTE: ROOM 3.1.25__
 
 - __2014-06-17:__ FP (Cosmin Oancea: "Bounds Checking: An Instance of Hybrid Analysis")
 
