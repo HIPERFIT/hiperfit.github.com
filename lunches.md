@@ -40,9 +40,9 @@ meetings. PhD students are optional.
 
 - __2014-07-15:__ Vacation - no meeting
 
-- __2014-07-08:__ MF
+- __2014-07-08:__ Vacation - no meeting
 
-- __2014-07-01:__ DSL
+- __2014-07-01:__ DSL; Ken Friis Larsen on Functional Reactive Programming for finance
 
 - __2014-06-24:__ __NOTE: UP1, ROOM 3-1-25__ FP (Cosmin Oancea: "Bounds Checking: An Instance of Hybrid Analysis")
 
@@ -52,7 +52,7 @@ meetings. PhD students are optional.
 
 - __2014-06-03:__ HPS (Troels Blum)
 
-- __2014-05-27:__ [Kristoffer Rose](http://krisrose.net/) gives a talk titled "HACS - A Formalism for Compiler Development"
+- __2014-05-27:__ [Kristoffer Rose](http://krisrose.net/) gives a talk titled HACS - A Formalism for Compiler Development](pdf/hacs-present.pdf)
 
 - __2014-05-20:__ MF (Maj-Britt)
 
