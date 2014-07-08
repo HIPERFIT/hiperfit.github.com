@@ -34,6 +34,14 @@ meetings. PhD students are optional.
 
 #### Schedule for talks (reverse chronological order):
 
+- __2014-08-26:__ ?
+
+- __2014-08-19:__ ?
+
+- __2014-08-12:__ DSL: Martin Dybdal gives PhD startup seminar
+
+- __2014-08-05:__ Welcome back from Vacation (planning, projects, status)
+
 - __2014-07-29:__ Vacation - no meeting
 
 - __2014-07-22:__ Vacation - no meeting
