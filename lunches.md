@@ -38,9 +38,9 @@ meetings. PhD students are optional.
 
 - __2014-08-19:__ ?
 
-- __2014-08-12:__ DSL: Martin Dybdal gives PhD startup seminar
+- __2014-08-12:__ Welcome back from Vacation (planning, projects, status). DSL: Martin Dybdal gives PhD startup seminar
 
-- __2014-08-05:__ Welcome back from Vacation (planning, projects, status)
+- __2014-08-05:__ Vacation - no meeting
 
 - __2014-07-29:__ Vacation - no meeting
 
