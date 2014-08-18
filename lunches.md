@@ -34,11 +34,29 @@ meetings. PhD students are optional.
 
 #### Schedule for talks (reverse chronological order):
 
-- __2014-08-26:__ ?
+- __2014-10-28:__ HPS (Brian)
 
-- __2014-08-19:__ ?
+- __2014-10-21:__ FP (Andrzej)
 
-- __2014-08-12:__ Welcome back from Vacation (planning, projects, status). DSL: Martin Dybdal gives PhD startup seminar
+- __2014-10-14:__ Fall Break
+
+- __2014-10-07:__ Papers, Projects
+
+- __2014-09-30:__ DSL (Fritz)
+
+- __2014-09-23:__ MF (Rolf)
+
+- __2014-09-16:__ HPS (Brian)
+
+- __2014-09-09:__ Frederik Meisner Madsen (FP)
+
+- __2014-09-02:__ Cancelled due to [ICFP conference](http://icfpconference.org/icfp2014/)
+
+- __2014-08-26:__ Amos Robinson
+
+- __2014-08-19:__ Project status
+
+- __2014-08-12:__ Welcome back from Vacation. DSL: Martin Dybdal gives PhD startup seminar
 
 - __2014-08-05:__ Vacation - no meeting
 
