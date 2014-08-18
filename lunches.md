@@ -52,7 +52,7 @@ meetings. PhD students are optional.
 
 - __2014-09-02:__ Cancelled due to [ICFP conference](http://icfpconference.org/icfp2014/)
 
-- __2014-08-26:__ Amos Robinson
+- __2014-08-26:__ Amos Robinson gives [a presentation](http://hiperfit.dk/news/2014/08/18/talk-by-amos-robinson-on-fusion/)
 
 - __2014-08-19:__ Project status
 
