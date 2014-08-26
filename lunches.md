@@ -44,7 +44,7 @@ meetings. PhD students are optional.
 
 - __2014-09-30:__ DSL (Fritz)
 
-- __2014-09-23:__ MF (Rolf)
+- __2014-09-23:__ MF (Mogens)
 
 - __2014-09-16:__ HPS (Brian)
 
