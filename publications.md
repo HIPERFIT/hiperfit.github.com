@@ -6,6 +6,12 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Vivek Shah. __Transactional Partitioning: A New Abstraction for Main-Memory Databases__. In _Proceedings of VLDB PhD Workshop_. 2014. Supervised by Marcos Vaz Salles. HIPERFIT DIKU Associates.
+
+* Agnieszka Karolina Konicz, David Pisinger, Kourosh Marjani Rasmussen, Mogens Steffensen. __A combined stochastic programming and optimal control approach to personal finance and pensions__. To appear in _OR Spectrum_. 2014.
+ 
+* Holger Kraft and Mogens Steffensen. __A Dynamic Programming Approach to Constrained Portfolios__. In _European Journal of Operational Research_. 229(2): 453–461. 2013. 
+
 * Troels Henriksen, Martin Elsman, and Cosmin E. Oancea. __Size Slicing - A Hybrid Approach to Size Inference in Futhark__. In _Proceedings of the 3rd ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'14)_. Guthenburg, SE. September, 2014.
 
 * Troels Henriksen and Cosmin E. Oancea. __Bounds Checking: An Instance of Hybrid Analysis__. In _ACM SIGPLAN International Workshop
@@ -112,7 +118,8 @@ SSRN](http://ssrn.com/abstract=1954655). November 2011.
 
 * Morten Tolver Kronborg and Mogens Steffensen. __Inconsistent
 Investment and Consumption Problems__. [Online manuscript at
-SSRN](http://ssrn.com/abstract=1794174). March 2011.
+SSRN](http://ssrn.com/abstract=1794174). To appear in Applied
+Mathematics and Optimization. March 2011.
 
 * HIPERFIT Management. __Functional High-Performance Computing for
 Financial Information Technology__. Project Application, 2010.
