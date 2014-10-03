@@ -6,9 +6,11 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Patrick Bahr, Jost Berthold, and Martin Elsman. Towards Certified Management of Financial Contracts. In Proceedings of the 26th Nordic Workshop on Programming Theory ([NWPT'14](http://ceres.hh.se/mediawiki/index.php/NWPT_2014)). October, 2014.
+
 * Vivek Shah. __Transactional Partitioning: A New Abstraction for Main-Memory Databases__. In _Proceedings of VLDB PhD Workshop_. 2014. Supervised by Marcos Vaz Salles. HIPERFIT DIKU Associates.
 
-* Agnieszka Karolina Konicz, David Pisinger, Kourosh Marjani Rasmussen, Mogens Steffensen. __A combined stochastic programming and optimal control approach to personal finance and pensions__. To appear in _OR Spectrum_. 2014.
+* Agnieszka Karolina Konicz, David Pisinger, Kourosh Marjani Rasmussen, and Mogens Steffensen. __A combined stochastic programming and optimal control approach to personal finance and pensions__. To appear in _OR Spectrum_. 2014.
  
 * Holger Kraft and Mogens Steffensen. __A Dynamic Programming Approach to Constrained Portfolios__. In _European Journal of Operational Research_. 229(2): 453–461. 2013. 
 
