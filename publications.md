@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* Patrick Bahr, Jost Berthold, and Martin Elsman. Towards Certified Management of Financial Contracts. In Proceedings of the 26th Nordic Workshop on Programming Theory ([NWPT'14](http://ceres.hh.se/mediawiki/index.php/NWPT_2014)). October, 2014.
+* Patrick Bahr, Jost Berthold, and Martin Elsman. __Towards Certified Management of Financial Contracts__. In _Proceedings of the 26th Nordic Workshop on Programming Theory ([NWPT'14](http://ceres.hh.se/mediawiki/index.php/NWPT_2014))_. October, 2014.
 
 * Vivek Shah. __Transactional Partitioning: A New Abstraction for Main-Memory Databases__. In _Proceedings of VLDB PhD Workshop_. 2014. Supervised by Marcos Vaz Salles. HIPERFIT DIKU Associates.
 
