@@ -14,7 +14,7 @@ group: navigation
  
 * Holger Kraft and Mogens Steffensen. __A Dynamic Programming Approach to Constrained Portfolios__. In _European Journal of Operational Research_. 229(2): 453–461. 2013. 
 
-* Troels Henriksen, Martin Elsman, and Cosmin E. Oancea. __Size Slicing - A Hybrid Approach to Size Inference in Futhark__. In _Proceedings of the 3rd ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'14)_. Guthenburg, SE. September, 2014.
+* Troels Henriksen, Martin Elsman, and Cosmin E. Oancea. __Size Slicing - A Hybrid Approach to Size Inference in Futhark__. In _Proceedings of the 3rd ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'14)_. Guthenburg, SE. September, 2014. [PDF](/pdf/fhpc14.pdf).
 
 * Troels Henriksen and Cosmin E. Oancea. __Bounds Checking: An Instance of Hybrid Analysis__. In _ACM SIGPLAN International Workshop
 on Libraries, Languages and Compilers for Array Programming
