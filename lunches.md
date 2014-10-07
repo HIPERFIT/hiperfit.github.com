@@ -34,9 +34,17 @@ meetings. PhD students are optional.
 
 #### Schedule for talks (reverse chronological order):
 
+- __2014-11-25:__ FP (Andrzej)
+
+- __2014-11-18:__ Papers, Projects
+
+- __2014-11-11:__ DSL (Fritz)
+
+- __2014-11-04:__ MF (Mogens)
+
 - __2014-10-28:__ HPS (Brian)
 
-- __2014-10-21:__ FP (Andrzej)
+- __2014-10-21:__ FP: Troels Henriksen gives a presentation on [Size-Slicing](/pdf/fhpc14.pdf).
 
 - __2014-10-14:__ Fall Break
 
