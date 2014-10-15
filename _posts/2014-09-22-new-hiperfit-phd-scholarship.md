@@ -14,7 +14,7 @@ Programming.
 For information about the application procedure, and the scholarship
 in general, please consult the [general
 announcement](http://www.diku.dk/ominstituttet/ledige_stillinger/phd-scholarships-within-computer-science). The
-application deadline is --October 10-- __October 17, 2014__ (23:59, timezone: LINT =
+application deadline is ~~October 10~~ __October 17, 2014__ (23:59, timezone: LINT =
 UTC+14).
 
 Below follows some more detailed information about the scholarship.
