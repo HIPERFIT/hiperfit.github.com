@@ -40,7 +40,7 @@ meetings. PhD students are optional.
 
 - __2014-11-11:__ DSL (Fritz)
 
-- __2014-11-04:__ MF (Mogens)
+- __2014-11-04:__ MF (Mogens Steffensen gives a presentation about extreme risk scenarios)
 
 - __2014-10-28:__ HPS (Brian)
 
