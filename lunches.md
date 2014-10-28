@@ -38,11 +38,11 @@ meetings. PhD students are optional.
 
 - __2014-11-18:__ Papers, Projects
 
-- __2014-11-11:__ DSL (Fritz)
+- __2014-11-11:__ MF (Mogens Steffensen gives a presentation about extreme risk scenarios)
 
-- __2014-11-04:__ MF (Mogens Steffensen gives a presentation about extreme risk scenarios)
+- __2014-11-04:__ DSL (Vivek gives a talk)
 
-- __2014-10-28:__ HPS (Brian)
+- __2014-10-28:__ HPS (Mads gives a talk about fusion in Bohrium)
 
 - __2014-10-21:__ FP: Troels Henriksen gives a presentation on [Size-Slicing](/pdf/fhpc14.pdf).
 
