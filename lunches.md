@@ -40,15 +40,17 @@ meetings. PhD students are optional.
 
 - __2014-11-11:__ MF (Mogens Steffensen gives a presentation about extreme risk scenarios)
 
-- __2014-11-04:__ DSL (Vivek gives a talk)
+- __2014-11-04:__ DSL: Vivek Shah gives a presentation based on his
+  VLDB'14 paper "Transactional Partitioning: A New Abstraction for
+  Main-Memory Databases". We also welcome Danil Annenkov, a new HIPERFIT PhD student.
 
-- __2014-10-28:__ HPS (Mads gives a talk about fusion in Bohrium)
+- __2014-10-28:__ HPS: Mads gives a talk about fusion challenges in Bohrium.
 
 - __2014-10-21:__ FP: Troels Henriksen gives a presentation on [Size-Slicing](/pdf/fhpc14.pdf).
 
-- __2014-10-14:__ Fall Break
+- __2014-10-14:__ Fall Break - No meeting
 
-- __2014-10-07:__ Papers, Projects
+- __2014-10-07:__ Papers, Projects. We discuss the progress of the different HIPERFIT projects.
 
 - __2014-09-30:__ DSL (Fritz)
 
@@ -56,7 +58,9 @@ meetings. PhD students are optional.
 
 - __2014-09-16:__ HPS (Brian)
 
-- __2014-09-09:__ Frederik Meisner Madsen (FP)
+- __2014-09-09:__ FP: Frederik Meisner Madsen gives a talk about
+  streaming in the Haskell Accelerate library and an overview of PL
+  research at UNSW.
 
 - __2014-09-02:__ Cancelled due to [ICFP conference](http://icfpconference.org/icfp2014/)
 
@@ -64,7 +68,7 @@ meetings. PhD students are optional.
 
 - __2014-08-19:__ Project status
 
-- __2014-08-12:__ Welcome back from Vacation. DSL: Martin Dybdal gives PhD startup seminar
+- __2014-08-12:__ Welcome back from Vacation. DSL: Martin Dybdal gives his PhD startup seminar.
 
 - __2014-08-05:__ Vacation - no meeting
 
