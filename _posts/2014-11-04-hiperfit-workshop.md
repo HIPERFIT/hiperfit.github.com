@@ -36,6 +36,8 @@ computational problems in the finance domain. A separate session is
 therefore devoted to partners for presenting such encounters in the
 finance industry.
 
-As always, please visit http://www.hiperfit.dk for news and
-information about published papers, our Tuesday lunch meetings, and
-news in general from the HIPERFIT research center.
+As always, please visit
+[http://www.hiperfit.dk](http://www.hiperfit.dk) for news and
+information about [published papers](/publications.html), our [Tuesday
+lunch meetings](/lunches.html), and news in general from the HIPERFIT
+research center.
