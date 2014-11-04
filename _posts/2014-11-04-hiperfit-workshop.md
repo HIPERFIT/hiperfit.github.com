@@ -7,9 +7,6 @@ tags: [workshop]
 {% include JB/setup %}
 
 <img width="200" alt="HIPERFIT logo" align="right" src="/images/hiperfit.jpg">
-The HIPERFIT research center seeks one new excellent PhD student
-for working within the area of High-Performance Functional
-Programming.
 
 #### HIPERFIT Workshop for partners and faculty in December
 
