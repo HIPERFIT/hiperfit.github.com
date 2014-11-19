@@ -56,9 +56,9 @@ encounters in the finance industry.
 <dt>15:15</dt><dd>Break</dd>
 <dt>15:30</dt><dd>Financial Contracts and Valuation
  <ul>
- <li><i>Certified financial contract management</i> (Patrick Bahr)</li>
+ <li><i>Certified management of financial contracts</i> (Patrick Bahr)</li>
  <li><i>Financial benchmarks for GPGPU compilation</i> (Martin Elsman)</li>
- <li><i>Risk computations</i> (Martin E, perhaps)</li>
+ <li><i>A prototype framework for parallel valuation and risk calculation</i> (Martin E, perhaps)</li>
  </ul>
 </dd>
 <dt>16:45</dt><dd>Thanks - feedback</dd>
