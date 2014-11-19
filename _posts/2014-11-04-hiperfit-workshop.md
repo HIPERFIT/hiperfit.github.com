@@ -22,7 +22,7 @@ encounters in the finance industry.
 
 #### Draft schedule (December 10, 2014)
 
-<dl>
+<dl class=event>
 <dt>08:55</dt><dd>Welcome (Fritz Henglein)</dd>
 <dt>09:00</dt><dd>Compilation for parallel computations
  - Futhark - an array language for data-parallel execution (Troels Henriksen)
