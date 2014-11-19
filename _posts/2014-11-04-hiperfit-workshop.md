@@ -24,7 +24,7 @@ encounters in the finance industry.
 
 <dl class='event'>
 <dt>08:55</dt><dd>Welcome (Fritz Henglein)</dd>
-<dt>09:00</dt><dd>Compilation for parallel computations
+<dt>09:00</dt><dd>Compilation for Parallel Computations
  <ul>
  <li><i>Futhark - an array language for data-parallel execution</i> (Troels Henriksen)</li>
  <li><i>Stream-based parallel computation</i> (Frederik Meisner Madsen)</li>
@@ -45,7 +45,7 @@ encounters in the finance industry.
  <li><i>Online transaction processing for big data sources</i> (Marcos Vaz Salles)</li></dd>
  </ul>
 <dt>13:00</dt><dd>Lunch</dd>
-<dt>14:00</dt><dd>Household Finance and games?
+<dt>14:00</dt><dd>Household Finance and Risk Management
  <ul>
  <li><i>Title TBA</i> (Mai-Britt Nordfang)</li>
  <li><i>Carry and the load: Risk-minimzation in electricity markets</i> (TBA)</li>
@@ -53,7 +53,7 @@ encounters in the finance industry.
  </ul>
 </dd>
 <dt>15:15</dt><dd>Break</dd>
-<dt>15:30</dt><dd>Financial contracts and valuation
+<dt>15:30</dt><dd>Financial Contracts and Valuation
  <ul>
  <li><i>Certified financial contract management</i> (Patrick Bahr)</li>
  <li><i>Financial benchmarks for GPGPU compilation</i> (Martin Elsman)</li>
