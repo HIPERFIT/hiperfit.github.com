@@ -8,30 +8,59 @@ tags: [workshop]
 
 <img width="200" alt="HIPERFIT logo" align="right" src="/images/hiperfit.jpg">
 
-#### HIPERFIT Workshop for partners and faculty in December
+### HIPERFIT Workshop for partners and faculty in December
 
 On December 10, 2014, HIPERFIT is hosting a workshop for HIPERFIT
-partners and faculty.
+partners and faculty. At the workshop, HIPERFIT faculty and PhD
+students will present the latest developments in the various HIPERFIT
+project developments. The workshop also offers [HIPERFIT partners](/partners.html) the
+possibility to present opportunities for involving HIPERFIT
+researchers in obstacles encountered by the partners with respect to
+high-performance computational problems in the finance domain. A
+separate session is therefore devoted to partners for presenting such
+encounters in the finance industry.
 
-At the workshop, HIPERFIT faculty and PhD students will present the
-latest developments in the various HIPERFIT project developments,
-covering topics such as
+#### Draft schedule
 
-  - household finance guidance
-  - financial benchmarks for GPGPU compilation
-  - certified contract management
-  - Futhark - an array language for data-parallel execution
-  - Bohrium - bridging high performance and high productivity
-  - stream-based parallel computation
-  - compiling APL for parallel architectures
-  - online transaction processing for big data sources
+| Time | Activity
+| ---  | ---- |
+08:55 | Welcome (by Fritz)
+09:00 | Compilation for parallel computations
+ - Futhark - an array language for data-parallel execution (Troels Henriksen)
+ - Stream-based parallel computation (Frederik Meisner Madsen)
+ - Compiling APL for data-parallel execution through a typed intermediate language (Martin Dybdal)
+10:15 | Break
+10:30 | HIPERFIT Partners
+ - SimCorp on Risk
+11:45 | Break
+12:00 | Bohrium and Big-data
+ - Bohrium - bridging high performance and high productivity (Kenneth) 
+ - Title TBA (Simon Lund)
+ - Online transaction processing for big data sources (Marcos Vaz Salles)
+13:00 | Lunch
+14:00 | Household Finance and games?
+ - Title TBA (Mai-Britt
+ - Carry and the load: Risk-minimzation in electricity markets (TBA)
+ - Rethinking exchange rate risk management (Rolf Poulsen)
+15:15 | Break
+15:30 | Financial contracts and valuation
+ - Certified financial contract management  (Patrick Bahr)
+ - Financial benchmarks for GPGPU compilation  (Martin Elsman)
+ - Risk computations  (Martin E, perhaps)
+16:45 | Thanks - feedback
+17:15 | Chat and a drink
+18:30 | Dinner
 
-The workshop also offers HIPERFIT partners the possibility to present
-opportunities for involving HIPERFIT researchers in obstacles
-encountered by the partners with respect to high-performance
-computational problems in the finance domain. A separate session is
-therefore devoted to partners for presenting such encounters in the
-finance industry.
+On the day following the workshop (on December 11, 2014), HIPERFIT
+staff will meet and discuss feedback and plan future activities and
+projects within HIPERFIT.
+
+A table of participants for the workshop on December 10, and for the
+discussion and planning sessions on December 11, appears below.
+
+Participation in the workshop is by invitation only, but please
+[contact the HIPERFIT management](/contact.html) if you think you
+should have received an invitation.
 
 As always, please visit
 [http://www.hiperfit.dk](http://www.hiperfit.dk) for news and
@@ -39,13 +68,8 @@ information about [published papers](/publications.html), our [Tuesday
 lunch meetings](/lunches.html), and news in general from the HIPERFIT
 research center.
 
-On the day following the workshop (on December 11, 2014), HIPERFIT
-staff will meet and discuss feedback and plan future activities and
-projects within HIPERFIT.
 
-Here is a table of participants for the workshop on December 10 and
-for the discussion and planning sessions on December 11:
-
+#### Participants
 
 | Name | Dec 10 | Dinner Dec 10 | Dec 11 | Room |
 | ---- |:------:|:-------------:|:------:|:----:|
