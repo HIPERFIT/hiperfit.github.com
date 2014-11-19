@@ -6,6 +6,10 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Michael Hanke, Rolf Poulsen, and Alex Weissensteiner. __Where would
+the EUR/CHF exchange rate be without the SNB's minimum exchange rate
+policy?__ In _Journal of Futures Markets_. 2014. Forthcoming.
+
 * Cosmin Oancea, Jost Berthold, Martin Elsman, and Christian
 Andreetta. __A Financial Benchmark for GPGPU Compilation__. In _18th
 International Workshop on Compilers for Parallel Computing (CPC'15)_. January 2015.
@@ -101,7 +105,7 @@ Copenhagen 2012. [PDF](pdf/p93-werk.pdf). [Video](http://www.youtube.com/watch?v
 * Anne Marie Boiden Pedersen, Alex Weissensteiner, and Rolf
 Poulsen. __Financial planning for young households__. In _[Annals of
 Operations
-Research](http://www.springer.com/business+%26+management/operations+research/journal/10479)_. 2012. Forthcoming. [PDF](http://www.math.ku.dk/~rolf/FinalVersion_200812.pdf).
+Research](http://www.springer.com/business+%26+management/operations+research/journal/10479)_. 2013, vol. 205(1), pp. 55-76. [PDF](http://www.math.ku.dk/~rolf/FinalVersion_200812.pdf).
 
 * Cosmin E. Oancea and Lawrence Rauchwerger. __Logical Inference
 Techniques for Loop Parallelization__.  In _Proceedings of International
