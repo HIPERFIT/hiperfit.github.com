@@ -22,34 +22,34 @@ encounters in the finance industry.
 
 #### Draft schedule
 
-| Time | Activity
+| Time | Activity |
 | ---  | ---- |
-08:55 | Welcome (by Fritz)
-09:00 | Compilation for parallel computations
+|08:55 | Welcome (by Fritz)
+|09:00 | Compilation for parallel computations
  - Futhark - an array language for data-parallel execution (Troels Henriksen)
  - Stream-based parallel computation (Frederik Meisner Madsen)
- - Compiling APL for data-parallel execution through a typed intermediate language (Martin Dybdal)
-10:15 | Break
-10:30 | HIPERFIT Partners
- - SimCorp on Risk
-11:45 | Break
-12:00 | Bohrium and Big-data
+ - Compiling APL for data-parallel execution through a typed intermediate language (Martin Dybdal) |
+|10:15 | Break |
+|10:30 | HIPERFIT Partners
+ - SimCorp on Risk |
+|11:45 | Break |
+|12:00 | Bohrium and Big-data
  - Bohrium - bridging high performance and high productivity (Kenneth) 
  - Title TBA (Simon Lund)
- - Online transaction processing for big data sources (Marcos Vaz Salles)
-13:00 | Lunch
-14:00 | Household Finance and games?
+ - Online transaction processing for big data sources (Marcos Vaz Salles) |
+|13:00 | Lunch |
+|14:00 | Household Finance and games?
  - Title TBA (Mai-Britt
  - Carry and the load: Risk-minimzation in electricity markets (TBA)
- - Rethinking exchange rate risk management (Rolf Poulsen)
-15:15 | Break
-15:30 | Financial contracts and valuation
+ - Rethinking exchange rate risk management (Rolf Poulsen) |
+|15:15 | Break |
+|15:30 | Financial contracts and valuation |
  - Certified financial contract management  (Patrick Bahr)
  - Financial benchmarks for GPGPU compilation  (Martin Elsman)
- - Risk computations  (Martin E, perhaps)
-16:45 | Thanks - feedback
-17:15 | Chat and a drink
-18:30 | Dinner
+ - Risk computations  (Martin E, perhaps) |
+|16:45 | Thanks - feedback |
+|17:15 | Chat and a drink |
+|18:30 | Dinner |
 
 On the day following the workshop (on December 11, 2014), HIPERFIT
 staff will meet and discuss feedback and plan future activities and
