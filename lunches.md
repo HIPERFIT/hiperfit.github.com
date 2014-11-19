@@ -34,6 +34,10 @@ meetings. PhD students are optional.
 
 #### Schedule for talks (reverse chronological order):
 
+- __2014-12-09:__ DSL (Fritz)
+
+- __2014-12-02:__ HPS (Brian)
+
 - __2014-11-25:__ FP (Andrzej)
 
 - __2014-11-18:__ Papers, Projects
