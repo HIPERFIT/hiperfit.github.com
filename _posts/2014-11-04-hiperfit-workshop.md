@@ -22,8 +22,8 @@ encounters in the finance industry.
 
 #### Draft schedule
 
-| Time | Activity |
-| ---  | ---- |
+| Time  | Activity |
+| ----- | -------- |
 |08:55 | Welcome (by Fritz)
 |09:00 | Compilation for parallel computations
  - Futhark - an array language for data-parallel execution (Troels Henriksen)
@@ -39,7 +39,7 @@ encounters in the finance industry.
  - Online transaction processing for big data sources (Marcos Vaz Salles) |
 |13:00 | Lunch |
 |14:00 | Household Finance and games?
- - Title TBA (Mai-Britt
+ - Title TBA (Mai-Britt Nordfang)
  - Carry and the load: Risk-minimzation in electricity markets (TBA)
  - Rethinking exchange rate risk management (Rolf Poulsen) |
 |15:15 | Break |
