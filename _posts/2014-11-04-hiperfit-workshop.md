@@ -42,8 +42,9 @@ encounters in the finance industry.
  <ul>
  <li><i>Bohrium - bridging high performance and high productivity</i> (Kenneth Skovhede)</li> 
  <li><i>Title TBA</i> (Simon Lund)</li>
- <li><i>Online transaction processing for big data sources</i> (Marcos Vaz Salles)</li></dd>
+ <li><i>Online transaction processing for big data sources</i> (Marcos Vaz Salles)</li>
  </ul>
+</dd>
 <dt>13:00</dt><dd>Lunch</dd>
 <dt>14:00</dt><dd>Household Finance and Risk Management
  <ul>
