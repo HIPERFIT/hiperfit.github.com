@@ -49,32 +49,32 @@ for the discussion and planning sessions on December 11:
 
 | Name | Dec 10 | Dinner Dec 10 | Dec 11 | Room |
 | ---- |:------:|:-------------:|:------:|:----:|
-Martin Elsman |                   1 | 1 | 1 | 1 |
-Mads Ruben Burgdorff Kristensen | 1 | 1 | 1 | 1 |
-Rolf Poulsen |                    1 | 1 | 1 | 1 |
-Vivek Shah |                      1 | 1 | 0 | 0 |
-Marcos |                          1 | 1 | 0 | 0 |
-Brian Vinter |                    1 | 1 | 1 | 1 |
-Simon Lund |                      1 | 1 | 1 | 1 |
-Maj-Britt Nordfang |              1 | 1 | 1 | 1 |
-Jost Berthold |                   1 | 1 | 1 | 1 |
-Frederik Meisner Madsen |         1 | 1 | 1 | 1 |
-Martin Dybdal |                   1 | 1 | 1 | 1 |
-Fritz Henglein |                  1 | 1 | 1 | 1 |
-Troels Blum |                     0 | 0 | 0 | 0 |
 Andrzej Filinski |                1 | 1 | 1 | 1 |
-Lykke Rasmussen |                 0 | 0 | 0 | 0 |
-Troels Henriksen |                1 | 1 | 1 | 1 |
-Simon Ellersgaard |               0 | 0 | 0 | 0 |
+Brian Vinter |                    1 | 1 | 1 | 1 |
 Cosmin Oancea |                   0 | 1 | 1 | 1 |
-Mogens Steffensen |               1 | 1 | 1 | 1 |
 Danil Annenkov |                  1 | 1 | 1 | 1 |
+Frederik Meisner Madsen |         1 | 1 | 1 | 1 |
+Fritz Henglein |                  1 | 1 | 1 | 1 |
 James Avery |                     1 | 1 | 1 | 1 |
-Thomas Jensen |                   1 | 1 | 1 | 1 |
-Patrick Bahr |                    1 | 1 | 1 | 1 |
+Jost Berthold |                   1 | 1 | 1 | 1 |
 Ken Friis Larsen |                1 | 0 | 0 | 1 |
+Lykke Rasmussen |                 0 | 0 | 0 | 0 |
+Marcos Vaz Salles |               1 | 1 | 0 | 0 |
+Mads Ruben Burgdorff Kristensen | 1 | 1 | 1 | 1 |
+Maj-Britt Nordfang |              1 | 1 | 1 | 1 |
+Martin Dybdal |                   1 | 1 | 1 | 1 |
+Martin Elsman |                   1 | 1 | 1 | 1 |
+Mogens Steffensen |               1 | 1 | 1 | 1 |
+Patrick Bahr |                    1 | 1 | 1 | 1 |
+Rolf Poulsen |                    1 | 1 | 1 | 1 |
+Simon Ellersgaard |               0 | 0 | 0 | 0 |
+Simon Lund |                      1 | 1 | 1 | 1 |
+Thomas Jensen |                   1 | 1 | 1 | 1 |
+Troels Blum |                     0 | 0 | 0 | 0 |
+Troels Henriksen |                1 | 1 | 1 | 1 |
+Vivek Shah |                      1 | 1 | 0 | 0 |
 Anette Broløs (CFIR) |            1 | 0 | 0 | 0 |
-Anders Pall Schött (CFIR) |       1 | 0 | 0 | 0 |
+Anders Pall Skött (CFIR) |        1 | 0 | 0 | 0 |
 Christian Hjersing (SimCorp) |    1 | 0 | 0 | 0 |
 Carl Balslev Clausen (SimCorp) |  1 | 0 | 0 | 0 |
 Total |                          24 | 20 | 18 | 19 |
