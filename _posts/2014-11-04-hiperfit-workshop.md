@@ -46,6 +46,12 @@ projects within HIPERFIT.
 Here is a table of participants for the workshop on December 10 and
 for the discussion and planning sessions on December 11:
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 <table border=1 width=80%>
 <tr><td width=60%><b>Name</b></td><td width=10%><b>Dec 10</b></td><td width=10%><b>Dinner Dec 10</b></td><td width=10%><b>Dec 11</b></td><td width=10%><b>Room</b></td></tr>
 <tr><td>Martin Elsman</td>                  <td>1</td><td>1</td><td>1</td><td>1</td></tr>
