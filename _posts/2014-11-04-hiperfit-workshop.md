@@ -25,27 +25,41 @@ encounters in the finance industry.
 <dl class='event'>
 <dt>08:55</dt><dd>Welcome (Fritz Henglein)</dd>
 <dt>09:00</dt><dd>Compilation for parallel computations
- - Futhark - an array language for data-parallel execution (Troels Henriksen)
- - Stream-based parallel computation (Frederik Meisner Madsen)
- - Compiling APL for data-parallel execution through a typed intermediate language (Martin Dybdal)</dd>
+ <ul>
+ <li><i>Futhark - an array language for data-parallel execution</i> (Troels Henriksen)</li>
+ <li><i>Stream-based parallel computation</i> (Frederik Meisner Madsen)</li>
+ <li><i>Compiling APL for data-parallel execution through a typed intermediate language</i> (Martin Dybdal)</li>
+ </ul>
+</dd>
 <dt>10:15</dt><dd>Break</dd>
 <dt>10:30</dt><dd>HIPERFIT Partners
- - SimCorp on Risk</dd>
+ <ul>
+ <li><i>SimCorp on Risk</i></li>
+ </ul>
+</dd>
 <dt>11:45</dt><dd>Break</dd>
 <dt>12:00</dt><dd>Bohrium and Big-data
- - Bohrium - bridging high performance and high productivity (Kenneth) 
- - Title TBA (Simon Lund)
- - Online transaction processing for big data sources (Marcos Vaz Salles)</dd>
+ <ul>
+ <li><i>Bohrium - bridging high performance and high productivity</i> (Kenneth Skovhede)</li> 
+ <li><i>Title TBA</i> (Simon Lund)</li>
+ <li><i>Online transaction processing for big data sources</i> (Marcos Vaz Salles)</li></dd>
+ </ul>
 <dt>13:00</dt><dd>Lunch</dd>
 <dt>14:00</dt><dd>Household Finance and games?
- - Title TBA (Mai-Britt Nordfang)
- - Carry and the load: Risk-minimzation in electricity markets (TBA)
- - Rethinking exchange rate risk management (Rolf Poulsen)</dd>
+ <ul>
+ <li><i>Title TBA</i> (Mai-Britt Nordfang)</li>
+ <li><i>Carry and the load: Risk-minimzation in electricity markets</i> (TBA)</li>
+ <li><i>Rethinking exchange rate risk management</i> (Rolf Poulsen)</li>
+ </ul>
+</dd>
 <dt>15:15</dt><dd>Break</dd>
 <dt>15:30</dt><dd>Financial contracts and valuation
- - Certified financial contract management  (Patrick Bahr)
- - Financial benchmarks for GPGPU compilation  (Martin Elsman)
- - Risk computations  (Martin E, perhaps)</dd>
+ <ul>
+ <li><i>Certified financial contract management</i> (Patrick Bahr)</li>
+ <li><i>Financial benchmarks for GPGPU compilation</i> (Martin Elsman)</li>
+ <li><i>Risk computations</i> (Martin E, perhaps)</li>
+ </ul>
+</dd>
 <dt>16:45</dt><dd>Thanks - feedback</dd>
 <dt>17:15</dt><dd>Chat and a drink</dd>
 <dt>18:30</dt><dd>Dinner</dd>
