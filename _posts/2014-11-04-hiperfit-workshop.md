@@ -46,43 +46,35 @@ projects within HIPERFIT.
 Here is a table of participants for the workshop on December 10 and
 for the discussion and planning sessions on December 11:
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
-<table border=1 width=80%>
-<tr><td width=60%><b>Name</b></td><td width=10%><b>Dec 10</b></td><td width=10%><b>Dinner Dec 10</b></td><td width=10%><b>Dec 11</b></td><td width=10%><b>Room</b></td></tr>
-<tr><td>Martin Elsman</td>                  <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Mads Ruben Burgdorff Kristensen</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Rolf Poulsen</td>                   <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Vivek Shah</td>                     <td>1</td><td>1</td><td>0</td><td>0</td></tr>
-<tr><td>Marcos</td>                         <td>1</td><td>1</td><td>0</td><td>0</td></tr>
-<tr><td>Brian Vinter</td>                   <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Simon Lund</td>                     <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Maj-Britt Nordfang</td>             <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Jost Berthold</td>                  <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Frederik Meisner Madsen</td>        <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Martin Dybdal</td>                  <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Fritz Henglein</td>                 <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Troels Blum</td>                    <td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Andrzej Filinski</td>               <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Lykke Rasmussen</td>                <td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Troels Henriksen</td>               <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Simon Ellersgaard</td>              <td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Cosmin Oancea</td>                  <td>0</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Mogens Steffensen</td>              <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Danil Annenkov</td>                 <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>James Avery</td>                    <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Thomas Jensen</td>                  <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Patrick Bahr</td>                   <td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Ken Friis Larsen</td>               <td>1</td><td>0</td><td>0</td><td>1</td></tr>
-<tr><td>&nbsp;</td></tr>
-<tr><td>Anette Broløs (CFIR)</td>           <td>1</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Anders Pall Schött (CFIR)</td>      <td>1</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Christian Hjersing (SimCorp)</td>   <td>1</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Carl Balslev Clausen (SimCorp)</td> <td>1</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>&nbsp;</td></tr>
-<tr><td><b>Total</b></td>                   <td>24</td><td>20</td><td>18</td><td>19</td></tr>
-</table>
+| Name | Dec 10 | Dinner Dec 10 | Dec 11 | Room |
+| ---- |:------:|:-------------:|:------:|:----:|
+Martin Elsman |                   1 | 1 | 1 | 1 |
+Mads Ruben Burgdorff Kristensen | 1 | 1 | 1 | 1 |
+Rolf Poulsen |                    1 | 1 | 1 | 1 |
+Vivek Shah |                      1 | 1 | 0 | 0 |
+Marcos |                          1 | 1 | 0 | 0 |
+Brian Vinter |                    1 | 1 | 1 | 1 |
+Simon Lund |                      1 | 1 | 1 | 1 |
+Maj-Britt Nordfang |              1 | 1 | 1 | 1 |
+Jost Berthold |                   1 | 1 | 1 | 1 |
+Frederik Meisner Madsen |         1 | 1 | 1 | 1 |
+Martin Dybdal |                   1 | 1 | 1 | 1 |
+Fritz Henglein |                  1 | 1 | 1 | 1 |
+Troels Blum |                     0 | 0 | 0 | 0 |
+Andrzej Filinski |                1 | 1 | 1 | 1 |
+Lykke Rasmussen |                 0 | 0 | 0 | 0 |
+Troels Henriksen |                1 | 1 | 1 | 1 |
+Simon Ellersgaard |               0 | 0 | 0 | 0 |
+Cosmin Oancea |                   0 | 1 | 1 | 1 |
+Mogens Steffensen |               1 | 1 | 1 | 1 |
+Danil Annenkov |                  1 | 1 | 1 | 1 |
+James Avery |                     1 | 1 | 1 | 1 |
+Thomas Jensen |                   1 | 1 | 1 | 1 |
+Patrick Bahr |                    1 | 1 | 1 | 1 |
+Ken Friis Larsen |                1 | 0 | 0 | 1 |
+Anette Broløs (CFIR) |            1 | 0 | 0 | 0 |
+Anders Pall Schött (CFIR) |       1 | 0 | 0 | 0 |
+Christian Hjersing (SimCorp) |    1 | 0 | 0 | 0 |
+Carl Balslev Clausen (SimCorp) |  1 | 0 | 0 | 0 |
+Total |                          24 | 20 | 18 | 19 |
