@@ -43,7 +43,7 @@ encounters in the finance industry.
  - Carry and the load: Risk-minimzation in electricity markets (TBA)
  - Rethinking exchange rate risk management (Rolf Poulsen) |
 |15:15 | Break |
-|15:30 | Financial contracts and valuation |
+|15:30 | Financial contracts and valuation
  - Certified financial contract management  (Patrick Bahr)
  - Financial benchmarks for GPGPU compilation  (Martin Elsman)
  - Risk computations  (Martin E, perhaps) |
