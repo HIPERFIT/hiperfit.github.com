@@ -96,7 +96,7 @@ Frederik Meisner Madsen |         1 | 1 | 1 | 1 |
 Fritz Henglein |                  1 | 1 | 1 | 1 |
 James Avery |                     1 | 1 | 1 | 1 |
 Jost Berthold |                   1 | 1 | 1 | 1 |
-Ken Friis Larsen |                1 | 0 | 0 | 1 |
+Ken Friis Larsen |                1 | 0 | 1 | 0 |
 Kenneth Skovhede |                1 | 1 | 1 | 1 |
 Lykke Rasmussen |                 0 | 0 | 0 | 0 |
 Marcos Vaz Salles |               1 | 1 | 0 | 0 |
@@ -117,4 +117,4 @@ Anette Broløs (CFIR) |            1 | 0 | 0 | 0 |
 Anders Pall Skött (CFIR) |        1 | 0 | 0 | 0 |
 Christian Hjersing (SimCorp) |    1 | 0 | 0 | 0 |
 Carl Balslev Clausen (SimCorp) |  1 | 0 | 0 | 0 |
-Total |                          25 | 21 | 19 | 20 |
+Total |                          25 | 21 | 20 | 19 |
