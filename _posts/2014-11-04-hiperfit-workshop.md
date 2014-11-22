@@ -99,12 +99,12 @@ Jost Berthold |                   1 | 1 | 1 | 1 |
 Ken Friis Larsen |                1 | 0 | 1 | 0 |
 Kenneth Skovhede |                1 | 1 | 1 | 1 |
 Lykke Rasmussen |                 0 | 0 | 0 | 0 |
-Marcos Vaz Salles |               1 | 1 | 0 | 0 |
 Mads Ruben Burgdorff Kristensen | 1 | 1 | 1 | 1 |
 Maj-Britt Nordfang |              1 | 1 | 1 | 1 |
+Marcos Vaz Salles |               1 | 1 | 0 | 0 |
 Martin Dybdal |                   1 | 1 | 1 | 1 |
 Martin Elsman |                   1 | 1 | 1 | 1 |
-Mogens Steffensen |               1 | 1 | 1 | 1 |
+Mogens Steffensen |               1 | 1 | 1 | 0 |
 Patrick Bahr |                    1 | 1 | 1 | 1 |
 Rolf Poulsen |                    1 | 1 | 1 | 1 |
 Simon Ellersgaard |               0 | 0 | 0 | 0 |
@@ -117,4 +117,4 @@ Anette Broløs (CFIR) |            1 | 0 | 0 | 0 |
 Anders Pall Skött (CFIR) |        1 | 0 | 0 | 0 |
 Christian Hjersing (SimCorp) |    1 | 0 | 0 | 0 |
 Carl Balslev Clausen (SimCorp) |  1 | 0 | 0 | 0 |
-Total |                          25 | 21 | 20 | 19 |
+Total |                          25 | 21 | 20 | 18 |
