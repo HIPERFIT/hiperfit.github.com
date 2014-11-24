@@ -109,7 +109,7 @@ Patrick Bahr |                    1 | 1 | 1 | 1 |
 Rolf Poulsen |                    1 | 1 | 1 | 1 |
 Simon Ellersgaard |               0 | 0 | 0 | 0 |
 Simon Lund |                      1 | 1 | 1 | 1 |
-Thomas Jensen |                   1 | 1 | 1 | 1 |
+Thomas Jensen |                   1 | 0 | 0 | 0 |
 Troels Blum |                     0 | 0 | 0 | 0 |
 Troels Henriksen |                1 | 1 | 1 | 1 |
 Vivek Shah |                      1 | 1 | 0 | 0 |
@@ -117,4 +117,4 @@ Anette Broløs (CFIR) |            1 | 0 | 0 | 0 |
 Anders Pall Skött (CFIR) |        1 | 0 | 0 | 0 |
 Christian Hjersing (SimCorp) |    1 | 0 | 0 | 0 |
 Carl Balslev Clausen (SimCorp) |  1 | 0 | 0 | 0 |
-Total |                          25 | 21 | 20 | 18 |
+Total |                          25 | 20 | 19 | 17 |
