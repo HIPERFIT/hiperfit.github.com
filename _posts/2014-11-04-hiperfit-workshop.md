@@ -48,7 +48,7 @@ encounters in the finance industry.
 <dt>13:00</dt><dd>Lunch</dd>
 <dt>14:00</dt><dd>Household Finance and Risk Management
  <ul>
- <li><i>Title TBA</i> (Mai-Britt Nordfang)</li>
+ <li><i>Household Finance Problems approached by Numerical Methods</i> (Mai-Britt Nordfang)</li>
  <li><i>Carry and the load: Risk-minimzation in electricity markets</i> (TBA)</li>
  <li><i>Rethinking exchange rate risk management</i> (Rolf Poulsen)</li>
  </ul>
@@ -83,6 +83,17 @@ information about [published papers](/publications.html), our [Tuesday
 lunch meetings](/lunches.html), and news in general from the HIPERFIT
 research center.
 
+#### Abstracts
+
+_Household Finance Problems approached by Numerical Methods (Maj-Britt Nordfang)_
+ 
+Closed-form solutions to mathematical financial problems can only be
+obtained when various strict assumptions are met.  As a consequence,
+the problems where explicit closed-form solutions exist are usually
+highly stylized.  In this talk I will present a particular problem
+related to the financial decisions of individual households that
+cannot be solved on closed form and discuss numerical approaches to
+finding the solution.
 
 #### Participants
 
