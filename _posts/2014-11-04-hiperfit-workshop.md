@@ -32,9 +32,10 @@ encounters in the finance industry.
  </ul>
 </dd>
 <dt>10:15</dt><dd>Break</dd>
-<dt>10:30</dt><dd>HIPERFIT Partners
+<dt>10:30</dt><dd>Industry Input
  <ul>
  <li><i>SimCorp on Risk</i></li>
+ <li><i>Carry and the load: Risk-minimzation in electricity markets</i> (TBA)</li>
  </ul>
 </dd>
 <dt>11:45</dt><dd>Break</dd>
@@ -49,8 +50,8 @@ encounters in the finance industry.
 <dt>14:00</dt><dd>Household Finance and Risk Management
  <ul>
  <li><i>Household Finance Problems approached by Numerical Methods</i> (Mai-Britt Nordfang)</li>
- <li><i>Carry and the load: Risk-minimzation in electricity markets</i> (TBA)</li>
  <li><i>Rethinking exchange rate risk management</i> (Rolf Poulsen)</li>
+ <li><i>Calibration of the local volatility function</i> (Lykke Rasmussen)</li>
  </ul>
 </dd>
 <dt>15:15</dt><dd>Break</dd>
@@ -95,6 +96,13 @@ related to the financial decisions of individual households that
 cannot be solved on closed form and discuss numerical approaches to
 finding the solution.
 
+_Calibration of the local volatility function (Lykke Rasmussen)_
+
+In this talk we present the results of a study and comparison of 5
+different methods for calibrating local volatility functions.
+
+
+
 #### Participants
 
 | Name | Dec 10 | Dinner Dec 10 | Dec 11 | Room |
@@ -109,7 +117,7 @@ James Avery |                     1 | 1 | 1 | 1 |
 Jost Berthold |                   1 | 1 | 1 | 1 |
 Ken Friis Larsen |                1 | 0 | 1 | 0 |
 Kenneth Skovhede |                1 | 1 | 1 | 1 |
-Lykke Rasmussen |                 0 | 0 | 0 | 0 |
+Lykke Rasmussen |                 1 | 1 | 0 | 0 |
 Mads Ruben Burgdorff Kristensen | 1 | 1 | 1 | 1 |
 Maj-Britt Nordfang |              1 | 1 | 1 | 1 |
 Marcos Vaz Salles |               1 | 1 | 0 | 0 |
@@ -124,8 +132,8 @@ Thomas Jensen |                   1 | 0 | 0 | 0 |
 Troels Blum |                     0 | 0 | 0 | 0 |
 Troels Henriksen |                1 | 1 | 1 | 1 |
 Vivek Shah |                      1 | 1 | 0 | 0 |
-Anette Broløs (CFIR) |            1 | 0 | 0 | 0 |
+Anette Broløs (CFIR) |            1 | 1 | 0 | 0 |
 Anders Pall Skött (CFIR) |        1 | 0 | 0 | 0 |
 Christian Hjersing (SimCorp) |    1 | 0 | 0 | 0 |
 Carl Balslev Clausen (SimCorp) |  1 | 0 | 0 | 0 |
-Total |                          25 | 20 | 19 | 17 |
+Total |                          26 | 22 | 19 | 17 |
