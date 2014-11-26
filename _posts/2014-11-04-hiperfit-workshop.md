@@ -20,9 +20,19 @@ high-performance computational problems in the finance domain. A
 separate session is therefore devoted to partners for presenting such
 encounters in the finance industry.
 
+#### The Venue
+
+__Place:__ [Kurhotel Skodsborg](http://www.skodsborg.dk/), Skodsborg Strandvej 139, 2942 Skodsborg (45585800)
+
+__Start:__ Breakfast served from 8:30.
+
+__Agenda:__ See below.
+
+
 #### Draft schedule (December 10, 2014)
 
 <dl class='event'>
+<dt>08:30</dt><dd>Breakfast served</dd>
 <dt>08:55</dt><dd>Welcome (Fritz Henglein)</dd>
 <dt>09:00</dt><dd>Compilation for Parallel Computations
  <ul>
