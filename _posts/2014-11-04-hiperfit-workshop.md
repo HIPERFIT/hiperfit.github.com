@@ -140,7 +140,7 @@ James Avery |                        1 | 1 | 1 | 1 |
 Jost Berthold |                      1 | 1 | 1 | 1 |
 Ken Friis Larsen |                   1 | 0 | 1 | 0 |
 Kenneth Skovhede |                   1 | 1 | 1 | 1 |
-Lykke Rasmussen |                    1 | 1 | 0 | 0 |
+Lykke Rasmussen |                    1 | 1 | 1 | 1 |
 Mads Ruben Burgdorff Kristensen |    1 | 1 | 1 | 1 |
 Maj-Britt Nordfang |                 1 | 1 | 1 | 1 |
 Marcos Vaz Salles |                  1 | 1 | 0 | 0 |
@@ -162,4 +162,4 @@ Christian Hjersing (SimCorp) |       1 | 0 | 0 | 0 |
 Carl Balslev Clausen (SimCorp) |     1 | 0 | 0 | 0 |
 Henrik Nygaard Jensen (Danske Bank)| 1 | 0 | 0 | 0 |
 Nadeem Gulzar (Danske Bank) |        1 | 0 | 0 | 0 |
-Total |                             29 | 22 | 19 | 17 |
+Total |                             29 | 22 | 20 | 18 |
