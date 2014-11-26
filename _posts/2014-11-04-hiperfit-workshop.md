@@ -22,11 +22,7 @@ encounters in the finance industry.
 
 #### The Venue
 
-__Place:__ [Kurhotel Skodsborg](http://www.skodsborg.dk/), Skodsborg Strandvej 139, 2942 Skodsborg (45585800)
-
-__Start:__ Breakfast served from 8:30.
-
-__Agenda:__ See below.
+[Kurhotel Skodsborg](http://www.skodsborg.dk/), Skodsborg Strandvej 139, 2942 Skodsborg (45585800)
 
 
 #### Draft schedule (December 10, 2014)
