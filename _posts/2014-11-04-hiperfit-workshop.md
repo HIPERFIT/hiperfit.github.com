@@ -27,7 +27,7 @@ encounters in the finance industry.
 <dt>09:00</dt><dd>Compilation for Parallel Computations
  <ul>
  <li><i>Futhark - an array language for data-parallel execution</i> (Troels Henriksen)</li>
- <li><i>Stream-based parallel computation</i> (Frederik Meisner Madsen)</li>
+ <li><i>Streaming Nested Data Parallelism</i> (Frederik Meisner Madsen)</li>
  <li><i>Compiling APL for data-parallel execution through a typed intermediate language</i> (Martin Dybdal)</li>
  </ul>
 </dd>
@@ -35,7 +35,7 @@ encounters in the finance industry.
 <dt>10:30</dt><dd>Industry Input
  <ul>
  <li><i>SimCorp on Risk</i></li>
- <li><i>Carry and the load: Risk-minimzation in electricity markets</i> (TBA)</li>
+ <li><i>"Carry that load" &mdash; Risk-minimzation in electricity markets</i> (Martin Jönsson)</li>
  </ul>
 </dd>
 <dt>11:45</dt><dd>Break</dd>
@@ -86,6 +86,23 @@ research center.
 
 #### Abstracts
 
+_Streaming Nested Data Parallelism (Frederik Meisner Madsen)_
+
+A clever compiler relieves the programmer from many technical details,
+facilitating rapid development, code re-use and hopefully high
+performance. If the compiler obeys a simple optimistic time-space cost
+model, the hope becomes a guarantee. This talk aims to identify two
+key challenges related to functional data-parallel language design and
+costing: Nested data-parallelism and excessive space usage when too
+few processors are available. To solve these challenges, a language
+based on first-class sequences and dataflow execution is
+presented. The language supports nested data parallelism, obeys a
+time-space cost model and can run on many different architectures
+including single-core machines and GPGPUs. Experiments show promising
+results compared to similar languages, and the ideas are currently
+being implemented in the next release of Accelerate, a Haskell library
+for data-parallel execution on GPGPUs.
+
 _Household Finance Problems approached by Numerical Methods (Maj-Britt Nordfang)_
  
 Closed-form solutions to mathematical financial problems can only be
@@ -101,39 +118,48 @@ _Calibration of the local volatility function (Lykke Rasmussen)_
 In this talk we present the results of a study and comparison of 5
 different methods for calibrating local volatility functions.
 
+_Certified management of financial contracts (Patrick Bahr)_
+
+We present a contract language for describing complex financial
+contracts. Contracts modelled in our language are analysed and
+transformed for management according to a precise cash-flow semantics,
+formalised and verified using the Coq proof assistant.
 
 
 #### Participants
 
 | Name | Dec 10 | Dinner Dec 10 | Dec 11 | Room |
 | ---- |:------:|:-------------:|:------:|:----:|
-Andrzej Filinski |                1 | 1 | 1 | 1 |
-Brian Vinter |                    1 | 1 | 1 | 1 |
-Cosmin Oancea |                   0 | 1 | 1 | 1 |
-Danil Annenkov |                  1 | 1 | 1 | 1 |
-Frederik Meisner Madsen |         1 | 1 | 1 | 1 |
-Fritz Henglein |                  1 | 1 | 1 | 1 |
-James Avery |                     1 | 1 | 1 | 1 |
-Jost Berthold |                   1 | 1 | 1 | 1 |
-Ken Friis Larsen |                1 | 0 | 1 | 0 |
-Kenneth Skovhede |                1 | 1 | 1 | 1 |
-Lykke Rasmussen |                 1 | 1 | 0 | 0 |
-Mads Ruben Burgdorff Kristensen | 1 | 1 | 1 | 1 |
-Maj-Britt Nordfang |              1 | 1 | 1 | 1 |
-Marcos Vaz Salles |               1 | 1 | 0 | 0 |
-Martin Dybdal |                   1 | 1 | 1 | 1 |
-Martin Elsman |                   1 | 1 | 1 | 1 |
-Mogens Steffensen |               1 | 1 | 1 | 0 |
-Patrick Bahr |                    1 | 1 | 1 | 1 |
-Rolf Poulsen |                    1 | 1 | 1 | 1 |
-Simon Ellersgaard |               0 | 0 | 0 | 0 |
-Simon Lund |                      1 | 1 | 1 | 1 |
-Thomas Jensen |                   1 | 0 | 0 | 0 |
-Troels Blum |                     0 | 0 | 0 | 0 |
-Troels Henriksen |                1 | 1 | 1 | 1 |
-Vivek Shah |                      1 | 1 | 0 | 0 |
-Anette Broløs (CFIR) |            1 | 1 | 0 | 0 |
-Anders Pall Skött (CFIR) |        1 | 0 | 0 | 0 |
-Christian Hjersing (SimCorp) |    1 | 0 | 0 | 0 |
-Carl Balslev Clausen (SimCorp) |  1 | 0 | 0 | 0 |
-Total |                          26 | 22 | 19 | 17 |
+Andrzej Filinski |                   1 | 1 | 1 | 1 |
+Brian Vinter |                       1 | 1 | 1 | 1 |
+Cosmin Oancea |                      0 | 1 | 1 | 1 |
+Danil Annenkov |                     1 | 1 | 1 | 1 |
+Frederik Meisner Madsen |            1 | 1 | 1 | 1 |
+Fritz Henglein |                     1 | 1 | 1 | 1 |
+James Avery |                        1 | 1 | 1 | 1 |
+Jost Berthold |                      1 | 1 | 1 | 1 |
+Ken Friis Larsen |                   1 | 0 | 1 | 0 |
+Kenneth Skovhede |                   1 | 1 | 1 | 1 |
+Lykke Rasmussen |                    1 | 1 | 0 | 0 |
+Mads Ruben Burgdorff Kristensen |    1 | 1 | 1 | 1 |
+Maj-Britt Nordfang |                 1 | 1 | 1 | 1 |
+Marcos Vaz Salles |                  1 | 1 | 0 | 0 |
+Martin Dybdal |                      1 | 1 | 1 | 1 |
+Martin Elsman |                      1 | 1 | 1 | 1 |
+Martin Jönsson |                     1 | 0 | 0 | 0 |
+Mogens Steffensen |                  1 | 1 | 1 | 0 |
+Patrick Bahr |                       1 | 1 | 1 | 1 |
+Rolf Poulsen |                       1 | 1 | 1 | 1 |
+Simon Ellersgaard |                  0 | 0 | 0 | 0 |
+Simon Lund |                         1 | 1 | 1 | 1 |
+Thomas Jensen |                      1 | 0 | 0 | 0 |
+Troels Blum |                        0 | 0 | 0 | 0 |
+Troels Henriksen |                   1 | 1 | 1 | 1 |
+Vivek Shah |                         1 | 1 | 0 | 0 |
+Anette Broløs (CFIR) |               1 | 1 | 0 | 0 |
+Anders Pall Skött (CFIR) |           1 | 0 | 0 | 0 |
+Christian Hjersing (SimCorp) |       1 | 0 | 0 | 0 |
+Carl Balslev Clausen (SimCorp) |     1 | 0 | 0 | 0 |
+Henrik Nygaard Jensen (Danske Bank)| 1 | 0 | 0 | 0 |
+Nadeem Gulzar (Danske Bank) |        1 | 0 | 0 | 0 |
+Total |                             29 | 22 | 19 | 17 |
