@@ -49,7 +49,7 @@ encounters in the finance industry.
  <ul>
  <li><i>Bohrium - bridging high performance and high productivity</i> (Kenneth Skovhede)</li> 
  <li><i>Title TBA</i> (Simon Lund)</li>
- <li><i>Online transaction processing for big data sources</i> (Vivek Shah)</li>
+ <li><i>Transactional Partitioning: A New Abstraction for Main-memory Databases</i> (Vivek Shah)</li>
  </ul>
 </dd>
 <dt>13:00</dt><dd>Lunch</dd>
@@ -108,6 +108,19 @@ including single-core machines and GPGPUs. Experiments show promising
 results compared to similar languages, and the ideas are currently
 being implemented in the next release of Accelerate, a Haskell library
 for data-parallel execution on GPGPUs.
+
+_Transactional Partitioning: A New Abstraction for Main-memory Databases (Vivek Shah)_
+
+Online Transaction Processing (OLTP) applications are making new
+demands from OLTP databases on variety, performance and application
+cost frontiers.  Existing programming models provided by current
+OLTP databases do not meet all the demands of these classes of
+applications.  The talk presents a new programming model
+(transactional partitioning) that needs to be targetted by OLTP
+databases (especially main-memory databases) that would allow
+them to meet these new application demands. The talk also
+outlines the challenges and their possible solutions that are
+being investigated while building the prototype system.
 
 _Household Finance Problems approached by Numerical Methods (Maj-Britt Nordfang)_
  
