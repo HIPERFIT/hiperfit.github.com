@@ -56,8 +56,8 @@ encounters in the finance industry.
 <dt>14:00</dt><dd>Household Finance and Risk Management
  <ul>
  <li><i>Household Finance Problems approached by Numerical Methods</i> (Mai-Britt Nordfang)</li>
- <li><i>Rethinking exchange rate risk management</i> (Rolf Poulsen)</li>
- <li><i>Calibration of the local volatility function</i> (Lykke Rasmussen)</li>
+ <li><i>Rethinking Exchange Rate Risk Management</i> (Rolf Poulsen)</li>
+ <li><i>Calibration of the Local Volatility Function</i> (Lykke Rasmussen)</li>
  </ul>
 </dd>
 <dt>15:15</dt><dd>Break</dd>
@@ -140,6 +140,14 @@ highly stylized.  In this talk I will present a particular problem
 related to the financial decisions of individual households that
 cannot be solved on closed form and discuss numerical approaches to
 finding the solution.
+
+_Rethinking Exchange Rate Risk Management (Rolf Poulsen)_
+
+We describe some theoretical and practical (from computational to
+legal) issues in the construction of an exchange-rate risk management
+system that is feasible for small to medium enterprises. This work is
+a collaboration with http://www.gcureports.com/ and you will hear how
+the system was almost endorsed by the Pope.
 
 _Calibration of the local volatility function (Lykke Rasmussen)_
 
