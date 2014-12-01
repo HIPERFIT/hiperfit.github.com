@@ -63,9 +63,9 @@ encounters in the finance industry.
 <dt>15:15</dt><dd>Break</dd>
 <dt>15:30</dt><dd>Financial Contracts and Valuation
  <ul>
+ <li><i>A Prototype Framework for Parallel Valuation and Risk Calculation</i> (Martin Elsman)</li>
  <li><i>Certified management of financial contracts</i> (Patrick Bahr)</li>
  <li><i>Financial benchmarks for GPGPU compilation</i> (Martin Elsman)</li>
- <li><i>A prototype framework for parallel valuation and risk calculation</i> (Martin E, perhaps)</li>
  </ul>
 </dd>
 <dt>16:45</dt><dd>Thanks - feedback</dd>
@@ -109,6 +109,15 @@ results compared to similar languages, and the ideas are currently
 being implemented in the next release of Accelerate, a Haskell library
 for data-parallel execution on GPGPUs.
 
+_Compiling APL for data-parallel execution through a typed intermediate language (Martin Dybdal)_
+
+We present a compiler for a subset of the classical array programming
+language APL. The compiler translates APL programs into a typed array
+intermediate language, called TAIL, which is equipped with a clear
+type system and an operational semantics. We demonstrate, for a few
+benchmarks, the feasibility of compiling TAIL further into code that
+can execute on parallel architectures, such as GPGPUs.
+
 _Transactional Partitioning: A New Abstraction for Main-memory Databases (Vivek Shah)_
 
 Online Transaction Processing (OLTP) applications are making new
@@ -136,6 +145,14 @@ _Calibration of the local volatility function (Lykke Rasmussen)_
 
 In this talk we present the results of a study and comparison of 5
 different methods for calibrating local volatility functions.
+
+_A Prototype Framework for Parallel Valuation and Risk Calculation (Martin Elsman)_
+
+We present a simple open architecture and framework for demonstrating
+parallel execution of contract and portfolio valuation, as well as
+risk calculations. The framework, which is open source, builds on a
+contract language for specifying and managing multi-party contracts
+and on an efficient parallel pricing engine.
 
 _Certified management of financial contracts (Patrick Bahr)_
 
