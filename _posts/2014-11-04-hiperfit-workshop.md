@@ -40,7 +40,7 @@ encounters in the finance industry.
 <dt>10:15</dt><dd>Break</dd>
 <dt>10:30</dt><dd>Industry Input (Chair: Fritz Henglein)
  <ul>
- <li><i>The MC2 challenge in Risk</i> (Carl Balslev Clausen)</li>
+ <li><i>The MC2 challenge in Risk</i> (Carl Balslev Clausen, SimCorp)</li>
  <li><i>Danske Bank</i> (Nadeem Gulzar)</li>
  <li><i>"Carry that load" &mdash; Risk-minimzation in electricity markets</i> (Martin Jönsson)</li>
  </ul>
