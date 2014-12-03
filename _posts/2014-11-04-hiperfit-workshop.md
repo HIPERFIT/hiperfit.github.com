@@ -34,7 +34,7 @@ encounters in the finance industry.
  <ul>
  <li><i>Futhark - An Array Language for Data-parallel Execution</i> (Troels Henriksen)</li>
  <li><i>Streaming Nested Data Parallelism</i> (Frederik Meisner Madsen)</li>
- <li><i>Compiling APL for data-parallel execution through a typed intermediate language</i> (Martin Dybdal)</li>
+ <li><i>Compiling APL for Data-Parallel Execution through a Typed Intermediate Language</i> (Martin Dybdal)</li>
  </ul>
 </dd>
 <dt>10:15</dt><dd>Break</dd>
@@ -126,7 +126,7 @@ results compared to similar languages, and the ideas are currently
 being implemented in the next release of Accelerate, a Haskell library
 for data-parallel execution on GPGPUs.
 
-_Compiling APL for data-parallel execution through a typed intermediate language (Martin Dybdal)_
+_Compiling APL for Data-parallel Execution through a Typed Intermediate Language (Martin Dybdal)_
 
 We present a compiler for a subset of the classical array programming
 language APL. The compiler translates APL programs into a typed array
