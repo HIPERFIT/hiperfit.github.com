@@ -32,7 +32,7 @@ encounters in the finance industry.
 <dt>08:55</dt><dd>Welcome (Fritz Henglein)</dd>
 <dt>09:00</dt><dd>Compilation for Parallel Computations (Chair: Ken Friis Larsen)
  <ul>
- <li><i>Futhark - an array language for data-parallel execution</i> (Troels Henriksen)</li>
+ <li><i>Futhark - An Array Language for Data-parallel Execution</i> (Troels Henriksen)</li>
  <li><i>Streaming Nested Data Parallelism</i> (Frederik Meisner Madsen)</li>
  <li><i>Compiling APL for data-parallel execution through a typed intermediate language</i> (Martin Dybdal)</li>
  </ul>
@@ -92,6 +92,22 @@ lunch meetings](/lunches.html), and news in general from the HIPERFIT
 research center.
 
 #### Abstracts
+
+_Futhark - An Array Language for Data-parallel Execution (Troels Henriksen)_
+
+Compiling real-world applications to efficient parallel code,
+especially when targeting many-core hardware, requires an optimiser
+and code generator that can exploit a combination of high-level
+invariants and low-level optimisations.  We present a purely
+functional core language, named Futhark, intended as a compilation
+target for higher-level languages, that supports nested map-reduce
+parallelism on regular array, but also a set of "imperative"
+constructs, such as in-place updates and do-loops.  We also report
+in-progress work on the Futhark optimizing compiler, which is thought
+to allow a gradual transformation of the program, within the same
+representation, towards low-level, imperative-like code, which can
+then be efficiently and straightforwardly translated to the parallel
+assembly languages of our time, such as CUDA and OpenMP.
 
 _Streaming Nested Data Parallelism (Frederik Meisner Madsen)_
 
@@ -216,7 +232,7 @@ Maj-Britt Nordfang |                 1 | 1 | 1 | 1 |
 Marcos Vaz Salles |                  1 | 1 | 0 | 0 |
 Martin Dybdal |                      1 | 1 | 1 | 1 |
 Martin Elsman |                      1 | 1 | 1 | 1 |
-Martin Jönsson |                     1 | 0 | 0 | 0 |
+Martin Jönsson |                     1 | 1 | 0 | 0 |
 Mogens Steffensen |                  1 | 1 | 1 | 0 |
 Patrick Bahr |                       1 | 1 | 1 | 1 |
 Rolf Poulsen |                       1 | 1 | 1 | 1 |
@@ -229,7 +245,8 @@ Vivek Shah |                         1 | 1 | 0 | 0 |
 Anette Broløs (CFIR) |               1 | 1 | 0 | 0 |
 Anders Pall Skött (CFIR) |           1 | 0 | 0 | 0 |
 Christian Hjersing (SimCorp) |       1 | 0 | 0 | 0 |
-Carl Balslev Clausen (SimCorp) |     1 | 0 | 0 | 0 |
+Jens Ehlers (SimCorp) |              1 | 1 | 0 | 0 |
+Carl Balslev Clausen (SimCorp) |     1 | 1 | 0 | 0 |
 Henrik Nygaard Jensen (Danske Bank)| 1 | 0 | 0 | 0 |
 Nadeem Gulzar (Danske Bank) |        1 | 0 | 0 | 0 |
-Total |                             29 | 22 | 20 | 18 |
+Total |                             29 | 25 | 20 | 18 |
