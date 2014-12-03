@@ -30,7 +30,7 @@ encounters in the finance industry.
 <dl class='event'>
 <dt>08:30</dt><dd>Breakfast served</dd>
 <dt>08:55</dt><dd>Welcome (Fritz Henglein)</dd>
-<dt>09:00</dt><dd>Compilation for Parallel Computations
+<dt>09:00</dt><dd>Compilation for Parallel Computations (Chair: Ken Friis Larsen)
  <ul>
  <li><i>Futhark - an array language for data-parallel execution</i> (Troels Henriksen)</li>
  <li><i>Streaming Nested Data Parallelism</i> (Frederik Meisner Madsen)</li>
@@ -38,22 +38,23 @@ encounters in the finance industry.
  </ul>
 </dd>
 <dt>10:15</dt><dd>Break</dd>
-<dt>10:30</dt><dd>Industry Input
+<dt>10:30</dt><dd>Industry Input (Chair: Fritz Henglein)
  <ul>
  <li><i>SimCorp on Risk</i></li>
+ <li><i>Danske Bank (Nadeem Gulzar)</i></li>
  <li><i>"Carry that load" &mdash; Risk-minimzation in electricity markets</i> (Martin Jönsson)</li>
  </ul>
 </dd>
 <dt>11:45</dt><dd>Break</dd>
-<dt>12:00</dt><dd>Bohrium and Big-data
+<dt>12:00</dt><dd>Bohrium and Big-data (Chair: Brian Vinter)
  <ul>
- <li><i>Bohrium - bridging high performance and high productivity</i> (Kenneth Skovhede)</li> 
+ <li><i>Bohrium - Bridging High Performance and High Productivity</i> (Kenneth Skovhede)</li> 
  <li><i>Title TBA</i> (Simon Lund)</li>
  <li><i>Transactional Partitioning: A New Abstraction for Main-memory Databases</i> (Vivek Shah)</li>
  </ul>
 </dd>
 <dt>13:00</dt><dd>Lunch</dd>
-<dt>14:00</dt><dd>Household Finance and Risk Management
+<dt>14:00</dt><dd>Household Finance and Risk Management (Chair: Mogens Steffensen) 
  <ul>
  <li><i>Household Finance Problems approached by Numerical Methods</i> (Mai-Britt Nordfang)</li>
  <li><i>Rethinking Exchange Rate Risk Management</i> (Rolf Poulsen)</li>
@@ -61,11 +62,11 @@ encounters in the finance industry.
  </ul>
 </dd>
 <dt>15:15</dt><dd>Break</dd>
-<dt>15:30</dt><dd>Financial Contracts and Valuation
+<dt>15:30</dt><dd>Financial Contracts and Valuation (Chair: Andrzej Filinski)
  <ul>
  <li><i>A Prototype Framework for Parallel Valuation and Risk Calculation</i> (Martin Elsman)</li>
  <li><i>Certified management of financial contracts</i> (Patrick Bahr)</li>
- <li><i>Financial benchmarks for GPGPU compilation</i> (Martin Elsman)</li>
+ <li><i>Financial benchmarks for GPGPU compilation</i> (Cosmin Oancea)</li>
  </ul>
 </dd>
 <dt>16:45</dt><dd>Thanks - feedback</dd>
@@ -117,6 +118,14 @@ intermediate language, called TAIL, which is equipped with a clear
 type system and an operational semantics. We demonstrate, for a few
 benchmarks, the feasibility of compiling TAIL further into code that
 can execute on parallel architectures, such as GPGPUs.
+
+_Bohrium - Bridging High Performance and High Productivity (Kenneth Skovhede)_
+
+In this talk I introduce the Bohrium runtime system and show how it
+simultaneously enables rapid development and high performance
+execution. I then summarize our current results with the Bohrium
+approach for CPU, GPGPU and cluster execution. Finally I present the
+state of my current work on FPGA execution in Bohrium.
 
 _Transactional Partitioning: A New Abstraction for Main-memory Databases (Vivek Shah)_
 
