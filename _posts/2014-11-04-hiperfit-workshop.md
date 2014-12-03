@@ -40,8 +40,8 @@ encounters in the finance industry.
 <dt>10:15</dt><dd>Break</dd>
 <dt>10:30</dt><dd>Industry Input (Chair: Fritz Henglein)
  <ul>
- <li><i>SimCorp on Risk</i></li>
- <li><i>Danske Bank (Nadeem Gulzar)</i></li>
+ <li><i>The MC2 challenge in Risk</i> (Carl Balslev Clausen)</li>
+ <li><i>Danske Bank</i> (Nadeem Gulzar)</li>
  <li><i>"Carry that load" &mdash; Risk-minimzation in electricity markets</i> (Martin Jönsson)</li>
  </ul>
 </dd>
@@ -134,6 +134,15 @@ intermediate language, called TAIL, which is equipped with a clear
 type system and an operational semantics. We demonstrate, for a few
 benchmarks, the feasibility of compiling TAIL further into code that
 can execute on parallel architectures, such as GPGPUs.
+
+_The MC2 challenge in Risk (Carl Balslev Clausen, SimCorp)_
+ 
+Monte Carlo methods are required for precise valuation of contracts
+that have a certain level of complexity. Monte Carlo methods are also
+required for various Risk calculations when large shocks and movements
+are modelled. Combining Monte Carlo Risk with Monte Carlo valuation we
+encounter the double Monte Carlo challenge, aka the MC2 challenge. We
+report on specific use cases and benchmarks from the industry.
 
 _Bohrium - Bridging High Performance and High Productivity (Kenneth Skovhede)_
 
