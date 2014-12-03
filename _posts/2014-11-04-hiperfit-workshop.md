@@ -49,7 +49,7 @@ encounters in the finance industry.
 <dt>12:00</dt><dd>Bohrium and Big-data (Chair: Brian Vinter)
  <ul>
  <li><i>Bohrium - Bridging High Performance and High Productivity</i> (Kenneth Skovhede)</li> 
- <li><i>Title TBA</i> (Simon Lund)</li>
+ <li><i>Effective Interoperability</i> (Simon Lund)</li>
  <li><i>Transactional Partitioning: A New Abstraction for Main-memory Databases</i> (Vivek Shah)</li>
  </ul>
 </dd>
@@ -126,6 +126,23 @@ simultaneously enables rapid development and high performance
 execution. I then summarize our current results with the Bohrium
 approach for CPU, GPGPU and cluster execution. Finally I present the
 state of my current work on FPGA execution in Bohrium.
+
+_Effective Interoperability (Simon Lund)_
+
+Programming languages and models are essential building blocks for
+computer-based problem-solving. The general challenge is about
+modeling concepts and abstractions for a given problem and expressing
+it programmatically to obtain a solution. A challenge that no single
+programming model or language can solve for the general case when put
+under the constraint of also efficiently utilizing hardware.  However,
+many languages and models exist which solves classes of problems
+efficiently. Interoperability provides the means of combining them. In
+this talk, this approach is exemplified through the use of the
+emerging parallel programming language Chapel and the long-lived
+productivity language Python. The interoperability approach is
+exemplified by introducing Chapel and comparing strengths/weaknesses
+of the two languages and how to overcome them through the use of
+interoperability.  
 
 _Transactional Partitioning: A New Abstraction for Main-memory Databases (Vivek Shah)_
 
