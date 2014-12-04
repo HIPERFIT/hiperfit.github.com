@@ -258,4 +258,6 @@ Jens Ehlers (SimCorp) |              1 | 1 | 0 | 0 |
 Carl Balslev Clausen (SimCorp) |     1 | 1 | 0 | 0 |
 Henrik Nygaard Jensen (Danske Bank)| 1 | 1 | 0 | 0 |
 Nadeem Gulzar (Danske Bank) |        1 | 0 | 0 | 0 |
-Total |                             29 | 26 | 20 | 18 |
+Uwe Heissner (Nordea) |              1 | 0 | 0 | 0 |
+Manuel Torrealba (Nordea) |          1 | 0 | 0 | 0 |
+Total |                             31 | 26 | 20 | 18 |
