@@ -256,6 +256,6 @@ Anders Pall Skött (CFIR) |           1 | 0 | 0 | 0 |
 Christian Hjersing (SimCorp) |       1 | 0 | 0 | 0 |
 Jens Ehlers (SimCorp) |              1 | 1 | 0 | 0 |
 Carl Balslev Clausen (SimCorp) |     1 | 1 | 0 | 0 |
-Henrik Nygaard Jensen (Danske Bank)| 1 | 0 | 0 | 0 |
+Henrik Nygaard Jensen (Danske Bank)| 1 | 1 | 0 | 0 |
 Nadeem Gulzar (Danske Bank) |        1 | 0 | 0 | 0 |
-Total |                             29 | 25 | 20 | 18 |
+Total |                             29 | 26 | 20 | 18 |
