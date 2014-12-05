@@ -32,41 +32,41 @@ encounters in the finance industry.
 <dt>08:55</dt><dd>Welcome (Fritz Henglein)</dd>
 <dt>09:00</dt><dd>Compilation for Parallel Computations (Chair: Ken Friis Larsen)
  <ul>
- <li><i>Futhark - An Array Language for Data-parallel Execution</i> (Troels Henriksen)</li>
- <li><i>Streaming Nested Data Parallelism</i> (Frederik Meisner Madsen)</li>
- <li><i>Compiling APL for Data-Parallel Execution through a Typed Intermediate Language</i> (Martin Dybdal)</li>
+ <li><i>Futhark - An Array Language for Data-parallel Execution</i> (Troels Henriksen, DIKU)</li>
+ <li><i>Streaming Nested Data Parallelism</i> (Frederik Meisner Madsen, DIKU)</li>
+ <li><i>Compiling APL for Data-Parallel Execution through a Typed Intermediate Language</i> (Martin Dybdal, DIKU)</li>
  </ul>
 </dd>
 <dt>10:15</dt><dd>Break</dd>
 <dt>10:30</dt><dd>Industry Input (Chair: Fritz Henglein)
  <ul>
  <li><i>The MC2 challenge in Risk</i> (Carl Balslev Clausen, SimCorp)</li>
- <li><i>Danske Bank</i> (Nadeem Gulzar)</li>
- <li><i>"Carry that load" &mdash; Risk-minimzation in electricity markets</i> (Martin Jönsson)</li>
+ <li><i>Big Data and Advanced Analytics in a financial institution</i> (Nadeem Gulzar, Danske Bank)</li>
+ <li><i>"Carry that load" &mdash; Risk-minimzation in electricity markets</i> (Martin Jönsson, IMF)</li>
  </ul>
 </dd>
 <dt>11:45</dt><dd>Break</dd>
 <dt>12:00</dt><dd>Bohrium and Big-data (Chair: Brian Vinter)
  <ul>
- <li><i>Bohrium - Bridging High Performance and High Productivity</i> (Kenneth Skovhede)</li> 
- <li><i>Effective Interoperability</i> (Simon Lund)</li>
- <li><i>Transactional Partitioning: A New Abstraction for Main-memory Databases</i> (Vivek Shah)</li>
+ <li><i>Bohrium - Bridging High Performance and High Productivity</i> (Kenneth Skovhede, NBI)</li> 
+ <li><i>Effective Interoperability</i> (Simon Lund, NBI)</li>
+ <li><i>Transactional Partitioning: A New Abstraction for Main-memory Databases</i> (Vivek Shah, DIKU)</li>
  </ul>
 </dd>
 <dt>13:00</dt><dd>Lunch</dd>
 <dt>14:00</dt><dd>Household Finance and Risk Management (Chair: Mogens Steffensen) 
  <ul>
- <li><i>Household Finance Problems approached by Numerical Methods</i> (Mai-Britt Nordfang)</li>
- <li><i>Rethinking Exchange Rate Risk Management</i> (Rolf Poulsen)</li>
- <li><i>Calibration of the Local Volatility Function</i> (Lykke Rasmussen)</li>
+ <li><i>Household Finance Problems approached by Numerical Methods</i> (Mai-Britt Nordfang, IMF)</li>
+ <li><i>Rethinking Exchange Rate Risk Management</i> (Rolf Poulsen, IMF)</li>
+ <li><i>Calibration of the Local Volatility Function</i> (Lykke Rasmussen, IMF)</li>
  </ul>
 </dd>
 <dt>15:15</dt><dd>Break</dd>
 <dt>15:30</dt><dd>Financial Contracts and Valuation (Chair: Andrzej Filinski)
  <ul>
- <li><i>A Prototype Framework for Parallel Valuation and Risk Calculation</i> (Martin Elsman)</li>
- <li><i>Certified management of financial contracts</i> (Patrick Bahr)</li>
- <li><i>Financial benchmarks for GPGPU compilation</i> (Cosmin Oancea)</li>
+ <li><i>A Prototype Framework for Parallel Valuation and Risk Calculation</i> (Martin Elsman, DIKU)</li>
+ <li><i>Certified management of financial contracts</i> (Patrick Bahr, DIKU)</li>
+ <li><i>Financial benchmarks for GPGPU compilation</i> (Cosmin Oancea, DIKU)</li>
  </ul>
 </dd>
 <dt>16:45</dt><dd>Thanks - feedback</dd>
@@ -143,6 +143,15 @@ required for various Risk calculations when large shocks and movements
 are modelled. Combining Monte Carlo Risk with Monte Carlo valuation we
 encounter the double Monte Carlo challenge, aka the MC2 challenge. We
 report on specific use cases and benchmarks from the industry.
+
+_Big Data and Advanced Analytics in a Financial Institution (Nadeem Gulzar, Danske Bank)_
+
+In Danske Bank a lot of effort is being put into utilizing new sources
+of data (social, weblogs, etc.) to gain a better understanding of the
+customers and their behavior. To handle and process the extremely
+large amount of data, we require an equally large amount of processing
+power. There are many ways to address this ranging from using lots of
+cash to optimizing techniques, etc.
 
 _Bohrium - Bridging High Performance and High Productivity (Kenneth Skovhede)_
 
