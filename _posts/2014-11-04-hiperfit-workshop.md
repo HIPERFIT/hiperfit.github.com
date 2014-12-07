@@ -234,33 +234,33 @@ formalised and verified using the Coq proof assistant.
 
 | Name | Dec 10 | Dinner Dec 10 | Dec 11 | Room |
 | ---- |:------:|:-------------:|:------:|:----:|
-Andrzej Filinski |                   1 | 1 | 1 | 1 |
-Brian Vinter |                       1 | 1 | 1 | 1 |
-Cosmin Oancea |                      0 | 1 | 1 | 1 |
-Danil Annenkov |                     1 | 1 | 1 | 1 |
-Frederik Meisner Madsen |            1 | 1 | 1 | 1 |
-Fritz Henglein |                     1 | 1 | 1 | 1 |
-James Avery |                        1 | 1 | 1 | 1 |
-Jost Berthold |                      1 | 1 | 1 | 1 |
-Ken Friis Larsen |                   1 | 0 | 1 | 0 |
-Kenneth Skovhede |                   1 | 1 | 1 | 1 |
-Lykke Rasmussen |                    1 | 1 | 1 | 1 |
-Mads Ruben Burgdorff Kristensen |    1 | 1 | 1 | 1 |
-Maj-Britt Nordfang |                 1 | 1 | 1 | 1 |
-Marcos Vaz Salles |                  1 | 1 | 0 | 0 |
-Martin Dybdal |                      1 | 1 | 1 | 1 |
-Martin Elsman |                      1 | 1 | 1 | 1 |
-Martin Jönsson |                     1 | 1 | 0 | 0 |
-Mogens Steffensen |                  1 | 1 | 1 | 0 |
-Oleksandr Shturmov |                 1 | 1 | 1 | 0 |
-Patrick Bahr |                       1 | 1 | 1 | 1 |
-Rolf Poulsen |                       1 | 1 | 1 | 1 |
-Simon Ellersgaard |                  0 | 0 | 0 | 0 |
-Simon Lund |                         1 | 1 | 1 | 1 |
-Thomas Jensen |                      1 | 0 | 0 | 0 |
-Troels Blum |                        0 | 0 | 0 | 0 |
-Troels Henriksen |                   1 | 1 | 1 | 1 |
-Vivek Shah |                         1 | 1 | 0 | 0 |
+Andrzej Filinski (DIKU) |            1 | 1 | 1 | 1 |
+Brian Vinter (NBI) |                 1 | 1 | 1 | 1 |
+Cosmin Oancea (DIKU) |               0 | 1 | 1 | 1 |
+Danil Annenkov (DIKU) |              1 | 1 | 1 | 1 |
+Frederik Meisner Madsen (DIKU) |     1 | 1 | 1 | 1 |
+Fritz Henglein (DIKU) |              1 | 1 | 1 | 1 |
+James Avery (NBI) |                  1 | 1 | 1 | 1 |
+Jost Berthold (DIKU) |               1 | 1 | 1 | 1 |
+Ken Friis Larsen (DIKU) |            1 | 0 | 1 | 0 |
+Kenneth Skovhede (NBI) |             1 | 1 | 1 | 1 |
+Lykke Rasmussen (IMF) |              1 | 1 | 1 | 1 |
+Mads R. B. Kristensen (NBI) |        1 | 1 | 1 | 1 |
+Maj-Britt Nordfang (IMF) |           1 | 1 | 1 | 1 |
+Marcos Vaz Salles (DIKU) |           1 | 1 | 0 | 0 |
+Martin Dybdal (DIKU) |               1 | 1 | 1 | 1 |
+Martin Elsman (DIKU) |               1 | 1 | 1 | 1 |
+Martin Jönsson (IMF) |               1 | 1 | 0 | 0 |
+Mogens Steffensen (IMF) |            1 | 1 | 1 | 0 |
+Oleksandr Shturmov (DIKU) |          1 | 1 | 1 | 0 |
+Patrick Bahr (DIKU) |                1 | 1 | 1 | 1 |
+Rolf Poulsen (IMF) |                 1 | 1 | 1 | 1 |
+Simon Ellersgaard (IMF) |            0 | 0 | 0 | 0 |
+Simon Lund (NBI) |                   1 | 1 | 1 | 1 |
+Thomas Jensen (DIKU) |               1 | 0 | 0 | 0 |
+Troels Blum (NBI) |                  0 | 0 | 0 | 0 |
+Troels Henriksen (DIKU) |            1 | 1 | 1 | 1 |
+Vivek Shah (DIKU) |                  1 | 1 | 0 | 0 |
 Anette Broløs (CFIR) |               1 | 1 | 0 | 0 |
 Anders Pall Skött (CFIR) |           1 | 0 | 0 | 0 |
 Christian Hjersing (SimCorp) |       1 | 0 | 0 | 0 |
