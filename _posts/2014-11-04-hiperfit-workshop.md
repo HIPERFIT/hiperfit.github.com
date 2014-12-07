@@ -25,7 +25,7 @@ encounters in the finance industry.
 [Kurhotel Skodsborg](http://www.skodsborg.dk/), Skodsborg Strandvej 139, 2942 Skodsborg (45585800)
 
 
-#### Draft schedule (December 10, 2014)
+#### Schedule December 10, 2014
 
 <dl class='event'>
 <dt>08:30</dt><dd>Breakfast served</dd>
@@ -74,12 +74,10 @@ encounters in the finance industry.
 <dt>18:30</dt><dd>Dinner</dd>
 </dl>
 
-On the day following the workshop (on December 11, 2014), HIPERFIT
-staff will meet and discuss feedback and plan future activities and
-projects within HIPERFIT.
-
 A table of participants for the workshop on December 10, and for the
-discussion and planning sessions on December 11, appears below.
+discussion and planning sessions (HIPERFIT staff only) on December 11,
+appears below. The schedule for December 11 appears at the very end of
+the page.
 
 Participation in the workshop is by invitation only, but please
 [contact the HIPERFIT management](/contact.html) if you think you
@@ -271,3 +269,20 @@ Nadeem Gulzar (Danske Bank) |        1 | 0 | 0 | 0 |
 Uwe Heissner (Nordea) |              1 | 0 | 0 | 0 |
 Manuel Torrealba (Nordea) |          1 | 0 | 0 | 0 |
 Total |                             33 | 27 | 21 | 18 |
+
+#### Schedule December 11, 2014 (HIPERFIT staff only) 
+
+On December 11, 2014, HIPERFIT staff will meet and discuss feedback
+and plan future activities and projects within HIPERFIT. Here is a
+draft schedule.
+
+<dl class='event'>
+<dt>08:30</dt><dd>Breakfast served</dd>
+<dt>08:55</dt><dd>Outline for the day (Plenum)</dd>
+<dt>09:00</dt><dd>Session 1 (Groups)</dd>
+<dt>12:00</dt><dd>Lunch</dd>
+<dt>13:00</dt><dd>Session 2 (Groups)</dd>
+<dt>15:00</dt><dd>Break</dd>
+<dt>15:15</dt><dd>Group Presentations (Plenum)</dd>
+<dt>16:30</dt><dd>End</dd>
+</dl>
