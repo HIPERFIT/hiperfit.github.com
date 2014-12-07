@@ -252,6 +252,7 @@ Martin Dybdal |                      1 | 1 | 1 | 1 |
 Martin Elsman |                      1 | 1 | 1 | 1 |
 Martin Jönsson |                     1 | 1 | 0 | 0 |
 Mogens Steffensen |                  1 | 1 | 1 | 0 |
+Oleksandr Shturmov |                 1 | 1 | 1 | 0 |
 Patrick Bahr |                       1 | 1 | 1 | 1 |
 Rolf Poulsen |                       1 | 1 | 1 | 1 |
 Simon Ellersgaard |                  0 | 0 | 0 | 0 |
@@ -269,4 +270,4 @@ Henrik Nygaard Jensen (Danske Bank)| 1 | 1 | 0 | 0 |
 Nadeem Gulzar (Danske Bank) |        1 | 0 | 0 | 0 |
 Uwe Heissner (Nordea) |              1 | 0 | 0 | 0 |
 Manuel Torrealba (Nordea) |          1 | 0 | 0 | 0 |
-Total |                             31 | 26 | 20 | 18 |
+Total |                             32 | 27 | 21 | 18 |
