@@ -270,4 +270,4 @@ Henrik Nygaard Jensen (Danske Bank)| 1 | 1 | 0 | 0 |
 Nadeem Gulzar (Danske Bank) |        1 | 0 | 0 | 0 |
 Uwe Heissner (Nordea) |              1 | 0 | 0 | 0 |
 Manuel Torrealba (Nordea) |          1 | 0 | 0 | 0 |
-Total |                             32 | 27 | 21 | 18 |
+Total |                             33 | 27 | 21 | 18 |
