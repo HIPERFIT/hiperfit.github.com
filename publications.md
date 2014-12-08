@@ -140,6 +140,10 @@ Financial Information Technology__. Project Application, 2010.
 thesis. Department of Computer Science, University of
 Copenhagen. March 2014. [PDF](pdf/marco-eilers-thesis.pdf).
 
+* Troels Henriksen. __Exploiting Functional Invariants to Optimise
+Parallelism: a dataflow approach__. MSc thesis. Department of Computer
+Science, University of Copenhagen. February 2014. [PDF](pdf/TroelsMSc.pdf).
+
 * Frederik M. Madsen. __A Streaming Model for Nested Data
 Parallelism__. MSc thesis. Department of Computer Science, University
 of Copenhagen. March 2013. [PDF](pdf/thesis-report_madsen2013.pdf).
