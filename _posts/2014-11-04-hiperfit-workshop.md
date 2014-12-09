@@ -154,7 +154,7 @@ large amount of data, we require an equally large amount of processing
 power. There are many ways to address this ranging from using lots of
 cash to optimizing techniques, etc.
 
-_"Carry that load" &mdash; Risk-minimzation in electricity markets (Martin Jönsson, IMF)_
+_"Carry that load" &mdash; Risk-minimization in electricity markets (Martin Jönsson, IMF)_
 
 In this talk we look at a specific hedging problem of a contract in
 the derivatives market for power contracts. We suggest a simple
