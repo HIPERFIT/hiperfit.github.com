@@ -46,14 +46,14 @@ encounters in the finance industry.
  </ul>
 </dd>
 <dt>11:45</dt><dd>Break</dd>
-<dt>12:00</dt><dd>Bohrium and Big-data (Chair: Brian Vinter)
+<dt>11:55</dt><dd>Bohrium and Big-data (Chair: Brian Vinter)
  <ul>
  <li><i>Bohrium - Bridging High Performance and High Productivity</i> (Kenneth Skovhede, NBI)</li> 
  <li><i>Effective Interoperability</i> (Simon Lund, NBI)</li>
  <li><i>Transactional Partitioning: A New Abstraction for Main-memory Databases</i> (Vivek Shah, DIKU)</li>
  </ul>
 </dd>
-<dt>13:00</dt><dd>Lunch</dd>
+<dt>13:05</dt><dd>Lunch</dd>
 <dt>14:00</dt><dd>Household Finance and Risk Management (Chair: Mogens Steffensen) 
  <ul>
  <li><i>Household Finance Problems approached by Numerical Methods</i> (Mai-Britt Nordfang, IMF)</li>
@@ -65,8 +65,8 @@ encounters in the finance industry.
 <dt>15:30</dt><dd>Financial Contracts and Valuation (Chair: Andrzej Filinski)
  <ul>
  <li><i>A Prototype Framework for Parallel Valuation and Risk Calculation</i> (Martin Elsman, DIKU)</li>
- <li><i>Certified management of financial contracts</i> (Patrick Bahr, DIKU)</li>
- <li><i>Financial benchmarks for GPGPU compilation</i> (Cosmin Oancea, DIKU)</li>
+ <li><i>Certified Management of Financial Contracts</i> (Patrick Bahr, DIKU)</li>
+ <li><i>Financial Benchmarks for GPGPU Compilation</i> (Cosmin Oancea, DIKU)</li>
  </ul>
 </dd>
 <dt>16:45</dt><dd>Thanks - feedback</dd>
@@ -90,6 +90,10 @@ lunch meetings](/lunches.html), and news in general from the HIPERFIT
 research center.
 
 #### Abstracts
+
+~~~~
+
+__09:00-10:15 &nbsp; Compilation for Parallel Computations__
 
 _Futhark - An Array Language for Data-parallel Execution (Troels Henriksen)_
 
@@ -133,6 +137,10 @@ type system and an operational semantics. We demonstrate, for a few
 benchmarks, the feasibility of compiling TAIL further into code that
 can execute on parallel architectures, such as GPGPUs.
 
+~~~~
+
+__10:30-11:45 &nbsp; Industry Input__
+
 _The MC2 challenge in Risk (Carl Balslev Clausen, SimCorp)_
  
 Monte Carlo methods are required for precise valuation of contracts
@@ -150,6 +158,12 @@ customers and their behavior. To handle and process the extremely
 large amount of data, we require an equally large amount of processing
 power. There are many ways to address this ranging from using lots of
 cash to optimizing techniques, etc.
+
+_"Carry that load" &mdash; Risk-minimzation in electricity markets (Martin Jönsson, IMF)_
+
+~~~~
+
+__11:55-13:05 &nbsp; Bohrium and Big-data__
 
 _Bohrium - Bridging High Performance and High Productivity (Kenneth Skovhede)_
 
@@ -189,6 +203,10 @@ them to meet these new application demands. The talk also
 outlines the challenges and their possible solutions that are
 being investigated while building the prototype system.
 
+~~~~
+
+__14:00-15:15 &nbsp; Household Finance and Risk Management__
+
 _Household Finance Problems approached by Numerical Methods (Maj-Britt Nordfang)_
  
 Closed-form solutions to mathematical financial problems can only be
@@ -212,21 +230,39 @@ _Calibration of the local volatility function (Lykke Rasmussen)_
 In this talk we present the results of a study and comparison of 5
 different methods for calibrating local volatility functions.
 
+~~~~
+
+__15:30-16:45 &nbsp; Financial Contracts and Valuation__
+
 _A Prototype Framework for Parallel Valuation and Risk Calculation (Martin Elsman)_
 
-We present a simple open architecture and framework for demonstrating
-parallel execution of contract and portfolio valuation, as well as
-risk calculations. The framework, which is open source, builds on a
-contract language for specifying and managing multi-party contracts
-and on an efficient parallel pricing engine.
+We give an overview of a simple open architecture and framework for
+demonstrating parallel execution of contract and portfolio valuation,
+as well as risk calculations. The framework, which is open source,
+builds on a contract language for specifying and managing multi-party
+contracts and on an efficient parallel pricing engine.
 
-_Certified management of financial contracts (Patrick Bahr)_
+_Certified Management of Financial Contracts (Patrick Bahr)_
 
 We present a contract language for describing complex financial
 contracts. Contracts modelled in our language are analysed and
 transformed for management according to a precise cash-flow semantics,
 formalised and verified using the Coq proof assistant.
 
+_Financial Benchmarks for GPGPU Compilation (Cosmin Oancea)_
+
+We present three studies of array-based applications from the
+financial domain, all suitable for GPGPU execution. The studies have
+resulted in three concrete application benchmarks for which the
+available parallelism is described by nested map-reduce functional
+combinators. We also describe the influence of the invariants and code
+transformations that govern the main trade-offs of the rich,
+dataset-sensitive optimisation space. The application benchmarks
+targets both CPUs and GPGPUs and we provide useful insight into the
+language constructs and compiler infrastructure capable of expressing
+and optimising such applications.
+
+~~~~
 
 #### Participants
 
