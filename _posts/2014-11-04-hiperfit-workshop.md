@@ -8,7 +8,7 @@ tags: [workshop]
 
 <img width="200" alt="HIPERFIT logo" align="right" src="/images/hiperfit.jpg">
 
-### HIPERFIT Workshop for partners and faculty in December
+### 2014 HIPERFIT Workshop for Partners and Faculty
 
 On December 10, 2014, HIPERFIT is hosting a workshop for HIPERFIT
 partners and faculty. At the workshop, HIPERFIT faculty and PhD
@@ -23,7 +23,6 @@ encounters in the finance industry.
 #### The Venue
 
 [Kurhotel Skodsborg](http://www.skodsborg.dk/), Skodsborg Strandvej 139, 2942 Skodsborg (45585800)
-
 
 #### Schedule December 10, 2014
 
@@ -91,9 +90,7 @@ research center.
 
 #### Abstracts
 
-~~~~
-
-__09:00-10:15 &nbsp; Compilation for Parallel Computations__
+##### 09:00-10:15 &nbsp; Compilation for Parallel Computations
 
 _Futhark - An Array Language for Data-parallel Execution (Troels Henriksen)_
 
@@ -137,9 +134,7 @@ type system and an operational semantics. We demonstrate, for a few
 benchmarks, the feasibility of compiling TAIL further into code that
 can execute on parallel architectures, such as GPGPUs.
 
-~~~~
-
-__10:30-11:45 &nbsp; Industry Input__
+##### 10:30-11:45 &nbsp; Industry Input
 
 _The MC2 challenge in Risk (Carl Balslev Clausen, SimCorp)_
  
@@ -161,9 +156,7 @@ cash to optimizing techniques, etc.
 
 _"Carry that load" &mdash; Risk-minimzation in electricity markets (Martin Jönsson, IMF)_
 
-~~~~
-
-__11:55-13:05 &nbsp; Bohrium and Big-data__
+##### 11:55-13:05 &nbsp; Bohrium and Big-data
 
 _Bohrium - Bridging High Performance and High Productivity (Kenneth Skovhede)_
 
@@ -203,9 +196,7 @@ them to meet these new application demands. The talk also
 outlines the challenges and their possible solutions that are
 being investigated while building the prototype system.
 
-~~~~
-
-__14:00-15:15 &nbsp; Household Finance and Risk Management__
+##### 14:00-15:15 &nbsp; Household Finance and Risk Management
 
 _Household Finance Problems approached by Numerical Methods (Maj-Britt Nordfang)_
  
@@ -230,9 +221,7 @@ _Calibration of the local volatility function (Lykke Rasmussen)_
 In this talk we present the results of a study and comparison of 5
 different methods for calibrating local volatility functions.
 
-~~~~
-
-__15:30-16:45 &nbsp; Financial Contracts and Valuation__
+##### 15:30-16:45 &nbsp; Financial Contracts and Valuation
 
 _A Prototype Framework for Parallel Valuation and Risk Calculation (Martin Elsman)_
 
@@ -261,8 +250,6 @@ dataset-sensitive optimisation space. The application benchmarks
 targets both CPUs and GPGPUs and we provide useful insight into the
 language constructs and compiler infrastructure capable of expressing
 and optimising such applications.
-
-~~~~
 
 #### Participants
 
