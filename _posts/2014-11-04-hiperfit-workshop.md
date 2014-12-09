@@ -156,6 +156,15 @@ cash to optimizing techniques, etc.
 
 _"Carry that load" &mdash; Risk-minimzation in electricity markets (Martin Jönsson, IMF)_
 
+In this talk we look at a specific hedging problem of a contract in
+the derivatives market for power contracts. We suggest a simple
+hedging approach that relies on expected loss minimisation of our
+hedged position, and to calculate our optimal hedge we suggest a
+simple model for the spot price and consumption of electricity. We
+test our approach on empirical data obtained from an energy trading
+company, and compare our strategy to the hedging approach currently
+used by the company.
+
 #### 11:55-13:05 &nbsp; Bohrium and Big-data
 
 _Bohrium - Bridging High Performance and High Productivity (Kenneth Skovhede)_
