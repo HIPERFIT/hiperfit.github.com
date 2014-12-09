@@ -40,19 +40,19 @@ encounters in the finance industry.
 <dt>10:30</dt><dd>Industry Input (Chair: Fritz Henglein)
  <ul>
  <li><i>The MC2 Challenge in Risk</i> (Carl Balslev Clausen, SimCorp)</li>
- <li><i>Big Data and Advanced Analytics in a Financial Institution</i> (Nadeem Gulzar, Danske Bank)</li>
+ <li><i>Big Data and Advanced Analytics in a Financial Institution</i> (Nadeem Gulzar, Danske Bank) <b><i>CANCELLED</i></b></li>
  <li><i>"Carry that Load" &mdash; Risk-minimization in Electricity Markets</i> (Martin Jönsson, IMF)</li>
  </ul>
 </dd>
-<dt>11:45</dt><dd>Break</dd>
-<dt>11:55</dt><dd>Bohrium and Big-data (Chair: Brian Vinter)
+<dt>11:30</dt><dd>Break</dd>
+<dt>11:45</dt><dd>Bohrium and Big-data (Chair: Brian Vinter)
  <ul>
  <li><i>Bohrium - Bridging High Performance and High Productivity</i> (Kenneth Skovhede, NBI)</li> 
  <li><i>Effective Interoperability</i> (Simon Lund, NBI)</li>
  <li><i>Transactional Partitioning: A New Abstraction for Main-memory Databases</i> (Vivek Shah, DIKU)</li>
  </ul>
 </dd>
-<dt>13:05</dt><dd>Lunch</dd>
+<dt>13:00</dt><dd>Lunch</dd>
 <dt>14:00</dt><dd>Household Finance and Risk Management (Chair: Mogens Steffensen) 
  <ul>
  <li><i>Household Finance Problems approached by Numerical Methods</i> (Mai-Britt Nordfang, IMF)</li>
@@ -134,7 +134,7 @@ type system and an operational semantics. We demonstrate, for a few
 benchmarks, the feasibility of compiling TAIL further into code that
 can execute on parallel architectures, such as GPGPUs.
 
-#### 10:30-11:45 &nbsp; Industry Input
+#### 10:30-11:30 &nbsp; Industry Input
 
 _The MC2 Challenge in Risk (Carl Balslev Clausen, SimCorp)_
  
@@ -145,7 +145,7 @@ are modelled. Combining Monte Carlo Risk with Monte Carlo valuation we
 encounter the double Monte Carlo challenge, aka the MC2 challenge. We
 report on specific use cases and benchmarks from the industry.
 
-_Big Data and Advanced Analytics in a Financial Institution (Nadeem Gulzar, Danske Bank)_
+_Big Data and Advanced Analytics in a Financial Institution (Nadeem Gulzar, Danske Bank)_ **_CANCELLED_**
 
 In Danske Bank a lot of effort is being put into utilizing new sources
 of data (social, weblogs, etc.) to gain a better understanding of the
@@ -165,7 +165,7 @@ test our approach on empirical data obtained from an energy trading
 company, and compare our strategy to the hedging approach currently
 used by the company.
 
-#### 11:55-13:05 &nbsp; Bohrium and Big-data
+#### 11:45-13:00 &nbsp; Bohrium and Big-data
 
 _Bohrium - Bridging High Performance and High Productivity (Kenneth Skovhede)_
 
@@ -297,10 +297,10 @@ Christian Hjersing (SimCorp) |       1 | 0 | 0 | 0 |
 Jens Ehlers (SimCorp) |              1 | 1 | 0 | 0 |
 Carl Balslev Clausen (SimCorp) |     1 | 1 | 0 | 0 |
 Henrik Nygaard Jensen (Danske Bank)| 1 | 1 | 0 | 0 |
-Nadeem Gulzar (Danske Bank) |        1 | 0 | 0 | 0 |
+Nadeem Gulzar (Danske Bank) **ILL** |0 | 0 | 0 | 0 |
 Uwe Heissner (Nordea) |              1 | 0 | 0 | 0 |
 Manuel Torrealba (Nordea) |          1 | 0 | 0 | 0 |
-Total |                             33 | 27 | 21 | 18 |
+Total |                             32 | 27 | 21 | 18 |
 
 ### Schedule December 11, 2014 (HIPERFIT staff only) 
 
