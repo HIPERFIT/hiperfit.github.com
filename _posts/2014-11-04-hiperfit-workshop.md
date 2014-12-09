@@ -39,9 +39,9 @@ encounters in the finance industry.
 <dt>10:15</dt><dd>Break</dd>
 <dt>10:30</dt><dd>Industry Input (Chair: Fritz Henglein)
  <ul>
- <li><i>The MC2 challenge in Risk</i> (Carl Balslev Clausen, SimCorp)</li>
- <li><i>Big Data and Advanced Analytics in a financial institution</i> (Nadeem Gulzar, Danske Bank)</li>
- <li><i>"Carry that load" &mdash; Risk-minimzation in electricity markets</i> (Martin Jönsson, IMF)</li>
+ <li><i>The MC2 Challenge in Risk</i> (Carl Balslev Clausen, SimCorp)</li>
+ <li><i>Big Data and Advanced Analytics in a Financial Institution</i> (Nadeem Gulzar, Danske Bank)</li>
+ <li><i>"Carry that Load" &mdash; Risk-minimization in Electricity Markets</i> (Martin Jönsson, IMF)</li>
  </ul>
 </dd>
 <dt>11:45</dt><dd>Break</dd>
@@ -136,7 +136,7 @@ can execute on parallel architectures, such as GPGPUs.
 
 #### 10:30-11:45 &nbsp; Industry Input
 
-_The MC2 challenge in Risk (Carl Balslev Clausen, SimCorp)_
+_The MC2 Challenge in Risk (Carl Balslev Clausen, SimCorp)_
  
 Monte Carlo methods are required for precise valuation of contracts
 that have a certain level of complexity. Monte Carlo methods are also
@@ -154,7 +154,7 @@ large amount of data, we require an equally large amount of processing
 power. There are many ways to address this ranging from using lots of
 cash to optimizing techniques, etc.
 
-_"Carry that load" &mdash; Risk-minimization in electricity markets (Martin Jönsson, IMF)_
+_"Carry that Load" &mdash; Risk-minimization in Electricity Markets (Martin Jönsson, IMF)_
 
 In this talk we look at a specific hedging problem of a contract in
 the derivatives market for power contracts. We suggest a simple
