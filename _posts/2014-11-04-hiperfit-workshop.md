@@ -20,16 +20,16 @@ high-performance computational problems in the finance domain. A
 separate session is therefore devoted to partners for presenting such
 encounters in the finance industry.
 
-#### The Venue
+### The Venue
 
 [Kurhotel Skodsborg](http://www.skodsborg.dk/), Skodsborg Strandvej 139, 2942 Skodsborg (45585800)
 
-#### Schedule December 10, 2014
+### Schedule December 10, 2014
 
 <dl class='event'>
 <dt>08:30</dt><dd>Breakfast served</dd>
 <dt>08:55</dt><dd>Welcome (Fritz Henglein)</dd>
-<dt>09:00</dt><dd>Compilation for Parallel Computations (Chair: Ken Friis Larsen)
+<dt>09:00</dt><dd>Compiling for Parallel Computations (Chair: Ken Friis Larsen)
  <ul>
  <li><i>Futhark - An Array Language for Data-parallel Execution</i> (Troels Henriksen, DIKU)</li>
  <li><i>Streaming Nested Data Parallelism</i> (Frederik Meisner Madsen, DIKU)</li>
@@ -88,9 +88,9 @@ information about [published papers](/publications.html), our [Tuesday
 lunch meetings](/lunches.html), and news in general from the HIPERFIT
 research center.
 
-#### Abstracts
+### Abstracts
 
-##### 09:00-10:15 &nbsp; Compilation for Parallel Computations
+#### 09:00-10:15 &nbsp; Compiling for Parallel Computations
 
 _Futhark - An Array Language for Data-parallel Execution (Troels Henriksen)_
 
@@ -134,7 +134,7 @@ type system and an operational semantics. We demonstrate, for a few
 benchmarks, the feasibility of compiling TAIL further into code that
 can execute on parallel architectures, such as GPGPUs.
 
-##### 10:30-11:45 &nbsp; Industry Input
+#### 10:30-11:45 &nbsp; Industry Input
 
 _The MC2 challenge in Risk (Carl Balslev Clausen, SimCorp)_
  
@@ -156,7 +156,7 @@ cash to optimizing techniques, etc.
 
 _"Carry that load" &mdash; Risk-minimzation in electricity markets (Martin Jönsson, IMF)_
 
-##### 11:55-13:05 &nbsp; Bohrium and Big-data
+#### 11:55-13:05 &nbsp; Bohrium and Big-data
 
 _Bohrium - Bridging High Performance and High Productivity (Kenneth Skovhede)_
 
@@ -196,7 +196,7 @@ them to meet these new application demands. The talk also
 outlines the challenges and their possible solutions that are
 being investigated while building the prototype system.
 
-##### 14:00-15:15 &nbsp; Household Finance and Risk Management
+#### 14:00-15:15 &nbsp; Household Finance and Risk Management
 
 _Household Finance Problems approached by Numerical Methods (Maj-Britt Nordfang)_
  
@@ -221,7 +221,7 @@ _Calibration of the local volatility function (Lykke Rasmussen)_
 In this talk we present the results of a study and comparison of 5
 different methods for calibrating local volatility functions.
 
-##### 15:30-16:45 &nbsp; Financial Contracts and Valuation
+#### 15:30-16:45 &nbsp; Financial Contracts and Valuation
 
 _A Prototype Framework for Parallel Valuation and Risk Calculation (Martin Elsman)_
 
@@ -251,7 +251,7 @@ targets both CPUs and GPGPUs and we provide useful insight into the
 language constructs and compiler infrastructure capable of expressing
 and optimising such applications.
 
-#### Participants
+### Participants
 
 | Name | Dec 10 | Dinner Dec 10 | Dec 11 | Room |
 | ---- |:------:|:-------------:|:------:|:----:|
@@ -293,7 +293,7 @@ Uwe Heissner (Nordea) |              1 | 0 | 0 | 0 |
 Manuel Torrealba (Nordea) |          1 | 0 | 0 | 0 |
 Total |                             33 | 27 | 21 | 18 |
 
-#### Schedule December 11, 2014 (HIPERFIT staff only) 
+### Schedule December 11, 2014 (HIPERFIT staff only) 
 
 On December 11, 2014, HIPERFIT staff will meet and discuss feedback
 and plan future activities and projects within HIPERFIT. Here is a
