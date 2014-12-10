@@ -274,7 +274,7 @@ James Avery (NBI) |                  1 | 1 | 1 | 1 |
 Jost Berthold (DIKU) |               1 | 1 | 1 | 1 |
 Ken Friis Larsen (DIKU) |            1 | 0 | 1 | 0 |
 Kenneth Skovhede (NBI) |             1 | 1 | 1 | 1 |
-Lykke Rasmussen (IMF) |              1 | 1 | 1 | 1 |
+Lykke Rasmussen (IMF) |              0 | 0 | 0 | 0 |
 Mads R. B. Kristensen (NBI) |        1 | 1 | 1 | 1 |
 Maj-Britt Nordfang (IMF) |           1 | 1 | 1 | 1 |
 Marcos Vaz Salles (DIKU) |           1 | 1 | 0 | 0 |
@@ -300,7 +300,7 @@ Henrik Nygaard Jensen (Danske Bank)| 1 | 1 | 0 | 0 |
 Nadeem Gulzar (Danske Bank) **ILL** |0 | 0 | 0 | 0 |
 Uwe Heissner (Nordea) |              1 | 0 | 0 | 0 |
 Manuel Torrealba (Nordea) |          1 | 0 | 0 | 0 |
-Total |                             32 | 27 | 21 | 18 |
+Total |                             31 | 26 | 20 | 17 |
 
 ### Schedule December 11, 2014 (HIPERFIT staff only) 
 
