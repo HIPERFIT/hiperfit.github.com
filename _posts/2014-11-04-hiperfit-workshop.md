@@ -57,7 +57,7 @@ encounters in the finance industry.
  <ul>
  <li><i>Household Finance Problems approached by Numerical Methods</i> (Mai-Britt Nordfang, IMF)</li>
  <li><i>Rethinking Exchange Rate Risk Management</i> (Rolf Poulsen, IMF)</li>
- <li><i>Calibration of the Local Volatility Function</i> (Lykke Rasmussen, IMF)</li>
+ <li><i>Calibration of the Local Volatility Function</i> (Lykke Rasmussen, IMF) <b><i>CANCELLED</i></b></li>
  </ul>
 </dd>
 <dt>15:15</dt><dd>Break</dd>
@@ -225,7 +225,7 @@ system that is feasible for small to medium enterprises. This work is
 a collaboration with http://www.gcureports.com/ and you will hear how
 the system was almost endorsed by the Pope.
 
-_Calibration of the local volatility function (Lykke Rasmussen)_
+_Calibration of the local volatility function (Lykke Rasmussen)_ _**CANCELLED**_
 
 In this talk we present the results of a study and comparison of 5
 different methods for calibrating local volatility functions.
