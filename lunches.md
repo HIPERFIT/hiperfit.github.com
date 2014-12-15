@@ -34,6 +34,14 @@ meetings. PhD students are optional.
 
 #### Schedule for talks (reverse chronological order):
 
+- __2015-01-06:__ TBA. Notice: Meeting in the afternoon. 
+
+- __2014-12-30:__ Vacation
+
+- __2014-12-23:__ Vacation
+
+- __2014-12-16:__ Last meeting before vacation. [Workshop](http://hiperfit.dk/news/2014/11/04/hiperfit-workshop/) wrap-up.
+
 - __2014-12-09:__ DSL (Fritz)
 
 - __2014-12-02:__ HPS (Brian)
