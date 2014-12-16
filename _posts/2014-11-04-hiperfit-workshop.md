@@ -47,7 +47,7 @@ encounters in the finance industry.
 <dt>11:30</dt><dd>Break</dd>
 <dt>11:45</dt><dd>Bohrium and Big-data (Chair: Brian Vinter)
  <ul>
- <li><i>Bohrium - Bridging High Performance and High Productivity</i> (Kenneth Skovhede, NBI)</li> 
+ <li><i><a href="pdf/HIPERFIT_Dec2014_Skovhede.pdf">Bohrium - Bridging High Performance and High Productivity</a></i> (Kenneth Skovhede, NBI)</li> 
  <li><i>Effective Interoperability</i> (Simon Lund, NBI)</li>
  <li><i>Transactional Partitioning: A New Abstraction for Main-memory Databases</i> (Vivek Shah, DIKU)</li>
  </ul>
@@ -55,15 +55,15 @@ encounters in the finance industry.
 <dt>13:00</dt><dd>Lunch</dd>
 <dt>14:00</dt><dd>Household Finance and Risk Management (Chair: Mogens Steffensen) 
  <ul>
- <li><i>Household Finance Problems approached by Numerical Methods</i> (Mai-Britt Nordfang, IMF)</li>
- <li><i>Rethinking Exchange Rate Risk Management</i> (Rolf Poulsen, IMF)</li>
+ <li><i><a href="pdf/HIPERFIT_Dec2014_Nordfang.pdf">Household Finance Problems approached by Numerical Methods</a></i> (Mai-Britt Nordfang, IMF)</li>
+ <li><i><a href="pdf/HIPERFIT_Dec2014_Poulsen.pdf">Rethinking Exchange Rate Risk Management</a></i> (Rolf Poulsen, IMF)</li>
  <li><i>Calibration of the Local Volatility Function</i> (Lykke Rasmussen, IMF) <b><i>CANCELLED</i></b></li>
  </ul>
 </dd>
 <dt>15:15</dt><dd>Break</dd>
 <dt>15:30</dt><dd>Financial Contracts and Valuation (Chair: Andrzej Filinski)
  <ul>
- <li><i>A Prototype Framework for Parallel Valuation and Risk Calculation</i> (Martin Elsman, DIKU)</li>
+ <li><i><a href="pdf/HIPERFIT_Dec2014_Elsman.pdf">A Prototype Framework for Parallel Valuation and Risk Calculation</a></i> (Martin Elsman, DIKU)</li>
  <li><i>Certified Management of Financial Contracts</i> (Patrick Bahr, DIKU)</li>
  <li><i>Financial Benchmarks for GPGPU Compilation</i> (Cosmin Oancea, DIKU)</li>
  </ul>
