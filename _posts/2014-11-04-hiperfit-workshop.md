@@ -33,7 +33,7 @@ encounters in the finance industry.
  <ul>
  <li><i><a href="/pdf/HIPERFIT_Dec2014_Henriksen.pdf">Futhark - An Array Language for Data-parallel Execution</a></i> (Troels Henriksen, DIKU)</li>
  <li><i><a href="/pdf/HIPERFIT_Dec2014_Madsen.pdf">Streaming Nested Data Parallelism</a></i> (Frederik Meisner Madsen, DIKU)</li>
- <li><i>Compiling APL for Data-Parallel Execution through a Typed Intermediate Language</i> (Martin Dybdal, DIKU)</li>
+ <li><i><a href="/pdf/HIPERFIT_Dec2014_Dybdal.pdf">Compiling APL for Data-Parallel Execution through a Typed Intermediate Language</a></i> (Martin Dybdal, DIKU)</li>
  </ul>
 </dd>
 <dt>10:15</dt><dd>Break</dd>
@@ -48,7 +48,7 @@ encounters in the finance industry.
 <dt>11:45</dt><dd>Bohrium and Big-data (Chair: Brian Vinter)
  <ul>
  <li><i><a href="/pdf/HIPERFIT_Dec2014_Skovhede.pdf">Bohrium - Bridging High Performance and High Productivity</a></i> (Kenneth Skovhede, NBI)</li> 
- <li><i>Effective Interoperability</i> (Simon Lund, NBI)</li>
+ <li><i><a href="http://prezi.com/exlqyny_poct/?utm_campaign=share&utm_medium=copy&rc=ex0share">Effective Interoperability</a></i> (Simon Lund, NBI)</li>
  <li><i>Transactional Partitioning: A New Abstraction for Main-memory Databases</i> (Vivek Shah, DIKU)</li>
  </ul>
 </dd>
@@ -64,7 +64,7 @@ encounters in the finance industry.
 <dt>15:30</dt><dd>Financial Contracts and Valuation (Chair: Andrzej Filinski)
  <ul>
  <li><i><a href="/pdf/HIPERFIT_Dec2014_Elsman.pdf">A Prototype Framework for Parallel Valuation and Risk Calculation</a></i> (Martin Elsman, DIKU)</li>
- <li><i>Certified Management of Financial Contracts</i> (Patrick Bahr, DIKU)</li>
+ <li><i><a href="/pdf/HIPERFIT_Dec2014_Bahr.pdf">Certified Management of Financial Contracts</a></i> (Patrick Bahr, DIKU)</li>
  <li><i>Financial Benchmarks for GPGPU Compilation</i> (Cosmin Oancea, DIKU)</li>
  </ul>
 </dd>
