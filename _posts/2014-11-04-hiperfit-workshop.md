@@ -49,7 +49,7 @@ encounters in the finance industry.
  <ul>
  <li><i><a href="/pdf/HIPERFIT_Dec2014_Skovhede.pdf">Bohrium - Bridging High Performance and High Productivity</a></i> (Kenneth Skovhede, NBI)</li> 
  <li><i><a href="http://prezi.com/exlqyny_poct/?utm_campaign=share&utm_medium=copy&rc=ex0share">Effective Interoperability</a></i> (Simon Lund, NBI)</li>
- <li><i>Transactional Partitioning: A New Abstraction for Main-memory Databases</i> (Vivek Shah, DIKU)</li>
+ <li><i><a href="/pdf/HIPERFIT_Dec2014_Shah.pdf">Transactional Partitioning: A New Abstraction for Main-memory Databases</a></i> (Vivek Shah, DIKU)</li>
  </ul>
 </dd>
 <dt>13:00</dt><dd>Lunch</dd>
