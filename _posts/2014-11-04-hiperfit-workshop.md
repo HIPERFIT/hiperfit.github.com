@@ -6,7 +6,7 @@ tags: [workshop]
 ---
 {% include JB/setup %}
 
-<img width="200" alt="HIPERFIT logo" align="right" src="/images/hiperfit.jpg">
+<img alt="Workshop picture" align="right" src="/images/workshop2014.jpg">
 
 ### 2014 HIPERFIT Workshop for Partners and Faculty
 
@@ -19,6 +19,8 @@ researchers in obstacles encountered by the partners with respect to
 high-performance computational problems in the finance domain. A
 separate session is therefore devoted to partners for presenting such
 encounters in the finance industry.
+
+<img alt="Workshop picture" align="right" src="/images/workshop2014a.jpg">
 
 ### The Venue
 
@@ -72,6 +74,8 @@ encounters in the finance industry.
 <dt>17:15</dt><dd>Chat and a drink</dd>
 <dt>18:30</dt><dd>Dinner</dd>
 </dl>
+
+<img alt="Workshop picture" align="right" src="/images/workshop2014b.jpg">
 
 A table of participants for the workshop on December 10, and for the
 discussion and planning sessions (HIPERFIT staff only) on December 11,
