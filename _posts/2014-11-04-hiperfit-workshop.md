@@ -20,13 +20,13 @@ high-performance computational problems in the finance domain. A
 separate session is therefore devoted to partners for presenting such
 encounters in the finance industry.
 
-<img alt="Workshop picture" align="right" src="/images/workshop2014a.jpg">
-
 ### The Venue
 
 [Kurhotel Skodsborg](http://www.skodsborg.dk/), Skodsborg Strandvej 139, 2942 Skodsborg (45585800)
 
 ### Schedule December 10, 2014
+
+<img alt="Workshop picture" align="right" src="/images/workshop2014a.jpg">
 
 <dl class='event'>
 <dt>08:30</dt><dd>Breakfast served</dd>
