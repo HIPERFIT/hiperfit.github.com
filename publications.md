@@ -6,6 +6,22 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Kenneth Bruhn, Per Linnemann and Mogens Steffensen. __A Comparison of
+Modern Investment-Linked Pension Savings Products__. In _Annals
+of Actuarial Science_. 2014. To appear.
+
+* Morten Tolver Kronborg and Mogens Steffensen. __Optimal Consumption,
+Investment and Life insurance with Surrender Option
+Guarantee__. In _Scandinavian Actuarial Journal_. [DOI:10.1080/03461238.2013.775964](http://www.tandfonline.com/doi/abs/10.1080/03461238.2013.775964?journalCode=sact20#). 2014.
+
+* Kenneth Bruhn and Mogens Steffensen. __Optimal Smooth Consumption and
+Annuity Design__. In _Journal of Banking and Finance_. 37(8): 2693–2701. 2013.
+
+* Jan Palczewski, Rolf Poulsen, Klaus Reiner Schenk-Hoppe, and Huamao
+Wang. __Optimal Portfolio Strategies under Transaction Costs:
+Numerical Solutions for State-Dependent Drift__. In _European Journal
+of Operational Research_. 2015. To appear. 
+
 * Michael Hanke, Rolf Poulsen, and Alex Weissensteiner. __Where would
 the EUR/CHF exchange rate be without the SNB's minimum exchange rate
 policy?__ In _Journal of Futures Markets_. 2014. Forthcoming.
@@ -18,7 +34,7 @@ International Workshop on Compilers for Parallel Computing (CPC'15)_. January 20
 
 * Vivek Shah. __Transactional Partitioning: A New Abstraction for Main-Memory Databases__. In _Proceedings of VLDB PhD Workshop_. 2014. Supervised by Marcos Vaz Salles. HIPERFIT DIKU Associates.
 
-* Agnieszka Karolina Konicz, David Pisinger, Kourosh Marjani Rasmussen, and Mogens Steffensen. __A combined stochastic programming and optimal control approach to personal finance and pensions__. To appear in _OR Spectrum_. 2014.
+* Agnieszka Karolina Konicz, David Pisinger, Kourosh Marjani Rasmussen, and Mogens Steffensen. __A combined stochastic programming and optimal control approach to personal finance and pensions__. In _OR Spectrum_. DOI:10.1007/s00291-014-0375-6. 2014.
  
 * Holger Kraft and Mogens Steffensen. __A Dynamic Programming Approach to Constrained Portfolios__. In _European Journal of Operational Research_. 229(2): 453–461. 2013. 
 
@@ -103,9 +119,9 @@ SIGPLAN workshop on Functional high-performance computing (FHPC'12)_.
 Copenhagen 2012. [PDF](pdf/p93-werk.pdf). [Video](http://www.youtube.com/watch?v=ZcCJ8Z11Lsk).
 
 * Anne Marie Boiden Pedersen, Alex Weissensteiner, and Rolf
-Poulsen. __Financial planning for young households__. In _[Annals of
-Operations
-Research](http://www.springer.com/business+%26+management/operations+research/journal/10479)_. 2013, vol. 205(1), pp. 55-76. [PDF](http://www.math.ku.dk/~rolf/FinalVersion_200812.pdf).
+Poulsen. __Financial planning for young households__. In 
+_[Annals of Operations Research](http://www.springer.com/business+%26+management/operations+research/journal/10479)_. 2013, 
+vol. 205(1), pp. 55-76. [PDF](http://www.math.ku.dk/~rolf/FinalVersion_200812.pdf).
 
 * Cosmin E. Oancea and Lawrence Rauchwerger. __Logical Inference
 Techniques for Loop Parallelization__.  In _Proceedings of International
@@ -128,8 +144,8 @@ SSRN](http://ssrn.com/abstract=1954655). November 2011.
 
 * Morten Tolver Kronborg and Mogens Steffensen. __Inconsistent
 Investment and Consumption Problems__. [Online manuscript at
-SSRN](http://ssrn.com/abstract=1794174). To appear in Applied
-Mathematics and Optimization. March 2011.
+SSRN](http://ssrn.com/abstract=1794174). In _Applied
+Mathematics and Optimization_. DOI:10.1007/s00245-014-9267-z. March 2011.
 
 * HIPERFIT Management. __Functional High-Performance Computing for
 Financial Information Technology__. Project Application, 2010.
