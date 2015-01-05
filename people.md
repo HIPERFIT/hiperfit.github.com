@@ -47,6 +47,8 @@ group: navigation
 * ![Marcos Vaz Salles](images/salles.jpg) [Marcos Vaz Salles](http://www.diku.dk/~vmarcos), Assistant
   Professor, Department of Computer Science, University of Copenhagen.
 
+* Vivek Shah, PhD Student, Department of Computer Science, University of Copenhagen.
+
 * ![Martin Dybdal](images/dybdal.jpg) [Martin Dybdal](http://www.linkedin.com/in/martindybdal), PhD
   Student, Department of Computer Science, University of Copenhagen.
 
@@ -73,6 +75,9 @@ group: navigation
   PhD Student. Department of Computer Science, University of
   Copenhagen.
 
+* Danil Annenkov, PhD Student, Department of Computer Science, University of Copenhagen.
+
+
 ### High-Performance Systems
 
 * ![Brian Vinter](images/98_vinter_cms.jpg) [Brian
@@ -84,6 +89,11 @@ group: navigation
 
 * ![Simon Lund](images/simonlund.gif) [Simon Lund](http://forskning.ku.dk/search/profil/?id=288223), PhD
   Student, Niels Bohr Institute, University of Copenhagen.
+
+* Kenneth Skovhede, Post-doc, Niels Bohr Institute, University of Copenhagen.
+
+* Mads R. B. Kristensen, Post-doc, Niels Bohr Institute, University of Copenhagen.
+
 
 ### Center Management
 

@@ -34,7 +34,7 @@ meetings. PhD students are optional.
 
 #### Schedule for talks (reverse chronological order):
 
-- __2015-01-06:__ TBA. Notice: Meeting in the afternoon. 
+- __2015-01-06:__ Meeting at lunch-time if you can make it - welcome back from vacation. 
 
 - __2014-12-30:__ Vacation
 
