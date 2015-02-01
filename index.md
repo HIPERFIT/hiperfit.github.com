@@ -57,8 +57,9 @@ practicioners for future cooperation. </p>
     <p><a class="btn btn-primary" href="https://www.youtube.com/embed/MlwfuZF6ko8">Watch it &raquo;</a></p>
   </div>
   <div class="span4">
-    <h4>Tuesday Lunch Meetings</h4>
-    <p>Almost every Tuesday, HIPERFIT researchers and associates meet to discuss the current status of projects, topics for collaboration, and ideas for new projects and investigations.</p>
-    <p><a class="btn btn-primary" href="lunches.html">Go look at the activities &raquo;</a></p>
+    <h4>Bi-weekly Seminars</h4>
+    <p>HIPERFIT (co-)organises bi-weekly seminars (usually on Tuesdays in even weeks). In odd weeks, HIPERFIT researchers and associates meet over lunch to discuss the current status of projects, topics for collaboration, and ideas for new projects and investigations.</p>
+    <p><a class="btn btn-primary" href="seminars.html">Seminars &raquo;</a></p>
+    <p><a class="btn btn-primary" href="lunches.html">Internal Lunch Meetings &raquo;</a></p>
   </div>
 </div>

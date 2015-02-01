@@ -1,16 +1,14 @@
 ---
-title: Tuesday Meetings
+title: Lunches
 layout: page
 group: navigation
 ---
 {% include JB/setup %}
 
 <img width="350" alt="HIPERFIT dinner" align="right" src="/images/hiperfit2.jpg">
-Tuesday lunch meetings are held every Tuesday 12-13 according to the
+Internal Tuesday lunch meetings are held every second Tuesday 12-13 (odd weeks) according to the
 schedule below. Please signup in the calendar. For last-minute
-requests/changes/questions/updates, please contact [Martin
-Elsman](http://www.elsman.com) (mobile: 26122212; email:
-[mael@di.ku.dk](mailto:mael@di.ku.dk)).
+requests/changes/questions/updates, please contact [Martin Elsman](http://www.elsman.com) (mobile: 26122212; email: [mael@di.ku.dk](mailto:mael@di.ku.dk)).
 
 #### Rules
 
@@ -23,16 +21,16 @@ for making sure the other HIPERFIT research areas are kept up-to-date;
 in particular, they convey by others or invite others to specific
 meetings. PhD students are optional.
 
-#### Standard agenda:
+#### Standard agenda for internal lunch meetings (odd weeks):
 
 0. Arrival, lunch, and chit-chat (12:00-12:15)
 1. Status and review of action items (starting 12:15)
 2. Discussion of old and new action items
 3. Decisions
-4. 15-minutes talk (starting 12:30)
+4. 15-minutes round (what are people working on)
 5. Miscellaneous
 
-#### Schedule for talks (reverse chronological order):
+#### Past meeting topics (reverse chronological order):
 
 - __2015-01-06:__ Meeting at lunch-time if you can make it - welcome back from vacation. 
 
