@@ -5,16 +5,21 @@
   <div class="span4">
     <div class="well sidebar-nav">
       <ul class="nav nav-list">
-        <li class="nav-header">Ten Most Recent Posts (<a href="archive.html">all posts</a>)</li>
+        <li class="nav-header">Ten Most Recent Posts</li>
         {% for post in site.posts limit: 10 %}
           <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date_to_string }} &raquo; {{ post.title }}</a></li>
         {% endfor %}
-        <li class="nav-header">Subscribe to our mailing list (<a href="http://us10.campaign-archive2.com/home/?u=0aeb64dba81d4dec9bfd5ffa8&id=63c6598c7c">Previous campaigns</a>)</li>
+        <li class="nav-header"><a href="archive.html">View all posts</a>
+      </ul>
+    </div>
+    <div class="well sidebar-nav">
+      <ul class="nav nav-list">
+        <li class="nav-header">Subscribe to our mailing list</li>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:300px;}
+	/* #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:300px;} */
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -35,6 +40,7 @@
 	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
+<p><a href="http://us10.campaign-archive2.com/home/?u=0aeb64dba81d4dec9bfd5ffa8&id=63c6598c7c" title="View previous campaigns">View previous campaigns.</a></p>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
