@@ -5,7 +5,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<img width="350" alt="HIPERFIT dinner" align="right" src="/images/hiperfit2.jpg">
+<img width="200" alt="HIPERFIT workshop" align="right" src="/images/hiperfit3.jpg">
 Internal Tuesday lunch meetings are held every second Tuesday 12-13 (odd weeks) according to the
 schedule below. Please signup in the calendar. For last-minute
 requests/changes/questions/updates, please contact [Martin Elsman](http://www.elsman.com) (mobile: 26122212; email: [mael@di.ku.dk](mailto:mael@di.ku.dk)).
