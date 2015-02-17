@@ -152,6 +152,10 @@ Financial Information Technology__. Project Application, 2010.
 
 ### Student Project Reports
 
+* Michael Budde. __Compiling APL to Accelerate Through a Typed IL__. MSc
+project. Department of Computer Science, University of
+Copenhagen. November 2014. [pdf](/pdf/aplacc-report-v2.pdf).
+
 * Marco Eilers. __Multireduce and Multiscan on Modern GPUs__. MSc
 thesis. Department of Computer Science, University of
 Copenhagen. March 2014. [pdf](/pdf/marco-eilers-thesis.pdf).
