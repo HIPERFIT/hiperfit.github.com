@@ -17,6 +17,10 @@ compiler.  This project is about developing a compiler backend that
 generates code using [OpenMP](http://en.wikipedia.org/wiki/OpenMP) to
 achieve multi-core CPU parallelism.
 
+Contact person: [Cosmin Oancea](people.html) (or [Troels Henriksen](people.html)).
+
+[more >>](studentproject_openmp_backend.html).
+
 ### Project: Structural Description Language
 
 As part of its research into parallel functional programming, HIPERFIT
