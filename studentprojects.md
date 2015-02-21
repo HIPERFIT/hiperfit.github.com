@@ -9,6 +9,14 @@ This page lists a series of suggested student projects within
 HIPERFIT. For more information about the possibilities, please talk to
 the appropriate contact persons.
 
+### Project: OpenMP backend for data-parallel functional programming language
+
+As part of its research into parallel functional programming, HIPERFIT
+has developed a programming language, Futhark, and an optimising
+compiler.  This project is about developing a compiler backend that
+generates code using [OpenMP](http://en.wikipedia.org/wiki/OpenMP) to
+achieve multi-core CPU parallelism.
+
 ### Project: Structural Description Language
 
 As part of its research into parallel functional programming, HIPERFIT
