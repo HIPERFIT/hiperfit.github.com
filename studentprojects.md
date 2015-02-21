@@ -21,19 +21,6 @@ Contact person: [Cosmin Oancea](people.html) (or [Troels Henriksen](people.html)
 
 [more >>](studentproject_openmp_backend.html).
 
-### Project: Structural Description Language
-
-As part of its research into parallel functional programming, HIPERFIT
-has developed a programming language, L0, and an optimising compiler.
-This project is about designing and implementing a schema-like
-description language for recursive syntax trees, then use it to write
-tests that specify the desired high-level structure of the optimised
-program.
-
-Contact person: [Cosmin Oancea](people.html) (or [Troels Henriksen](people.html)).
-
-[more >>](studentproject_structural_description_language.html).
-
 ### Project: Optimization of a Haskell Automatic Differentiation Library
 
 Esben Halvorsen describes in his MSc project [Calculating Key Ratios
