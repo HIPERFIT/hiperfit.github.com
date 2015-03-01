@@ -9,18 +9,17 @@ This page lists a series of suggested student projects within
 HIPERFIT. For more information about the possibilities, please talk to
 the appropriate contact persons.
 
-### Project: Structural Description Language
+### Project: OpenMP backend for data-parallel functional programming language
 
 As part of its research into parallel functional programming, HIPERFIT
-has developed a programming language, L0, and an optimising compiler.
-This project is about designing and implementing a schema-like
-description language for recursive syntax trees, then use it to write
-tests that specify the desired high-level structure of the optimised
-program.
+has developed a programming language, Futhark, and an optimising
+compiler.  This project is about developing a compiler backend that
+generates code using [OpenMP](http://en.wikipedia.org/wiki/OpenMP) to
+achieve multi-core CPU parallelism.
 
 Contact person: [Cosmin Oancea](people.html) (or [Troels Henriksen](people.html)).
 
-[more >>](studentproject_structural_description_language.html).
+[more >>](studentproject_openmp_backend.html).
 
 ### Project: Optimization of a Haskell Automatic Differentiation Library
 
