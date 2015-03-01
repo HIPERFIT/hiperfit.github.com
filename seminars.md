@@ -10,7 +10,7 @@ Seminars are held according to the schedule below (usually every second week).
 
 #### Schedule for HIPERFIT seminars (even weeks, reverse chronological order):
 
-- __2015-02-17:__ The HIPERFIT Prototype for Contract and Portfolio Management and Pricing. Danil Annenkov and Martin Elsman (DIKU). AUD 7, 15:00-16:00. Tuesday. [Talk Announcement](http://eepurl.com/bfBRuT).
+- __2015-03-17:__ The HIPERFIT Prototype for Contract and Portfolio Management and Pricing. Danil Annenkov and Martin Elsman (DIKU). AUD 7, 15:00-16:00. Tuesday. [Talk Announcement](http://eepurl.com/bfBRuT).
 
 - __2015-03-04:__ Optimal life-time utility: the effect of retirement age. Felix Henschel (Ulm). AUD 10, 15:15-16:15. Wednesday. [Talk Announcement](http://eepurl.com/bfBRuT).
 
