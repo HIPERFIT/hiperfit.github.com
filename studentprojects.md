@@ -17,11 +17,12 @@ input-array element several (key,value) pairs such as
 the sum of values is 1. The (key,value) pairs are used
 to update the histogram.  
 
-do i=0, N-1
-  (key1,key2,val1,val2) = f(i, a[i]);
-  h[key1] += val1;
-  h[key2] += val2; // where val1+val2 = 1.0
-enddo
+    do i=0, N-1
+        (key1,key2,val1,val2) = f(i, a[i]);
+        h[key1] += val1;
+        h[key2] += val2; // where val1+val2 = 1.0
+    enddo
+
 
 The project is about doing this computation efficiently on GPUs.
 
@@ -37,14 +38,14 @@ may allow the compiler to accurately determine array shapes, and further
 on to hoist allocations outside of recurrences.  Just to get an idea, an
 annotated function can possibly look like:
 
-fun [([int,k1], char, [bool,k2]), k3]
-    myFun(int M, int N, [[real, k4],M] arr)
-            where { k1 < k2, 
-                    k3 in k2*k1 + N ... M,
-                    k4 < M + N,
-                    M >= MAX(2*N,0),
-                    arr in N ... M-1 } = 
-    body of function
+    fun [([int,k1], char, [bool,k2]), k3]
+        myFun(int M, int N, [[real, k4],M] arr)
+                where { k1 < k2, 
+                        k3 in k2*k1 + N ... M,
+                        k4 < M + N,
+                        M >= MAX(2*N,0),
+                        arr in N ... M-1 } = 
+        body of function
 
 where k1, k2, k3, k4 are existentially qualified under the constraints
 appearing in the where clause.
