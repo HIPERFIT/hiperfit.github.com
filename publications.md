@@ -6,6 +6,15 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
+Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. __A Financial
+Benchmark for GPGPU Compilation__. DIKU Technical Report no 2015/02. ISSN 0107-8283. 
+Extended version of CPC'15 paper. January 2015. [pdf](/pdf/finbenchmarkTR2015.pdf).
+
+* Cosmin Oancea, Jost Berthold, Martin Elsman, and Christian
+Andreetta. __A Financial Benchmark for GPGPU Compilation__. In _18th
+International Workshop on Compilers for Parallel Computing (CPC'15)_. January 2015.
+
 * Kenneth Bruhn, Per Linnemann and Mogens Steffensen. __A Comparison of
 Modern Investment-Linked Pension Savings Products__. In _Annals
 of Actuarial Science_. 2014. To appear.
@@ -25,10 +34,6 @@ of Operational Research_. 2015. To appear.
 * Michael Hanke, Rolf Poulsen, and Alex Weissensteiner. __Where would
 the EUR/CHF exchange rate be without the SNB's minimum exchange rate
 policy?__ In _Journal of Futures Markets_. 2014. Forthcoming.
-
-* Cosmin Oancea, Jost Berthold, Martin Elsman, and Christian
-Andreetta. __A Financial Benchmark for GPGPU Compilation__. In _18th
-International Workshop on Compilers for Parallel Computing (CPC'15)_. January 2015.
 
 * Patrick Bahr, Jost Berthold, and Martin Elsman. __Towards Certified Management of Financial Contracts__. In _Proceedings of the 26th Nordic Workshop on Programming Theory ([NWPT'14](http://ceres.hh.se/mediawiki/index.php/NWPT_2014))_. October, 2014. [pdf](/pdf/NWPT14Contracts.pdf).
 
