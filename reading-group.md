@@ -14,8 +14,11 @@ layout: page
  * April 21st (Discussion lead by Martin Dybdal)
    * "An Array-oriented language with Static Rank Polymorphism" - <http://dx.doi.org/10.1007/978-3-642-54833-8_3>
 
+ * April 28th
+   * "Dependent Types in Practical Programming" - http://www.cs.bu.edu/~hwxi/academic/papers/popl99.pdf
+
 ### Program optimisation (preliminary plan)
- * April 28th (Discussion lead by Troels Henriksen)
+ * May 5th (Discussion lead by Troels Henriksen)
    * "A framework for enhancing data reuse via associative reordering" - <http://dl.acm.org/citation.cfm?id=2594342>
 
 ### Finance
