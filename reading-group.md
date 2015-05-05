@@ -21,5 +21,15 @@ layout: page
  * May 5th (Discussion lead by Troels Henriksen)
    * "A framework for enhancing data reuse via associative reordering" - <http://dl.acm.org/citation.cfm?id=2594342>
 
+ * May 12th (Discussion lead by Frederik)
+   * "Optimising Purely Functional GPU Programs" (skip Section 3) - <http://www.cse.unsw.edu.au/~tmcdonell/papers/acc-optim-icfp2013.pdf>
+   * "Embedding Foreign Code" - <https://www.cse.unsw.edu.au/~chak/papers/acc-ffi.pdf>
+
+   * Skim:
+     * "Automatic Parallelization in the Polytope Model" <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.3581>
+
+     * "High-Performance Code Generation for Stencil Computations on GPU Architectures" <http://www.cs.ucla.edu/~pouchet/doc/ics-article.12.pdf>
+
+
 ### Finance
  * TBA
