@@ -14,9 +14,22 @@ layout: page
  * April 21st (Discussion lead by Martin Dybdal)
    * "An Array-oriented language with Static Rank Polymorphism" - <http://dx.doi.org/10.1007/978-3-642-54833-8_3>
 
+ * April 28th
+   * "Dependent Types in Practical Programming" - http://www.cs.bu.edu/~hwxi/academic/papers/popl99.pdf
+
 ### Program optimisation (preliminary plan)
- * April 28th (Discussion lead by Troels Henriksen)
+ * May 5th (Discussion lead by Troels Henriksen)
    * "A framework for enhancing data reuse via associative reordering" - <http://dl.acm.org/citation.cfm?id=2594342>
+
+ * May 12th (Discussion lead by Frederik)
+   * "Optimising Purely Functional GPU Programs" (skip Section 3) - <http://www.cse.unsw.edu.au/~tmcdonell/papers/acc-optim-icfp2013.pdf>
+   * "Embedding Foreign Code" - <https://www.cse.unsw.edu.au/~chak/papers/acc-ffi.pdf>
+
+   * Skim:
+     * "Automatic Parallelization in the Polytope Model" <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.3581>
+
+     * "High-Performance Code Generation for Stencil Computations on GPU Architectures" <http://www.cs.ucla.edu/~pouchet/doc/ics-article.12.pdf>
+
 
 ### Finance
  * TBA
