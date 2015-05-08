@@ -6,7 +6,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-On June 25, University of Copenhagen and HIPERFIT Researchers are
+On June 25, 2015, University of Copenhagen and HIPERFIT Researchers are
 hosting a conference on exchange rate stability.
 
 ## Introduction
