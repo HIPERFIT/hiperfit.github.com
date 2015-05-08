@@ -7,6 +7,8 @@ group: navigation
 
 Articles and Media Online:
 
+* 2015-05-04: Article about [Kernekraft skal omsættes til øget regnekraft](http://www.finansforbundet.dk/da/Aktuelt/nyhedsbrevetfinans/Sider/Kernekraftskalomsaettestiloegetregnekraft.aspx) (in danish). Nyhedsbrevet Finans. [PDF](/pdf/Kernekraft2015.pdf).
+
 * 2015-02-17: Article about [500 gange hurtigere beregning af risici](http://www.finansforbundet.dk/da/Aktuelt/nyhedsbrevetfinans/Sider/500gangehurtigereberegningafrisici.aspx) (in danish). Nyhedsbrevet Finans. [PDF](/pdf/finansforbundet2015-02-17.pdf).
 
 * 2014-03-13: Article about [HIPERFIT in videnskab.dk](http://videnskab.dk/kultur-samfund/danske-forskere-vil-forhindre-bankkriser) (in danish). [PDF](pdf/videnskabdk-2014-03-13.pdf).
