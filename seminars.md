@@ -10,6 +10,12 @@ Seminars are held according to the schedule below (usually every second week).
 
 #### Schedule for HIPERFIT seminars (even weeks, reverse chronological order):
 
+- __2015-05-28:__ Supporting innovation in programming tools for enabling efficient computing everywhere. [Anton Lokhmotov](https://www.hipeac.org/~anton/) ([Dividiti](http://www.dividiti.com/)). APL Meeting room, 15:00-16:00. Thursday. [Seminar Announcement](http://eepurl.com/bl5w3b).
+
+- __2015-05-26:__ The Internals of the Futhark Parallel Language Compiler. Troels Henriksen and Cosmin Oancea (DIKU/University of Copenhagen). AUD 7, 15:00-16:00. Tuesday. [Seminar Announcement](http://eepurl.com/bl5w3b).
+
+- __2015-05-12:__ Aspects of Controlling Life Event Risk. Mogens Steffensen (Math/University of Copenhagen). AUD 7, 15:00-16:00. Tuesday. [Seminar Announcement](http://eepurl.com/bl5w3b).
+
 - __2015-04-28:__ Streaming in Data Parallelism. Andrzej Filinski and Frederik Meisner Madsen (DIKU/University of Copenhagen). AUD 7, 15:00-16:00. Tuesday. [Seminar Announcement](http://eepurl.com/bjnOpz).
 
 - __2015-04-14:__ The Fundamental Theorem of Derivative Trading - Exposition, Extensions, and Experiments. Rolf Poulsen (Math/University of Copenhagen). AUD 7, 15:00-16:00. Tuesday. [Talk Announcement](http://eepurl.com/bjnOpz).
