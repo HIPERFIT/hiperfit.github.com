@@ -25,11 +25,16 @@ layout: page
    * "Optimising Purely Functional GPU Programs" (skip Section 3) - <http://www.cse.unsw.edu.au/~tmcdonell/papers/acc-optim-icfp2013.pdf>
    * "Embedding Foreign Code" - <https://www.cse.unsw.edu.au/~chak/papers/acc-ffi.pdf>
 
-   * Skim:
-     * "Automatic Parallelization in the Polytope Model" <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.3581>
+   * Skim: "High-Performance Code Generation for Stencil Computations on GPU Architectures" <http://www.cs.ucla.edu/~pouchet/doc/ics-article.12.pdf>
 
-     * "High-Performance Code Generation for Stencil Computations on GPU Architectures" <http://www.cs.ucla.edu/~pouchet/doc/ics-article.12.pdf>
+ * May 19th
+   * Cancelled
 
+ * May 26th
+   * "Automatic Parallelization in the Polytope Model" <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.3581>
+
+* June 2nd (Discussion lead by Martin Elsman)
+   * "Region-based memory management for GPU programming languages: enabling rich data structures on a spartan host" <http://dl.acm.org/citation.cfm?id=2660244>
 
 ### Finance
  * TBA
