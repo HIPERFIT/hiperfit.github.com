@@ -23,7 +23,7 @@ monetary affairs.
 
 ## More information
 
-__NEWS:__ See [the detailed program](/pdf/exchangeratestability2015.pdf) 
+__NEWS:__ See [the detailed program](/pdf/exchangeratestability2015.pdf). 
 
 For more information about the venue, including information about
 speakers, please consult the [formal invitation, which is available
