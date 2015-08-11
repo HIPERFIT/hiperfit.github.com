@@ -29,8 +29,20 @@ layout: page
  * May 26th
    * "Automatic Parallelization in the Polytope Model" <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.3581>
 
-* June 2nd (Discussion lead by Martin Elsman)
+ * June 2nd (Discussion lead by Martin Elsman)
    * "Region-based memory management for GPU programming languages: enabling rich data structures on a spartan host" <http://dl.acm.org/citation.cfm?id=2660244>
+
+ * August 25th
+   * SaC JFP paper - http://dl.acm.org/citation.cfm?id=967501
+
+
+### Finance / Automatic Differentiation
+
+ * September 8th
+ 
+   * Esben Bistrup Halvorsen. "Calculating Key Ratios for Financial Products using Automatic Differentiation and Monte Carlo Simulation" - http://hiperfit.dk/pdf/ad_esben.pdf - Martin Elsman
+
+   * White-paper: Structured products desks join the AAD revolution - http://www.fincad.com/sites/default/files/wysiwyg/Structured%20products%20desks%20join%20the%20AAD%20revolution.pdf
 
 
 
@@ -38,21 +50,15 @@ layout: page
 
 If you add a topic, please include your name
 
-### Finance and Monte-Carlo simulations etc.
+### Finance, automatic differentiation, Monte-Carlo simulations etc.
 
  * "Valuing American Options by Simulation: A Simple Least Approach" (Longstaff and Schwartz) https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf
 
  * "Parallel random numbers: as easy as 1, 2, 3" - http://dx.doi.org/10.1145/2063384.2063405 - Martin Dybdal
 
- * ("Specialising Simulator Generators for High-Performance Monte-Carlo Methods" - http://dx.doi.org/10.1007/978-3-540-77442-6_9 - Martin Dybdal)
-
-#### Automatic differentiation
-
  * Andreas Griewank, Andrea Walther, "Evaluating Derivatives: Principles and Techniques of Algorithmic Differentiation" -- det er en bog; jeg har den på mit kontor (fra KUBIS). - Fritz Henglein
 
- * Esben Bistrup Halvorsen. "Calculating Key Ratios for Financial Products using Automatic Differentiation and Monte Carlo Simulation" - http://hiperfit.dk/pdf/ad_esben.pdf - Martin Elsman
-
- * White-paper: Structured products desks join the AAD revolution - http://www.fincad.com/sites/default/files/wysiwyg/Structured%20products%20desks%20join%20the%20AAD%20revolution.pdf
+ * ("Specialising Simulator Generators for High-Performance Monte-Carlo Methods" - http://dx.doi.org/10.1007/978-3-540-77442-6_9 - Martin Dybdal)
 
 ### High-performance computing
 
