@@ -3,6 +3,17 @@ title: HIPERFIT Reading group
 layout: page
 ---
 
+This page documents the activities of the HIPERFIT reading group,
+which was initiated in April 2015. All HIPERFIT faculty and students
+are welcome to participate in the meetings. We meet on tuesdays from
+13:00 to 15:00, with the schedule listed below (will updated continuously).
+
+For Ph.D. students applying for ECTS-credit, attendance is mandatory.
+
+The reading group will run for 23 times, with an expected time usage
+around 8 hours for each session (including preparation), which will
+total 184 hours, which should correspond to 7.5 ECTS.
+
 ##Schedule (2015)
 
 ### Type systems for array languages
