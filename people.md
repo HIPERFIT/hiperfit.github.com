@@ -52,7 +52,8 @@ group: navigation
 * ![Martin Dybdal](images/dybdal.jpg) [Martin Dybdal](http://www.linkedin.com/in/martindybdal), PhD
   Student, Department of Computer Science, University of Copenhagen.
 
-* Oleksandr Shturmov, PhD Student, Department of Computer Science, University of Copenhagen.
+* ![Oleksandr Shturmov](images/oleks.jpg) [Oleksandr Shturmov](http://oleks.info), PhD Student,
+  Department of Computer Science, University of Copenhagen.
 
 ### Functional Parallel Programming
 
