@@ -4,13 +4,17 @@ layout: page
 ---
 
 ## Description
+
 This page documents the activities of the HIPERFIT reading group,
 which was initiated in April 2015. We meet on tuesdays from 13:00 to
-15:00 (approx.), with the schedule listed below (will updated
-continuously). The reading group will run for 23 times, with an
-expected time usage around 8 hours for each session (including
-preparation), which will total 184 hours, which should correspond
-to 7.5 ECTS.
+15:00 (approx.) following the schedule below. The schedule will be
+updated continuously.
+
+### Time usage
+
+The reading group will run for 23 times, with an expected time usage
+around 8 hours for each session (including preparation), which will
+total 184 hours, which should correspond to 7.5 ECTS.
 
 ### Topics
 We will be reading papers in several topics in the core area of
