@@ -9,6 +9,12 @@ This page lists a series of suggested student projects within
 HIPERFIT. For more information about the possibilities, please talk to
 the appropriate contact persons.
 
+### Bachelor Projects
+
+Please consult [the project announcement](/news/2015/08/25/bachelor-projects/) and the [bachelor project teaser slides](/pdf/HIPERFIT_PROTOTYPE_2015.pdf).
+
+Contact persons: [Danil Annenkov](people.html) or [Martin Elsman](people.html).
+
 ### Project: Efficient Histogram Computation on GPGPUs
 
 The code below shows an example of histogram computation:
