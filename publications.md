@@ -6,10 +6,13 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* Patrick Bahr, Jost Berthold, and Martin Elsman. __Certified Symbolic Management of Financial Multi-Party Contracts__. In _ACM International Conference on Functional Programming (ICFP'15)_. Vancouver, Canada. September, 2015. [PDF](/pdf/icfp15-contracts-final.pdf).
+* Frederik Meisner Madsen, Robert Clifton-Everest, Manuel Chakravarty, and Gabriele Keller. __Functional Array Streams__. In _Proceedings of the 4th ACM SIGPLAN Workshop on
+Functional High-Performance Computing (FHPC'15). Vancouver, Canada. September, 2015.
+
+* Patrick Bahr, Jost Berthold, and Martin Elsman. __Certified Symbolic Management of Financial Multi-Party Contracts__. In _Proceedings of the ACM International Conference on Functional Programming (ICFP'15)_. Vancouver, Canada. September, 2015. [pdf](/pdf/icfp15-contracts-final.pdf).
 
 * Michael Budde, Martin Dybdal, and Martin Elsman. __Compiling APL to Accelerate through a Typed Array Intermediate Language__. In _Proceedings of the 2nd ACM SIGPLAN International Workshop 
-on Libraries, Languages and Compilers for Array Programming (ARRAY'15)_. Portland, Oregon, USA. June, 2015.  [PDF](/pdf/Array15BuddeDybdalElsman.pdf).
+on Libraries, Languages and Compilers for Array Programming (ARRAY'15)_. Portland, Oregon, USA. June, 2015.  [pdf](/pdf/Array15BuddeDybdalElsman.pdf).
 
 * Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
 Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. __A Financial
