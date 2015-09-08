@@ -74,7 +74,7 @@ meetings on voluntary basis.
 
 ### Finance / Automatic Differentiation
 
- * September 8th
+ * September 15th
  
    * Esben Bistrup Halvorsen. "Calculating Key Ratios for Financial Products using Automatic Differentiation and Monte Carlo Simulation" - http://hiperfit.dk/pdf/ad_esben.pdf - Martin Elsman
 
