@@ -69,7 +69,7 @@ meetings on voluntary basis.
    * "Region-based memory management for GPU programming languages: enabling rich data structures on a spartan host" <http://dl.acm.org/citation.cfm?id=2660244>
 
  * August 25th
-   * SaC JFP paper - http://dl.acm.org/citation.cfm?id=967501
+   * SaC JFP paper - <http://dl.acm.org/citation.cfm?id=967501>
 
 
 ### Finance / Automatic Differentiation
@@ -78,17 +78,17 @@ meetings on voluntary basis.
  
    * Esben Bistrup Halvorsen. "Calculating Key Ratios for Financial Products using Automatic Differentiation and Monte Carlo Simulation" - http://hiperfit.dk/pdf/ad_esben.pdf - Martin Elsman
 
-   * White-paper: Structured products desks join the AAD revolution - http://www.fincad.com/sites/default/files/wysiwyg/Structured%20products%20desks%20join%20the%20AAD%20revolution.pdf
+   * White-paper: Structured products desks join the AAD revolution - <http://www.fincad.com/sites/default/files/wysiwyg/Structured%20products%20desks%20join%20the%20AAD%20revolution.pdf>
 
  * September 22th (Jumping a way from finance for one week)
 
-   *  http://www.cse.chalmers.se/edu/year/2014/course/DAT280_Parallel_Functional_Programming/exploration-draft-Obsidian.pdf
+   * Draft-paper: "A Haskell EDSL for Nested Data-parallel Design-space exploration on GPUs" <http://www.cse.chalmers.se/edu/year/2014/course/DAT280_Parallel_Functional_Programming/exploration-draft-Obsidian.pdf>
 
-   * And their own reflections from: http://www.cse.chalmers.se/edu/course/DAT280_Parallel_Functional_Programming/LectureGPU115.pdf
+   * And their own reflections: <http://www.cse.chalmers.se/edu/course/DAT280_Parallel_Functional_Programming/LectureGPU115.pdf>
 
  * September 29th (Back with some more Finance)
 
-   * https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf
+   * "Valuing American Options by Simulation: A Simple Least Approach" (Longstaff and Schwartz): <https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf>
 
 
 ## Suggestions
@@ -96,8 +96,6 @@ meetings on voluntary basis.
 If you add a topic, please include your name
 
 ### Finance, automatic differentiation, Monte-Carlo simulations etc.
-
- * "Valuing American Options by Simulation: A Simple Least Approach" (Longstaff and Schwartz) https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf
 
  * "Parallel random numbers: as easy as 1, 2, 3" - http://dx.doi.org/10.1145/2063384.2063405 - Martin Dybdal
 
