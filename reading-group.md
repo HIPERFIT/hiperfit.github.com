@@ -80,6 +80,15 @@ meetings on voluntary basis.
 
    * White-paper: Structured products desks join the AAD revolution - http://www.fincad.com/sites/default/files/wysiwyg/Structured%20products%20desks%20join%20the%20AAD%20revolution.pdf
 
+ * September 22th (Jumping a way from finance for one week)
+
+   *  http://www.cse.chalmers.se/edu/year/2014/course/DAT280_Parallel_Functional_Programming/exploration-draft-Obsidian.pdf
+
+   * And their own reflections from: http://www.cse.chalmers.se/edu/course/DAT280_Parallel_Functional_Programming/LectureGPU115.pdf
+
+ * September 29th (Back with some more Finance)
+
+   * https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf
 
 
 ## Suggestions
