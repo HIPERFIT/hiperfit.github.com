@@ -10,6 +10,10 @@ Seminars are held according to the schedule below (usually every second week).
 
 #### Schedule for HIPERFIT seminars (even weeks, reverse chronological order):
 
+- __2015-10-13:__ The HIPERmark Benchmark Toolkit. Thorkil Værge, DIKU. AUD 7, 15:15-16:00. Tuesady. [Seminar Announcement]().
+
+- __2015-09-29:__ Optimal Hedge Tracking Portfolios in a Limit Order Book. Simon Ellersgaard Nielsen. AUD 7, 15:15-16:00. Tuesady. [Seminar Announcement]().
+
 - __2015-06-09:__ Compiling APL to Accelerate through a Typed Array Intermediate Language. Michael Budde, DIKU. AUD 7, 15:00-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/06/09/talk-on-apl-to-accelerate/).
 
 - __2015-05-28:__ Supporting innovation in programming tools for enabling efficient computing everywhere. [Anton Lokhmotov](https://www.hipeac.org/~anton/) ([Dividiti](http://www.dividiti.com/)). APL Meeting room, 15:00-16:00. Thursday. [Seminar Announcement](http://eepurl.com/bl5w3b).
