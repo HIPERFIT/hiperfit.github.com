@@ -125,6 +125,8 @@ Trying to stick to something that has general value, rather than one-off hacks -
 
 ## Other topics:
 
+ * [Automatically Improving Accuracy for Floating Point Expressions](http://delivery.acm.org/10.1145/2740000/2737959/p1-panchekha.pdf)
+
  * Flattening, NESL, VCODE
  * CUDA PTX
  * Something on the architecture of Xeon Phi? - Martin Dybdal
