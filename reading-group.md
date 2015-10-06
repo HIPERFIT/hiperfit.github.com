@@ -71,6 +71,10 @@ meetings on voluntary basis.
  * August 25th
    * SaC JFP paper - <http://dl.acm.org/citation.cfm?id=967501>
 
+ * October 13th
+
+   * [A provable time and space efficient implementation of NESL](http://dl.acm.org/citation.cfm?id=232650)
+
 
 ### Finance / Automatic Differentiation
 
