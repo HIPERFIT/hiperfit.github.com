@@ -1,18 +1,20 @@
 ---
 layout: post
-title: "The HIPERmark Benchmark Toolkit"
+title: "CANCELLED - The HIPERmark Benchmark Toolkit"
 category: news
 tags: [talk]
 ---
 {% include JB/setup %}
 
-## HIPERFIT Seminar Talk: The HIPERmark Benchmark Toolkit
+## HIPERFIT Seminar Talk: CANCELLED - The HIPERmark Benchmark Toolkit
 
 _Presenter:_ Thorkil Værge, MSc student, DIKU/University of Copenhagen
 
 _Time:_ Tuesday, October 13, 2015, 15:15-16:00
 
 _Place:_ AUD 7 (HCØ, Universitetsparken 5)
+
+## Talk cancelled due to illness...
 
 ## Abstract:
 

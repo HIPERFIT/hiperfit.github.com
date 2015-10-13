@@ -10,7 +10,7 @@ Seminars are held according to the schedule below (usually every second week).
 
 #### Schedule for HIPERFIT seminars (even weeks, reverse chronological order):
 
-- __2015-10-13:__ The HIPERmark Benchmark Toolkit. Thorkil Værge, DIKU. AUD 7, 15:15-16:00. Tuesady. [Seminar Announcement](http://hiperfit.dk/news/2015/10/13/hipermark/).
+- __2015-10-13:__ CANCELLED due to illness... The HIPERmark Benchmark Toolkit. Thorkil Værge, DIKU. AUD 7, 15:15-16:00. Tuesady. [Seminar Announcement](http://hiperfit.dk/news/2015/10/13/hipermark/).
 
 - __2015-09-29:__ Optimal Hedge Tracking Portfolios in a Limit Order Book. Simon Ellersgaard Nielsen. AUD 7, 15:15-16:00. Tuesady. [Seminar Announcement](http://hiperfit.dk/news/2015/09/29/talk-on-optimal-hedge-tracking/).
 
