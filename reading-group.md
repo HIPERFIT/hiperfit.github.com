@@ -75,6 +75,9 @@ meetings on voluntary basis.
 
    * [A provable time and space efficient implementation of NESL](http://dl.acm.org/citation.cfm?id=232650)
 
+ * October 20th
+
+   * [Automatically Improving Accuracy for Floating Point Expressions](http://herbie.uwplse.org/pldi15-paper.pdf)
 
 ### Finance / Automatic Differentiation
 
@@ -128,8 +131,6 @@ Trying to stick to something that has general value, rather than one-off hacks -
  * "Automatic Generation of Peephole Superoptimizers" - http://embedded.cse.iitd.ac.in/~sbansal/pubs/asplos06.pdf (maybe also Massalin, 1987) - Martin Dybdal
 
 ## Other topics:
-
- * [Automatically Improving Accuracy for Floating Point Expressions](http://delivery.acm.org/10.1145/2740000/2737959/p1-panchekha.pdf)
 
  * Flattening, NESL, VCODE
  * CUDA PTX
