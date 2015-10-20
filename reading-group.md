@@ -93,7 +93,7 @@ meetings on voluntary basis.
 
    * And their own reflections: <http://www.cse.chalmers.se/edu/course/DAT280_Parallel_Functional_Programming/LectureGPU115.pdf>
 
- * September 29th (Back with some more Finance)
+ * October 27th (Back with some more Finance)
 
    * "Valuing American Options by Simulation: A Simple Least Approach" (Longstaff and Schwartz): <https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf>
 
