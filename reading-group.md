@@ -41,62 +41,47 @@ meetings on voluntary basis.
 
 ##Schedule (2015)
 
-### Type systems for array languages
- * April 7th QUBE (Discussion lead by Martin Elsman and Martin Dybdal)
+ * April 7th: Type systems for array languages (Discussion lead by Martin Elsman and Martin Dybdal)
    * "QUBE - Dependently typed array programs don't go wrong" (JLAP, 2009) - <http://www.sciencedirect.com/science/article/pii/S1567832609000411>
    * "QUBE - Array Programming With Dependent Types" (Ph.D. dissertation) - <http://www.students.informatik.uni-luebeck.de/zhb/ediss1099.pdf>
- * April 14th (Discussion lead by Danil Annenkov)
+ * April 14th: Type systems for array languages (Discussion lead by Danil Annenkov)
    * "From Contracts Towards Dependent Types: Proofs by Partial Evaluation" - <http://link.springer.com/chapter/10.1007%2F978-3-540-85373-2_15>
- * April 21st (Discussion lead by Martin Dybdal)
+ * April 21st: Type systems for array languages (Discussion lead by Martin Dybdal)
    * "An Array-oriented language with Static Rank Polymorphism" - <http://dx.doi.org/10.1007/978-3-642-54833-8_3>
- * April 28th
+ * April 28th: Type systems for array languages
    * "Dependent Types in Practical Programming" - http://www.cs.bu.edu/~hwxi/academic/papers/popl99.pdf
-
-### Program optimisation (preliminary plan)
- * May 5th (Discussion lead by Troels Henriksen)
+ * May 5th: Program optimisation (Discussion lead by Troels Henriksen)
    * "A framework for enhancing data reuse via associative reordering" - <http://dl.acm.org/citation.cfm?id=2594342>
- * May 12th (Discussion lead by Frederik)
+ * May 12th: Program optimisation (Discussion lead by Frederik)
    * "Optimising Purely Functional GPU Programs" (skip Section 3) - <http://www.cse.unsw.edu.au/~tmcdonell/papers/acc-optim-icfp2013.pdf>
    * "Embedding Foreign Code" - <https://www.cse.unsw.edu.au/~chak/papers/acc-ffi.pdf>
-
    * Skim: "High-Performance Code Generation for Stencil Computations on GPU Architectures" <http://www.cs.ucla.edu/~pouchet/doc/ics-article.12.pdf>
  * May 19th
    * Cancelled
- * May 26th
+ * May 26th: Program optimisation
    * "Automatic Parallelization in the Polytope Model" <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.3581>
-
- * June 2nd (Discussion lead by Martin Elsman)
+ * June 2nd: Program optimisation (Discussion lead by Martin Elsman)
    * "Region-based memory management for GPU programming languages: enabling rich data structures on a spartan host" <http://dl.acm.org/citation.cfm?id=2660244>
-
- * August 25th
+ * August 25th: Programming language implementation
    * SaC JFP paper - <http://dl.acm.org/citation.cfm?id=967501>
-
- * October 13th
-
+ * September 15th: Finance / Automatic Differentiation
+   * Esben Bistrup Halvorsen. "Calculating Key Ratios for Financial
+     Products using Automatic Differentiation and Monte Carlo
+     Simulation" - http://hiperfit.dk/pdf/ad_esben.pdf - Martin Elsman
+   * White-paper: Structured products desks join the AAD revolution -
+     <http://www.fincad.com/sites/default/files/wysiwyg/Structured%20products%20desks%20join%20the%20AAD%20revolution.pdf>
+ * September 22th: Programming language implementation
+   * Draft-paper: "A Haskell EDSL for Nested Data-parallel
+     Design-space exploration on GPUs"
+     <http://www.cse.chalmers.se/edu/year/2014/course/DAT280_Parallel_Functional_Programming/exploration-draft-Obsidian.pdf>
+   * And their own reflections:
+     <http://www.cse.chalmers.se/edu/course/DAT280_Parallel_Functional_Programming/LectureGPU115.pdf>
+ * October 13th: Programming language implementation
    * [A provable time and space efficient implementation of NESL](http://dl.acm.org/citation.cfm?id=232650)
-
- * October 20th
-
+ * October 20th: Program transformation
    * [Automatically Improving Accuracy for Floating Point Expressions](http://herbie.uwplse.org/pldi15-paper.pdf)
-
-### Finance / Automatic Differentiation
-
- * September 15th
- 
-   * Esben Bistrup Halvorsen. "Calculating Key Ratios for Financial Products using Automatic Differentiation and Monte Carlo Simulation" - http://hiperfit.dk/pdf/ad_esben.pdf - Martin Elsman
-
-   * White-paper: Structured products desks join the AAD revolution - <http://www.fincad.com/sites/default/files/wysiwyg/Structured%20products%20desks%20join%20the%20AAD%20revolution.pdf>
-
- * September 22th (Jumping a way from finance for one week)
-
-   * Draft-paper: "A Haskell EDSL for Nested Data-parallel Design-space exploration on GPUs" <http://www.cse.chalmers.se/edu/year/2014/course/DAT280_Parallel_Functional_Programming/exploration-draft-Obsidian.pdf>
-
-   * And their own reflections: <http://www.cse.chalmers.se/edu/course/DAT280_Parallel_Functional_Programming/LectureGPU115.pdf>
-
- * October 27th (Back with some more Finance)
-
+ * October 27th: Finance / Automatic Differentiation
    * "Valuing American Options by Simulation: A Simple Least Approach" (Longstaff and Schwartz): <https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf>
-
 
 ## Suggestions
 
