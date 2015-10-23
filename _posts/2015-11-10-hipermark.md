@@ -10,7 +10,7 @@ tags: [talk]
 
 _Presenter:_ Thorkil Værge, MSc student, DIKU/University of Copenhagen
 
-_Time:_ Tuesday, November 11, 2015, 15:15-16:00
+_Time:_ Tuesday, November 10, 2015, 15:15-16:00
 
 _Place:_ AUD 7 (HCØ, Universitetsparken 5)
 
