@@ -82,6 +82,8 @@ meetings on voluntary basis.
    * [Automatically Improving Accuracy for Floating Point Expressions](http://herbie.uwplse.org/pldi15-paper.pdf)
  * October 27th: Finance / Automatic Differentiation
    * "Valuing American Options by Simulation: A Simple Least Approach" (Longstaff and Schwartz): <https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf>
+ * November 10th: Programming language implementation (kind of)
+   * [Supporting Extended Precision on Graphics Processors](http://event.cwi.nl/damon2010/gpuprecision.pdf)
 
 ## Suggestions
 
