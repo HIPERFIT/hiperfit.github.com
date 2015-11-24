@@ -10,15 +10,17 @@ Seminars are held according to the schedule below (usually every second week).
 
 #### Schedule for HIPERFIT seminars (even weeks, reverse chronological order):
 
-- __2015-11-24:__ Status of the Futhark compiler. Troels Henriksen, DIKU. AUD 7, 15:15-16:00. Tuesady. [Seminar Announcement](http://hiperfit.dk/news/2015/11/24/futhark/).
+- __2015-12-08:__ Status of the Futhark compiler. Troels Henriksen, DIKU. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/11/24/futhark/).
 
-- __2015-11-10:__ The HIPERmark Benchmark Toolkit. Thorkil Værge, DIKU. AUD 7, 15:15-16:00. Tuesady. [Seminar Announcement](http://hiperfit.dk/news/2015/11/10/hipermark/).
+- __2015-11-24:__ CANCELLED due to illness... Status of the Futhark compiler. Troels Henriksen, DIKU. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/11/24/futhark/).
 
-- __2015-10-27:__ Analyzing the Swiss National Bank's euro exchange rate policy: A latent likelihood approach. Rolf Poulsen, IMF. AUD 7, 15:15-16:00. Tuesady. [Seminar Announcement](http://hiperfit.dk/news/2015/10/27/chfeur-floor-break/).
+- __2015-11-10:__ The HIPERmark Benchmark Toolkit. Thorkil Værge, DIKU. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/11/10/hipermark/).
 
-- __2015-10-13:__ CANCELLED due to illness... The HIPERmark Benchmark Toolkit. Thorkil Værge, DIKU. AUD 7, 15:15-16:00. Tuesady. [Seminar Announcement](http://hiperfit.dk/news/2015/10/13/hipermark/).
+- __2015-10-27:__ Analyzing the Swiss National Bank's euro exchange rate policy: A latent likelihood approach. Rolf Poulsen, IMF. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/10/27/chfeur-floor-break/).
 
-- __2015-09-29:__ Optimal Hedge Tracking Portfolios in a Limit Order Book. Simon Ellersgaard Nielsen. AUD 7, 15:15-16:00. Tuesady. [Seminar Announcement](http://hiperfit.dk/news/2015/09/29/talk-on-optimal-hedge-tracking/).
+- __2015-10-13:__ CANCELLED due to illness... The HIPERmark Benchmark Toolkit. Thorkil Værge, DIKU. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/10/13/hipermark/).
+
+- __2015-09-29:__ Optimal Hedge Tracking Portfolios in a Limit Order Book. Simon Ellersgaard Nielsen. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/09/29/talk-on-optimal-hedge-tracking/).
 
 - __2015-06-09:__ Compiling APL to Accelerate through a Typed Array Intermediate Language. Michael Budde, DIKU. AUD 7, 15:00-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/06/09/talk-on-apl-to-accelerate/).
 
