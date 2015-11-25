@@ -85,7 +85,7 @@ meetings on voluntary basis.
  * November 10th: Programming language implementation (kind of)
    * [Supporting Extended Precision on Graphics Processors](http://event.cwi.nl/damon2010/gpuprecision.pdf)
  * November 24th: Programming language implementation
-   * [Topological Collections, Transformations and Their Application to the Modelling and the Simulation of Dynamical Systems](http://link.springer.com/chapter/10.1007%2F3-540-44881-0_16)
+    * Cancelled
 
 ## Suggestions
 
@@ -119,6 +119,12 @@ Trying to stick to something that has general value, rather than one-off hacks -
 
  * "Automatic Generation of Peephole Superoptimizers" - http://embedded.cse.iitd.ac.in/~sbansal/pubs/asplos06.pdf (maybe also Massalin, 1987) - Martin Dybdal
 
+### Cost models for data-parallel languages
+
+* J.  Hoffmann  and  Z.  Shao. Automatic  static  cost  analysis  for  parallel programs. ESOP 2015. - http://www.cs.cmu.edu/~janh/papers/parallelcost2014.pdf - Danil Annenkov
+* D. B. Skillicorn , W Cai. A cost calculus for parallel functional programming, 1995. - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.71.6316 - Danil Annenkov
+*  C. Barry Jay. Costing Parallel Programs as a Function of Shapes, 1998. - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.71.6316 - Danil Annenkov
+
 ## Other topics:
 
  * Flattening, NESL, VCODE
@@ -130,3 +136,4 @@ Trying to stick to something that has general value, rather than one-off hacks -
 ## Decided not to read
 
  *  "pocl: A Performance-Portable OpenCL Implementation" - http://link.springer.com/article/10.1007/s10766-014-0320-y
+ * [Topological Collections, Transformations and Their Application to the Modelling and the Simulation of Dynamical Systems](http://link.springer.com/chapter/10.1007%2F3-540-44881-0_16)
