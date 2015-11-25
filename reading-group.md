@@ -123,7 +123,7 @@ Trying to stick to something that has general value, rather than one-off hacks -
 
 * J.  Hoffmann  and  Z.  Shao. Automatic  static  cost  analysis  for  parallel programs. ESOP 2015. - http://www.cs.cmu.edu/~janh/papers/parallelcost2014.pdf - Danil Annenkov
 * D. B. Skillicorn , W Cai. A cost calculus for parallel functional programming, 1995. - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.71.6316 - Danil Annenkov
-*  C. Barry Jay. Costing Parallel Programs as a Function of Shapes, 1998. - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.71.6316 - Danil Annenkov
+*  C. Barry Jay. Costing Parallel Programs as a Function of Shapes, 1998. - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.48.8225 - Danil Annenkov
 
 ## Other topics:
 
