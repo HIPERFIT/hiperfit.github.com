@@ -86,6 +86,10 @@ meetings on voluntary basis.
    * [Supporting Extended Precision on Graphics Processors](http://event.cwi.nl/damon2010/gpuprecision.pdf)
  * November 24th: Programming language implementation
     * Cancelled
+ * December 1st: short session (~1 hour)
+    * [Topological Collections, Transformations and Their Application to the Modelling and the Simulation of Dynamical Systems](http://link.springer.com/chapter/10.1007%2F3-540-44881-0_16)
+ * December 8th:
+    * [D. B. Skillicorn , W Cai. A cost calculus for parallel functional programming](http://www.sciencedirect.com/science/article/pii/S0743731585710891)
 
 ## Suggestions
 
@@ -122,7 +126,7 @@ Trying to stick to something that has general value, rather than one-off hacks -
 ### Cost models for data-parallel languages
 
 * J.  Hoffmann  and  Z.  Shao. Automatic  static  cost  analysis  for  parallel programs. ESOP 2015. - http://www.cs.cmu.edu/~janh/papers/parallelcost2014.pdf - Danil Annenkov
-* D. B. Skillicorn , W Cai. A cost calculus for parallel functional programming, 1995. - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.71.6316 - Danil Annenkov
+* D. B. Skillicorn , W Cai. A cost calculus for parallel functional programming, 1995. - http://www.sciencedirect.com/science/article/pii/S0743731585710891 - Danil Annenkov
 *  C. Barry Jay. Costing Parallel Programs as a Function of Shapes, 1998. - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.48.8225 - Danil Annenkov
 
 ## Other topics:
@@ -136,4 +140,3 @@ Trying to stick to something that has general value, rather than one-off hacks -
 ## Decided not to read
 
  *  "pocl: A Performance-Portable OpenCL Implementation" - http://link.springer.com/article/10.1007/s10766-014-0320-y
- * [Topological Collections, Transformations and Their Application to the Modelling and the Simulation of Dynamical Systems](http://link.springer.com/chapter/10.1007%2F3-540-44881-0_16)
