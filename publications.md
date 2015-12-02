@@ -7,7 +7,7 @@ group: navigation
 {% include JB/setup %}
 
 * Frederik Meisner Madsen, Robert Clifton-Everest, Manuel Chakravarty, and Gabriele Keller. __Functional Array Streams__. In _Proceedings of the 4th ACM SIGPLAN Workshop on
-Functional High-Performance Computing (FHPC'15). Vancouver, Canada. September, 2015.
+Functional High-Performance Computing (FHPC'15)_. Vancouver, Canada. September, 2015.
 
 * Patrick Bahr, Jost Berthold, and Martin Elsman. __Certified Symbolic Management of Financial Multi-Party Contracts__. In _Proceedings of the ACM International Conference on Functional Programming (ICFP'15)_. Vancouver, Canada. September, 2015. [pdf](/pdf/icfp15-contracts-final.pdf).
 
