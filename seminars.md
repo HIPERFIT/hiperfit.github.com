@@ -10,9 +10,7 @@ Seminars are held according to the schedule below (usually every second week).
 
 #### Schedule for HIPERFIT seminars (even weeks, reverse chronological order):
 
-- __2015-12-08:__ Status of the Futhark compiler. Troels Henriksen, DIKU. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/12/08/futhark/).
-
-- __2015-11-24:__ CANCELLED due to illness... Status of the Futhark compiler. Troels Henriksen, DIKU. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/11/24/futhark/).
+- __2015-12-08:__ CANCELLED due to traveling... Status of the Futhark compiler. Troels Henriksen, DIKU. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/12/08/futhark/).
 
 - __2015-11-10:__ The HIPERmark Benchmark Toolkit. Thorkil Værge, DIKU. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/11/10/hipermark/).
 
