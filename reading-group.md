@@ -84,11 +84,11 @@ meetings on voluntary basis.
    * "Valuing American Options by Simulation: A Simple Least Approach" (Longstaff and Schwartz): <https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf>
  * November 10th: Programming language implementation (kind of)
    * [Supporting Extended Precision on Graphics Processors](http://event.cwi.nl/damon2010/gpuprecision.pdf)
- * November 24th: Programming language implementation
+ * November 24th:
     * Cancelled
- * December 1st: short session (~1 hour)
-    * [Topological Collections, Transformations and Their Application to the Modelling and the Simulation of Dynamical Systems](http://link.springer.com/chapter/10.1007%2F3-540-44881-0_16)
- * December 8th:
+ * December 1st: 
+    * Cancelled
+ * December 8th: Cost models
     * [D. B. Skillicorn , W Cai. A cost calculus for parallel functional programming](http://www.sciencedirect.com/science/article/pii/S0743731585710891)
 
 ## Suggestions
