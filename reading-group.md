@@ -88,7 +88,7 @@ meetings on voluntary basis.
     * Cancelled
  * December 1st: 
     * Cancelled
- * December 8th: Cost models
+ * December 17th: Cost models
     * [D. B. Skillicorn , W Cai. A cost calculus for parallel functional programming](http://www.sciencedirect.com/science/article/pii/S0743731585710891)
 
 ## Suggestions
