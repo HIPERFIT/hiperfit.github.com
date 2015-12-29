@@ -122,8 +122,6 @@ achieve multi-core CPU parallelism.
 
 Contact person: [Cosmin Oancea](people.html) (or [Troels Henriksen](people.html)).
 
-[more >>](studentproject_openmp_backend.html).
-
 
 ### Project: Optimization of a Haskell Automatic Differentiation Library
 
