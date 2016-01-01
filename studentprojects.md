@@ -15,6 +15,58 @@ Please consult [the project announcement](/news/2015/08/25/bachelor-projects/) a
 
 Contact persons: [Danil Annenkov](people.html) or [Martin Elsman](people.html).
 
+### Project: Compile-time memory allocation in Futhark
+
+As part of its research into parallel functional programming, HIPERFIT
+has developed a programming language, Futhark, and an optimising
+compiler targeting GPGPU.  During the later stages of the compilation
+pipeline, the Futhark compiler will insert explicit memory allocations
+in the program being compiled, and add annotations indicating in which
+memory a given array is stored.  This decoupling of arrays from memory
+permits memory-level optimisations, such as hoisting allocations out
+of inner loops.
+
+This project is about moving further with optimisations on this
+representation.  Specifically, we conjecture that an algorithm similar
+to register allocation can be devised which would allow different
+arrays to be located in the same memory block, as long as the arrays
+are never live at the same time.  This optimisation will not only
+reduce total memory usage in the generated code, but also reduce the
+number of memory copy operations.
+
+This project is a good fit for a bachelor's project.  It involves a
+good bit of both hacking and clever algorithmic thinking, and the
+effect of the work can be directly measured in reduced memory load and
+increased performance.  It is also a good way to get involved with
+compiler work.
+
+Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
+
+### Project: Map-Scan loop fusion in Futhark
+
+*Loop fusion* is an optimisation technique that combines several loops
+into one, which can result in less space usage, as intermediary arrays
+need no longer be constructed, as well as result in tighter code.
+This project is about improving the fusion capabilities in Futhark, a
+DIKU-developed data-parallel purely functional language aimed at
+high-performance GPGPU code.
+
+When generating GPGPU code for reductions, it has been observed that
+the optimal structure is often one where every thread first performs
+sequential reduction on a chunk of the input, followed by parallel
+reduction where the threads combine their work.  The function used for
+the sequential phase does not have to respect the usual properties
+required for parallel reductions (notably associativity), which can be
+exploited to permit aggressive fusion into the sequential phase.  We
+believe that the same technique could also be applied to parallel
+scans.
+
+This project is a good entry point for getting into compiler hacking.
+It is suitable for both bachelor's projects and ad-hoc 7.5 ECTS
+projects.
+
+Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
+
 ### Project: Efficient Histogram Computation on GPGPUs
 
 The code below shows an example of histogram computation:
@@ -70,8 +122,6 @@ achieve multi-core CPU parallelism.
 
 Contact person: [Cosmin Oancea](people.html) (or [Troels Henriksen](people.html)).
 
-[more >>](studentproject_openmp_backend.html).
-
 
 ### Project: Optimization of a Haskell Automatic Differentiation Library
 
@@ -102,31 +152,3 @@ APL, written in Standard ML, is [available at
 github](https://github.com/melsman/aplparse).
 
 Supervisor: [Martin Elsman](http://www.elsman.com)
-
-### Project: Haskell Library for Finance
-
-This project is about constructing a modular library in Haskell for
-pricing financial contracts and portfolios – either solely based on
-so-called closed-form functions or also coupled with Monte Carlo
-simulations. The main focus is to work on code structure and code
-architecture to reach a proof-of-concept level. 
-
-Contact person: [Jost Berthold](people.html) (joint supervision with Sinan Gabel).
-
-[more >>](studentproject_haskell_library_finance.html).
-
-### Project: Parallel Monte Carlo Simulations in Haskell
-
-This project is about constructing a Monte Carlo simulation library in
-Haskell. The library should be structured to allow for different
-statistical distributions (e.g. the Gaussian normal and log-normal) and
-for parallel execution. Consideration should be given to parallel
-calculations such that each thread generates random numbers that are
-independent from the other threads' calculations. The generator should
-be deterministic if given the same initialisation i.e. given the same
-so-called seed value - in other words given a certain seed value the
-generator simulates the same pseudo-random numbers.
-
-Contact person: [Jost Berthold](people.html) (joint supervision with Sinan Gabel).
-
-[more >>](studentproject_haskell_montecarlo.html).
