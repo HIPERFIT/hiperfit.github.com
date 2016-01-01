@@ -19,8 +19,6 @@ Seminars are held according to the schedule below (usually every second week).
 - __2015-12-10:__ PhD Thesis Defence. A High Performance Backend for Array-Oriented Programming on Next-Generation Processing Units. Simon A F Lund. NBI. AUD D,
   NBI. 10:00-13:00. Thursday. [Seminar Announcement](http://hiperfit.dk/news/2015/12/10/lund-phd/).
 
-- __2015-12-08:__ CANCELLED due to traveling... Status of the Futhark compiler. Troels Henriksen, DIKU. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/12/08/futhark/).
-
 - __2015-11-10:__ The HIPERmark Benchmark Toolkit. Thorkil Værge, DIKU. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/11/10/hipermark/).
 
 - __2015-10-27:__ Analyzing the Swiss National Bank's euro exchange rate policy: A latent likelihood approach. Rolf Poulsen, IMF. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2015/10/27/chfeur-floor-break/).
