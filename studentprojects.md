@@ -15,7 +15,7 @@ Please consult [the project announcement](/news/2015/08/25/bachelor-projects/) a
 
 Contact persons: [Danil Annenkov](people.html) or [Martin Elsman](people.html).
 
-### Project: CUDA backend for Futhark
+### Project: CUDA Backend for Futhark
 
 As part of its research into parallel functional programming, HIPERFIT
 has developed a programming language, Futhark, and an optimising
@@ -32,7 +32,7 @@ being surprised.
 
 Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
 
-### Project: Compile-time memory allocation in Futhark
+### Project: Compile-time Memory Allocation in Futhark
 
 As part of its research into parallel functional programming, HIPERFIT
 has developed a programming language, Futhark, and an optimising
@@ -59,7 +59,7 @@ compiler work.
 
 Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
 
-### Project: Map-Scan loop fusion in Futhark
+### Project: Map-Scan Loop Fusion in Futhark
 
 *Loop fusion* is an optimisation technique that combines several loops
 into one, which can result in less space usage, as intermediary arrays
@@ -129,7 +129,7 @@ appearing in the where clause.
 Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
 
 
-### Project: OpenMP backend for data-parallel functional programming language
+### Project: OpenMP Backend for a Data-Parallel Functional Programming Language
 
 As part of its research into parallel functional programming, HIPERFIT
 has developed a programming language, Futhark, and an optimising
@@ -152,20 +152,5 @@ project report outlines a series of possibilities for optimizations,
 including an improved representation of arrays. This project is about
 investigating the possibilities for optimization of the AD framework,
 possibly for pricing and calculating greeks on parallel hardware.
-
-Supervisor: [Martin Elsman](http://www.elsman.com)
-
-### Project: APL parsing in Haskell
-
-APL is an array programming language from the 60's, which turns out to
-have interesting language constructs for programming with arrays for
-parallel hardware. Although APL is nowadays not widely adopted as the
-programming language of choice for large corporations, APL is still
-used in industry, for instance, in the danish company (and HIPERFIT
-partner) [SimCorp](http://www.simcorp.com), which has large parts of their
-code base written in APL. This project is about designing and
-constructing an APL-parser in Haskell. For inspiration, a parser for
-APL, written in Standard ML, is [available at
-github](https://github.com/melsman/aplparse).
 
 Supervisor: [Martin Elsman](http://www.elsman.com)
