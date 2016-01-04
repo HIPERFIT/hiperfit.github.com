@@ -15,6 +15,23 @@ Please consult [the project announcement](/news/2015/08/25/bachelor-projects/) a
 
 Contact persons: [Danil Annenkov](people.html) or [Martin Elsman](people.html).
 
+### Project: CUDA backend for Futhark
+
+As part of its research into parallel functional programming, HIPERFIT
+has developed a programming language, Futhark, and an optimising
+compiler targeting GPGPU.  Currently, the Futhark compiler generates
+code using the OpenCL library.  Another popular library, CUDA, is more
+widespread in scientific computing, and generated CUDA code may thus
+be easier to integrate in existing systems.
+
+This project is about writing a CUDA backend for the Futhark compiler.
+Most of the optimisations are done at a higher level, and should be
+reusable in the CUDA backend.  Performance of generated code should be
+similar to that of the existing OpenCL backend, but we're open to
+being surprised.
+
+Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
+
 ### Project: Compile-time memory allocation in Futhark
 
 As part of its research into parallel functional programming, HIPERFIT
