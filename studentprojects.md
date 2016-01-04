@@ -103,7 +103,7 @@ The project is about doing this computation efficiently on GPUs.
 
 Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
 
-### Project: Adding Function-Level Shape/Invariant Annotatations to Futhark
+### Project: Adding Function-Level Shape/Invariant Annotations to Futhark
 
 As part of its research into parallel functional programming, HIPERFIT
 has developed a programming language, Futhark, and an optimising
