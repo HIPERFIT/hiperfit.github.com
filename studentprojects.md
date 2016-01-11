@@ -15,7 +15,24 @@ Please consult [the project announcement](/news/2015/08/25/bachelor-projects/) a
 
 Contact persons: [Danil Annenkov](people.html) or [Martin Elsman](people.html).
 
-### Project: Compile-time memory allocation in Futhark
+### Project: CUDA Backend for Futhark
+
+As part of its research into parallel functional programming, HIPERFIT
+has developed a programming language, Futhark, and an optimising
+compiler targeting GPGPU.  Currently, the Futhark compiler generates
+code using the OpenCL library.  Another popular library, CUDA, is more
+widespread in scientific computing, and generated CUDA code may thus
+be easier to integrate in existing systems.
+
+This project is about writing a CUDA backend for the Futhark compiler.
+Most of the optimisations are done at a higher level, and should be
+reusable in the CUDA backend.  Performance of generated code should be
+similar to that of the existing OpenCL backend, but we're open to
+being surprised.
+
+Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
+
+### Project: Compile-time Memory Allocation in Futhark
 
 As part of its research into parallel functional programming, HIPERFIT
 has developed a programming language, Futhark, and an optimising
@@ -42,7 +59,7 @@ compiler work.
 
 Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
 
-### Project: Map-Scan loop fusion in Futhark
+### Project: Map-Scan Loop Fusion in Futhark
 
 *Loop fusion* is an optimisation technique that combines several loops
 into one, which can result in less space usage, as intermediary arrays
@@ -86,7 +103,7 @@ The project is about doing this computation efficiently on GPUs.
 
 Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
 
-### Project: Adding Function-Level Shape/Invariant Annotatations in Futhark
+### Project: Adding Function-Level Shape/Invariant Annotations to Futhark
 
 As part of its research into parallel functional programming, HIPERFIT
 has developed a programming language, Futhark, and an optimising
@@ -112,7 +129,7 @@ appearing in the where clause.
 Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
 
 
-### Project: OpenMP backend for data-parallel functional programming language
+### Project: OpenMP Backend for a Data-Parallel Functional Programming Language
 
 As part of its research into parallel functional programming, HIPERFIT
 has developed a programming language, Futhark, and an optimising
@@ -135,20 +152,5 @@ project report outlines a series of possibilities for optimizations,
 including an improved representation of arrays. This project is about
 investigating the possibilities for optimization of the AD framework,
 possibly for pricing and calculating greeks on parallel hardware.
-
-Supervisor: [Martin Elsman](http://www.elsman.com)
-
-### Project: APL parsing in Haskell
-
-APL is an array programming language from the 60's, which turns out to
-have interesting language constructs for programming with arrays for
-parallel hardware. Although APL is nowadays not widely adopted as the
-programming language of choice for large corporations, APL is still
-used in industry, for instance, in the danish company (and HIPERFIT
-partner) [SimCorp](http://www.simcorp.com), which has large parts of their
-code base written in APL. This project is about designing and
-constructing an APL-parser in Haskell. For inspiration, a parser for
-APL, written in Standard ML, is [available at
-github](https://github.com/melsman/aplparse).
 
 Supervisor: [Martin Elsman](http://www.elsman.com)
