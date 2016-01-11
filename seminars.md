@@ -10,9 +10,9 @@ Seminars are held according to the schedule below (usually every second week).
 
 #### Schedule for HIPERFIT seminars (even weeks, reverse chronological order):
 
-- __2016-01-26:__ Automated Loan Credit Rating. Omri Ross, DIKU. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2016/01/26/omri/).
+- __2016-01-26:__ Automated Loan Credit Rating. Omri Ross, IMF. August Krogh Building (AKB), AUD 1, Universitetsparken 13, University of Copenhagen, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2016/01/26/omri/).
 
-- __2016-01-12:__ Status of the Futhark compiler. Troels Henriksen, DIKU. AUD 7, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2016/01/12/futhark/).
+- __2016-01-12:__ Status of the Futhark compiler. Troels Henriksen, DIKU. August Krogh Building (AKB), AUD 1, Universitetsparken 13, University of Copenhagen, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2016/01/12/futhark/).
 
 - __2016-01-04:__ PhD Thesis Defence. Automatic Parallelization of
   Scientific Applications. Troels Blum. NBI. AUD A, 
