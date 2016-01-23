@@ -6,6 +6,9 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Simon A. F. Lund. __A High Performance Backend for Array-Oriented
+Programming on Next-Generation Processing Units__. PhD thesis. September 2015. [PDF](/pdf/Simon_Andreas_Frimann_Lund_PhDThesis2015.pdf).
+
 * Frederik Meisner Madsen, Robert Clifton-Everest, Manuel Chakravarty, and Gabriele Keller. __Functional Array Streams__. In _Proceedings of the 4th ACM SIGPLAN Workshop on
 Functional High-Performance Computing (FHPC'15)_. Vancouver, Canada. September, 2015.
 
