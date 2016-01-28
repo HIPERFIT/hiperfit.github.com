@@ -21,7 +21,7 @@ high-performance computational problems in the finance domain.
 The year 2016 is formally the last HIPERFIT year and much has happened
 since the HIPERFIT launch in 2011. We are therefore also happy to
 demonstrate our more long term findings and how we envision that the
-HIPERFIT work can continue to make a difference in the year to come.
+HIPERFIT work can continue to make a difference in the years to come.
 
 ### The Venue
 
@@ -113,7 +113,7 @@ research center.
 ### Participants
 
 | Name | March 3 | Dinner March 3 | March 4 | Room |
-| ---- |:------:|:-------------:|:------:|:----:|
+| ---- |:-------:|:--------------:|:-------:|:----:|
 Andrzej Filinski (DIKU) |            1 | 1 | 1 | 1 |
 Brian Vinter (NBI) |                 1 | 1 | 1 | 1 |
 Cosmin Oancea (DIKU) |               1 | 1 | 1 | 1 |
