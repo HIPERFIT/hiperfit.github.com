@@ -54,8 +54,8 @@ HIPERFIT work can continue to make a difference in the years to come.
  <li><i><a href=""></a></i> ()</li>
  <li><i><a href=""></a></i> ()</li>
  </ul>
-</dd>
 -->
+</dd>
 <dt>11:30</dt><dd>Break</dd>
 <dt>11:45</dt><dd>Bohrium (Chair: Brian Vinter)
 <p><em>Bohrium status, etc.</em></p> 
@@ -76,8 +76,8 @@ HIPERFIT work can continue to make a difference in the years to come.
  <li><i><a href="/pdf/HIPERFIT_Dec2014_Poulsen.pdf">Rethinking Exchange Rate Risk Management</a></i> (Rolf Poulsen, IMF)</li>
  <li><i>Calibration of the Local Volatility Function</i> (Lykke Rasmussen, IMF) <b><i>CANCELLED</i></b></li>
  </ul>
-</dd>
 -->
+</dd>
 <dt>15:15</dt><dd>Break</dd>
 <dt>15:30</dt><dd>Financial Contracts and Valuation (Chair: Andrzej Filinski)
 <p><em>Certified contracts, the prototype, benchmarks</em></p> 
@@ -87,8 +87,8 @@ HIPERFIT work can continue to make a difference in the years to come.
  <li><i><a href="/pdf/HIPERFIT_Dec2014_Bahr.pdf">Certified Management of Financial Contracts</a></i> (Patrick Bahr, DIKU)</li>
  <li><i>Financial Benchmarks for GPGPU Compilation</i> (Cosmin Oancea, DIKU)</li>
  </ul>
-</dd>
 -->
+</dd>
 <dt>16:45</dt><dd>Thanks - feedback</dd>
 <dt>17:15</dt><dd>Chat and a drink</dd>
 <dt>18:30</dt><dd>Dinner</dd>
