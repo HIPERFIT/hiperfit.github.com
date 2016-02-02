@@ -121,6 +121,7 @@ Danil Annenkov (DIKU) |              1 | 1 | 1 | 1 |
 Frederik Meisner Madsen (DIKU) |     1 | 1 | 1 | 1 |
 Fritz Henglein (DIKU) |              1 | 1 | 1 | 1 |
 James Avery (NBI) |                  0 | 0 | 0 | 0 |
+Jonas Bardino (NBI) |                1 | 1 | 1 | 1 |
 Ken Friis Larsen (DIKU) |            1 | 1 | 1 | 1 |
 Kenneth Skovhede (NBI) |             1 | 1 | 1 | 1 |
 Lykke Rasmussen (IMF) |              0 | 0 | 0 | 0 |
@@ -129,19 +130,21 @@ Maj-Britt Nordfang (IMF) |           1 | 0 | 1 | 0 |
 Marcos Vaz Salles (DIKU) |           1 | 1 | 0 | 0 |
 Martin Dybdal (DIKU) |               1 | 1 | 1 | 1 |
 Martin Elsman (DIKU) |               1 | 1 | 1 | 1 |
+Mads Ohm Larsen (NBI) |              1 | 1 | 1 | 1 |
+Martin Rehr (NBI) |                  1 | 1 | 1 | 1 |
 Mogens Steffensen (IMF) |            0 | 0 | 0 | 0 |
 Oleksandr Shturmov (DIKU) |          1 | 1 | 1 | 1 |
-Omri Ross (IMF) |                    1 | ? | ? | ? |
+Omri Ross (IMF) |                    1 | 1 | 1 | 1 |
 Patrick Bahr (DIKU) |                1 | 1 | 1 | 1 |
 Rolf Poulsen (IMF) |                 1 | 1 | 1 | 1 |
 Simon Ellersgaard (IMF) |            0 | 0 | 0 | 0 |
-Simon Lund (NBI) |                   ? | ? | ? | ? |
+Simon Lund (NBI) |                   1 | 1 | 1 | 1 |
 Troels Blum (NBI) |                  ? | ? | ? | ? |
 Troels Henriksen (DIKU) |            1 | 1 | 1 | 1 |
 Vivek Shah (DIKU) |                  0 | 0 | 0 | 0 |
 Anette Broløs (CFIR) |               1 | 1 | 0 | 0 |
 Anders Pall Skött (CFIR) |           1 | 1 | 0 | 0 |
-Total |                             20 |18 |16 |15 |
+Total |                             24 |23 |21 |20 |
 
 ### Schedule March 4, 2016 (HIPERFIT staff only) 
 
