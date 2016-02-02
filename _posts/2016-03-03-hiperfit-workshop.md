@@ -135,7 +135,7 @@ Martin Rehr (NBI) |                  1 | 1 | 1 | 1 |
 Mogens Steffensen (IMF) |            0 | 0 | 0 | 0 |
 Oleksandr Shturmov (DIKU) |          1 | 1 | 1 | 1 |
 Omri Ross (IMF) |                    1 | 1 | 1 | 1 |
-Patrick Bahr (DIKU) |                1 | 1 | 1 | 1 |
+Patrick Bahr (ITU) |                 1 | 1 | 1 | 1 |
 Rolf Poulsen (IMF) |                 1 | 1 | 1 | 1 |
 Simon Ellersgaard (IMF) |            0 | 0 | 0 | 0 |
 Simon Lund (NBI) |                   1 | 1 | 1 | 1 |
