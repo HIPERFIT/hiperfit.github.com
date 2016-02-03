@@ -4,10 +4,9 @@ permalink: /:categories/:year/:month/:day/:title
 
 excerpt_separator: ""
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-#auto: true
 
 future: true
-highlighter: true
+highlighter: rouge
 
 markdown: kramdown
 
