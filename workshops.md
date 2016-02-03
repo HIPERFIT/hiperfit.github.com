@@ -9,10 +9,10 @@ The HIPERFIT Research Center holds biannual workshops to foster
 interdisciplinary cooperation and attract researchers and
 practicioners for future cooperation.
 
-* March 2016: [HIPERFIT Workshop for Partners and Faculty](http://hiperfit.dk/news/2016/03/03/hiperfit-workshop/). Organized
+* March 2016: [HIPERFIT Workshop for Partners and Faculty](news/2016/03/03/hiperfit-workshop). Organized
   by HIPERFIT. March 3, 2016.
 
-* Dec 2014: [HIPERFIT Workshop for Partners and Faculty](http://hiperfit.dk/news/2014/11/04/hiperfit-workshop/). Organized
+* Dec 2014: [HIPERFIT Workshop for Partners and Faculty](news/2014/11/04/hiperfit-workshop). Organized
   by HIPERFIT. December 10, 2014.
 
 * Sep 2013: [2nd ACM SIGPLAN Workshop on Functional High-Performance Computing (FHPC'2013)](fhpc13.html). Co-located with
