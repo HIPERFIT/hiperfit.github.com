@@ -114,8 +114,11 @@ research center.
 
 | Name | March 3 | Dinner March 3 | March 4 | Room |
 | ---- |:-------:|:--------------:|:-------:|:----:|
+Anders Pall Skött (CFIR) |           1 | 1 | 0 | 0 |
 Andrzej Filinski (DIKU) |            1 | 1 | 1 | 1 |
+Anette Broløs (CFIR) |               1 | 1 | 0 | 0 |
 Brian Vinter (NBI) |                 1 | 1 | 1 | 1 |
+Carl Balslev Clausen (SimCorp) |     1 | 1 | 0 | 0 |
 Cosmin Oancea (DIKU) |               1 | 1 | 1 | 1 |
 Danil Annenkov (DIKU) |              1 | 1 | 1 | 1 |
 Frederik Meisner Madsen (DIKU) |     1 | 1 | 1 | 1 |
@@ -133,6 +136,7 @@ Martin Elsman (DIKU) |               1 | 1 | 1 | 1 |
 Mads Ohm Larsen (NBI) |              1 | 1 | 1 | 1 |
 Martin Rehr (NBI) |                  1 | 1 | 1 | 1 |
 Mogens Steffensen (IMF) |            0 | 0 | 0 | 0 |
+Niels Hallenberg (SimCorp) |         1 | 1 | 0 | 0 |
 Oleksandr Shturmov (DIKU) |          1 | 1 | 1 | 1 |
 Omri Ross (IMF) |                    1 | 1 | 1 | 1 |
 Patrick Bahr (ITU) |                 1 | 1 | 1 | 1 |
@@ -141,10 +145,9 @@ Simon Ellersgaard (IMF) |            0 | 0 | 0 | 0 |
 Simon Lund (NBI) |                   1 | 1 | 1 | 1 |
 Troels Blum (NBI) |                  ? | ? | ? | ? |
 Troels Henriksen (DIKU) |            1 | 1 | 1 | 1 |
+Uwe Heissner (Nordea) |              1 | ? | 0 | 0 |
 Vivek Shah (DIKU) |                  0 | 0 | 0 | 0 |
-Anette Broløs (CFIR) |               1 | 1 | 0 | 0 |
-Anders Pall Skött (CFIR) |           1 | 1 | 0 | 0 |
-Total |                             24 |23 |21 |20 |
+Total |                             27 |25 |21 |20 |
 
 ### Schedule March 4, 2016 (HIPERFIT staff only) 
 
