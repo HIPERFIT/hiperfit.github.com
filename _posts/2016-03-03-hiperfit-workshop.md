@@ -119,6 +119,7 @@ Andrzej Filinski (DIKU) |            1 | 1 | 1 | 1 |
 Anette Broløs (CFIR) |               1 | 1 | 0 | 0 |
 Brian Vinter (NBI) |                 1 | 1 | 1 | 1 |
 Carl Balslev Clausen (SimCorp) |     1 | 1 | 0 | 0 |
+Christian Andreetta (Nordea) |       1 | 1 | 0 | 0 |
 Cosmin Oancea (DIKU) |               1 | 1 | 1 | 1 |
 Danil Annenkov (DIKU) |              1 | 1 | 1 | 1 |
 Frederik Meisner Madsen (DIKU) |     1 | 1 | 1 | 1 |
@@ -142,12 +143,12 @@ Omri Ross (IMF) |                    1 | 1 | 1 | 1 |
 Patrick Bahr (ITU) |                 1 | 1 | 1 | 1 |
 Rolf Poulsen (IMF) |                 1 | 1 | 1 | 1 |
 Simon Ellersgaard (IMF) |            0 | 0 | 0 | 0 |
-Simon Lund (NBI) |                   1 | 1 | 1 | 1 |
+Simon Lund (NBI) |                   0 | 0 | 0 | 0 |
 Troels Blum (NBI) |                  ? | ? | ? | ? |
 Troels Henriksen (DIKU) |            1 | 1 | 1 | 1 |
-Uwe Heissner (Nordea) |              1 | ? | 0 | 0 |
+Uwe Heissner (Nordea) |              1 | 0 | 0 | 0 |
 Vivek Shah (DIKU) |                  0 | 0 | 0 | 0 |
-Total |                             27 |25 |21 |20 |
+Total |                             27 |25 |20 |19 |
 
 ### Schedule March 4, 2016 (HIPERFIT staff only) 
 
