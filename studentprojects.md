@@ -11,7 +11,9 @@ the appropriate contact persons.
 
 ### Bachelor Projects
 
-Please consult [the project announcement](/news/2015/08/25/bachelor-projects/) and the [bachelor project teaser slides](/pdf/HIPERFIT_PROTOTYPE_2015.pdf).
+### Project: The HIPERFIT Portfolio Management Prototype
+
+Please consult [the project background information](/pdf/HIPERFIT_PROTOTYPE_2016_ADDITIONAL_INFORMATION.pdf) and the [bachelor project teaser slides](/pdf/HIPERFIT_PROTOTYPE_2016.pdf).
 
 Contact persons: [Danil Annenkov](people.html) or [Martin Elsman](people.html).
 
