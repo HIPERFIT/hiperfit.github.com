@@ -10,7 +10,7 @@ Seminars are held according to the schedule below (usually every second week).
 
 #### Schedule for HIPERFIT seminars (even weeks, reverse chronological order):
 
-- __2016-02-04:__ Chapel: Parallel Programmability from Desktops to Supercomputers. Brad Chamberlain, Principal Engineer, Cray Inc. Small Auditorium, Universitetsparken 1 (The DIKU building), University of Copenhagen, 15:15-16:15. Thursday. [Seminar Announcement](http://hiperfit.dk/news/2016/02/04/chapel/).
+- __2016-02-04:__ Chapel: Parallel Programmability from Desktops to Supercomputers. Brad Chamberlain, Principal Engineer, Cray Inc. Small Auditorium, Universitetsparken 1 (The DIKU building), University of Copenhagen, 15:15-16:15. Thursday. [Seminar Announcement](http://hiperfit.dk/news/2016/02/04/chapel).
 
 - __2016-01-26:__ Automated Loan Credit Rating. Omri Ross, IMF. August Krogh Building (AKB), AUD 1, Universitetsparken 13, University of Copenhagen, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2016/01/26/omri).
 
