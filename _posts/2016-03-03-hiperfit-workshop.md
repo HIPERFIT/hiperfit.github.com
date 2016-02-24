@@ -36,8 +36,8 @@ HIPERFIT work can continue to make a difference in the years to come.
 <dt>08:55</dt><dd>Welcome (Fritz Henglein)</dd>
 <dt>09:00</dt><dd>Compiling for Parallel Computations (Chair: Ken Friis Larsen)
  <ul>
- <li><i><a href="#streaming">Streaming nested data parallelism</a></i> (Frederik Meisner Madsen, DIKU)</li>
- <li><i><a href="#fcl">A low-level functional GPU language</a></i> (Martin Dybdal, DIKU)</li>
+ <li><i><a href="#meisner">Streaming nested data parallelism</a></i> (Frederik Meisner Madsen, DIKU)</li>
+ <li><i><a href="#dybdal">A low-level functional GPU language</a></i> (Martin Dybdal, DIKU)</li>
  <li><i><a href=""></a></i> (Danil Annenkov, DIKU)</li>
  </ul>
 </dd>
@@ -156,8 +156,7 @@ draft schedule.
 
 #### 09:00-10:15 &nbsp; Compiling for Parallel Computations
 
-<p id=streaming>
-_Streaming Nested Data Parallelism (Frederik Meisner Madsen)_
+<a name=meisner>_Streaming Nested Data Parallelism (Frederik Meisner Madsen)_</a>
 
 This talk presents ongoing work on a streaming dataflow model for
 nested data parallelism. By evaluating bulk operations in chunks in a
@@ -169,10 +168,8 @@ computations. On CPUs, streaming can help improve cache performance,
 and since fusion is not as essential on CPUs as on GPUs, the streaming
 model can leverage pre-compiled kernels that are hand-optimized with
 SIMD instructions and multi-threading.
-</p>
 
-<p id=fcl>
-_A low-level functional GPU language (Martin Dybdal)_
+<a name=dybdal>_A low-level functional GPU language (Martin Dybdal)_</a>
 
 Obsidian is an embedded functional language that allows playfulness
 and experimentation when developing data-parallel algorithms for GPUs.
@@ -187,7 +184,6 @@ standalone language FCL, a language at the same level as Obsidian, but
 designed as an intermediate language. Our plan is to use FCL as an
 intermediate language for our APL-compiler, and to allow users to
 inline FCL-terms, when performance tuning is necessary.
-</p>
 
 #### 10:30-11:30 &nbsp; The Futhark Parallel Optimizing Compiler
 
@@ -195,8 +191,7 @@ inline FCL-terms, when performance tuning is necessary.
 
 #### 15:15-16:00 &nbsp; Miscellaneous Topics
 
-<p id=elsman>
-_The HIPERFIT portfolio management prototype (Martin Elsman, DIKU)_
+<a name=elsman>_The HIPERFIT portfolio management prototype (Martin Elsman, DIKU)_</a>
 
 We present the HIPERFIT portfolio management prototype, which aims at
 integrating various HIPERFIT research projects, such as a financial
@@ -204,15 +199,12 @@ contract modeling framework and generic parallel monte-carlo pricing.
 
 Integration work and design has primarily been undertaken by Danil
 Annenkov. Features added by BSc student projects.
-</p>
 
-<p id=poulsen>
-_Nominal indeterminism in finance (Rolf Poulsen, IMF)_
+<a name=poulsen>_Nominal indeterminism in finance (Rolf Poulsen, IMF)_</a>
 
 A tour de force of things in finance that are not exactly what they
 sound like. For instance: Risk-neutral pricing does not assume
 risk-neutrality. The FED isn't federal. Hedge funds don't
 hedge. What's up with the Mertons? Default isn't default. Change of
 numeraire changes the denominator, not the numerator.
-</p>
 
