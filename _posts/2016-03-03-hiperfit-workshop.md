@@ -156,7 +156,7 @@ draft schedule.
 
 #### 09:00-10:15 &nbsp; Compiling for Parallel Computations
 
-<span id=streaming />
+<p id=streaming>
 _Streaming Nested Data Parallelism (Frederik Meisner Madsen)_
 
 This talk presents ongoing work on a streaming dataflow model for
@@ -169,8 +169,9 @@ computations. On CPUs, streaming can help improve cache performance,
 and since fusion is not as essential on CPUs as on GPUs, the streaming
 model can leverage pre-compiled kernels that are hand-optimized with
 SIMD instructions and multi-threading.
+</p>
 
-<span id=fcl />
+<p id=fcl>
 _A low-level functional GPU language (Martin Dybdal)_
 
 Obsidian is an embedded functional language that allows playfulness
@@ -186,6 +187,7 @@ standalone language FCL, a language at the same level as Obsidian, but
 designed as an intermediate language. Our plan is to use FCL as an
 intermediate language for our APL-compiler, and to allow users to
 inline FCL-terms, when performance tuning is necessary.
+</p>
 
 #### 10:30-11:30 &nbsp; The Futhark Parallel Optimizing Compiler
 
@@ -193,7 +195,7 @@ inline FCL-terms, when performance tuning is necessary.
 
 #### 15:15-16:00 &nbsp; Miscellaneous Topics
 
-<span id=elsman />
+<p id=elsman>
 _The HIPERFIT portfolio management prototype (Martin Elsman, DIKU)_
 
 We present the HIPERFIT portfolio management prototype, which aims at
@@ -202,8 +204,9 @@ contract modeling framework and generic parallel monte-carlo pricing.
 
 Integration work and design has primarily been undertaken by Danil
 Annenkov. Features added by BSc student projects.
+</p>
 
-<span id=poulsen />
+<p id=poulsen>
 _Nominal indeterminism in finance (Rolf Poulsen, IMF)_
 
 A tour de force of things in finance that are not exactly what they
@@ -211,5 +214,5 @@ sound like. For instance: Risk-neutral pricing does not assume
 risk-neutrality. The FED isn't federal. Hedge funds don't
 hedge. What's up with the Mertons? Default isn't default. Change of
 numeraire changes the denominator, not the numerator.
-
+</p>
 
