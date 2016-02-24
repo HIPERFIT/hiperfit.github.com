@@ -191,7 +191,7 @@ inline FCL-terms, when performance tuning is necessary.
 
 #### 15:15-16:00 &nbsp; Miscellaneous Topics
 
-<a name=elsman>_The HIPERFIT portfolio management prototype (Martin Elsman, DIKU)_</a>
+_<a name="elsman">The HIPERFIT portfolio management prototype (Martin Elsman, DIKU)</a>_
 
 We present the HIPERFIT portfolio management prototype, which aims at
 integrating various HIPERFIT research projects, such as a financial
