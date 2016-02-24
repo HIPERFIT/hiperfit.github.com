@@ -156,7 +156,7 @@ draft schedule.
 
 #### 09:00-10:15 &nbsp; Compiling for Parallel Computations
 
-<a name=meisner>_Streaming Nested Data Parallelism (Frederik Meisner Madsen)_</a>
+_<a name="meisner"></a>Streaming Nested Data Parallelism (Frederik Meisner Madsen)_
 
 This talk presents ongoing work on a streaming dataflow model for
 nested data parallelism. By evaluating bulk operations in chunks in a
@@ -169,7 +169,7 @@ and since fusion is not as essential on CPUs as on GPUs, the streaming
 model can leverage pre-compiled kernels that are hand-optimized with
 SIMD instructions and multi-threading.
 
-<a name=dybdal>_A low-level functional GPU language (Martin Dybdal)_</a>
+_<a name="dybdal"></a>A low-level functional GPU language (Martin Dybdal)_
 
 Obsidian is an embedded functional language that allows playfulness
 and experimentation when developing data-parallel algorithms for GPUs.
@@ -191,7 +191,7 @@ inline FCL-terms, when performance tuning is necessary.
 
 #### 15:15-16:00 &nbsp; Miscellaneous Topics
 
-_<a name="elsman">The HIPERFIT portfolio management prototype (Martin Elsman, DIKU)</a>_
+_<a name="elsman"></a>The HIPERFIT portfolio management prototype (Martin Elsman, DIKU)_
 
 We present the HIPERFIT portfolio management prototype, which aims at
 integrating various HIPERFIT research projects, such as a financial
@@ -200,7 +200,7 @@ contract modeling framework and generic parallel monte-carlo pricing.
 Integration work and design has primarily been undertaken by Danil
 Annenkov. Features added by BSc student projects.
 
-<a name=poulsen>_Nominal indeterminism in finance (Rolf Poulsen, IMF)_</a>
+_<a name="poulsen"></a>Nominal indeterminism in finance (Rolf Poulsen, IMF)_
 
 A tour de force of things in finance that are not exactly what they
 sound like. For instance: Risk-neutral pricing does not assume
