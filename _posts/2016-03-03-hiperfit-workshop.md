@@ -35,26 +35,18 @@ HIPERFIT work can continue to make a difference in the years to come.
 <dt>08:30</dt><dd>Breakfast served</dd>
 <dt>08:55</dt><dd>Welcome (Fritz Henglein)</dd>
 <dt>09:00</dt><dd>Compiling for Parallel Computations (Chair: Ken Friis Larsen)
- <p><i>Futhark, Streaming, APL compilation</i></p>
-<!--
  <ul>
- <li><i><a href=""></a></i> ()</li>
- <li><i><a href=""></a></i> ()</li>
- <li><i><a href=""></a></i> ()</li>
+ <li><i><a href="#streaming">Streaming nested data parallelism</a></i> (Frederik Meisner Madsen, DIKU)</li>
+ <li><i><a href="#fcl">A low-level functional GPU language</a></i> (Martin Dybdal, DIKU)</li>
+ <li><i><a href=""></a></i> (Danil Annenkov, DIKU)</li>
  </ul>
--->
 </dd>
 <dt>10:15</dt><dd>Break</dd>
-<dt>10:30</dt><dd>Industry Input (Chair: Fritz Henglein)
-<p><em>TBA</em></p> 
-
-<!--
+<dt>10:30</dt><dd>The Futhark Optimizing Parallel Compiler (Chair: Fritz Henglein)
  <ul>
- <li><i><a href=""></a></i> ()</li>
- <li><i><a href=""></a></i> ()</li>
- <li><i><a href=""></a></i> ()</li>
+ <li><i><a href=""></a></i> (Troels Henriksen, DIKU)</li>
+ <li><i><a href=""></a></i> (NN)</li>
  </ul>
--->
 </dd>
 <dt>11:30</dt><dd>Break</dd>
 <dt>11:45</dt><dd>Bohrium (Chair: Brian Vinter)
@@ -68,29 +60,21 @@ HIPERFIT work can continue to make a difference in the years to come.
 -->
 </dd>
 <dt>13:00</dt><dd>Lunch</dd>
-<dt>14:00</dt><dd>Household Finance and Risk Management (Chair: Rolf Poulsen) 
-<p><em>Loan acceptance using machine learning, household finance, risk</em></p> 
-<!--
+<dt>14:00</dt><dd>Risk Management (Chair: Rolf Poulsen) 
  <ul>
- <li><i><a href="/pdf/HIPERFIT_Dec2014_Nordfang.pdf">Household Finance Problems approached by Numerical Methods</a></i> (Mai-Britt Nordfang, IMF)</li>
- <li><i><a href="/pdf/HIPERFIT_Dec2014_Poulsen.pdf">Rethinking Exchange Rate Risk Management</a></i> (Rolf Poulsen, IMF)</li>
- <li><i>Calibration of the Local Volatility Function</i> (Lykke Rasmussen, IMF) <b><i>CANCELLED</i></b></li>
+ <li><i><a href="">Credit Scoring</a></i> (Omri Ross, IMF)</li>
+ <li><i><a href="">The MC-squared problem</a></i> (Oleksandr Shturmov, DIKU)</li>
  </ul>
--->
 </dd>
-<dt>15:15</dt><dd>Break</dd>
-<dt>15:30</dt><dd>Financial Contracts and Valuation (Chair: Andrzej Filinski)
-<p><em>Certified contracts, the prototype, benchmarks</em></p> 
-<!--
+<dt>15:00</dt><dd>Break</dd>
+<dt>15:15</dt><dd>Miscellaneous Topics (Chair: Cosmin Oancea)
  <ul>
- <li><i><a href="/pdf/HIPERFIT_Dec2014_Elsman.pdf">A Prototype Framework for Parallel Valuation and Risk Calculation</a></i> (Martin Elsman, DIKU)</li>
- <li><i><a href="/pdf/HIPERFIT_Dec2014_Bahr.pdf">Certified Management of Financial Contracts</a></i> (Patrick Bahr, DIKU)</li>
- <li><i>Financial Benchmarks for GPGPU Compilation</i> (Cosmin Oancea, DIKU)</li>
+ <li><i><a href="#elsman">The HIPERFIT portfolio management prototype</a></i> (Martin Elsman, DIKU)</li>
+ <li><i><a href="#poulsen">Nominal indeterminism in finance</a></i> (Rolf Poulsen, IMF)</li>
  </ul>
--->
 </dd>
-<dt>16:45</dt><dd>Thanks - feedback</dd>
-<dt>17:15</dt><dd>Chat and a drink</dd>
+<dt>16:00</dt><dd>Industry feedback (Chair: Fritz Henglein)</dd>
+<dt>17:00</dt><dd>Chat and a drink - free time until dinner</dd>
 <dt>18:30</dt><dd>Dinner</dd>
 </dl>
 
@@ -144,11 +128,11 @@ Patrick Bahr (ITU) |                 1 | 1 | 1 | 1 |
 Rolf Poulsen (IMF) |                 1 | 1 | 1 | 1 |
 Simon Ellersgaard (IMF) |            0 | 0 | 0 | 0 |
 Simon Lund (NBI) |                   0 | 0 | 0 | 0 |
-Troels Blum (NBI) |                  ? | ? | ? | ? |
+Troels Blum (NBI) |                  1 | 1 | 1 | 1 |
 Troels Henriksen (DIKU) |            1 | 1 | 1 | 1 |
 Uwe Heissner (Nordea) |              1 | 0 | 0 | 0 |
 Vivek Shah (DIKU) |                  0 | 0 | 0 | 0 |
-Total |                             27 |25 |20 |19 |
+Total |                             28 |26 |21 |20 |
 
 ### Schedule March 4, 2016 (HIPERFIT staff only) 
 
@@ -166,3 +150,66 @@ draft schedule.
 <dt>15:15</dt><dd>Group Presentations (Plenum)</dd>
 <dt>16:30</dt><dd>End</dd>
 </dl>
+
+
+### Abstracts
+
+#### 09:00-10:15 &nbsp; Compiling for Parallel Computations
+
+<span id=streaming />
+_Streaming Nested Data Parallelism (Frederik Meisner Madsen)_
+
+This talk presents ongoing work on a streaming dataflow model for
+nested data parallelism. By evaluating bulk operations in chunks in a
+network of stream transformers, the streaming model saves
+significantly more space than traditional data-parallel languages in
+many common cases. On GPUs, the device memory is very limited relative to
+the available parallelism, making streaming essential in large
+computations. On CPUs, streaming can help improve cache performance,
+and since fusion is not as essential on CPUs as on GPUs, the streaming
+model can leverage pre-compiled kernels that are hand-optimized with
+SIMD instructions and multi-threading.
+
+<span id=fcl />
+_A low-level functional GPU language (Martin Dybdal)_
+
+Obsidian is an embedded functional language that allows playfulness
+and experimentation when developing data-parallel algorithms for GPUs.
+Obsidian gives explicit control of shared-memory usage, fusion,
+loop-unrolling, warp-level computations etc., when developing new GPU
+algorithms. This feature makes it possible to generate high
+performance GPU-kernels, in a simpler framework than plain
+CUDA/OpenCL.
+
+In this presentation, we show how to "unembed" Obsidian to create a
+standalone language FCL, a language at the same level as Obsidian, but
+designed as an intermediate language. Our plan is to use FCL as an
+intermediate language for our APL-compiler, and to allow users to
+inline FCL-terms, when performance tuning is necessary.
+
+#### 10:30-11:30 &nbsp; The Futhark Parallel Optimizing Compiler
+
+#### 11:45-13:00 &nbsp; Bohrium
+
+#### 15:15-16:00 &nbsp; Miscellaneous Topics
+
+<span id=elsman />
+_The HIPERFIT portfolio management prototype (Martin Elsman, DIKU)_
+
+We present the HIPERFIT portfolio management prototype, which aims at
+integrating various HIPERFIT research projects, such as a financial
+contract modeling framework and generic parallel monte-carlo pricing.
+
+Integration work and design has primarily been undertaken by Danil
+Annenkov. Features added by BSc student projects.
+
+<span id=poulsen />
+_Nominal indeterminism in finance (Rolf Poulsen, IMF)_
+
+A tour de force of things in finance that are not exactly what they
+sound like. For instance: Risk-neutral pricing does not assume
+risk-neutrality. The FED isn't federal. Hedge funds don't
+hedge. What's up with the Mertons? Default isn't default. Change of
+numeraire changes the denominator, not the numerator.
+
+
