@@ -154,7 +154,7 @@ draft schedule.
 
 #### 09:00-10:15 &nbsp; Compiling for Parallel Computations
 
-_<a name="meisner"></a>Streaming Nested Data Parallelism (Frederik Meisner Madsen)_
+_<a name="meisner"></a>__Streaming Nested Data Parallelism__ (Frederik Meisner Madsen)_
 
 This talk presents ongoing work on a streaming dataflow model for
 nested data parallelism. By evaluating bulk operations in chunks in a
@@ -167,7 +167,7 @@ and since fusion is not as essential on CPUs as on GPUs, the streaming
 model can leverage pre-compiled kernels that are hand-optimized with
 SIMD instructions and multi-threading.
 
-_<a name="dybdal"></a>A low-level functional GPU language (Martin Dybdal)_
+_<a name="dybdal"></a>__A low-level functional GPU language__ (Martin Dybdal)_
 
 Obsidian is an embedded functional language that allows playfulness
 and experimentation when developing data-parallel algorithms for GPUs.
@@ -187,7 +187,7 @@ inline FCL-terms, when performance tuning is necessary.
 
 #### 11:45-13:00 &nbsp; Bohrium
 
-_<a name="skovhede">SME and BPU: High-level development for low-level hardware</a> (Kenneth Skovhede, NBI)_
+_<a name="skovhede"></a>__SME and BPU: High-level development for low-level hardware__ (Kenneth Skovhede, NBI)_
 
 In this talk I present the motivation and ideas behind the FPGA
 backend for the Bohrium Runtime System. I start by covering the
@@ -197,7 +197,7 @@ describe how we use the SME model and our VHDL generation system to
 rapidly prototype hardware. Finally I show the current state of the
 BPU and show how the processor maps to FPGA hardware.
 
-_<a name="kristensen">Fusion of Parallel Array Operations</a> (Mads Kristensen, NBI)_
+_<a name="kristensen"></a>__Fusion of Parallel Array Operations__ (Mads Kristensen, NBI)_
 
 Array operation fusion is a program transformation that combines, or
 fuses, multiple array operations into a kernel of operations. When it
@@ -217,7 +217,7 @@ as that Weighted Loop Fusion Problem. In my talk, I will show that
 this formulation is insufficient when optimizing for memory access
 reuse and introduce a new graph formulation that is sufficient.
  
-_<a name="vinter">BDAE – Big Data Analysis Engine</a> (Brian Vinter, NBI)_
+_<a name="vinter"></a>__BDAE – Big Data Analysis Engine__ (Brian Vinter, NBI)_
 
 In Big Data Analytics the primary processing approach is MapReduce,
 which based on a physical distribution of the data so that processing
@@ -239,7 +239,7 @@ codes becomes with this setup.
 
 #### 14:00-15:00 &nbsp; Risk Management
 
-_<a name="ross">Automated Loan Credit Rating</a> (Omri Ross, IMF)_
+_<a name="ross"></a>__Automated Loan Credit Rating__ (Omri Ross, IMF)_
 
 The current process of credit rating for a loan approval in Denmark is
 manual, cumbersome and non-optimal. We would like to propose a process
@@ -249,11 +249,11 @@ reduction algorithm on the original data and then running a
 classification algorithm on the results of the first step. We improve
 existing results compared to the standard benchmarks.
 
-_<a name="shturmov">The MC-squared problem</a> (Oleksandr Shturmov, DIKU)_
+_<a name="shturmov"></a>__The MC-squared problem__ (Oleksandr Shturmov, DIKU)_
 
 #### 15:15-16:00 &nbsp; Miscellaneous Topics
 
-_<a name="elsman"></a>The HIPERFIT portfolio management prototype (Martin Elsman, DIKU)_
+_<a name="elsman"></a>__The HIPERFIT portfolio management prototype__ (Martin Elsman, DIKU)_
 
 We present the HIPERFIT portfolio management prototype, which aims at
 integrating various HIPERFIT research projects, such as a financial
@@ -262,7 +262,7 @@ contract modeling framework and generic parallel monte-carlo pricing.
 Integration work and design has primarily been undertaken by Danil
 Annenkov. Features added by BSc student projects.
 
-_<a name="poulsen"></a>Nominal indeterminism in finance (Rolf Poulsen, IMF)_
+_<a name="poulsen"></a>__Nominal indeterminism in finance__ (Rolf Poulsen, IMF)_
 
 A tour de force of things in finance that are not exactly what they
 sound like. For instance: Risk-neutral pricing does not assume
