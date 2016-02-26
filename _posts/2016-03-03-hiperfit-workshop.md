@@ -38,7 +38,7 @@ HIPERFIT work can continue to make a difference in the years to come.
  <ul>
  <li><i><a href="#meisner">Streaming nested data parallelism</a></i> (Frederik Meisner Madsen, DIKU)</li>
  <li><i><a href="#dybdal">A low-level functional GPU language</a></i> (Martin Dybdal, DIKU)</li>
- <li><i><a href="#annenkov"></a></i> (Danil Annenkov, DIKU)</li>
+ <li><i><a href="#annenkov">Towards a cost model for simple data-parallel programs</a></i> (Danil Annenkov, DIKU)</li>
  </ul>
 </dd>
 <dt>10:15</dt><dd>Break</dd>
@@ -182,6 +182,19 @@ standalone language FCL, a language at the same level as Obsidian, but
 designed as an intermediate language. Our plan is to use FCL as an
 intermediate language for our APL-compiler, and to allow users to
 inline FCL-terms, when performance tuning is necessary.
+
+_<a name="annenkov"></a>__Towards a cost model for simple data-parallel programs__ (Danil Annnenkov)_
+
+In this presentation, we present a simple cost semantics for a small
+parallel language with the goal of judging whether one particular
+program is more efficient than another (under simple models of the
+underlying parallel hardware). In essence, the cost semantics will
+allow us to reason about and compare program performance as well as
+determine whether some transformation is an optimisation. We present
+some work-in-progress results. Specifically, we give an operational
+semantics of a simple data parallel language annotated instrumented
+with costs along with some suggestions of how to take into account
+available resources for program execution.
 
 #### 10:30-11:30 &nbsp; The Futhark Parallel Optimizing Compiler
 
