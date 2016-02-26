@@ -38,19 +38,18 @@ HIPERFIT work can continue to make a difference in the years to come.
  <ul>
  <li><i><a href="#meisner">Streaming nested data parallelism</a></i> (Frederik Meisner Madsen, DIKU)</li>
  <li><i><a href="#dybdal">A low-level functional GPU language</a></i> (Martin Dybdal, DIKU)</li>
- <li><i><a href=""></a></i> (Danil Annenkov, DIKU)</li>
+ <li><i><a href="#annenkov"></a></i> (Danil Annenkov, DIKU)</li>
  </ul>
 </dd>
 <dt>10:15</dt><dd>Break</dd>
 <dt>10:30</dt><dd>The Futhark Optimizing Parallel Compiler (Chair: Fritz Henglein)
  <ul>
- <li><i><a href=""></a></i> (Troels Henriksen, DIKU)</li>
- <li><i><a href=""></a></i> (NN)</li>
+ <li><i><a href="#henriksen">Introduction to the Futhark language and compiler</a></i> (Troels Henriksen, DIKU)</li>
+ <li><i><a href="#serup">Experiences porting Accelerate code to Futhark</a></i> (Niels Gustav Westphal Serup)</li>
  </ul>
 </dd>
 <dt>11:30</dt><dd>Break</dd>
 <dt>11:45</dt><dd>Bohrium (Chair: Andrzej Filinski)
-<p><em>Bohrium status, etc.</em></p> 
  <ul>
  <li><i><a href="#skovhede">SME and BPU: High-level development for low-level hardware</a></i> (Kenneth Skovhede, NBI)</li> 
  <li><i><a href="#kristensen">Fusion of Parallel Array Operations</a></i> (Mads Kristensen, NBI)</li> 
@@ -184,6 +183,29 @@ intermediate language for our APL-compiler, and to allow users to
 inline FCL-terms, when performance tuning is necessary.
 
 #### 10:30-11:30 &nbsp; The Futhark Parallel Optimizing Compiler
+
+_<a name="henriksen"></a>__Introduction to the Futhark language and compiler__ (Troels Henriksen, DIKU)_
+
+Compiling real-world applications to efficient parallel code,
+especially when targeting vector hardware such as GPUs, requires an
+optimiser and code generator that can exploit a combination of
+high-level invariants and low-level optimisations.  We present a
+purely functional data-parallel programming language, named Futhark,
+that supports nested map-reduce parallelism on regular arrays, but
+also a set of "imperative" constructs, such as in-place updates and
+do-loops.  We report in-progress work on our optimising Futhark
+compiler, and demonstrate significant speedups for a range of
+benchmark programs.
+
+_<a name="serup"></a>__Experiences porting Accelerate code to Futhark__ (Niels Gustav Westphal Serup, DIKU)_
+
+The people working on the embedded array language Accelerate have a
+repository of computation-heavy benchmarks.  In this talk I present
+how I have ported some of their benchmarks to Futhark.  I then
+describe how I have creatively measured the correctness of the Futhark
+code, which can be challenging due to several technical factors.
+Finally I compare and discuss the execution time of hand-written
+Futhark code and hand-written Accelerate code.
 
 #### 11:45-13:00 &nbsp; Bohrium
 
