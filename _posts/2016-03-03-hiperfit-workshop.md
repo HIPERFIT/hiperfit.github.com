@@ -99,7 +99,7 @@ Anders Pall Skött (CFIR) |           1 | 1 | 0 | 0 |
 Andrzej Filinski (DIKU) |            1 | 1 | 1 | 1 |
 Anette Broløs (CFIR) |               1 | 1 | 0 | 0 |
 Brian Vinter (NBI) |                 1 | 1 | 1 | 1 |
-Carl Balslev Clausen (SimCorp) |     1 | 1 | 0 | 0 |
+Carl Balslev Clausen (SimCorp) |     0 | 0 | 0 | 0 |
 Christian Andreetta (Nordea) |       1 | 1 | 0 | 0 |
 Cosmin Oancea (DIKU) |               1 | 1 | 1 | 1 |
 Danil Annenkov (DIKU) |              1 | 1 | 1 | 1 |
@@ -128,6 +128,7 @@ Simon Lund (NBI) |                   0 | 0 | 0 | 0 |
 Troels Blum (NBI) |                  1 | 1 | 1 | 1 |
 Troels Henriksen (DIKU) |            1 | 1 | 1 | 1 |
 Uwe Heissner (Nordea) |              1 | 0 | 0 | 0 |
+Niels Gustav Westphal Serup (DIKU) | 1 | 1 | 0 | 0 |
 Vivek Shah (DIKU) |                  0 | 0 | 0 | 0 |
 Total |                             28 |26 |21 |20 |
 
