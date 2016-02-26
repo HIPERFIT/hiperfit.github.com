@@ -49,20 +49,18 @@ HIPERFIT work can continue to make a difference in the years to come.
  </ul>
 </dd>
 <dt>11:30</dt><dd>Break</dd>
-<dt>11:45</dt><dd>Bohrium (Chair: Brian Vinter)
+<dt>11:45</dt><dd>Bohrium (Chair: Andrzej Filinski)
 <p><em>Bohrium status, etc.</em></p> 
-<!--
  <ul>
- <li><i><a href="/pdf/HIPERFIT_Dec2014_Skovhede.pdf">Bohrium - Bridging High Performance and High Productivity</a></i> (Kenneth Skovhede, NBI)</li> 
- <li><i><a href="http://prezi.com/exlqyny_poct/?utm_campaign=share&utm_medium=copy&rc=ex0share">Effective Interoperability</a></i> (Simon Lund, NBI)</li>
- <li><i><a href="/pdf/HIPERFIT_Dec2014_Shah.pdf">Transactional Partitioning: A New Abstraction for Main-memory Databases</a></i> (Vivek Shah, DIKU)</li>
+ <li><i><a href="#skovhede">SME and BPU: High-level development for low-level hardware</a></i> (Kenneth Skovhede, NBI)</li> 
+ <li><i><a href="#kristensen">Fusion of Parallel Array Operations</a></i> (Mads Kristensen, NBI)</li> 
+ <li><i><a href="#vinter">BDAE – Big Data Analysis Engine</a></i> (Brian Vinter, NBI)</li> 
  </ul>
--->
 </dd>
 <dt>13:00</dt><dd>Lunch</dd>
 <dt>14:00</dt><dd>Risk Management (Chair: Rolf Poulsen) 
  <ul>
- <li><i><a href="">Credit Scoring</a></i> (Omri Ross, IMF)</li>
+ <li><i><a href="#ross">Automated Loan Credit Rating</a></i> (Omri Ross, IMF)</li>
  <li><i><a href="">The MC-squared problem</a></i> (Oleksandr Shturmov, DIKU)</li>
  </ul>
 </dd>
@@ -152,7 +150,7 @@ draft schedule.
 </dl>
 
 
-### Abstracts
+### Abstracts for Talks on March 3, 2016
 
 #### 09:00-10:15 &nbsp; Compiling for Parallel Computations
 
@@ -188,6 +186,70 @@ inline FCL-terms, when performance tuning is necessary.
 #### 10:30-11:30 &nbsp; The Futhark Parallel Optimizing Compiler
 
 #### 11:45-13:00 &nbsp; Bohrium
+
+_<a name="skovhede">SME and BPU: High-level development for low-level hardware</a> (Kenneth Skovhede, NBI)_
+
+In this talk I present the motivation and ideas behind the FPGA
+backend for the Bohrium Runtime System. I start by covering the
+evolution and experiments we performed with Synchronous Message
+Exchange (SME) as a design pattern for developing hardware. I then
+describe how we use the SME model and our VHDL generation system to
+rapidly prototype hardware. Finally I show the current state of the
+BPU and show how the processor maps to FPGA hardware.
+
+_<a name="kristensen">Fusion of Parallel Array Operations</a> (Mads Kristensen, NBI)_
+
+Array operation fusion is a program transformation that combines, or
+fuses, multiple array operations into a kernel of operations. When it
+is applicable, the technique can drastically improve cache utilization
+through temporal data locality and enables other program
+transformations such as streaming and array contraction. Thus, the
+challenge is to find which array operations to fuse in order to
+maximize memory access reuse.
+ 
+The traditional formulation of this problem is as a graph partitioning
+problem. Given a DAG that represents array operation dependencies and
+is extended with undirected weight edges and fuse-preventing edges,
+find a partition that minimizes the sum of the weight edges that cuts
+between partition blocks while nodes connected with fuse-preventing
+edges are not in the same partition block. This graph problem is known
+as that Weighted Loop Fusion Problem. In my talk, I will show that
+this formulation is insufficient when optimizing for memory access
+reuse and introduce a new graph formulation that is sufficient.
+ 
+_<a name="vinter">BDAE – Big Data Analysis Engine</a> (Brian Vinter, NBI)_
+
+In Big Data Analytics the primary processing approach is MapReduce,
+which based on a physical distribution of the data so that processing
+is done in parallel as a direct consequence of the data locality. This
+approach is very scalable and to a large degree convenient for
+programmers since the programmer initially need only to write code to
+process the data that is on the individual node. Unfortunately, the
+physical distribution of the data is done with conventional
+file-system approaches, i.e. in fixed size blocks, in the most popular
+HDFS the standard is 64MB blocks. This fixed size approach means that
+data that is semantically correlated is split between two storage
+nodes, and to handle this scenario the programmer must then add code
+to manage communication between the two nodes so that the correct
+data-representation can be processed.
+ 
+In BDAE we address this challenge, the talk will outline the BDAE
+architecture and seek to demonstrate how easy programming new analysis
+codes becomes with this setup.
+
+#### 14:00-15:00 &nbsp; Risk Management
+
+_<a name="ross">Automated Loan Credit Rating</a> (Omri Ross, IMF)_
+
+The current process of credit rating for a loan approval in Denmark is
+manual, cumbersome and non-optimal. We would like to propose a process
+allowing for a quick credit decision based on the available personal
+data. Our process has two steps: First using a non-linear dimensional
+reduction algorithm on the original data and then running a
+classification algorithm on the results of the first step. We improve
+existing results compared to the standard benchmarks.
+
+_<a name="shturmov">The MC-squared problem</a> (Oleksandr Shturmov, DIKU)_
 
 #### 15:15-16:00 &nbsp; Miscellaneous Topics
 
