@@ -67,7 +67,7 @@ HIPERFIT work can continue to make a difference in the years to come.
 <dt>15:15</dt><dd>Miscellaneous Topics (Chair: Cosmin Oancea)
  <ul>
  <li><i><a href="#elsman">The HIPERFIT portfolio management prototype</a></i> (Martin Elsman, DIKU)</li>
- <li><i><a href="#poulsen">Hedge Funds Don't Hedge – And 50-Odd Other Odd Things in Finance</a></i> (Rolf Poulsen, IMF)</li>
+ <li><i><a href="#poulsen">Hedge Funds Don't Hedge - And 50-Odd Other Odd Things in Finance</a></i> (Rolf Poulsen, IMF)</li>
  </ul>
 </dd>
 <dt>16:00</dt><dd>Industry feedback (Chair: Fritz Henglein)</dd>
@@ -298,7 +298,7 @@ contract modeling framework and generic parallel monte-carlo pricing.
 Integration work and design has primarily been undertaken by Danil
 Annenkov. Features added by BSc student projects.
 
-_<a name="poulsen"></a>__Hedge Funds Don't Hedge – And 50-Odd Other Odd Things in Finance__ (Rolf Poulsen, IMF)_
+_<a name="poulsen"></a>__Hedge Funds Don't Hedge - And 50-Odd Other Odd Things in Finance__ (Rolf Poulsen, IMF)_
 
 A tour de force of things in finance that are not exactly what they
 sound like. For instance: Risk-neutral pricing does not assume
