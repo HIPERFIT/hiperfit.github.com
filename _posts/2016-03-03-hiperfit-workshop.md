@@ -38,7 +38,7 @@ HIPERFIT work can continue to make a difference in the years to come.
  <ul>
  <li><i><a href="#meisner">Streaming nested data parallelism</a></i> (Frederik Meisner Madsen, DIKU)</li>
  <li><i><a href="#dybdal">A low-level functional GPU language</a></i> (Martin Dybdal, DIKU)</li>
- <li><i><a href="#annenkov">Towards a cost model for simple data-parallel programs</a></i> (Danil Annenkov, DIKU)</li>
+ <li><i><a href="#annenkov">Verifying the generation of payoff-language expressions</a></i> (Danil Annenkov, DIKU)</li>
  </ul>
 </dd>
 <dt>10:15</dt><dd>Break</dd>
@@ -183,18 +183,20 @@ designed as an intermediate language. Our plan is to use FCL as an
 intermediate language for our APL-compiler, and to allow users to
 inline FCL-terms, when performance tuning is necessary.
 
-_<a name="annenkov"></a>__Towards a cost model for simple data-parallel programs__ (Danil Annnenkov)_
+_<a name="annenkov"></a>__Verifying the generation of payoff-language expressions__ (Danil Annnenkov)_
 
-In this presentation, we present a simple cost semantics for a small
-parallel language with the goal of judging whether one particular
-program is more efficient than another (under simple models of the
-underlying parallel hardware). In essence, the cost semantics will
-allow us to reason about and compare program performance as well as
-determine whether some transformation is an optimisation. We present
-some work-in-progress results. Specifically, we give an operational
-semantics of a simple data parallel language annotated instrumented
-with costs along with some suggestions of how to take into account
-available resources for program execution.
+In this presentation, we present some results on pushing forward code
+certification in connection with the HIPERFIT Portfolio Management
+Prototype project. The contract DSL, which is used to express a large
+variety of financial contracts, is translated into an intermediate
+language (IL) inspired by traditional approaches to payoff
+languages. The IL is mapped relatively straightforwardly to a subset
+of language constructs in other languages, such as OpenCL, Haskell,
+and Futhark. The generated code is then "fused" into an appropriate
+contract valuation engine. Translation from the contract DSL to the IL
+is proven correct with respect to a language semantics specified in
+the Coq proof assistant. The extracted translation code works nicely
+with the certified code for contract analysis and transformation.
 
 #### 10:30-11:30 &nbsp; The Futhark Parallel Optimizing Compiler
 
