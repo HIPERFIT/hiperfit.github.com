@@ -121,7 +121,7 @@ Mogens Steffensen (IMF) |            0 | 0 | 0 | 0 |
 Niels Hallenberg (SimCorp) |         1 | 1 | 0 | 0 |
 Oleksandr Shturmov (DIKU) |          1 | 1 | 1 | 1 |
 Omri Ross (IMF) |                    1 | 1 | 1 | 1 |
-Patrick Bahr (ITU) |                 1 | 1 | 1 | 1 |
+Patrick Bahr (ITU) |                 1 | 1 | 0 | 0 |
 Rolf Poulsen (IMF) |                 1 | 1 | 1 | 1 |
 Simon Ellersgaard (IMF) |            0 | 0 | 0 | 0 |
 Simon Lund (NBI) |                   0 | 0 | 0 | 0 |
@@ -130,7 +130,7 @@ Troels Henriksen (DIKU) |            1 | 1 | 1 | 1 |
 Uwe Heissner (Nordea) |              1 | 0 | 0 | 0 |
 Niels Gustav Westphal Serup (DIKU) | 1 | 1 | 0 | 0 |
 Vivek Shah (DIKU) |                  0 | 0 | 0 | 0 |
-Total |                             28 |26 |21 |20 |
+Total |                             28 |26 |20 |19 |
 
 ### Schedule March 4, 2016 (HIPERFIT staff only) 
 
