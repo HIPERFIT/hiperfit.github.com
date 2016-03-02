@@ -97,7 +97,7 @@ research center.
 | ---- |:-------:|:--------------:|:-------:|:----:|
 Anders Pall Skött (CFIR) |           1 | 1 | 0 | 0 |
 Andrzej Filinski (DIKU) |            1 | 1 | 1 | 1 |
-Anette Broløs (CFIR) |               1 | 1 | 0 | 0 |
+Anette Broløs (CFIR) |               1 | 0 | 0 | 0 |
 Brian Vinter (NBI) |                 1 | 1 | 1 | 1 |
 Carl Balslev Clausen (SimCorp) |     0 | 0 | 0 | 0 |
 Christian Andreetta (Nordea) |       1 | 1 | 0 | 0 |
@@ -109,6 +109,7 @@ James Avery (NBI) |                  0 | 0 | 0 | 0 |
 Jonas Bardino (NBI) |                1 | 1 | 1 | 1 |
 Ken Friis Larsen (DIKU) |            1 | 1 | 1 | 1 |
 Kenneth Skovhede (NBI) |             1 | 1 | 1 | 1 |
+Klaus Birkelund Jensen (NBI) |       1 | 1 | 1 | 1 |
 Lykke Rasmussen (IMF) |              0 | 0 | 0 | 0 |
 Mads R. B. Kristensen (NBI) |        1 | 1 | 1 | 1 |
 Maj-Britt Nordfang (IMF) |           1 | 0 | 1 | 0 |
@@ -130,7 +131,7 @@ Troels Henriksen (DIKU) |            1 | 1 | 1 | 1 |
 Uwe Heissner (Nordea) |              1 | 0 | 0 | 0 |
 Niels Gustav Westphal Serup (DIKU) | 1 | 1 | 0 | 0 |
 Vivek Shah (DIKU) |                  0 | 0 | 0 | 0 |
-Total |                             28 |26 |20 |19 |
+Total |                             29 |26 |21 |20 |
 
 ### Schedule March 4, 2016 (HIPERFIT staff only) 
 
