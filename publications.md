@@ -6,11 +6,9 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* Rolf Poulsen. Hedge Funds Don't Hedge - And 50-Odd Other Odd Things in Finance. Wilmott Magazine. March 2016.
+* Rolf Poulsen. __Hedge Funds Don't Hedge - And 50-Odd Other Odd Things in Finance__. In _Wilmott Magazine_. March 2016.
 
-* Simon Ellersgaard Nielsen, Martin Jönsson, and Rolf Poulsen. The
-Fundamental Theorem of Derivative Trading: Exposition, Extension, and
-Experiments. Quantitative Finance. February 2016.
+* Simon Ellersgaard Nielsen, Martin Jönsson, and Rolf Poulsen. __The Fundamental Theorem of Derivative Trading: Exposition, Extension, and Experiments__. In _Quantitative Finance_. February 2016.
 
 * Michael Hanke, Rolf Poulsen, and Alex Weissensteiner. __Where would the EUR/CHF exchange rate be without the SNB's minimum exchange rate policy?__ In _Journal of Futures Markets_. Volume 35(12), pp 1103–1116, December 2015.
 
