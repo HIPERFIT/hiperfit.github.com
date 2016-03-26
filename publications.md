@@ -6,6 +6,14 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Rolf Poulsen. Hedge Funds Don't Hedge - And 50-Odd Other Odd Things in Finance. Wilmott Magazine. March 2016.
+
+* Simon Ellersgaard Nielsen, Martin Jönsson, and Rolf Poulsen. The
+Fundamental Theorem of Derivative Trading: Exposition, Extension, and
+Experiments. Quantitative Finance. February 2016.
+
+* Michael Hanke, Rolf Poulsen, and Alex Weissensteiner. __Where would the EUR/CHF exchange rate be without the SNB's minimum exchange rate policy?__ In _Journal of Futures Markets_. Volume 35(12), pp 1103–1116, December 2015.
+
 * Simon A. F. Lund. __A High Performance Backend for Array-Oriented
 Programming on Next-Generation Processing Units__. PhD thesis. September 2015. [PDF](/pdf/Simon_Andreas_Frimann_Lund_PhDThesis2015.pdf).
 
@@ -17,6 +25,11 @@ Functional High-Performance Computing (FHPC'15)_. Vancouver, Canada. September, 
 * Michael Budde, Martin Dybdal, and Martin Elsman. __Compiling APL to Accelerate through a Typed Array Intermediate Language__. In _Proceedings of the 2nd ACM SIGPLAN International Workshop 
 on Libraries, Languages and Compilers for Array Programming (ARRAY'15)_. Portland, Oregon, USA. June, 2015.  [pdf](/pdf/Array15BuddeDybdalElsman.pdf).
 
+* Jan Palczewski, Rolf Poulsen, Klaus Reiner Schenk-Hoppe, and Huamao
+Wang. __Optimal Portfolio Strategies under Transaction Costs:
+Numerical Solutions for State-Dependent Drift__. In _European Journal
+of Operational Research_. Volume 243(3), pp 921-931. June 2015.
+
 * Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
 Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. __A Financial
 Benchmark for GPGPU Compilation__. DIKU Technical Report no 2015/02. ISSN 0107-8283. 
@@ -26,11 +39,6 @@ Extended version of CPC'15 paper. January, 2015. [pdf](/pdf/finbenchmarkTR2015.p
 Andreetta. __A Financial Benchmark for GPGPU Compilation__. In _18th
 International Workshop on Compilers for Parallel Computing (CPC'15)_. January, 2015.
 
-* Jan Palczewski, Rolf Poulsen, Klaus Reiner Schenk-Hoppe, and Huamao
-Wang. __Optimal Portfolio Strategies under Transaction Costs:
-Numerical Solutions for State-Dependent Drift__. In _European Journal
-of Operational Research_. 2015. To appear. 
-
 * Kenneth Bruhn, Per Linnemann and Mogens Steffensen. __A Comparison of
 Modern Investment-Linked Pension Savings Products__. In _Annals
 of Actuarial Science_. 2014. To appear.
@@ -38,10 +46,6 @@ of Actuarial Science_. 2014. To appear.
 * Morten Tolver Kronborg and Mogens Steffensen. __Optimal Consumption,
 Investment and Life insurance with Surrender Option
 Guarantee__. In _Scandinavian Actuarial Journal_. [DOI:10.1080/03461238.2013.775964](http://www.tandfonline.com/doi/abs/10.1080/03461238.2013.775964?journalCode=sact20#). 2014.
-
-* Michael Hanke, Rolf Poulsen, and Alex Weissensteiner. __Where would
-the EUR/CHF exchange rate be without the SNB's minimum exchange rate
-policy?__ In _Journal of Futures Markets_. 2014. Forthcoming.
 
 * Patrick Bahr, Jost Berthold, and Martin Elsman. __Towards Certified Management of Financial Contracts__. In _Proceedings of the 26th Nordic Workshop on Programming Theory ([NWPT'14](http://ceres.hh.se/mediawiki/index.php/NWPT_2014))_. October, 2014. [pdf](/pdf/NWPT14Contracts.pdf).
 
