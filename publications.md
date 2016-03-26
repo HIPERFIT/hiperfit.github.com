@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Lykke Rasmussen. __Computational Finance - on the search for performance__. PhD thesis. March 2016. [PDF](/pdf/phd16lr.pdf).
+
 * Rolf Poulsen. __Hedge Funds Don't Hedge - And 50-Odd Other Odd Things in Finance__. In _Wilmott Magazine_. March 2016.
 
 * Simon Ellersgaard Nielsen, Martin Jönsson, and Rolf Poulsen. __The Fundamental Theorem of Derivative Trading: Exposition, Extension, and Experiments__. In _Quantitative Finance_. February 2016.
