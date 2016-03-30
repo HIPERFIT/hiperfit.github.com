@@ -6,16 +6,20 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* Lykke Rasmussen. __Computational Finance - on the search for performance__. PhD thesis. March 2016. [PDF](/pdf/phd16lr.pdf).
+* Lykke Rasmussen. __Computational Finance - on the search for performance__. PhD thesis. Math, University of Copenhagen. March 2016. [PDF](/pdf/phd16lr.pdf).
 
 * Rolf Poulsen. __Hedge Funds Don't Hedge - And 50-Odd Other Odd Things in Finance__. In _Wilmott Magazine_. March 2016.
 
 * Simon Ellersgaard Nielsen, Martin Jönsson, and Rolf Poulsen. __The Fundamental Theorem of Derivative Trading: Exposition, Extension, and Experiments__. In _Quantitative Finance_. February 2016.
 
+* Simon Ellersgaard Nielsen. __Essays on Rational Portfolio Theory__. PhD thesis. Math, University of Copenhagen. February 2016.
+
+* Troels Blum. __Automatic Parallelization of Scientific Applications__. PhD thesis. NBI, University of Copenhagen. January 2016.
+
 * Michael Hanke, Rolf Poulsen, and Alex Weissensteiner. __Where would the EUR/CHF exchange rate be without the SNB's minimum exchange rate policy?__ In _Journal of Futures Markets_. Volume 35(12), pp 1103–1116, December 2015.
 
 * Simon A. F. Lund. __A High Performance Backend for Array-Oriented
-Programming on Next-Generation Processing Units__. PhD thesis. September 2015. [PDF](/pdf/Simon_Andreas_Frimann_Lund_PhDThesis2015.pdf).
+Programming on Next-Generation Processing Units__. PhD thesis. NBI, University of Copenhagen. September 2015. [PDF](/pdf/Simon_Andreas_Frimann_Lund_PhDThesis2015.pdf).
 
 * Frederik Meisner Madsen, Robert Clifton-Everest, Manuel Chakravarty, and Gabriele Keller. __Functional Array Streams__. In _Proceedings of the 4th ACM SIGPLAN Workshop on
 Functional High-Performance Computing (FHPC'15)_. Vancouver, Canada. September, 2015.
