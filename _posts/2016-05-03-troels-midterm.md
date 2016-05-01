@@ -12,7 +12,7 @@ _Presenter:_ Troels Henriksen, PhD. Student, DIKU/University of Copenhagen
 
 _Time:_ Tuesday, May 3, 2016, 15:15-16:00
 
-_Place:_ HCØ, AUD 7, Universitetsparken 5, University of Copenhagen.
+_Place:_ HCØ, AUD 10, Universitetsparken 5, University of Copenhagen.
 
 ## Abstract:
 

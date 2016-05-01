@@ -10,7 +10,7 @@ Seminars are held according to the schedule below (usually every second week).
 
 #### Schedule for HIPERFIT seminars (even weeks, reverse chronological order):
 
-- __2016-05-03:__ PhD Status Seminar. Troels Henriksen, DIKU. HCØ, Auditorium 7, Universitetsparken 5, 2100 Copenhagen Ø. 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2016/05/03/troels-midterm).
+- __2016-05-03:__ PhD Status Seminar. Troels Henriksen, DIKU. HCØ, Auditorium 10, Universitetsparken 5, 2100 Copenhagen Ø. 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2016/05/03/troels-midterm).
 
 - __2016-03-31:__ PhD Thesis Defence. Computational Finance - on the search for performance. Lykke Rasmussen. Math. HCØ, Auditorium 10, Universitetsparken 5, 2100 Copenhagen Ø. 13:15-?. Thursday. [Seminar Announcement](http://hiperfit.dk/news/2016/03/31/lykke-phd).
 
