@@ -16,6 +16,8 @@ group: navigation
 
 * Troels Blum. __Automatic Parallelization of Scientific Applications__. PhD thesis. NBI, University of Copenhagen. January 2016.
 
+* Tao Zou, Ronan Le Bras, Marcos Vaz Salles, Alan Demers, Johannes Gehrke. __ClouDiA: A Deployment Advisor for Public Clouds__. In _The VLDB Journal 24(5): 633-653, 2015_. Special Issue on the Best Papers of VLDB 2013. [PDF](http://link.springer.com/content/pdf/10.1007%2Fs00778-014-0375-9.pdf).
+
 * Michael Hanke, Rolf Poulsen, and Alex Weissensteiner. __Where would the EUR/CHF exchange rate be without the SNB's minimum exchange rate policy?__ In _Journal of Futures Markets_. Volume 35(12), pp 1103–1116, December 2015.
 
 * Simon A. F. Lund. __A High Performance Backend for Array-Oriented
