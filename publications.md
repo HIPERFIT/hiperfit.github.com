@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Troels Henriksen, Ken Friis Larsen, and Cosmin E. Oancea. __Design and GPGPU Performance of Futhark's Redomap Construct__. In _Proceedings of the 3rd ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY'16)_. Santa Barbara, California, USA. June, 2016.  [pdf](/pdf/array16HenriksenLarsenOancea.pdf).
+
 * Lykke Rasmussen. __Computational Finance - on the search for performance__. PhD thesis. Math, University of Copenhagen. March 2016. [PDF](/pdf/phd16lr.pdf).
 
 * Rolf Poulsen. __Hedge Funds Don't Hedge - And 50-Odd Other Odd Things in Finance__. In _Wilmott Magazine_. March 2016.
