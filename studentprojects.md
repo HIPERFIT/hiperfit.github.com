@@ -61,31 +61,6 @@ compiler work.
 
 Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
 
-### Project: Map-Scan Loop Fusion in Futhark
-
-*Loop fusion* is an optimisation technique that combines several loops
-into one, which can result in less space usage, as intermediary arrays
-need no longer be constructed, as well as result in tighter code.
-This project is about improving the fusion capabilities in Futhark, a
-DIKU-developed data-parallel purely functional language aimed at
-high-performance GPGPU code.
-
-When generating GPGPU code for reductions, it has been observed that
-the optimal structure is often one where every thread first performs
-sequential reduction on a chunk of the input, followed by parallel
-reduction where the threads combine their work.  The function used for
-the sequential phase does not have to respect the usual properties
-required for parallel reductions (notably associativity), which can be
-exploited to permit aggressive fusion into the sequential phase.  We
-believe that the same technique could also be applied to parallel
-scans.
-
-This project is a good entry point for getting into compiler hacking.
-It is suitable for both bachelor's projects and ad-hoc 7.5 ECTS
-projects.
-
-Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
-
 ### Project: Efficient Histogram Computation on GPGPUs
 
 The code below shows an example of histogram computation:
