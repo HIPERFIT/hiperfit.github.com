@@ -6,24 +6,30 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Martin Dybdal, Martin Elsman, Bo Joel Svensson, and Mary Sheeran. __Low-level Functional GPU Programming for Parallel Algorithms__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. (Preliminary version appeared at CPC'16).
+
+* Troels Henriksen, Martin Dybdal, Henrik Urms, Anna Sofie Kiehn, Daniel Gavin, Hjalte Abelskov, Martin Elsman, and Cosmin Oancea. __APL on GPUs - A TAIL from the Past, Scribbled in Futhark__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016.
+
+* Christian Andreetta, Vivien B&#233;got, Jost Berthold, Martin Elsman, Fritz Henglein, Troels Henriksen, Maj-Britt Nordfang, and Cosmin E. Oancea. __FinPar: A Parallel Financial Benchmark__. In _ACM Transactions on Architecture and Code Optimization (TACO)_. Volume 13, Issue 2, Article 18. 27 pages. June, 2016. [DOI](http://dx.doi.org/10.1145/2898354). (Preliminary version appeared at CPC'15).
+
 * Troels Henriksen, Ken Friis Larsen, and Cosmin E. Oancea. __Design and GPGPU Performance of Futhark's Redomap Construct__. In _Proceedings of the 3rd ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY'16)_. Santa Barbara, California, USA. June, 2016.  [pdf](/pdf/array16HenriksenLarsenOancea.pdf).
 
-* Lykke Rasmussen. __Computational Finance - on the search for performance__. PhD thesis. Math, University of Copenhagen. March 2016. [PDF](/pdf/phd16lr.pdf).
+* Lykke Rasmussen. __Computational Finance - on the search for performance__. PhD thesis. Math, University of Copenhagen. March, 2016. [PDF](/pdf/phd16lr.pdf).
 
-* Rolf Poulsen. __Hedge Funds Don't Hedge - And 50-Odd Other Odd Things in Finance__. In _Wilmott Magazine_. March 2016.
+* Rolf Poulsen. __Hedge Funds Don't Hedge - And 50-Odd Other Odd Things in Finance__. In _Wilmott Magazine_. March, 2016.
 
-* Simon Ellersgaard Nielsen, Martin Jönsson, and Rolf Poulsen. __The Fundamental Theorem of Derivative Trading: Exposition, Extension, and Experiments__. In _Quantitative Finance_. February 2016.
+* Simon Ellersgaard Nielsen, Martin Jönsson, and Rolf Poulsen. __The Fundamental Theorem of Derivative Trading: Exposition, Extension, and Experiments__. In _Quantitative Finance_. February, 2016.
 
-* Simon Ellersgaard Nielsen. __Essays on Rational Portfolio Theory__. PhD thesis. Math, University of Copenhagen. February 2016.
+* Simon Ellersgaard Nielsen. __Essays on Rational Portfolio Theory__. PhD thesis. Math, University of Copenhagen. February, 2016.
 
-* Troels Blum. __Automatic Parallelization of Scientific Applications__. PhD thesis. NBI, University of Copenhagen. January 2016.
+* Troels Blum. __Automatic Parallelization of Scientific Applications__. PhD thesis. NBI, University of Copenhagen. January, 2016.
 
 * Tao Zou, Ronan Le Bras, Marcos Vaz Salles, Alan Demers, Johannes Gehrke. __ClouDiA: A Deployment Advisor for Public Clouds__. In _The VLDB Journal 24(5): 633-653, 2015_. Special Issue on the Best Papers of VLDB 2013. [PDF](http://link.springer.com/content/pdf/10.1007%2Fs00778-014-0375-9.pdf).
 
-* Michael Hanke, Rolf Poulsen, and Alex Weissensteiner. __Where would the EUR/CHF exchange rate be without the SNB's minimum exchange rate policy?__ In _Journal of Futures Markets_. Volume 35(12), pp 1103–1116, December 2015.
+* Michael Hanke, Rolf Poulsen, and Alex Weissensteiner. __Where would the EUR/CHF exchange rate be without the SNB's minimum exchange rate policy?__ In _Journal of Futures Markets_. Volume 35(12), pp 1103–1116, December, 2015.
 
 * Simon A. F. Lund. __A High Performance Backend for Array-Oriented
-Programming on Next-Generation Processing Units__. PhD thesis. NBI, University of Copenhagen. September 2015. [PDF](/pdf/Simon_Andreas_Frimann_Lund_PhDThesis2015.pdf).
+Programming on Next-Generation Processing Units__. PhD thesis. NBI, University of Copenhagen. September, 2015. [PDF](/pdf/Simon_Andreas_Frimann_Lund_PhDThesis2015.pdf).
 
 * Frederik Meisner Madsen, Robert Clifton-Everest, Manuel Chakravarty, and Gabriele Keller. __Functional Array Streams__. In _Proceedings of the 4th ACM SIGPLAN Workshop on
 Functional High-Performance Computing (FHPC'15)_. Vancouver, Canada. September, 2015.
@@ -36,7 +42,7 @@ on Libraries, Languages and Compilers for Array Programming (ARRAY'15)_. Portlan
 * Jan Palczewski, Rolf Poulsen, Klaus Reiner Schenk-Hoppe, and Huamao
 Wang. __Optimal Portfolio Strategies under Transaction Costs:
 Numerical Solutions for State-Dependent Drift__. In _European Journal
-of Operational Research_. Volume 243(3), pp 921-931. June 2015.
+of Operational Research_. Volume 243(3), pp 921-931. June, 2015.
 
 * Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
 Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. __A Financial
