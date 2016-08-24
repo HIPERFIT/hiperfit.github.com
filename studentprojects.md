@@ -11,6 +11,28 @@ the appropriate contact persons.
 
 ### Bachelor Projects
 
+### Project: Interpreter for Futhark
+
+As part of its research into parallel functional programming, HIPERFIT
+has developed a programming language, Futhark, and an optimising
+compiler targeting GPU execution.  However, *debugging* Futhark
+programs is difficult, partly because of the purity of the language
+(no `printf()` debugging), and partly due to the absence of good
+tools.  This project is about developing a debugging-oriented
+interpreter for the Futhark source language.
+
+While Futhark already has an interpreter, it operates on the internal
+optimised core language, which may diverge significantly from the
+original source text.  Futher, it has no amenities for tracing or
+debugging.  We imagine that an interpreter can be implemented that
+faithfully implements the semantics of the full source language, and
+supports breakpoints, single-stepping, and tracing for printing out
+program variables.
+
+Some prior Haskell experience will be needed.
+
+Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
+
 ### Project: The HIPERFIT Portfolio Management Prototype
 
 Please consult [the project background information](/pdf/HIPERFIT_PROTOTYPE_2016_ADDITIONAL_INFORMATION.pdf) and the [bachelor project teaser slides](/pdf/HIPERFIT_PROTOTYPE_2016.pdf).
