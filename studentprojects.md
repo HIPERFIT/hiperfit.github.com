@@ -14,7 +14,7 @@ the appropriate contact persons.
 ### Project: Interpreter for Futhark
 
 As part of its research into parallel functional programming, HIPERFIT
-has developed a programming language, Futhark, and an optimising
+has developed a programming language, [Futhark](http://futhark-lang.org), and an optimising
 compiler targeting GPU execution.  However, *debugging* Futhark
 programs is difficult, partly because of the purity of the language
 (no `printf()` debugging), and partly due to the absence of good
@@ -42,7 +42,7 @@ Contact persons: [Danil Annenkov](people.html) or [Martin Elsman](people.html).
 ### Project: CUDA Backend for Futhark
 
 As part of its research into parallel functional programming, HIPERFIT
-has developed a programming language, Futhark, and an optimising
+has developed a programming language, [Futhark](http://futhark-lang.org), and an optimising
 compiler targeting GPGPU.  Currently, the Futhark compiler generates
 code using the OpenCL library.  Another popular library, CUDA, is more
 widespread in scientific computing, and generated CUDA code may thus
@@ -59,7 +59,7 @@ Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
 ### Project: Compile-time Memory Allocation in Futhark
 
 As part of its research into parallel functional programming, HIPERFIT
-has developed a programming language, Futhark, and an optimising
+has developed a programming language, [Futhark](http://futhark-lang.org), and an optimising
 compiler targeting GPGPU.  During the later stages of the compilation
 pipeline, the Futhark compiler will insert explicit memory allocations
 in the program being compiled, and add annotations indicating in which
@@ -105,7 +105,7 @@ Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
 ### Project: Adding Function-Level Shape/Invariant Annotations to Futhark
 
 As part of its research into parallel functional programming, HIPERFIT
-has developed a programming language, Futhark, and an optimising
+has developed a programming language, [Futhark](http://futhark-lang.org), and an optimising
 compiler.  This project is about allowing the user to annotate, at function
 level, algebraic invariants between integer parameters, which for example, 
 may allow the compiler to accurately determine array shapes, and further
@@ -131,7 +131,7 @@ Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
 ### Project: OpenMP Backend for a Data-Parallel Functional Programming Language
 
 As part of its research into parallel functional programming, HIPERFIT
-has developed a programming language, Futhark, and an optimising
+has developed a programming language, [Futhark](http://futhark-lang.org), and an optimising
 compiler.  This project is about developing a compiler backend that
 generates code using [OpenMP](http://en.wikipedia.org/wiki/OpenMP) to
 achieve multi-core CPU parallelism.
