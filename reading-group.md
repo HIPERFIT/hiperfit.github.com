@@ -12,9 +12,9 @@ updated continuously.
 
 ### Time usage
 
-The reading group will run for 23 times, with an expected time usage
+The reading group will run for 16 times, with an expected time usage
 around 8 hours for each session (including preparation), which will
-total 184 hours, which should correspond to 7.5 ECTS.
+total 128 hours, which should correspond to 5 ECTS.
 
 ### Topics
 We will be reading papers in several topics in the core area of
@@ -91,7 +91,7 @@ meetings on voluntary basis.
  * December 17th: Cost models
     * [D. B. Skillicorn , W Cai. A cost calculus for parallel functional programming](http://www.sciencedirect.com/science/article/pii/S0743731585710891)
 
-## Suggestions
+## Suggestions for future sessions
 
 If you add a topic, please include your name
 
