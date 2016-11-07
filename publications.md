@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Danil Annenkov and Martin Elsman. __Towards Certified Compilation of Financial Contracts__. In _Proceedings of the 28th Nordic Workshop on Programming Theory ([NWPT'16](http://nwpt2016.cs.aau.dk/)_. Aalborg, DK. November, 2016. [PDF](/pdf/NWPT16Contracts.pdf).
+
 * Martin Dybdal, Martin Elsman, Bo Joel Svensson, and Mary Sheeran. __Low-level Functional GPU Programming for Parallel Algorithms__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. (Preliminary version appeared at CPC'16). [PDF](/pdf/fhpc16fcl.pdf).
 
 * Troels Henriksen, Martin Dybdal, Henrik Urms, Anna Sofie Kiehn, Daniel Gavin, Hjalte Abelskov, Martin Elsman, and Cosmin Oancea. __APL on GPUs - A TAIL from the Past, Scribbled in Futhark__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. [PDF](/pdf/fhpc16futhark.pdf).
@@ -36,7 +38,7 @@ Functional High-Performance Computing (FHPC'15)_. Vancouver, Canada. September, 
 
 * Patrick Bahr, Jost Berthold, and Martin Elsman. __Certified Symbolic Management of Financial Multi-Party Contracts__. In _Proceedings of the ACM International Conference on Functional Programming (ICFP'15)_. Vancouver, Canada. September, 2015. [pdf](/pdf/icfp15-contracts-final.pdf).
 
-* Michael Budde, Martin Dybdal, and Martin Elsman. __Compiling APL to Accelerate through a Typed Array Intermediate Language__. In _Proceedings of the 2nd ACM SIGPLAN International Workshop 
+* Michael Budde, Martin Dybdal, and Martin Elsman. __Compiling APL to Accelerate through a Typed Array Intermediate Language__. In _Proceedings of the 2nd ACM SIGPLAN International Workshop
 on Libraries, Languages and Compilers for Array Programming (ARRAY'15)_. Portland, Oregon, USA. June, 2015.  [pdf](/pdf/Array15BuddeDybdalElsman.pdf).
 
 * Jan Palczewski, Rolf Poulsen, Klaus Reiner Schenk-Hoppe, and Huamao
@@ -46,7 +48,7 @@ of Operational Research_. Volume 243(3), pp 921-931. June, 2015.
 
 * Christian Andreetta, Vivien Begot, Jost Berthold, Martin Elsman,
 Troels Henriksen, Maj-Britt Nordfang, and Cosmin Oancea. __A Financial
-Benchmark for GPGPU Compilation__. DIKU Technical Report no 2015/02. ISSN 0107-8283. 
+Benchmark for GPGPU Compilation__. DIKU Technical Report no 2015/02. ISSN 0107-8283.
 Extended version of CPC'15 paper. January, 2015. [pdf](/pdf/finbenchmarkTR2015.pdf).
 
 * Cosmin Oancea, Jost Berthold, Martin Elsman, and Christian
@@ -108,14 +110,14 @@ Massachusetts. September, 2013. [pdf](/pdf/fhpc13_madsen.pdf).
 
 * Marcus C. Christiansen and Mogens Steffensen. __Deterministic mean-variance-optimal consumption and investment__.
 In _Stochastics, an International Journal of Probability and Stochastic Processes_. 85(4): 620-636. August, 2013.
- 
+
 * Marcus C. Christiansen and Mogens Steffensen. __Safe-Side Scenarios
 for Financial and Biometrical Risk__. In _ASTIN Bulletin_. 43(3): 323-357. July, 2013.
 
 * Kenneth Bruhn and Mogens Steffensen. __Optimal Smooth Consumption and
 Annuity Design__. In _Journal of Banking and Finance_. 37(8): 2693–2701. 2013.
 
-* Holger Kraft and Mogens Steffensen. __A Dynamic Programming Approach to Constrained Portfolios__. In _European Journal of Operational Research_. 229(2): 453–461. 2013. 
+* Holger Kraft and Mogens Steffensen. __A Dynamic Programming Approach to Constrained Portfolios__. In _European Journal of Operational Research_. 229(2): 453–461. 2013.
 
 * Mads R. B. Kristensen, Simon A. F. Lund, Troels Blum, Kenneth
 Skovhede, and Brian Vinter. __Bohrium: Unmodified NumPy Code on CPU,
@@ -129,8 +131,8 @@ Computing (PyHPC'2013)_. 2013. [pdf](/pdf/Doubling.pdf).
 
 * Mischa Dieterle, Thomas Horstmeyer, Jost Berthold, and Rita Loogen.
 __Iterating Skeletons - Structured Parallelism by Composition__.
-In _24th Symposium on the Implementation and Application of 
-Functional Languages (IFL 2012)_. Selected for publication in LNCS 
+In _24th Symposium on the Implementation and Application of
+Functional Languages (IFL 2012)_. Selected for publication in LNCS
 revised papers, Springer Verlag. 2013.
 
 * Kourosh M. Rasmussen, Rolf Poulsen, and Søren Kyhl. __Risikospredning
@@ -155,12 +157,12 @@ high-performance computing (FHPC'12)_. Copenhagen 2012.
 
 * Michael Flænø Werk, Joakim Ahnfelt-Rønne, and Ken Friis Larsen. __An
 embedded DSL for stochastic processes__. In _Proceedings of the 1st ACM
-SIGPLAN workshop on Functional high-performance computing (FHPC'12)_. 
+SIGPLAN workshop on Functional high-performance computing (FHPC'12)_.
 Copenhagen. 2012. [pdf](/pdf/p93-werk.pdf). [Video](http://www.youtube.com/watch?v=ZcCJ8Z11Lsk).
 
 * Anne Marie Boiden Pedersen, Alex Weissensteiner, and Rolf
-Poulsen. __Financial planning for young households__. In 
-_[Annals of Operations Research](http://www.springer.com/business+%26+management/operations+research/journal/10479)_. 2013, 
+Poulsen. __Financial planning for young households__. In
+_[Annals of Operations Research](http://www.springer.com/business+%26+management/operations+research/journal/10479)_. 2013,
 vol. 205(1), pp. 55-76. [pdf](http://www.math.ku.dk/~rolf/FinalVersion_200812.pdf).
 
 * Cosmin E. Oancea and Lawrence Rauchwerger. __Logical Inference
@@ -171,7 +173,7 @@ Conference on Programming Language Design and Implementation
 * Jost Berthold, Andrzej Filinski, Fritz Henglein, Ken Friis Larsen,
 Mogens Steffensen and Brian Vinter. __Functional High Performance
 Financial IT -- The HIPERFIT Research Center in Copenhagen__. In _Trends
-in Functional Programming (TFP'11)_. Revised Selected Papers. LNCS 7193, 
+in Functional Programming (TFP'11)_. Revised Selected Papers. LNCS 7193,
 Springer. 2012. [pdf](/pdf/TFP2011HIPERFIT.pdf).
 
 * Michael Werk and Joakim Ahnfelt-Rønne. __Pricing composable contracts

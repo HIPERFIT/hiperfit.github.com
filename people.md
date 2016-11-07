@@ -14,6 +14,10 @@ group: navigation
 * ![Mogens Steffensen](images/99_steffensen_math.jpg) [Mogens Steffensen](http://www.math.ku.dk/~mogens), Professor,
   Department of Mathematical Sciences, University of Copenhagen.
 
+* ![Omri Ross](images/omri.jpg) [Omri
+  Ross](https://www.linkedin.com/in/omriross), Assistant Professor, Department of
+  Computer Science, University of Copenhagen.
+
 * [Jesper Lund Pedersen](http://www.math.ku.dk/~jesper), Associate
   Professor, Department of Mathematical Sciences, University of
   Copenhagen.
