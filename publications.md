@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Olga Pearce, Hadia Ahmed, Rasmus W. Larsen, and David F. Richards. __Enabling Work Migration in CoMD to Study Dynamic Load Imbalance Solutions.__ In _Proceedings of 7th International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computing Systems ([PMBS'16](http://www.pmbsworkshop.org))_. Salt Lake City, Utah, USA. November, 2016. [PDF](/pdf/comd16.pdf).
+
 * Danil Annenkov and Martin Elsman. __Towards Certified Compilation of Financial Contracts__. In _Proceedings of the 28th Nordic Workshop on Programming Theory ([NWPT'16](http://nwpt2016.cs.aau.dk/))_. Aalborg, DK. November, 2016. [PDF](/pdf/NWPTPayoffLang.pdf).
 
 * Martin Dybdal, Martin Elsman, Bo Joel Svensson, and Mary Sheeran. __Low-level Functional GPU Programming for Parallel Algorithms__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. (Preliminary version appeared at CPC'16). [PDF](/pdf/fhpc16fcl.pdf).
