@@ -10,6 +10,8 @@ Seminars are held according to the schedule below (usually every second week).
 
 #### Schedule for HIPERFIT seminars (even weeks, reverse chronological order):
 
+- __2016-11-15:__ PhD Thesis Defence. Streaming for Functional Data-Parallel Languages. Frederik Meisner Madsen, DIKU. Room Aud 05, HCØ, Universitetsparken 5, 2100 Copenhagen Ø, 13:15-?. Thursday. [Seminar Announcement](http://hiperfit.dk/news/2016/11/15/frederik-phd).
+
 - __2016-11-14:__ Nessie: A NESL to CUDA Compiler. John Reppy, Computation Institute, University of Chicago. Small Aud, Universitetsparken 1, University of Copenhagen, 13:15-15:00. Wednesday. [Seminar Announcement](http://hiperfit.dk/news/2016/11/14/nessie).
 
 - __2016-05-17:__ File System Scalability with Highly Decentralized Metadata on Independent Storage Devices. André Brinkmann, Johannes Gutenberg Universität, Mainz. AUD 10, Universitetsparken 5, University of Copenhagen, 15:01-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2016/05/17/brinkmann).
