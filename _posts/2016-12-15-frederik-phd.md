@@ -10,7 +10,7 @@ _Title:_ Streaming for Functional Data-Parallel Languages
 
 _Presenter:_ Frederik Meisner Madsen, PhD. Student, DIKU/University of Copenhagen
 
-_Time:_ Thursday, November 15, 2016, 13:15
+_Time:_ Thursday, December 15, 2016, 13:15
 
 _Place:_ Room Aud 05, HCØ, Universitetsparken 5, 2100 Copenhagen Ø
 
