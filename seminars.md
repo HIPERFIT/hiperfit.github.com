@@ -10,6 +10,8 @@ Seminars are held according to the schedule below (usually every second week).
 
 #### Schedule for HIPERFIT seminars (even weeks, reverse chronological order):
 
+- __2016-11-14:__ Nessie: A NESL to CUDA Compiler. John Reppy, Computation Institute, University of Chicago. Small Aud, Universitetsparken 1, University of Copenhagen, 13:15-15:00. Wednesday. [Seminar Announcement](http://hiperfit.dk/news/2016/11/14/nessie).
+
 - __2016-05-17:__ File System Scalability with Highly Decentralized Metadata on Independent Storage Devices. André Brinkmann, Johannes Gutenberg Universität, Mainz. AUD 10, Universitetsparken 5, University of Copenhagen, 15:01-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2016/05/17/brinkmann).
 
 - __2016-05-03:__ PhD Status Seminar. Troels Henriksen, DIKU. HCØ, Auditorium 10, Universitetsparken 5, 2100 Copenhagen Ø. 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2016/05/03/troels-midterm).
@@ -25,7 +27,7 @@ Seminars are held according to the schedule below (usually every second week).
 - __2016-01-12:__ Status of the Futhark compiler. Troels Henriksen, DIKU. August Krogh Building (AKB), AUD 1, Universitetsparken 13, University of Copenhagen, 15:15-16:00. Tuesday. [Seminar Announcement](http://hiperfit.dk/news/2016/01/12/futhark).
 
 - __2016-01-04:__ PhD Thesis Defence. Automatic Parallelization of
-  Scientific Applications. Troels Blum. NBI. AUD A, 
+  Scientific Applications. Troels Blum. NBI. AUD A,
   NBI, Blegdamsvej 17. 10:00-13:00. Monday. [Seminar Announcement](http://hiperfit.dk/news/2016/01/04/blum-phd).
 
 - __2015-12-10:__ PhD Thesis Defence. A High Performance Backend for Array-Oriented Programming on Next-Generation Processing Units. Simon A F Lund. NBI. AUD D,
