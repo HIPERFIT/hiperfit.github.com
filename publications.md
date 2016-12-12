@@ -196,6 +196,9 @@ Financial Information Technology__. Project Application, 2010.
 
 ### Student Project Reports
 
+* Niels G. W. Serup. Extending Futhark with a write construct. MSc
+student project. June, 2016. [PDF](/pdf/Nielsthesis.pdf).
+
 * Michael Budde. __Compiling APL to Accelerate Through a Typed IL__. MSc
 project. Department of Computer Science, University of
 Copenhagen. November, 2014. [pdf](/pdf/aplacc-report-v2.pdf).
