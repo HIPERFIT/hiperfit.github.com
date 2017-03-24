@@ -211,6 +211,10 @@ Financial Information Technology__. Project Application, 2010.
 project. Department of Computer Science, University of
 Copenhagen. June, 2016. [PDF](/pdf/Nielsthesis.pdf).
 
+* Anna Sofie Kiehn and Henriks Urms. __Compiling TAIL to Futhark--An
+adventure in compiling functional data-parallel constructs__. BSc
+thesis. June 8, 2015. [PDF](/pdf/report-Kiehn-Urms.pdf).
+
 * Michael Budde. __Compiling APL to Accelerate Through a Typed IL__. MSc
 project. Department of Computer Science, University of
 Copenhagen. November, 2014. [pdf](/pdf/aplacc-report-v2.pdf).
