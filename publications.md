@@ -7,29 +7,32 @@ group: navigation
 {% include JB/setup %}
 
 
+
+* Frederik Meisner Madsen. __Streaming for Functional Data-Parallel Languages__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. September, 2016. [pdf](/pdf/meisner_madsen_thesis_revised.pdf).
+
 * Maj-Britt Nordfang and Mogens Steffensen. __Portfolio Optimization
   and Mortgage Choice__. In _Journal on Risk Financial
-  Management_. 2017, 10, 1. [PDF](/pdf/jrfm-10-00001.pdf).
+  Management_. 2017, 10, 1. [pdf](/pdf/jrfm-10-00001.pdf).
 
 * Maj-Britt Nordfang. __What Should You Pay to Cap your ARM?—A Note on
   Capped Adjustable Rate Mortgages__. In _Int. J. Financial Stud_. 2017, 5,
   10.
 
-* Olga Pearce, Hadia Ahmed, Rasmus W. Larsen, and David F. Richards. __Enabling Work Migration in CoMD to Study Dynamic Load Imbalance Solutions.__ In _Proceedings of 7th International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computing Systems ([PMBS'16](http://www.pmbsworkshop.org))_. Salt Lake City, Utah, USA. November, 2016. [PDF](/pdf/comd16.pdf).
+* Olga Pearce, Hadia Ahmed, Rasmus W. Larsen, and David F. Richards. __Enabling Work Migration in CoMD to Study Dynamic Load Imbalance Solutions.__ In _Proceedings of 7th International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computing Systems ([PMBS'16](http://www.pmbsworkshop.org))_. Salt Lake City, Utah, USA. November, 2016. [pdf](/pdf/comd16.pdf).
 
-* Danil Annenkov and Martin Elsman. __Towards Certified Compilation of Financial Contracts__. In _Proceedings of the 28th Nordic Workshop on Programming Theory ([NWPT'16](http://nwpt2016.cs.aau.dk/))_. Aalborg, DK. November, 2016. [PDF](/pdf/NWPTPayoffLang.pdf).
+* Danil Annenkov and Martin Elsman. __Towards Certified Compilation of Financial Contracts__. In _Proceedings of the 28th Nordic Workshop on Programming Theory ([NWPT'16](http://nwpt2016.cs.aau.dk/))_. Aalborg, DK. November, 2016. [pdf](/pdf/NWPTPayoffLang.pdf).
 
-* Frederik M. Madsen and Andrzej Filinski. __Streaming nested data parallelism on multicores__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. [PDF](/pdf/p44-madsen.pdf).
+* Frederik M. Madsen and Andrzej Filinski. __Streaming nested data parallelism on multicores__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. [pdf](/pdf/p44-madsen.pdf).
 
-* Martin Dybdal, Martin Elsman, Bo Joel Svensson, and Mary Sheeran. __Low-level Functional GPU Programming for Parallel Algorithms__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. (Preliminary version appeared at CPC'16). [PDF](/pdf/fhpc16fcl.pdf).
+* Martin Dybdal, Martin Elsman, Bo Joel Svensson, and Mary Sheeran. __Low-level Functional GPU Programming for Parallel Algorithms__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. (Preliminary version appeared at CPC'16). [pdf](/pdf/fhpc16fcl.pdf).
 
-* Troels Henriksen, Martin Dybdal, Henrik Urms, Anna Sofie Kiehn, Daniel Gavin, Hjalte Abelskov, Martin Elsman, and Cosmin Oancea. __APL on GPUs - A TAIL from the Past, Scribbled in Futhark__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. [PDF](/pdf/fhpc16futhark.pdf).
+* Troels Henriksen, Martin Dybdal, Henrik Urms, Anna Sofie Kiehn, Daniel Gavin, Hjalte Abelskov, Martin Elsman, and Cosmin Oancea. __APL on GPUs - A TAIL from the Past, Scribbled in Futhark__. In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC'16)_. Nara, Japan. September, 2016. [pdf](/pdf/fhpc16futhark.pdf).
 
 * Christian Andreetta, Vivien B&#233;got, Jost Berthold, Martin Elsman, Fritz Henglein, Troels Henriksen, Maj-Britt Nordfang, and Cosmin E. Oancea. __FinPar: A Parallel Financial Benchmark__. In _ACM Transactions on Architecture and Code Optimization (TACO)_. Volume 13, Issue 2, Article 18. 27 pages. June, 2016. [DOI](http://dx.doi.org/10.1145/2898354). (Preliminary version appeared at CPC'15).
 
 * Troels Henriksen, Ken Friis Larsen, and Cosmin E. Oancea. __Design and GPGPU Performance of Futhark's Redomap Construct__. In _Proceedings of the 3rd ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY'16)_. Santa Barbara, California, USA. June, 2016.  [pdf](/pdf/array16HenriksenLarsenOancea.pdf).
 
-* Lykke Rasmussen. __Computational Finance - on the search for performance__. PhD thesis. Math, University of Copenhagen. March, 2016. [PDF](/pdf/phd16lr.pdf).
+* Lykke Rasmussen. __Computational Finance - on the search for performance__. PhD thesis. HIPERFIT, Math, University of Copenhagen. March, 2016. [pdf](/pdf/phd16lr.pdf).
 
 * Rolf Poulsen. __Hedge Funds Don't Hedge - And 50-Odd Other Odd Things in Finance__. In _Wilmott Magazine_. March, 2016.
 
@@ -37,14 +40,14 @@ group: navigation
 
 * Simon Ellersgaard Nielsen. __Essays on Rational Portfolio Theory__. PhD thesis. Math, University of Copenhagen. February, 2016.
 
-* Troels Blum. __Automatic Parallelization of Scientific Applications__. PhD thesis. NBI, University of Copenhagen. January, 2016.
+* Troels Blum. __Automatic Parallelization of Scientific Applications__. PhD thesis. HIPERFIT, NBI, University of Copenhagen. January, 2016.
 
-* Tao Zou, Ronan Le Bras, Marcos Vaz Salles, Alan Demers, Johannes Gehrke. __ClouDiA: A Deployment Advisor for Public Clouds__. In _The VLDB Journal 24(5): 633-653, 2015_. Special Issue on the Best Papers of VLDB 2013. [PDF](http://link.springer.com/content/pdf/10.1007%2Fs00778-014-0375-9.pdf).
+* Tao Zou, Ronan Le Bras, Marcos Vaz Salles, Alan Demers, Johannes Gehrke. __ClouDiA: A Deployment Advisor for Public Clouds__. In _The VLDB Journal 24(5): 633-653, 2015_. Special Issue on the Best Papers of VLDB 2013. [pdf](http://link.springer.com/content/pdf/10.1007%2Fs00778-014-0375-9.pdf).
 
 * Michael Hanke, Rolf Poulsen, and Alex Weissensteiner. __Where would the EUR/CHF exchange rate be without the SNB's minimum exchange rate policy?__ In _Journal of Futures Markets_. Volume 35(12), pp 1103–1116, December, 2015.
 
 * Simon A. F. Lund. __A High Performance Backend for Array-Oriented
-Programming on Next-Generation Processing Units__. PhD thesis. NBI, University of Copenhagen. September, 2015. [PDF](/pdf/Simon_Andreas_Frimann_Lund_PhDThesis2015.pdf).
+Programming on Next-Generation Processing Units__. PhD thesis. HIPERFIT, NBI, University of Copenhagen. September, 2015. [pdf](/pdf/Simon_Andreas_Frimann_Lund_PhDThesis2015.pdf).
 
 * Frederik Meisner Madsen, Robert Clifton-Everest, Manuel Chakravarty, and Gabriele Keller. __Functional Array Streams__. In _Proceedings of the 4th ACM SIGPLAN Workshop on
 Functional High-Performance Computing (FHPC'15)_. Vancouver, Canada. September, 2015.
@@ -209,11 +212,11 @@ Financial Information Technology__. Project Application, 2010.
 
 * Niels G. W. Serup. __Extending Futhark with a write construct__. MSc
 project. Department of Computer Science, University of
-Copenhagen. June, 2016. [PDF](/pdf/Nielsthesis.pdf).
+Copenhagen. June, 2016. [pdf](/pdf/Nielsthesis.pdf).
 
 * Anna Sofie Kiehn and Henriks Urms. __Compiling TAIL to Futhark--An
 adventure in compiling functional data-parallel constructs__. BSc
-thesis. June 8, 2015. [PDF](/pdf/report-Kiehn-Urms.pdf).
+thesis. June 8, 2015. [pdf](/pdf/report-Kiehn-Urms.pdf).
 
 * Michael Budde. __Compiling APL to Accelerate Through a Typed IL__. MSc
 project. Department of Computer Science, University of

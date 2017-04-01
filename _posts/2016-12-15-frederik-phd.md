@@ -20,6 +20,8 @@ _Committee:_
 - Professor John Reppy, Department of Computer Science, University of Chicago, USA
 - Professor Mary Sheeran, Department of Computer Science and Engineering, Chalmers University of Technology, Sweden
 
+_Thesis (revised):_ [pdf](/pdf/meisner_madsen_thesis_revised.pdf)
+
 ## Abstract
 
 In this thesis, we investigate streaming as a general solution to the
