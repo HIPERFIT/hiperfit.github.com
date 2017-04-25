@@ -6,7 +6,9 @@ group: navigation
 ---
 {% include JB/setup %}
 
-
+* Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz Henglein, and Cosmin Oancea. __Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates__. In _Proceedings of International
+Conference on Programming Language Design and Implementation
+(PLDI'17)_. June 2017. Barcelona.
 
 * Frederik Meisner Madsen. __Streaming for Functional Data-Parallel Languages__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. September, 2016. [pdf](/pdf/meisner_madsen_thesis_revised.pdf).
 
@@ -41,6 +43,8 @@ group: navigation
 * Simon Ellersgaard Nielsen. __Essays on Rational Portfolio Theory__. PhD thesis. Math, University of Copenhagen. February, 2016.
 
 * Troels Blum. __Automatic Parallelization of Scientific Applications__. PhD thesis. HIPERFIT, NBI, University of Copenhagen. January, 2016.
+
+* Cosmin E. Oancea and Lawrence Rauchwerger. __Scalable conditional induction variables (CIV) analysis__. In _Proceedings of the 13th Annual IEEE/ACM International Symposium on Code Generation and Optimization (CGO '15)_. IEEE Computer Society, Washington, DC, USA, 213-224. February 2015. [pdf](/pdf/p213-oancea.pdf).
 
 * Tao Zou, Ronan Le Bras, Marcos Vaz Salles, Alan Demers, Johannes Gehrke. __ClouDiA: A Deployment Advisor for Public Clouds__. In _The VLDB Journal 24(5): 633-653, 2015_. Special Issue on the Best Papers of VLDB 2013. [pdf](http://link.springer.com/content/pdf/10.1007%2Fs00778-014-0375-9.pdf).
 
