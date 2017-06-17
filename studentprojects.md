@@ -56,33 +56,6 @@ being surprised.
 
 Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
 
-### Project: Compile-time Memory Allocation in Futhark
-
-As part of its research into parallel functional programming, HIPERFIT
-has developed a programming language, [Futhark](http://futhark-lang.org), and an optimising
-compiler targeting GPGPU.  During the later stages of the compilation
-pipeline, the Futhark compiler will insert explicit memory allocations
-in the program being compiled, and add annotations indicating in which
-memory a given array is stored.  This decoupling of arrays from memory
-permits memory-level optimisations, such as hoisting allocations out
-of inner loops.
-
-This project is about moving further with optimisations on this
-representation.  Specifically, we conjecture that an algorithm similar
-to register allocation can be devised which would allow different
-arrays to be located in the same memory block, as long as the arrays
-are never live at the same time.  This optimisation will not only
-reduce total memory usage in the generated code, but also reduce the
-number of memory copy operations.
-
-This project is a good fit for a bachelor's project.  It involves a
-good bit of both hacking and clever algorithmic thinking, and the
-effect of the work can be directly measured in reduced memory load and
-increased performance.  It is also a good way to get involved with
-compiler work.
-
-Contact person: [Cosmin Oancea](people.html) or [Troels Henriksen](people.html).
-
 ### Project: Efficient Histogram Computation on GPGPUs
 
 The code below shows an example of histogram computation:
