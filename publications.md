@@ -213,6 +213,11 @@ Financial Information Technology__. Project Application, 2010.
 
 ### Student Project Reports
 
+* Johannes de Fine Licht. __Modeling and Implementing High Performance
+Programs on FPGA__. MSc thesis. Department of Computer Science,
+University of Copenhagen. August, 2016.
+[pdf](/pdf/MasterThesis-Johannes-de-Fine-Licht.pdf).
+
 * Niels G. W. Serup. __Extending Futhark with a write construct__. MSc
 project. Department of Computer Science, University of
 Copenhagen. June, 2016. [pdf](/pdf/Nielsthesis.pdf).
