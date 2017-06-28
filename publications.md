@@ -7,7 +7,7 @@ group: navigation
 {% include JB/setup %}
 
 * Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz Henglein, and Cosmin Oancea. __Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates__. In _Proceedings of the ACM International
-Conference on Programming Language Design and Implementation (PLDI' 17)_. June 2017. Barcelona.
+Conference on Programming Language Design and Implementation (PLDI' 17)_. June 2017. Barcelona. [pdf](/pdf/pldi17.pdf).
 
 * Frederik Meisner Madsen. __Streaming for Functional Data-Parallel Languages__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. September, 2016. [pdf](/pdf/meisner_madsen_thesis_revised.pdf).
 
