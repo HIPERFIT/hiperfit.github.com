@@ -6,9 +6,13 @@ group: navigation
 {% include JB/setup %}
 
 <img width="350" alt="HIPERFIT dinner" align="right" src="/images/hiperfit2.jpg">
-Seminars are held according to the schedule below (usually every second week).
+Seminars are held according to the schedule below.
 
-#### Schedule for HIPERFIT seminars (even weeks, reverse chronological order):
+#### Schedule for HIPERFIT seminars:
+
+- __2017-08-09:__ PhD Thesis Defence. Array abstractions for GPU Programming. Martin Dybdal, DIKU. Room Aud 10, HCØ, Universitetsparken 5, 2100 Copenhagen Ø, 13:15-?. Wednesday. [Seminar Announcement](http://hiperfit.dk/news/2017/08/09/dybdal-phd).
+
+- __2017-06-16:__ PhD Thesis Defence. Preferences, behaviour and the design of financial contracts. Maj-Britt Nordfang, MATH. Room Aud 4, HCØ, Universitetsparken 5, 2100 Copenhagen Ø, 14:00-?. [Seminar Announcement](http://hiperfit.dk/news/2017/06/16/nordfang-phd).
 
 - __2016-12-15:__ PhD Thesis Defence. Streaming for Functional Data-Parallel Languages. Frederik Meisner Madsen, DIKU. Room Aud 05, HCØ, Universitetsparken 5, 2100 Copenhagen Ø, 13:15-?. Thursday. [Seminar Announcement](http://hiperfit.dk/news/2016/12/15/frederik-phd).
 
