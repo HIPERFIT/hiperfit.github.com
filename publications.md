@@ -220,7 +220,7 @@ University of Copenhagen. August, 2016.
 
 * Niels G. W. Serup. __Extending Futhark with a write construct__. MSc
 project. Department of Computer Science, University of
-Copenhagen. June, 2016. [pdf](/pdf/Nielsthesis.pdf).
+Copenhagen. June, 2016. [pdf](/pdf/niels-thesis.pdf).
 
 * Anna Sofie Kiehn and Henriks Urms. __Compiling TAIL to Futhark--An
 adventure in compiling functional data-parallel constructs__. BSc
