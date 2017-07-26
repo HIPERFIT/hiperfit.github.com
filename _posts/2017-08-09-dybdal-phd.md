@@ -19,7 +19,7 @@ _Place:_ HCØ, Auditorium 10, Universitetsparken 5, 2100 Copenhagen Ø
 _Committee:_
 
 - Associate Professor Andrzej Filinski (chairman), Department of Computer Science, University of Copenhagen, Denmark
-- Professor Gabriele Keller, University of New South Wales, Australia
+- Associate Professor Gabriele Keller, University of New South Wales, Australia
 - Professor Peter Sestoft, IT University of Copenhagen, Denmark
 
 ## Abstract
@@ -39,4 +39,4 @@ Second, we present FCL, a purely functional data-parallel language, that allows 
 Martin Dybdal is a PhD student at DIKU/University of Copenhagen
 under supervision of Associate Professor Martin Elsman, DIKU.
 
-_Host:_ DIKU and HIPERFIT (Asso. Prof. Martin Elsman)
+_Host:_ DIKU and HIPERFIT (Assoc. Prof. Martin Elsman)
