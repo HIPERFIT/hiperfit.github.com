@@ -33,4 +33,4 @@ under supervision of Professor Mogens Steffensen, MATH. The PhD thesis
 work has been co-supervised by Trine Krogh Boomsma, MATH, and Ken
 Friis Larsen, DIKU.
 
-_Host:_ DIKU and HIPERFIT (Asso. Prof. Martin Elsman)
+_Host:_ DIKU and HIPERFIT (Prof. Mogens Steffensen)
