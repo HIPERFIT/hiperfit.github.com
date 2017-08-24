@@ -213,6 +213,10 @@ Financial Information Technology__. Project Application, 2010.
 
 ### Student Project Reports
 
+* Rasmus Wriedt Larsen. __Generating Efficient Code for Futhark’s Segmented Redomap__. MSc thesis. Department of Computer Science,
+University of Copenhagen. March, 2017.
+[pdf](/pdf/RasmusMScThesis2017v1-1.pdf).
+
 * Johannes de Fine Licht. __Modeling and Implementing High Performance
 Programs on FPGA__. MSc thesis. Department of Computer Science,
 University of Copenhagen. August, 2016.
