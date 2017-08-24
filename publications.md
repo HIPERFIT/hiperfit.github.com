@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Rasmus W. Larsen and Troels Henriksen.  __Strategies for Regular Segmented Reductions on GPU__.  In In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC '17)_. Oxford, UK. September, 2017. [pdf](/pdf/fhpc17.pdf).
+
 * Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz Henglein, and Cosmin Oancea. __Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates__. In _Proceedings of the ACM International
 Conference on Programming Language Design and Implementation (PLDI' 17)_. June 2017. Barcelona. [pdf](/pdf/pldi17.pdf).
 
