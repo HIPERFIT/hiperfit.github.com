@@ -6,9 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-* Benjamin Egelund-Müller, Martin Elsman, Fritz Henglein, and Omri
-Ross. __Automated Execution of Financial Contracts on Blockchains__. In
-_Journal of Business and Information Systems Engineering (BISE)_. To
+* Benjamin Egelund-Müller, Martin Elsman, Fritz Henglein, and Omri Ross. __Automated Execution of Financial Contracts on Blockchains__. In_Journal of Business and Information Systems Engineering (BISE)_. To
 appear. 2017/18. [PREPRINT PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2898670).
 
 * Rasmus W. Larsen and Troels Henriksen.  __Strategies for Regular Segmented Reductions on GPU__.  In In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC '17)_. Oxford, UK. September, 2017. [pdf](/pdf/fhpc17.pdf).
@@ -16,15 +14,9 @@ appear. 2017/18. [PREPRINT PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract
 * Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz Henglein, and Cosmin Oancea. __Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates__. In _Proceedings of the ACM International
 Conference on Programming Language Design and Implementation (PLDI' 17)_. June 2017. Barcelona. [pdf](/pdf/pldi17.pdf).
 
-* Frederik Meisner Madsen. __Streaming for Functional Data-Parallel Languages__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. September, 2016. [pdf](/pdf/meisner_madsen_thesis_revised.pdf).
+* Maj-Britt Nordfang and Mogens Steffensen. __Portfolio Optimization and Mortgage Choice__. In _Journal on Risk Financial Management_. 2017, 10, 1. [pdf](/pdf/jrfm-10-00001.pdf).
 
-* Maj-Britt Nordfang and Mogens Steffensen. __Portfolio Optimization
-  and Mortgage Choice__. In _Journal on Risk Financial
-  Management_. 2017, 10, 1. [pdf](/pdf/jrfm-10-00001.pdf).
-
-* Maj-Britt Nordfang. __What Should You Pay to Cap your ARM?—A Note on
-  Capped Adjustable Rate Mortgages__. In _Int. J. Financial Stud_. 2017, 5,
-  10.
+* Maj-Britt Nordfang. __What Should You Pay to Cap your ARM?—A Note on Capped Adjustable Rate Mortgages__. In _Int. J. Financial Stud_. 2017, 5, 10.
 
 * Olga Pearce, Hadia Ahmed, Rasmus W. Larsen, and David F. Richards. __Enabling Work Migration in CoMD to Study Dynamic Load Imbalance Solutions.__ In _Proceedings of 7th International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computing Systems ([PMBS '16](http://www.pmbsworkshop.org))_. Salt Lake City, Utah, USA. November, 2016. [pdf](/pdf/comd16.pdf).
 
@@ -40,24 +32,15 @@ Conference on Programming Language Design and Implementation (PLDI' 17)_. June 2
 
 * Troels Henriksen, Ken Friis Larsen, and Cosmin E. Oancea. __Design and GPGPU Performance of Futhark's Redomap Construct__. In _Proceedings of the 3rd ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '16)_. Santa Barbara, California, USA. June, 2016.  [pdf](/pdf/array16HenriksenLarsenOancea.pdf).
 
-* Lykke Rasmussen. __Computational Finance - on the search for performance__. PhD thesis. HIPERFIT, Math, University of Copenhagen. March, 2016. [pdf](/pdf/phd16lr.pdf).
-
 * Rolf Poulsen. __Hedge Funds Don't Hedge - And 50-Odd Other Odd Things in Finance__. In _Wilmott Magazine_. March, 2016.
 
 * Simon Ellersgaard Nielsen, Martin Jönsson, and Rolf Poulsen. __The Fundamental Theorem of Derivative Trading: Exposition, Extension, and Experiments__. In _Quantitative Finance_. February, 2016.
-
-* Simon Ellersgaard Nielsen. __Essays on Rational Portfolio Theory__. PhD thesis. Math, University of Copenhagen. February, 2016.
-
-* Troels Blum. __Automatic Parallelization of Scientific Applications__. PhD thesis. HIPERFIT, NBI, University of Copenhagen. January, 2016.
 
 * Cosmin E. Oancea and Lawrence Rauchwerger. __Scalable conditional induction variables (CIV) analysis__. In _Proceedings of the 13th Annual IEEE/ACM International Symposium on Code Generation and Optimization (CGO '15)_. IEEE Computer Society, Washington, DC, USA, 213-224. February 2015. [pdf](/pdf/p213-oancea.pdf).
 
 * Tao Zou, Ronan Le Bras, Marcos Vaz Salles, Alan Demers, Johannes Gehrke. __ClouDiA: A Deployment Advisor for Public Clouds__. In _The VLDB Journal 24(5): 633-653, 2015_. Special Issue on the Best Papers of VLDB 2013. [pdf](http://link.springer.com/content/pdf/10.1007%2Fs00778-014-0375-9.pdf).
 
 * Michael Hanke, Rolf Poulsen, and Alex Weissensteiner. __Where would the EUR/CHF exchange rate be without the SNB's minimum exchange rate policy?__ In _Journal of Futures Markets_. Volume 35(12), pp 1103–1116, December, 2015.
-
-* Simon A. F. Lund. __A High Performance Backend for Array-Oriented
-Programming on Next-Generation Processing Units__. PhD thesis. HIPERFIT, NBI, University of Copenhagen. September, 2015. [pdf](/pdf/Simon_Andreas_Frimann_Lund_PhDThesis2015.pdf).
 
 * Frederik Meisner Madsen, Robert Clifton-Everest, Manuel Chakravarty, and Gabriele Keller. __Functional Array Streams__. In _Proceedings of the 4th ACM SIGPLAN Workshop on
 Functional High-Performance Computing (FHPC '15)_. Vancouver, Canada. September, 2015.
@@ -217,6 +200,23 @@ Mathematics and Optimization_. DOI:10.1007/s00245-014-9267-z. March 2011.
 
 * HIPERFIT Management. __Functional High-Performance Computing for
 Financial Information Technology__. Project Application, 2010.
+
+### PhD Theses
+
+* Martin Dybdal. __Array Abstractions for GPU Programming__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. August, 2017. [pdf](/pdf/dpr964-thesis-final-v2.pdf).
+
+* Maj-Britt Nordfang. __Preferences, Behaviour and the Design of Financial Contracts__. PhD thesis. HIPERFIT, Math, University of Copenhagen. June, 2017.
+
+* Frederik Meisner Madsen. __Streaming for Functional Data-Parallel Languages__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. September, 2016. [pdf](/pdf/meisner_madsen_thesis_revised.pdf).
+
+* Lykke Rasmussen. __Computational Finance - on the search for performance__. PhD thesis. HIPERFIT, Math, University of Copenhagen. March, 2016. [pdf](/pdf/phd16lr.pdf).
+
+* Simon Ellersgaard Nielsen. __Essays on Rational Portfolio Theory__. PhD thesis. Math, University of Copenhagen. February, 2016.
+
+* Troels Blum. __Automatic Parallelization of Scientific Applications__. PhD thesis. HIPERFIT, NBI, University of Copenhagen. January, 2016.
+
+* Simon A. F. Lund. __A High Performance Backend for Array-Oriented
+Programming on Next-Generation Processing Units__. PhD thesis. HIPERFIT, NBI, University of Copenhagen. September, 2015. [pdf](/pdf/Simon_Andreas_Frimann_Lund_PhDThesis2015.pdf).
 
 ### Student Project Reports
 
