@@ -6,6 +6,11 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Benjamin Egelund-Müller, Martin Elsman, Fritz Henglein, and Omri
+Ross. __Automated Execution of Financial Contracts on Blockchains__. In
+_Journal of Business and Information Systems Engineering (BISE)_. To
+appear. 2017/18. [PREPRINT PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2898670).
+
 * Rasmus W. Larsen and Troels Henriksen.  __Strategies for Regular Segmented Reductions on GPU__.  In In _Proceedings of the 5th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC '17)_. Oxford, UK. September, 2017. [pdf](/pdf/fhpc17.pdf).
 
 * Troels Henriksen, Niels G. W. Serup, Martin Elsman, Fritz Henglein, and Cosmin Oancea. __Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates__. In _Proceedings of the ACM International
