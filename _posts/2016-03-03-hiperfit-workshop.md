@@ -51,13 +51,13 @@ HIPERFIT work can continue to make a difference in the years to come.
 <dt>11:30</dt><dd>Break</dd>
 <dt>11:45</dt><dd>Bohrium (Chair: Andrzej Filinski)
  <ul>
- <li><i><a href="#skovhede">SME and BPU: High-level development for low-level hardware</a></i> (Kenneth Skovhede, NBI)</li> 
- <li><i><a href="#kristensen">Fusion of Parallel Array Operations</a></i> (Mads Kristensen, NBI)</li> 
- <li><i><a href="#vinter">BDAE – Big Data Analysis Engine</a></i> (Brian Vinter, NBI)</li> 
+ <li><i><a href="#skovhede">SME and BPU: High-level development for low-level hardware</a></i> (Kenneth Skovhede, NBI)</li>
+ <li><i><a href="#kristensen">Fusion of Parallel Array Operations</a></i> (Mads Kristensen, NBI)</li>
+ <li><i><a href="#vinter">BDAE – Big Data Analysis Engine</a></i> (Brian Vinter, NBI)</li>
  </ul>
 </dd>
 <dt>13:00</dt><dd>Lunch</dd>
-<dt>14:00</dt><dd>Risk Management (Chair: Rolf Poulsen) 
+<dt>14:00</dt><dd>Risk Management (Chair: Rolf Poulsen)
  <ul>
  <li><i><a href="#ross">Automated Loan Credit Rating</a></i> (Omri Ross, IMF)</li>
  <li><i><a href="">The MC-squared problem</a></i> (Oleksandr Shturmov, DIKU)</li>
@@ -133,7 +133,7 @@ Niels Gustav Westphal Serup (DIKU) | 1 | 1 | 0 | 0 |
 Vivek Shah (DIKU) |                  0 | 0 | 0 | 0 |
 Total |                             29 |26 |21 |20 |
 
-### Schedule March 4, 2016 (HIPERFIT staff only) 
+### Schedule March 4, 2016 (HIPERFIT staff only)
 
 On March 4, 2016, HIPERFIT staff will meet and discuss feedback
 and plan future activities and projects within HIPERFIT. Here is a
@@ -245,7 +245,7 @@ through temporal data locality and enables other program
 transformations such as streaming and array contraction. Thus, the
 challenge is to find which array operations to fuse in order to
 maximize memory access reuse.
- 
+
 The traditional formulation of this problem is as a graph partitioning
 problem. Given a DAG that represents array operation dependencies and
 is extended with undirected weight edges and fuse-preventing edges,
@@ -255,7 +255,7 @@ edges are not in the same partition block. This graph problem is known
 as that Weighted Loop Fusion Problem. In my talk, I will show that
 this formulation is insufficient when optimizing for memory access
 reuse and introduce a new graph formulation that is sufficient.
- 
+
 _<a name="vinter"></a>__BDAE – Big Data Analysis Engine__ (Brian Vinter, NBI)_
 
 In Big Data Analytics the primary processing approach is MapReduce,
@@ -271,7 +271,7 @@ data that is semantically correlated is split between two storage
 nodes, and to handle this scenario the programmer must then add code
 to manage communication between the two nodes so that the correct
 data-representation can be processed.
- 
+
 In BDAE we address this challenge, the talk will outline the BDAE
 architecture and seek to demonstrate how easy programming new analysis
 codes becomes with this setup.
@@ -308,4 +308,3 @@ sound like. For instance: Risk-neutral pricing does not assume
 risk-neutrality. The FED isn't federal. Hedge funds don't
 hedge. What's up with the Mertons? Default isn't default. Change of
 numeraire changes the denominator, not the numerator.
-
