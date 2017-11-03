@@ -9,8 +9,11 @@ The HIPERFIT Research Center holds biannual workshops to foster
 interdisciplinary cooperation and attract researchers and
 practicioners for future cooperation.
 
-* November 2017: [HIPERFIT Workshop and Summit](news/2017/11/16/hiperfit-workshop). Organized
-  by HIPERFIT. November 16-17, 2017.
+* November 2017: [HIPERFIT Summit](news/2017/11/17/hiperfit-summit). Organized
+  by HIPERFIT. November 17, 2017.
+
+* November 2017: [HIPERFIT Technical Workshop](news/2017/11/16/hiperfit-workshop). Organized
+  by HIPERFIT. November 16, 2017.
 
 * March 2016: [HIPERFIT Workshop for Partners and Faculty](news/2016/03/03/hiperfit-workshop). Organized
   by HIPERFIT. March 3, 2016.

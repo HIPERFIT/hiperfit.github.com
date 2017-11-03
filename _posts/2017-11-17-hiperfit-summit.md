@@ -2,7 +2,7 @@
 layout: post
 title: "HIPERFIT Summit"
 category: news
-tags: [workshop]
+tags: [workshop,summit]
 ---
 {% include JB/setup %}
 
