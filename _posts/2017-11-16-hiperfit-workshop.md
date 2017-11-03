@@ -32,6 +32,7 @@ course, opens up avenues to new opportunities.
 <dl class='event'>
 <dt>08:55</dt><dd><b>Welcome (Fritz Henglein, DIKU)</b></dd>
 
+<dt>09:00</dt><dd><b>Partial Evaluation and Life-Insurance on GPUs</b></dd>
 <dt>09:00</dt><dd><a href='#mycroft'>Object-oriented partial evaluation and the expression problem</a> <i>(Alan Mycroft, U. of Cambridge)</i></dd>
 <dt>09:30</dt><dd><a href='#sestoft'>Domain-specific languages and GPGPUs in life insurance and pensions</a> <i>(Peter Sestoft, ITU)</i></dd>
 
@@ -54,7 +55,7 @@ course, opens up avenues to new opportunities.
 <dt>15:00</dt><dd><b>Data-parallel Programming</b></dd>
 <dt>15:00</dt><dd><a href='#henriksen'>Design and implementation of the Futhark programming language</a> <i>(Troels Henriksen, DIKU)</i></dd>
 <dt>15:30</dt><dd><a href='#oancea'>TBD</a> <i>(Cosmin Oancea, DIKU)</i></dd>
-<dt>16:00</dt><dd><a href='#elsman'>APL on GPUs -- a progress report with a touch of machine learning</a> <i>(Martin Elsman, DIKU)</i></dd>
+<dt>16:00</dt><dd><a href='#elsman'>APL on GPUs--a progress report with a touch of machine learning</a> <i>(Martin Elsman, DIKU)</i></dd>
 
 <dt>16:30</dt><dd><b>Mini Coffee Break</b></dd>
 
@@ -66,9 +67,12 @@ course, opens up avenues to new opportunities.
 
 <dt>17:20</dt><dd><b>Chat and Snacks</b></dd>
 
+
 </dl>
 
 ### Abstracts for Talks on November 16, 2017
+
+#### 09:00-10:00 &nbsp;Partial Evaluation and Life-Insurance on GPUs
 
 <a name='mycroft'></a>__Object-oriented partial evaluation and the expression problem__ _(Alan Mycroft, U. of Cambridge)_
 
