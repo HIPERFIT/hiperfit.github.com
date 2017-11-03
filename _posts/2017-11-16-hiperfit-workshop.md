@@ -8,7 +8,7 @@ tags: [workshop]
 
 ### Two Days of HIPERFIT Events
 
-<img alt="Workshop picture" align="right" width="200" src="/images/hco.jpg">
+<img alt="Workshop picture" align="right" hspace="10" width="400" src="/images/hco.jpg">
 
 On October 16, 2017, HIPERFIT is hosting a workshop for HIPERFIT
 HIPERFIT [partners](/partners.html), [faculty](/people.html), and
@@ -36,7 +36,7 @@ ending, which, of course, opens up avenues to new opportunities.
 
 ### Schedule November 16, 2017
 
-<img alt="Workshop picture" align="right" width="200" src="/images/Salen.jpg">
+<img alt="Workshop picture" align="right" hspace="10" width="400" src="/images/Salen.jpg">
 <dl class='event'>
 <dt>08:55</dt><dd><b>Welcome (Fritz Henglein, DIKU)</b></dd>
 
@@ -78,7 +78,7 @@ ending, which, of course, opens up avenues to new opportunities.
 </dl>
 
 
-<img alt="Workshop picture" align="right" width="200" src="/images/WelcomeFritzInge.jpg">
+<img alt="Workshop picture" align="right" hspace="10" width="400" src="/images/WelcomeFritzInge.jpg">
 
 ### Schedule November 17, 2017 -- Summit
 
