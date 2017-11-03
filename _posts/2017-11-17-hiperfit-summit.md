@@ -11,7 +11,7 @@ tags: [workshop]
 <img alt="Workshop picture" align="right" hspace="10" width="400" src="/images/Salen.jpg">
 
 On October 17, 2017, in the afternoon, HIPERFIT is hosting a 2.5 hour
-summit on \emph{Computation and Finance for the 21st Century}. This
+summit on _Computation and Finance for the 21st Century_. This
 summit will give highlights, in the form of a potpouri, of the
 technical outcommes of HIPERFIT (looking backwards) followed by
 presentations of insights into the needs of the future, given by a
