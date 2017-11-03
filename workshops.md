@@ -9,6 +9,9 @@ The HIPERFIT Research Center holds biannual workshops to foster
 interdisciplinary cooperation and attract researchers and
 practicioners for future cooperation.
 
+* November 2017: [HIPERFIT Workshop and Summit](news/2017/11/16/hiperfit-workshop). Organized
+  by HIPERFIT. November 16-17, 2017.
+
 * March 2016: [HIPERFIT Workshop for Partners and Faculty](news/2016/03/03/hiperfit-workshop). Organized
   by HIPERFIT. March 3, 2016.
 
@@ -33,5 +36,3 @@ practicioners for future cooperation.
 * May 2011: [Internal Workshop](workshopsdir/1st-workshop.html). Marks the opening of the HIPERFIT
   Research Center and mainly addresses partner employees as well as
   researchers and students at the University of Copenhagen.
-
-
