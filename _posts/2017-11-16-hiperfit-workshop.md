@@ -54,7 +54,7 @@ course, opens up avenues to new opportunities.
 
 <dt>15:00</dt><dd><b>Data-parallel Programming</b></dd>
 <dt>15:00</dt><dd><a href='#henriksen'>Design and implementation of the Futhark programming language</a> <i>(Troels Henriksen, DIKU)</i></dd>
-<dt>15:30</dt><dd><a href='#oancea'>TBD</a> <i>(Cosmin Oancea, DIKU)</i></dd>
+<dt>15:30</dt><dd><a href='#oancea'>Futhark: Challenges and Future Research Directions</a> <i>(Cosmin Oancea, DIKU)</i></dd>
 <dt>16:00</dt><dd><a href='#elsman'>APL on GPUs--a progress report with a touch of machine learning</a> <i>(Martin Elsman, DIKU)</i></dd>
 
 <dt>16:30</dt><dd><b>Mini Coffee Break</b></dd>
@@ -76,28 +76,45 @@ course, opens up avenues to new opportunities.
 
 <a name='mycroft'></a>__Object-oriented partial evaluation and the expression problem__ _(Alan Mycroft, U. of Cambridge)_
 
-Object-oriented and functional languages rest on differing foundations and the 'expression problem'
-captures the idea that their inter-translation ('transpilation') is non-modular; this suggests
-that automated transpilation is likely to be ad-hoc or clumsy.
+Object-oriented and functional languages rest on differing foundations
+and the 'expression problem' captures the idea that their
+inter-translation ('transpilation') is non-modular; this suggests that
+automated transpilation is likely to be ad-hoc or clumsy.
 
-We show this to be false.
-By creating a partial evaluator for a pure Java-like language with a focus on class specialisation
-and applying it to an interpreter for an ML-like language we show that
-the seemingly idiomatic transformation from sum types to a class hierarchy arises naturally.
+We show this to be false.  By creating a partial evaluator for a pure
+Java-like language with a focus on class specialisation and applying
+it to an interpreter for an ML-like language we show that the
+seemingly idiomatic transformation from sum types to a class hierarchy
+arises naturally.
 
-In common with many partial-evaluation tools, our initial translation is untyped, but we
-also show how slightly richer analysis can produce a typed translation
-which is close to what a human might produce.
+In common with many partial-evaluation tools, our initial translation
+is untyped, but we also show how slightly richer analysis can produce
+a typed translation which is close to what a human might produce.
 
 <a name='sestoft'></a>__Domain-specific languages and GPGPUs in life insurance and pensions__ _(Peter Sestoft, ITU)_
 
-The pension and life insurance industry works with a very long-term financial contracts where payments depend on the life state of the insured individual(s).  We present a domain-specific language called the Actulus Modelling Language for Products (AML-P) for describing the payment streams of life insurance and pension contracts, and the envisioned uses of this language, including the computation of net present value, future cashflows and so on. The latter quantities can be estimated by numerical solution of (Thiele) differential equations, and we highlight the computational flexibility obtained by using a domain-specific language to separate specification and implementations. This reflects work done in the Actulus project 2011-2016, a collaboration between Edlund A/S, Copenhagen University and the IT University of Copenhagen. We also sketch some ideas for further development.
+The pension and life insurance industry works with a very long-term
+financial contracts where payments depend on the life state of the
+insured individual(s).  We present a domain-specific language called
+the Actulus Modelling Language for Products (AML-P) for describing the
+payment streams of life insurance and pension contracts, and the
+envisioned uses of this language, including the computation of net
+present value, future cashflows and so on. The latter quantities can
+be estimated by numerical solution of (Thiele) differential equations,
+and we highlight the computational flexibility obtained by using a
+domain-specific language to separate specification and
+implementations. This reflects work done in the Actulus project
+2011-2016, a collaboration between Edlund A/S, Copenhagen University
+and the IT University of Copenhagen. We also sketch some ideas for
+further development.
 
 #### 10:30-12:00 &nbsp;Finance
 
 <a name='poulsen'></a>__Special FX__ _(Rolf Poulsen, MATH)_
 
-TBA.
+Special events call for special techniques – also in quantitative
+finance. In this talk I look at two such fairly recent events from the
+world of exchange rates (FX): The Swiss Floor and Brexit/Trump.
 
 <a name='nordfang'></a>__Household finance__ _(Maj-Britt Nordfang, MATH)_
 
@@ -125,18 +142,71 @@ TBA.
 
 <a name='henriksen'></a>__Design and implementation of the Futhark programming language__ _(Troels Henriksen, DIKU)_
 
-Futhark is a data-parallel programming language under development at HIPERFIT. The language supports nested data-parallelism and features an optimising compiler under rabit development. This presentation gives a status update on recent Futhark development, with a particular focus on generation of efficient OpenCL GPU kernels and the steps automatically taken by the Futhark compiler to ensure fusion and efficient memory accesses. In the presentation, we will discuss various tradeoffs of the code generation, and how a new versioning technique can defer to runtime the decision between different parallelisation strategies.
+Futhark is a data-parallel programming language under development at
+HIPERFIT. The language supports nested data-parallelism and features
+an optimising compiler under rabit development. This presentation
+gives a status update on recent Futhark development, with a particular
+focus on generation of efficient OpenCL GPU kernels and the steps
+automatically taken by the Futhark compiler to ensure fusion and
+efficient memory accesses. In the presentation, we will discuss
+various tradeoffs of the code generation, and how a new versioning
+technique can defer to runtime the decision between different
+parallelisation strategies.
 
-<a name='oancea'></a>__TBD__ _(Cosmin Oancea, DIKU)_
+<a name='oancea'></a>__Futhark: Challenges and Future Research Directions__ _(Cosmin Oancea, DIKU)_
 
-TBA.
+The study of programming-model technology that can effectively utilize
+modern hardware is an open, hard, and fundamental topic of research.
+The previous talk has introduced such a data-parallel language -- in
+summary, Futhark has already brought a number of research
+contributions and has already demonstrated its potential for
+efficiently utilizing heterogeneous GPGPU hardware on a number of
+applications, but one could remark that so far, Futhark's design has
+followed a rather conventional path. We believe that currently,
+Futhark merely provides a solid foundation for studying and
+experimenting with novel and aggressive techniques in the language and
+compiler-construction fields.
+
+This talk outlines several such research opportunities: First, we use
+the motivating example of trinomial pricing to show how locality of
+reference can be optimised by using inspector-executor techniques
+coupled with a more aggressive flattening of nested
+parallelism. Second, we demonstrate how the large-memory footprint and
+the significant copying overhead inherent to purely-functional
+approaches can be optimised by combining ideas from region-based
+memory management and register allocation (the later is lifted to
+operate on arrays rather than scalars). Finally, we discuss language
+extensions for (automatically) supporting module systems, automatic
+differentiation, and relational algebra.
 
 <a name='elsman'></a>__APL on GPUs--a progress report with a touch of machine learning__ _(Martin Elsman, DIKU)_
 
-We give a status report of the APL->TAIL->Futhark compiler, which compiles a subset of APL into code executable on GPUs. The compiler handles quite a number of APL functions and operators and is, for the subset of APL it supports, highly compatible with code written for Dyalog APL. Besides reporting on the performance of a number of APL benchmarks, we demonstrate, by example, how the APL compiler tool chain can be used to teach efficiently a neural network to recognise handwritten digits.
+We give a status report of the APL->TAIL->Futhark compiler, which
+compiles a subset of APL into code executable on GPUs. The compiler
+handles quite a number of APL functions and operators and is, for the
+subset of APL it supports, highly compatible with code written for
+Dyalog APL. Besides reporting on the performance of a number of APL
+benchmarks, we demonstrate, by example, how the APL compiler tool
+chain can be used to teach efficiently a neural network to recognise
+handwritten digits.
 
 #### 16:45-17:15 &nbsp;Blockchain Technology
 
 <a name='ross'></a>__Automated execution of financial contracts on blockchain__ _(Omri Ross, DIKU)_
 
-In this presentation we outline how certain financial contracts can be managed and executed automatically on the Ethereum block-chain system. The system is based on a domain-specific language for financial contracts that is capable of expressing complex multi-party derivatives and is conducive to automated execution. We propose an architecture for separating contractual terms from contract execution. A contract engine encapsulates the syntax and semantics of financial contracts without actively performing contractual actions; such actions are handled by user-definable contract managers that administer strategies for the execution of contracts. Hosting contracts and contract managers on a distributed ledger, side-by-side with digital assets, facilitates automated settlement of commitments without the need for an intermediary. We discuss how the proposed technology may change the way financial institutions, regulators, and individuals interact in a financial system based on distributed ledgers.
+In this presentation we outline how certain financial contracts can be
+managed and executed automatically on the Ethereum block-chain
+system. The system is based on a domain-specific language for
+financial contracts that is capable of expressing complex multi-party
+derivatives and is conducive to automated execution. We propose an
+architecture for separating contractual terms from contract
+execution. A contract engine encapsulates the syntax and semantics of
+financial contracts without actively performing contractual actions;
+such actions are handled by user-definable contract managers that
+administer strategies for the execution of contracts. Hosting
+contracts and contract managers on a distributed ledger, side-by-side
+with digital assets, facilitates automated settlement of commitments
+without the need for an intermediary. We discuss how the proposed
+technology may change the way financial institutions, regulators, and
+individuals interact in a financial system based on distributed
+ledgers.
