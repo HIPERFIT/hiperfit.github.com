@@ -38,14 +38,16 @@ ending, which, of course, opens up avenues to new opportunities.
 
 <dt>14:00</dt><dd><b>Coffee Break</b></dd>
 
-<dt>14:30</dt><dd><b>Invited Talks</b></dd>
-<dt>14:30</dt><dd>Enterprise fintech opportunities <i>(Anders Kirkeby, VP Enterprise Architecture, SimCorp)</i></dd>
-<dt>15:00</dt><dd>Putting parallel processing at the fingertips of the domain expert <i>(Gitte Christensen, CEO, Dyalog)</i></dd>
-<dt>15:30</dt><dd><b>Panel Discussion</b></dd>
-<dt>15:30</dt><dd>Computational finance for the 21. Century <i>(TBA)</i></dd>
+<dt>14:20</dt><dd><b>Putting Computation and Finance to Work</b></dd>
+<dt>14:20</dt><dd>Enterprise fintech opportunities <i>(Anders Kirkeby, VP Enterprise Architecture, SimCorp)</i></dd>
+<dt>14:45</dt><dd>Putting parallel processing at the fingertips of the domain expert <i>(Gitte Christensen, CEO, Dyalog)</i></dd>
+<dt>15:10</dt><dd>TBA <i>(Mikael Munch, 2021.AI)</i></dd>
+
+<dt>15:35</dt><dd><b>Strategic Research and Innovation -- how and who pays?</b></dd>
+<dt>15:35</dt><dd>Introduction <i>(Fritz Henglein, DIKU)</i></dd>
+<dt>15:45</dt><dd>Panel Discussion <i>(Gitte Christensen, Anders Kirkeby, Kourosh Marjani Rasmussen, Mikael Munch)</i></dd>
 
 <dt>16:10</dt><dd><b>Closing Remarks (Fritz Henglein, DIKU)</b></dd>
-
 
 <dt>16:15</dt><dd><b>Networking, Snacks, and Vine</b></dd>
 
