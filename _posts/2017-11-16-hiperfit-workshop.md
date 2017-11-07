@@ -136,7 +136,20 @@ TBA.
 
 <a name='annenkov'></a>__Nominal techniques in Coq__ _(Danil Annenkov, DIKU)_
 
-TBA.
+Variables and binding are ubiquitous concepts in programming language
+research. In pen-and-paper proofs about programming language semantics one
+usually applies Barendregt's informal variable convention: all bound variables
+can be chosen to be different from the free variables. This convention allows for
+reasoning in the presence of restrictions on freshness of bound variables
+involved in a proof. It is essential to give a formal justification for the
+variable convention at least for two reasons. First, applying the convention
+may lead to unsound reasoning. Second, it is impossible to formalise proofs,
+which use the informal variable convention. In this talk we present a theory of
+nominal sets (Gabbay, Pitts 2002) and techniques for dealing with bound
+variables based on this theory. We discuss applications of these techniques to
+development of proofs in the Coq proof assistant, show examples in simply-typed
+lambda calculus, and outline some applications to ongoing work on module system
+formalisation.
 
 #### 15:00-16:30 &nbsp;Data-parallel Programming
 
