@@ -35,11 +35,11 @@ ending, which, of course, opens up avenues to new opportunities.
 <dt>13:00</dt><dd><b>Welcome (Martin Elsman, DIKU)</b></dd>
 
 <dt>13:05</dt><dd>HIPERFIT highlights---a summary of project results <i>(HIPERFIT Team)</i>
-                  <p>Predicting Brexit Effects</p>
-		  <p>Functional Programming on Speed</p>
-		  <p>100x Speedup in One Line</p>
-		  <p>Financial Contracts in the Wild--no Brokers Added</p>
-		  <p>...</p>
+                  <ul><li>Predicting Brexit Effects</li>
+		  <li>Functional Programming on Speed</li>
+		  <li>100x Speedup in One Line</li>
+		  <li>Financial Contracts in the Wild--no Brokers Added</li>
+		  <li>...</li></ul>
 		  </dd>
 
 <dt>14:00</dt><dd><b>Coffee Break</b></dd>
