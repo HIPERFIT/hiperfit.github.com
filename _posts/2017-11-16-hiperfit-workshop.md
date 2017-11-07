@@ -21,6 +21,8 @@ it. We will, continue to operate under the name of HIPERFIT, but
 funding for a number of the research projects are ending, which, of
 course, opens up avenues to new opportunities.
 
+[Registration](http://diku.dk/begivenhedsmappe/begivenheder-2017/hiperfit_workshop/)
+
 ### The Venue
 
 [DIKU, Aud 3, HCØ](http://www.diku.dk/), Universitetsparken 5, DK-2100 Copenhagen.
@@ -69,6 +71,10 @@ course, opens up avenues to new opportunities.
 
 
 </dl>
+
+_(Updates and Changes to the program may occur.)_
+
+[Registration](http://diku.dk/begivenhedsmappe/begivenheder-2017/hiperfit_workshop/)
 
 ### Abstracts for Talks on November 16, 2017
 
