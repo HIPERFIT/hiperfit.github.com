@@ -32,20 +32,31 @@ ending, which, of course, opens up avenues to new opportunities.
 ### (PRELIMINARY) Schedule November 17, 2017 -- Summit
 
 <dl class='event'>
-<dt>13:00</dt><dd><b>Welcome (Fritz Henglein, DIKU)</b></dd>
+<dt>13:00</dt><dd><b>Welcome (Martin Elsman, DIKU)</b></dd>
 
-<dt>13:05</dt><dd>HIPERFIT highlights---a summary of project results <i>(HIPERFIT Team)</i></dd>
+<dt>13:05</dt><dd>HIPERFIT highlights---a summary of project results <i>(HIPERFIT Team)</i>
+                  <p>Predicting Brexit Effects</p>
+		  <p>Functional Programming on Speed</p>
+		  <p>100x Speedup in One Line</p>
+		  <p>Financial Contracts in the Wild--no Brokers Added</p>
+		  <p>...</p>
+		  </dd>
 
 <dt>14:00</dt><dd><b>Coffee Break</b></dd>
 
 <dt>14:20</dt><dd><b>Putting Computation and Finance to Work</b></dd>
 <dt>14:20</dt><dd>Enterprise fintech opportunities <i>(Anders Kirkeby, VP Enterprise Architecture, SimCorp)</i></dd>
 <dt>14:45</dt><dd>Putting parallel processing at the fingertips of the domain expert <i>(Gitte Christensen, CEO, Dyalog)</i></dd>
-<dt>15:10</dt><dd>TBA <i>(Mikael Munch, 2021.AI)</i></dd>
+<dt>15:10</dt><dd>TBA <i>(Mikael Munch, CEO 2021.AI, Chairman, Copenhagen Fintech)</i></dd>
 
 <dt>15:35</dt><dd><b>Strategic Research and Innovation -- how and who pays?</b></dd>
 <dt>15:35</dt><dd>Introduction <i>(Fritz Henglein, DIKU)</i></dd>
-<dt>15:45</dt><dd>Panel Discussion <i>(Gitte Christensen, Anders Kirkeby, Kourosh Marjani Rasmussen, Mikael Munch)</i></dd>
+<dt>15:45</dt><dd>Panel Discussion
+                  <p>Gitte Christensen, CEO, Dyalog</p>
+		  <p>Anders Kirkeby, VP Enterprise Architecture, SimCorp</p>
+		  <p>Kourosh Marjani Rasmussen</p>
+		  <p>Mikael Munch, CEO 2021.AI, Chairman, Copenhagen Fintech</p>
+		  </dd>
 
 <dt>16:10</dt><dd><b>Closing Remarks (Fritz Henglein, DIKU)</b></dd>
 
