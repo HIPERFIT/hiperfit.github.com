@@ -6,7 +6,7 @@ tags: [workshop,summit]
 ---
 {% include JB/setup %}
 
-### (PRELIMINARY) Computation and Finance for the 21st Century
+### Computation and Finance for the 21st Century
 
 <img alt="Workshop picture" align="right" hspace="10" width="400" src="/images/Salen.jpg">
 
@@ -29,7 +29,7 @@ ending, which, of course, opens up avenues to new opportunities.
 
 <img alt="Workshop picture" align="right" hspace="10" width="400" src="/images/WelcomeFritzInge.jpg">
 
-### (PRELIMINARY) Schedule November 17, 2017 -- Summit
+### Schedule November 17, 2017 -- Summit
 
 <dl class='event'>
 <dt>13:00</dt><dd><b>Welcome (Martin Elsman, DIKU)</b></dd>
@@ -64,3 +64,5 @@ ending, which, of course, opens up avenues to new opportunities.
 
 
 </dl>
+
+Updates and Changes to the program may occur.
