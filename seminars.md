@@ -10,6 +10,8 @@ Seminars are held according to the schedule below.
 
 #### Schedule for HIPERFIT seminars:
 
+- __2017-11-15:__ PhD Thesis Defence. Design and Implementation of the Futhark Programming Language. Troels Henriksen, DIKU. Room Aud 6, HCØ, Universitetsparken 5, 2100 Copenhagen Ø, 13:15-?. Wednesday. [Seminar Announcement](http://hiperfit.dk/news/2017/11/15/henriksen-phd).
+
 - __2017-08-09:__ PhD Thesis Defence. Array abstractions for GPU Programming. Martin Dybdal, DIKU. Room Aud 10, HCØ, Universitetsparken 5, 2100 Copenhagen Ø, 13:15-?. Wednesday. [Seminar Announcement](http://hiperfit.dk/news/2017/08/09/dybdal-phd).
 
 - __2017-06-16:__ PhD Thesis Defence. Preferences, behaviour and the design of financial contracts. Maj-Britt Nordfang, MATH. Room Aud 4, HCØ, Universitetsparken 5, 2100 Copenhagen Ø, 14:00-?. [Seminar Announcement](http://hiperfit.dk/news/2017/06/16/nordfang-phd).
