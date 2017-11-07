@@ -35,10 +35,10 @@ ending, which, of course, opens up avenues to new opportunities.
 <dt>13:00</dt><dd><b>Welcome (Martin Elsman, DIKU)</b></dd>
 
 <dt>13:05</dt><dd>HIPERFIT highlights---a summary of project results <i>(HIPERFIT Team)</i>
-                  <ul><li>Predicting Brexit Effects</li>
-		  <li>Functional Programming on Speed</li>
-		  <li>100x Speedup in One Line</li>
-		  <li>Financial Contracts in the Wild--no Brokers Added</li>
+                  <ul><li><i>Predicting Brexit Effects</i></li>
+		  <li><i>Functional Programming on Speed</i></li>
+		  <li><i>100x Speedup in One Line</i></li>
+		  <li><i>Financial Contracts in the Wild--no Brokers Added</i></li>
 		  <li>...</li></ul>
 		  </dd>
 
@@ -52,10 +52,10 @@ ending, which, of course, opens up avenues to new opportunities.
 <dt>15:35</dt><dd><b>Strategic Research and Innovation -- how and who pays?</b></dd>
 <dt>15:35</dt><dd>Introduction <i>(Fritz Henglein, DIKU)</i></dd>
 <dt>15:45</dt><dd>Panel Discussion
-                  <p>Gitte Christensen, CEO, Dyalog</p>
-		  <p>Anders Kirkeby, VP Enterprise Architecture, SimCorp</p>
-		  <p>Kourosh Marjani Rasmussen</p>
-		  <p>Mikael Munch, CEO 2021.AI, Chairman, Copenhagen Fintech</p>
+                  <ul><li><i>Gitte Christensen, CEO, Dyalog</i></li>
+		  <li><i>Anders Kirkeby, VP Enterprise Architecture, SimCorp</i></li>
+		  <li><i>Kourosh Marjani Rasmussen</i></li>
+		  <li><i>Mikael Munch, CEO 2021.AI, Chairman, Copenhagen Fintech</i></li></ul>
 		  </dd>
 
 <dt>16:10</dt><dd><b>Closing Remarks (Fritz Henglein, DIKU)</b></dd>
