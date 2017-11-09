@@ -36,7 +36,7 @@ course, opens up avenues to new opportunities.
 
 <dt>09:00</dt><dd><b>Partial Evaluation and Life-Insurance on GPUs</b></dd>
 <dt>09:00</dt><dd><a href='#mycroft'>Object-oriented partial evaluation and the expression problem</a> <i>(Alan Mycroft, U. of Cambridge)</i></dd>
-<dt>09:30</dt><dd><a href='#sestoft'>Domain-specific languages and GPGPUs in life insurance and pensions</a> <i>(Peter Sestoft, ITU)</i></dd>
+<dt>09:30</dt><dd><a href='#annenkov'>Nominal techniques in Coq</a> <i>(Danil Annenkov, DIKU)</i></dd>
 
 <dt>10:00</dt><dd><b>Coffee Break</b></dd>
 
@@ -50,7 +50,7 @@ course, opens up avenues to new opportunities.
 <dt>13:00</dt><dd><b>Streaming and Formalisation</b></dd>
 <dt>13:00</dt><dd><a href='#filinski'>Streaming data-parallelism</a> <i>(Andrzej Filinski, DIKU)</i></dd>
 <dt>13:30</dt><dd><a href='#biboudis'>Streaming</a> <i>(Aggelos Biboudis, École Polytechnique Fédérale de Lausanne)</i></dd>
-<dt>14:00</dt><dd><a href='#annenkov'>Nominal techniques in Coq</a> <i>(Danil Annenkov, DIKU)</i></dd>
+<dt>14:00</dt><dd><a href='#sestoft'>Domain-specific languages and GPGPUs in life insurance and pensions</a> <i>(Peter Sestoft, ITU)</i></dd>
 
 <dt>14:30</dt><dd><b>Coffee Break</b></dd>
 
@@ -97,22 +97,24 @@ In common with many partial-evaluation tools, our initial translation
 is untyped, but we also show how slightly richer analysis can produce
 a typed translation which is close to what a human might produce.
 
-<a name='sestoft'></a>__Domain-specific languages and GPGPUs in life insurance and pensions__ _(Peter Sestoft, ITU)_
 
-The pension and life insurance industry works with a very long-term
-financial contracts where payments depend on the life state of the
-insured individual(s).  We present a domain-specific language called
-the Actulus Modelling Language for Products (AML-P) for describing the
-payment streams of life insurance and pension contracts, and the
-envisioned uses of this language, including the computation of net
-present value, future cashflows and so on. The latter quantities can
-be estimated by numerical solution of (Thiele) differential equations,
-and we highlight the computational flexibility obtained by using a
-domain-specific language to separate specification and
-implementations. This reflects work done in the Actulus project
-2011-2016, a collaboration between Edlund A/S, Copenhagen University
-and the IT University of Copenhagen. We also sketch some ideas for
-further development.
+<a name='annenkov'></a>__Nominal techniques in Coq__ _(Danil Annenkov, DIKU)_
+
+Variables and binding are ubiquitous concepts in programming language
+research. In pen-and-paper proofs about programming language semantics one
+usually applies Barendregt's informal variable convention: all bound variables
+can be chosen to be different from the free variables. This convention allows for
+reasoning in the presence of restrictions on freshness of bound variables
+involved in a proof. It is essential to give a formal justification for the
+variable convention at least for two reasons. First, applying the convention
+may lead to unsound reasoning. Second, it is impossible to formalise proofs,
+which use the informal variable convention. In this talk we present a theory of
+nominal sets (Gabbay, Pitts 2002) and techniques for dealing with bound
+variables based on this theory. We discuss applications of these techniques to
+development of proofs in the Coq proof assistant, show examples in simply-typed
+lambda calculus, and outline some applications to ongoing work on module system
+formalisation.
+
 
 #### 10:30-12:00 &nbsp;Finance
 
@@ -163,22 +165,22 @@ simultaneously many tens of times faster than past work. We greatly
 exceed in performance the standard stream libraries available in Java,
 Scala and OCaml, including the well-optimized Java 8 streams.
 
-<a name='annenkov'></a>__Nominal techniques in Coq__ _(Danil Annenkov, DIKU)_
+<a name='sestoft'></a>__Domain-specific languages and GPGPUs in life insurance and pensions__ _(Peter Sestoft, ITU)_
 
-Variables and binding are ubiquitous concepts in programming language
-research. In pen-and-paper proofs about programming language semantics one
-usually applies Barendregt's informal variable convention: all bound variables
-can be chosen to be different from the free variables. This convention allows for
-reasoning in the presence of restrictions on freshness of bound variables
-involved in a proof. It is essential to give a formal justification for the
-variable convention at least for two reasons. First, applying the convention
-may lead to unsound reasoning. Second, it is impossible to formalise proofs,
-which use the informal variable convention. In this talk we present a theory of
-nominal sets (Gabbay, Pitts 2002) and techniques for dealing with bound
-variables based on this theory. We discuss applications of these techniques to
-development of proofs in the Coq proof assistant, show examples in simply-typed
-lambda calculus, and outline some applications to ongoing work on module system
-formalisation.
+The pension and life insurance industry works with a very long-term
+financial contracts where payments depend on the life state of the
+insured individual(s).  We present a domain-specific language called
+the Actulus Modelling Language for Products (AML-P) for describing the
+payment streams of life insurance and pension contracts, and the
+envisioned uses of this language, including the computation of net
+present value, future cashflows and so on. The latter quantities can
+be estimated by numerical solution of (Thiele) differential equations,
+and we highlight the computational flexibility obtained by using a
+domain-specific language to separate specification and
+implementations. This reflects work done in the Actulus project
+2011-2016, a collaboration between Edlund A/S, Copenhagen University
+and the IT University of Copenhagen. We also sketch some ideas for
+further development.
 
 #### 15:00-16:30 &nbsp;Data-parallel Programming
 
