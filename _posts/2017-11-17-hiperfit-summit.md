@@ -49,7 +49,7 @@ ending, which, of course, opens up avenues to new opportunities.
 <dt>14:20</dt><dd><b>Putting Computation and Finance to Work</b></dd>
 <dt>14:20</dt><dd>Enterprise fintech opportunities <i>(Anders Kirkeby, VP Enterprise Architecture, SimCorp)</i></dd>
 <dt>14:45</dt><dd>Putting parallel processing at the fingertips of the domain expert <i>(Gitte Christensen, CEO, Dyalog)</i></dd>
-<dt>15:10</dt><dd>TBA <i>(Mikael Munch, CEO 2021.AI, Chairman, Copenhagen Fintech)</i></dd>
+<dt>15:10</dt><dd>I krydsfeltet af FinTech og AI. Hvordan holder jeg mig, og min organisation, på forkanten af nye teknologier indenfor FinTech og AI.<i>(Mikael Munch, CEO 2021.AI, Chairman, Copenhagen Fintech)</i></dd>
 
 <dt>15:35</dt><dd><b>Strategic Research and Innovation -- how and who pays?</b></dd>
 <dt>15:35</dt><dd>Introduction <i>(Fritz Henglein, DIKU)</i></dd>
