@@ -34,7 +34,7 @@ course, opens up avenues to new opportunities.
 <dl class='event'>
 <dt>08:55</dt><dd><b>Welcome (Fritz Henglein, DIKU)</b></dd>
 
-<dt>09:00</dt><dd><b>Partial Evaluation and Life-Insurance on GPUs</b></dd>
+<dt>09:00</dt><dd><b>Partial Evaluation and Formalisation</b></dd>
 <dt>09:00</dt><dd><a href='#mycroft'>Object-oriented partial evaluation and the expression problem</a> <i>(Alan Mycroft, U. of Cambridge)</i></dd>
 <dt>09:30</dt><dd><a href='#annenkov'>Nominal techniques in Coq</a> <i>(Danil Annenkov, DIKU)</i></dd>
 
@@ -47,22 +47,22 @@ course, opens up avenues to new opportunities.
 
 <dt>12:00</dt><dd><b>Lunch</b></dd>
 
-<dt>13:00</dt><dd><b>Streaming and Formalisation</b></dd>
-<dt>13:00</dt><dd><a href='#filinski'>Streaming data-parallelism</a> <i>(Andrzej Filinski, DIKU)</i></dd>
-<dt>13:30</dt><dd><a href='#biboudis'>Streaming</a> <i>(Aggelos Biboudis, École Polytechnique Fédérale de Lausanne)</i></dd>
-<dt>14:00</dt><dd><a href='#sestoft'>Domain-specific languages and GPGPUs in life insurance and pensions</a> <i>(Peter Sestoft, ITU)</i></dd>
+<dt>13:00</dt><dd><b>Blockchain Technology</b></dd>
+<dt>13:00</dt><dd><a href='#ross'>Automated execution of financial contracts on blockchain</a> <i>(Omri Ross, DIKU)</i></dd>
 
-<dt>14:30</dt><dd><b>Coffee Break</b></dd>
+<dt>13:30</dt><dd><b>Mini Coffee Break</b></dd>
 
-<dt>15:00</dt><dd><b>Data-parallel Programming</b></dd>
-<dt>15:00</dt><dd><a href='#henriksen'>Design and implementation of the Futhark programming language</a> <i>(Troels Henriksen, DIKU)</i></dd>
-<dt>15:30</dt><dd><a href='#oancea'>Futhark: Challenges and Future Research Directions</a> <i>(Cosmin Oancea, DIKU)</i></dd>
-<dt>16:00</dt><dd><a href='#elsman'>APL on GPUs--a progress report with a touch of machine learning</a> <i>(Martin Elsman, DIKU)</i></dd>
+<dt>13:45</dt><dd><b>Streaming and Life-Insurance on GPUs</b></dd>
+<dt>13:45</dt><dd><a href='#filinski'>Streaming data-parallelism</a> <i>(Andrzej Filinski, DIKU)</i></dd>
+<dt>14:15</dt><dd><a href='#biboudis'>Streaming</a> <i>(Aggelos Biboudis, École Polytechnique Fédérale de Lausanne)</i></dd>
+<dt>14:45</dt><dd><a href='#sestoft'>Domain-specific languages and GPGPUs in life insurance and pensions</a> <i>(Peter Sestoft, ITU)</i></dd>
 
-<dt>16:30</dt><dd><b>Mini Coffee Break</b></dd>
+<dt>15:15</dt><dd><b>Coffee Break</b></dd>
 
-<dt>16:45</dt><dd><b>Blockchain Technology</b></dd>
-<dt>16:45</dt><dd><a href='#ross'>Automated execution of financial contracts on blockchain</a> <i>(Omri Ross, DIKU)</i></dd>
+<dt>15:45</dt><dd><b>Data-parallel Programming</b></dd>
+<dt>15:45</dt><dd><a href='#henriksen'>Design and implementation of the Futhark programming language</a> <i>(Troels Henriksen, DIKU)</i></dd>
+<dt>16:15</dt><dd><a href='#oancea'>Futhark: Challenges and Future Research Directions</a> <i>(Cosmin Oancea, DIKU)</i></dd>
+<dt>16:45</dt><dd><a href='#elsman'>APL on GPUs--a progress report with a touch of machine learning</a> <i>(Martin Elsman, DIKU)</i></dd>
 
 <dt>17:15</dt><dd><b>Closing Remarks (Fritz Henglein, DIKU)</b></dd>
 
@@ -78,7 +78,7 @@ _(Updates and Changes to the program may occur.)_
 
 ### Abstracts for Talks on November 16, 2017
 
-#### 09:00-10:00 &nbsp;Partial Evaluation and Life-Insurance on GPUs
+#### 09:00-10:00 &nbsp;Partial Evaluation and Formalisation
 
 <a name='mycroft'></a>__Object-oriented partial evaluation and the expression problem__ _(Alan Mycroft, U. of Cambridge)_
 
@@ -132,7 +132,28 @@ TBA.
 
 TBA.
 
-#### 13:00-14:30 &nbsp;Streaming and Formalisation
+#### 13:00-13:30 &nbsp;Blockchain Technology
+
+<a name='ross'></a>__Automated execution of financial contracts on blockchain__ _(Omri Ross, DIKU)_
+
+In this presentation we outline how certain financial contracts can be
+managed and executed automatically on the Ethereum block-chain
+system. The system is based on a domain-specific language for
+financial contracts that is capable of expressing complex multi-party
+derivatives and is conducive to automated execution. We propose an
+architecture for separating contractual terms from contract
+execution. A contract engine encapsulates the syntax and semantics of
+financial contracts without actively performing contractual actions;
+such actions are handled by user-definable contract managers that
+administer strategies for the execution of contracts. Hosting
+contracts and contract managers on a distributed ledger, side-by-side
+with digital assets, facilitates automated settlement of commitments
+without the need for an intermediary. We discuss how the proposed
+technology may change the way financial institutions, regulators, and
+individuals interact in a financial system based on distributed
+ledgers.
+
+#### 13:45-15:15 &nbsp;Streaming and Life-Insurance on GPUs
 
 <a name='filinski'></a>__Streaming data-parallelism__ _(Andrzej Filinski, DIKU)_
 
@@ -182,7 +203,7 @@ implementations. This reflects work done in the Actulus project
 and the IT University of Copenhagen. We also sketch some ideas for
 further development.
 
-#### 15:00-16:30 &nbsp;Data-parallel Programming
+#### 15:45-17:15 &nbsp;Data-parallel Programming
 
 <a name='henriksen'></a>__Design and implementation of the Futhark programming language__ _(Troels Henriksen, DIKU)_
 
@@ -233,24 +254,3 @@ Dyalog APL. Besides reporting on the performance of a number of APL
 benchmarks, we demonstrate, by example, how the APL compiler tool
 chain can be used to teach efficiently a neural network to recognise
 handwritten digits.
-
-#### 16:45-17:15 &nbsp;Blockchain Technology
-
-<a name='ross'></a>__Automated execution of financial contracts on blockchain__ _(Omri Ross, DIKU)_
-
-In this presentation we outline how certain financial contracts can be
-managed and executed automatically on the Ethereum block-chain
-system. The system is based on a domain-specific language for
-financial contracts that is capable of expressing complex multi-party
-derivatives and is conducive to automated execution. We propose an
-architecture for separating contractual terms from contract
-execution. A contract engine encapsulates the syntax and semantics of
-financial contracts without actively performing contractual actions;
-such actions are handled by user-definable contract managers that
-administer strategies for the execution of contracts. Hosting
-contracts and contract managers on a distributed ledger, side-by-side
-with digital assets, facilitates automated settlement of commitments
-without the need for an intermediary. We discuss how the proposed
-technology may change the way financial institutions, regulators, and
-individuals interact in a financial system based on distributed
-ledgers.
