@@ -54,7 +54,7 @@ course, opens up avenues to new opportunities.
 
 <dt>13:45</dt><dd><b>Streaming and Life-Insurance on GPUs</b></dd>
 <dt>13:45</dt><dd><a href='#filinski'>Streaming data-parallelism</a> <i>(Andrzej Filinski, DIKU)</i></dd>
-<dt>14:15</dt><dd><a href='#biboudis'>Streaming</a> <i>(Aggelos Biboudis, École Polytechnique Fédérale de Lausanne)</i></dd>
+<dt>14:15</dt><dd><a href='#biboudis'>Stream fusion: from staging to ahead-of-time compilation through Scala Native</a> <i>(Aggelos Biboudis, École Polytechnique Fédérale de Lausanne)</i></dd>
 <dt>14:45</dt><dd><a href='#sestoft'>Domain-specific languages and GPGPUs in life insurance and pensions</a> <i>(Peter Sestoft, ITU)</i></dd>
 
 <dt>15:15</dt><dd><b>Coffee Break</b></dd>
@@ -126,7 +126,10 @@ world of exchange rates (FX): The Swiss Floor and Brexit/Trump.
 
 <a name='nordfang'></a>__Household finance__ _(Maj-Britt Nordfang, MATH)_
 
-TBA.
+What is the optimal mortgage and how are pension savings optimally
+invested? In this presentation I will discuss the design of financial
+contracts in relation to the preferences of individual household
+consumers.
 
 <a name='benth'></a>__Modelling stochastic volatility in forward markets__ _(Fred Esben Benth, U. of Oslo)_
 
@@ -159,32 +162,24 @@ ledgers.
 
 TBA.
 
-<a name='biboudis'></a>__Stream Fusion, to Completeness__ _(Aggelos Biboudis, École Polytechnique Fédérale de Lausanne)_
+<a name='biboudis'></a>__Stream fusion: from staging to ahead-of-time compilation through Scala Native__ _(Aggelos Biboudis, École Polytechnique Fédérale de Lausanne)_
 
 Stream processing is mainstream (again): Widely-used stream libraries
 are now available for virtually all modern OO and functional
 languages, from Java to C# to Scala to OCaml to Haskell. Yet
-expressivity and performance are still lacking. For instance, the
-popular, well-optimized Java 8 streams do not support the zip operator
-and are still an order of magnitude slower than hand-written loops. We
-present the first approach that represents the full generality of
-stream processing and eliminates overheads, via the use of staging. It
-is based on an unusually rich semantic model of stream interaction. We
+expressivity and performance are still lacking. In this talk we
+present two topics. Firstly, we present the strymonas library, the
+first approach that represents the full generality of stream
+processing and eliminates overheads, via the use of staging. It is
+based on an unusually rich semantic model of stream interaction. We
 support any combination of zipping, nesting (or flat-mapping),
-sub-ranging, filtering, mapping-of finite or infinite streams. Our
-model captures idiosyncrasies that a programmer uses in optimizing
-stream pipelines, such as rate differences and the choice of a "for"
-vs. "while" loops. Our approach delivers hand-written-like code, but
-automatically. It explicitly avoids the reliance on black-box
-optimizers and sufficiently-smart compilers, offering highest,
-guaranteed and portable performance. Our approach relies on high-level
-concepts that are then readily mapped into an
-implementation. Accordingly, we have two distinct implementations: an
-OCaml stream library, staged via MetaOCaml, and a Scala library for
-the JVM, staged via LMS. In both cases, we derive libraries richer and
-simultaneously many tens of times faster than past work. We greatly
-exceed in performance the standard stream libraries available in Java,
-Scala and OCaml, including the well-optimized Java 8 streams.
+sub-ranging, filtering, mapping-of finite or infinite
+streams. Secondly, gaining inspiration from Futhark we present our
+vision for Scala Native enhanced with capabilities to offload
+computations to GPGPU supporting fusion and fission. Scala Native is
+the ahead-of-time compiler for Scala developed at EPFL and in this
+talk we will introduce a possible common ground for ideas to flow
+between the two worlds.
 
 <a name='sestoft'></a>__Domain-specific languages and GPGPUs in life insurance and pensions__ _(Peter Sestoft, ITU)_
 
