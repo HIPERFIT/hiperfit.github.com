@@ -10,7 +10,7 @@ tags: [workshop]
 
 <img alt="Workshop picture" align="right" hspace="10" width="400" src="/images/hco.jpg">
 
-On October 16, 2017, HIPERFIT is hosting a workshop for HIPERFIT
+On November 16, 2017, HIPERFIT is hosting a workshop for HIPERFIT
 [partners](/partners.html), [faculty](/people.html), and other people
 interested in technical topics related to HIPERFIT activities. The
 presentations will include presentations both by researchers external

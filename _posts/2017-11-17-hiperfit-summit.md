@@ -10,7 +10,7 @@ tags: [workshop,summit]
 
 <img alt="Workshop picture" align="right" hspace="10" width="400" src="/images/Salen.jpg">
 
-On October 17, 2017, in the afternoon, HIPERFIT is hosting a 3 hour
+On November 17, 2017, in the afternoon, HIPERFIT is hosting a 3 hour
 summit on _Computation and Finance for the 21st Century_. This
 summit will give highlights, in the form of a potpourri, of the
 technical outcomes of HIPERFIT (looking backwards) followed by
