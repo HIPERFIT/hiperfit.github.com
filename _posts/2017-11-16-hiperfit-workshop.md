@@ -34,32 +34,32 @@ course, opens up avenues to new opportunities.
 <dl class='event'>
 <dt>08:55</dt><dd><b>Welcome (Fritz Henglein, DIKU)</b></dd>
 
-<dt>09:00</dt><dd><b>Partial Evaluation and Formalisation</b></dd>
+<dt>09:00</dt><dd><b>Partial Evaluation and Formalisation (Chair: Cosmin Oancea)</b></dd>
 <dt>09:00</dt><dd><a href='#mycroft'>Object-oriented partial evaluation and the expression problem</a> <i>(Alan Mycroft, U. of Cambridge)</i></dd>
 <dt>09:30</dt><dd><a href='#annenkov'>Nominal techniques in Coq</a> <i>(Danil Annenkov, DIKU)</i></dd>
 
 <dt>10:00</dt><dd><b>Coffee Break</b></dd>
 
-<dt>10:30</dt><dd><b>Finance</b></dd>
+<dt>10:30</dt><dd><b>Finance (Chair: Mogens Steffensen)</b></dd>
 <dt>10:30</dt><dd><a href='#poulsen'>Special FX</a> <i>(Rolf Poulsen, MATH)</i></dd>
 <dt>11:00</dt><dd><a href='#nordfang'>Household finance</a> <i>(Maj-Britt Nordfang, MATH)</i></dd>
 <dt>11:30</dt><dd><a href='#benth'>Modelling stochastic volatility in forward markets</a> <i>(Fred Esben Benth, U. of Oslo)</i></dd>
 
 <dt>12:00</dt><dd><b>Lunch</b></dd>
 
-<dt>13:00</dt><dd><b>Blockchain Technology</b></dd>
+<dt>13:00</dt><dd><b>Blockchain Technology (Chair: Martin Elsman)</b></dd>
 <dt>13:00</dt><dd><a href='#ross'>Automated execution of financial contracts on blockchain</a> <i>(Omri Ross, DIKU)</i></dd>
 
 <dt>13:30</dt><dd><b>Mini Coffee Break</b></dd>
 
-<dt>13:45</dt><dd><b>Streaming and Life-Insurance on GPUs</b></dd>
+<dt>13:45</dt><dd><b>Streaming and Life-Insurance on GPUs (Chair: Ken Friis Larsen)</b></dd>
 <dt>13:45</dt><dd><a href='#filinski'>Streaming data-parallelism</a> <i>(Andrzej Filinski, DIKU)</i></dd>
 <dt>14:15</dt><dd><a href='#biboudis'>Stream fusion: from staging to ahead-of-time compilation through Scala Native</a> <i>(Aggelos Biboudis, École Polytechnique Fédérale de Lausanne)</i></dd>
 <dt>14:45</dt><dd><a href='#sestoft'>Domain-specific languages and GPGPUs in life insurance and pensions</a> <i>(Peter Sestoft, ITU)</i></dd>
 
 <dt>15:15</dt><dd><b>Coffee Break</b></dd>
 
-<dt>15:45</dt><dd><b>Data-parallel Programming</b></dd>
+<dt>15:45</dt><dd><b>Data-parallel Programming (Chair: Fritz Henglein)</b></dd>
 <dt>15:45</dt><dd><a href='#henriksen'>Design and implementation of the Futhark programming language</a> <i>(Troels Henriksen, DIKU)</i></dd>
 <dt>16:15</dt><dd><a href='#oancea'>Futhark: Challenges and Future Research Directions</a> <i>(Cosmin Oancea, DIKU)</i></dd>
 <dt>16:45</dt><dd><a href='#elsman'>APL on GPUs--a progress report with a touch of machine learning</a> <i>(Martin Elsman, DIKU)</i></dd>
