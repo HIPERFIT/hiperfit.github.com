@@ -15,6 +15,12 @@ practicioners for future cooperation.
 * November 2017: [HIPERFIT Technical Workshop](news/2017/11/16/hiperfit-workshop). Organized
   by HIPERFIT. November 16, 2017.
 
+* Sep 2017: [2nd ACM SIGPLAN Workshop on Functional High-Performance Computing (FHPC'2017). Co-located with
+  ICFP'2017. Co-chaired by Cosmin Oancea.
+
+* June 2016: [ARRAY ACM SIGPLAN 3rd International Workshop on Libraries, Languages and Compilers for Programming (ARRAY'2016). Co-chaired with
+  PLDI'2016. Co-chaired by Martin Elsman.
+
 * March 2016: [HIPERFIT Workshop for Partners and Faculty](news/2016/03/03/hiperfit-workshop). Organized
   by HIPERFIT. March 3, 2016.
 
