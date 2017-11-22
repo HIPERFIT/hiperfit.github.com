@@ -225,6 +225,9 @@ Programming on Next-Generation Processing Units__. PhD thesis. HIPERFIT, NBI, Un
 * Niels G. W. Serup. __Memory Block Merging in Futhark__. MSc theses. Department of Computer Science,
 University of Copenhagen. November, 2017. [pdf](/pdf/niels-msc-thesis.pdf).
 
+* Dandan Xue. __Formalizing the Implementation of Streaming NESL__. MSc theses. Department of Computer Science,
+University of Copenhagen. November, 2017. [pdf](/pdf/DandanXue-MScThesis.pdf).
+
 * Rasmus Wriedt Larsen. __Generating Efficient Code for Futhark’s Segmented Redomap__. MSc thesis. Department of Computer Science,
 University of Copenhagen. March, 2017.
 [pdf](/pdf/RasmusMScThesis2017v1-1.pdf).
