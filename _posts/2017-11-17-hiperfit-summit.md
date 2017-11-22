@@ -57,7 +57,7 @@ ending, which, of course, opens up avenues to new opportunities.
                   <ul><li><i>Gitte Christensen, CEO, Dyalog</i></li>
 		  <li><i>Anders Kirkeby, VP Enterprise Architecture, SimCorp</i></li>
 		  <li><i>Anette Broløs, Independent Fintech Analyst, Broløs Consult</i></li>
-		  <li><i>Kourosh Marjani Rasmussen</i></li>
+		  <li><i>Kourosh Marjani Rasmussen, Associate Professor, DTU</i></li>
 		  <li><i>Mikael Munck, CEO 2021.AI, Chairman, Copenhagen Fintech</i></li></ul>
 		  </dd>
 
