@@ -220,12 +220,12 @@ Financial Information Technology__. Project Application, 2010.
 * Simon A. F. Lund. __A High Performance Backend for Array-Oriented
 Programming on Next-Generation Processing Units__. PhD thesis. HIPERFIT, NBI, University of Copenhagen. September, 2015. [pdf](/pdf/Simon_Andreas_Frimann_Lund_PhDThesis2015.pdf).
 
-### Student MSc Theses, BSc Theses, and Project Reports
+### MSc Theses, BSc Theses, and Student Project Reports
 
-* Niels G. W. Serup. __Memory Block Merging in Futhark__. MSc theses. Department of Computer Science,
+* Niels G. W. Serup. __Memory Block Merging in Futhark__. MSc thesis. Department of Computer Science,
 University of Copenhagen. November, 2017. [pdf](/pdf/niels-msc-thesis.pdf).
 
-* Dandan Xue. __Formalizing the Implementation of Streaming NESL__. MSc theses. Department of Computer Science,
+* Dandan Xue. __Formalizing the Implementation of Streaming NESL__. MSc thesis. Department of Computer Science,
 University of Copenhagen. November, 2017. [pdf](/pdf/DandanXue-MScThesis.pdf).
 
 * Rasmus Wriedt Larsen. __Generating Efficient Code for Futhark’s Segmented Redomap__. MSc thesis. Department of Computer Science,
