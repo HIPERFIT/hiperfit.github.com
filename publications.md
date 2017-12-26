@@ -203,7 +203,7 @@ Financial Information Technology__. Project Application, 2010.
 
 ### PhD Theses
 
-* Troels Henriksen. __Design and Implementation of the Futhark Programming Language__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. November, 2017.
+* Troels Henriksen. __Design and Implementation of the Futhark Programming Language__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. November, 2017. [pdf](/pdf/troels-phd-thesis.pdf).
 
 * Martin Dybdal. __Array Abstractions for GPU Programming__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. August, 2017. [pdf](/pdf/dpr964-thesis-final-v2.pdf).
 
