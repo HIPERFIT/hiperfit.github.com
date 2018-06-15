@@ -204,6 +204,8 @@ Financial Information Technology__. Project Application, 2010.
 
 ### PhD Theses
 
+* Danil Annenkov. __Adventures in Formalisation: Financial Contracts, Modules, and Two-Level Type Theory__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. Revised Version. April, 2018. [pdf](/pdf/DanilAnnenkovThesis.pdf).
+
 * Troels Henriksen. __Design and Implementation of the Futhark Programming Language__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. November, 2017. [pdf](/pdf/troels-phd-thesis.pdf).
 
 * Martin Dybdal. __Array Abstractions for GPU Programming__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. August, 2017. [pdf](/pdf/dpr964-thesis-final-v2.pdf).
