@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Danil Annenkov and Martin Elsman. __Certified Compilation of Financial Contracts__. In _Proceedings of the 20th International Symposium on Principles and Practice of Declarative Programming (PPDP'18)_. Frankfurt am Main, Germany. September 2018.
+
 * Martin Elsman, Troels Henriksen, Danil Annenkov, Cosmin Oancea. __Static Interpretation of Higher-Order Modules in Futhark__. In _Proceedings of the 2018 ACM SIGPLAN International Conference on Functional Programming (ICFP'18)_. St. Louis, Missouri, USA. September 2018.
 
 * Benjamin Egelund-Müller, Martin Elsman, Fritz Henglein, and Omri Ross. __Automated Execution of Financial Contracts on Blockchains__. In _Journal of Business and Information Systems Engineering (BISE)_. Nov 2017. [Online](https://link.springer.com/article/10.1007/s12599-017-0507-z).
@@ -224,6 +226,9 @@ Financial Information Technology__. Project Application, 2010.
 Programming on Next-Generation Processing Units__. PhD thesis. HIPERFIT, NBI, University of Copenhagen. September, 2015. [pdf](/pdf/Simon_Andreas_Frimann_Lund_PhDThesis2015.pdf).
 
 ### MSc Theses, BSc Theses, and Student Project Reports
+
+* Anders Kiel Hovgaard. __Higher-order functions for a high-performance programming language for GPUs__. MSc thesis. Department of Computer Science,
+University of Copenhagen. May, 2018. [pdf](/pdf/hovgaard-msc-thesis.pdf).
 
 * Niels G. W. Serup. __Memory Block Merging in Futhark__. MSc thesis. Department of Computer Science,
 University of Copenhagen. November, 2017. [pdf](/pdf/niels-msc-thesis.pdf).
