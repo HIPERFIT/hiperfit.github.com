@@ -241,6 +241,9 @@ University of Copenhagen. November, 2017. [pdf](/pdf/niels-msc-thesis.pdf).
 * Dandan Xue. __Formalizing the Implementation of Streaming NESL__. MSc thesis. Department of Computer Science,
 University of Copenhagen. November, 2017. [pdf](/pdf/DandanXue-MScThesis.pdf).
 
+* Christian Kjær Larsen. __Formalization of Array Combinators and their Fusion Rules in Coq__. BSc thesis. Department of Computer Science,
+University of Copenhagen. June, 2017. [pdf](/pdf/bachelor_thesis_christian_k_larsen.pdf).
+
 * Rasmus Wriedt Larsen. __Generating Efficient Code for Futhark’s Segmented Redomap__. MSc thesis. Department of Computer Science,
 University of Copenhagen. March, 2017.
 [pdf](/pdf/RasmusMScThesis2017v1-1.pdf).
