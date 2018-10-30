@@ -229,6 +229,9 @@ Programming on Next-Generation Processing Units__. PhD thesis. HIPERFIT, NBI, Un
 
 ### MSc Theses, BSc Theses, and Student Project Reports
 
+* Frederik Bøgelund Larsen. __Data-Parallel implementation of Monte Carlo Based Financial Risk Calculations__. MSc thesis. Department of Computer Science,
+University of Copenhagen. August, 2018. [pdf](/pdf/masters_thesis_frederik_b_larsen.pdf).
+
 * Anders Kiel Hovgaard. __Higher-order functions for a high-performance programming language for GPUs__. MSc thesis. Department of Computer Science,
 University of Copenhagen. May, 2018. [pdf](/pdf/hovgaard-msc-thesis.pdf).
 
