@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Martin Elsman, Troels Henriksen, and Cosmin Oancea. __Parallel Programming in Futhark__. Edition 0.8. Department of Computer Science, University of Copenhagen. November 2018. [pdf](/pdf/futhark-book-0.8.0.pdf), [bibtex](/pdf/futhark-book.bibtex.txt).
+
 * Troels Henriksen, Martin Elsman, and Cosmin E. Oancea.  __Modular Acceleration: Tricky Cases of Functional High-Performance Computing__.  In _Proceedings of the 6th ACM SIGPLAN workshop on Functional High-Performance Computing (FHPC '18)_. St. Louis, Missouri, USA. September 2018. [PDF](/pdf/fhpc18.pdf).
 
 * Martin Elsman, Troels Henriksen, Danil Annenkov, Cosmin E. Oancea. __Static Interpretation of Higher-Order Modules in Futhark__. In _Proceedings of the 2018 ACM SIGPLAN International Conference on Functional Programming (ICFP'18)_. St. Louis, Missouri, USA. September 2018. [PDF](/pdf/icfp18-futhark-modules.pdf).
