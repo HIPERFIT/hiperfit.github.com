@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Martin Elsman, Troels Henriksen, and Niels G. W. Serup. __Data-Parallel Flattening by Expansion__. In _Proceedings of the 6th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '19)_. Phoenix, AZ, USA. June, 2019. [PDF](/pdf/array19.pdf).
+
 * Troels Henriksen, Frederik Thorøe, Martin Elsman, and Cosmin Oancea. __Incremental Flattening for Nested Data Parallelism__. In _Proceedings of the 24th Symposium on Principles and Practice of Parallel Programming (PPoPP '19)_. Washington, DC, USA. February 2019. [PDF](/pdf/ppopp19.pdf).
 
 * Martin Elsman, Troels Henriksen, and Cosmin Oancea. __Parallel Programming in Futhark__. Edition 0.8. Department of Computer Science, University of Copenhagen. November 2018. [pdf](/pdf/futhark-book-0.8.0.pdf), [bibtex](/pdf/futhark-book.bibtex.txt), [latest-pdf](https://media.readthedocs.org/pdf/futhark-book/latest/futhark-book.pdf), [latest-html](https://futhark-book.readthedocs.io/en/latest/).
