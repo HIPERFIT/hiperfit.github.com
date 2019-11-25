@@ -243,6 +243,9 @@ Programming on Next-Generation Processing Units__. PhD thesis. HIPERFIT, NBI, Un
 
 ### MSc Theses, BSc Theses, and Student Project Reports
 
+* Henriks Urms and Anna Sofie Kiehn. __Refinement types in Futhark__. MSc thesis. Department of Computer Science,
+University of Copenhagen. September, 2019. [pdf](/pdf/kiehn-urms-msc2019.pdf).
+
 * Frederik Bøgelund Larsen. __Data-Parallel implementation of Monte Carlo Based Financial Risk Calculations__. MSc thesis. Department of Computer Science,
 University of Copenhagen. August, 2018. [pdf](/pdf/masters_thesis_frederik_b_larsen.pdf).
 
