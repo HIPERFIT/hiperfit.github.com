@@ -243,6 +243,9 @@ Programming on Next-Generation Processing Units__. PhD thesis. HIPERFIT, NBI, Un
 
 ### MSc Theses, BSc Theses, and Student Project Reports
 
+* Robert Schenck. __Sum types in Futhark__. MSc thesis. Department of Computer Science,
+University of Copenhagen. January, 2019. [pdf](/pdf/schenck-msc2019.pdf).
+
 * Henriks Urms and Anna Sofie Kiehn. __Refinement types in Futhark__. MSc thesis. Department of Computer Science,
 University of Copenhagen. September, 2019. [pdf](/pdf/kiehn-urms-msc2019.pdf).
 
