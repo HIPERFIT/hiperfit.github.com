@@ -31,7 +31,7 @@ practicioners for future cooperation.
   [ICFP'2013](http://www.icfpconference.org/icfp2013/) in
   Boston. Organized in part by HIPERFIT members.
 
-* Sep 2012: [ACM SIGPLAN Workshop on Functional High-Performance Computing (FHPC'2012)](workshops/4th-workshop.html). Co-located with
+* Sep 2012: [ACM SIGPLAN Workshop on Functional High-Performance Computing (FHPC'2012)](workshopsdir/4th-workshop.html). Co-located with
   [ICFP'2012](http://www.icfpconference.org/icfp2012/) in
   Copenhagen. Organized in part by HIPERFIT.
 
