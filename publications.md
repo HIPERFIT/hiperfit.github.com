@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Cosmin E. Oancea and Wojciech M. Pawlak, __Re-Write Rules for Flattening in Fast Memory the Parallelism of Hull-White Trinomial Pricing__, Technical Report, 2021, [PDF](/pdf/flat_rwr_hull_white.pdf). (This is the companion document to the [ARRAY '21 article](https://doi.org/10.1145/3460944.3464309).)
+
 * Martin Elsman and Ken Friis Larsen. __Efficient Translation of Certain Irregular Data-Parallel Array Comprehensions (Extended Abstract)__. In Draft Proceedings of _the 21st International Symposium on Trends in Functional Programming (TFP '20)_. Krakow, Poland. February 2020. [PDF](/pdf/fut-comprehensions.pdf).
 
 * Wojciech Pawlak, Martin Elsman, and Cosmin Oancea. __A Functional Approach to Accelerating Monte Carlo based American Option Pricing__. In _31st symposium on Implementation and Application of Functional Languages (IFL '19)_. Singapore. September, 2019.
