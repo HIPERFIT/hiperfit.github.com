@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+* Troels Henriksen and Martin Elsman. __Towards Size-Dependent Types for Array Programming__. In _Proceedings of the 8th ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming (ARRAY '21)_. Virtual Event. June, 2021. [PDF](/pdf/array21-final-publ.pdf).
+
 * Cosmin E. Oancea and Wojciech M. Pawlak, __Re-Write Rules for Flattening in Fast Memory the Parallelism of Hull-White Trinomial Pricing__, Technical Report, 2021, [PDF](/pdf/flat_rwr_hull_white.pdf). (This is the companion document to the [ARRAY '21 article](https://doi.org/10.1145/3460944.3464309).)
 
 * Martin Elsman and Ken Friis Larsen. __Efficient Translation of Certain Irregular Data-Parallel Array Comprehensions (Extended Abstract)__. In Draft Proceedings of _the 21st International Symposium on Trends in Functional Programming (TFP '20)_. Krakow, Poland. February 2020. [PDF](/pdf/fut-comprehensions.pdf).
