@@ -228,6 +228,8 @@ Financial Information Technology__. Project Application, 2010.
 
 ### PhD Theses
 
+* Wojciech Michal Pawlak. __Accelerated Financial Algorithms - Derivative Pricing and Risk Management Applications__. PhD thesis. DIKU, University of Copenhagen. Industrial PhD Project in collaboration with SimCorp A/S. January, 2021. [pdf](/pdf/wmp-thesis.pdf).
+
 * Danil Annenkov. __Adventures in Formalisation: Financial Contracts, Modules, and Two-Level Type Theory__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. Revised Version. April, 2018. [pdf](/pdf/DanilAnnenkovThesis.pdf).
 
 * Troels Henriksen. __Design and Implementation of the Futhark Programming Language__. PhD thesis. HIPERFIT, DIKU, University of Copenhagen. November, 2017. [pdf](/pdf/troels-phd-thesis.pdf).
