@@ -49,10 +49,7 @@ theory. Danil Annenkov received his PhD degree in Computer Science
 from the University of Copenhagen, DIKU in 2018 under the supervision
 of Martin Elsman. After receiving his PhD degree, Annenkov was a
 postdoc researcher at INRIA Nantes, France, where he worked on
-extending the Coq proof assistant with new reasoning principles.While
-a common staple of many modern functional programming languages, sum
-types are an unusual feature in specialized, computeoriented
-languages.
+extending the Coq proof assistant with new reasoning principles.
 
 
 __Host:__ Martin Elsman
