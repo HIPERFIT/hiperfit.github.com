@@ -251,6 +251,9 @@ Programming on Next-Generation Processing Units__. PhD thesis. HIPERFIT, NBI, Un
 
 ### MSc Theses, BSc Theses, and Student Project Reports
 
+* Kristian Knudsen Olesen. __Extracting Certified Futhark Code from Coq__. BSc
+thesis. November 1, 2021. [pdf](/pdf/olesen-bsc-2021.pdf).
+
 * Robert Schenck. __Sum types in Futhark__. MSc thesis. Department of Computer Science,
 University of Copenhagen. January, 2019. [pdf](/pdf/schenck-msc2019.pdf).
 
