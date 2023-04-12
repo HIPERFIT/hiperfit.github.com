@@ -9,7 +9,7 @@ and Liquid. Bootstrap gives a standard set of CSS/Javascript tools and
 Jekyll gives us markdown support and a (very limiting) template system
 based on Liquid.
 
-The site is hosted at github as <http://hiperfit.github.com>. We use
+The site is hosted at github as <http://hiperfit.github.io>. We use
 the <http://hiperfit.dk> domain for the site, which has been enabled
 by directing the domain to the github IP and by placing a file CNAME
 (containing hiperfit.dk) in the root.
